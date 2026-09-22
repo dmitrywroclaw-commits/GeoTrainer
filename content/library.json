@@ -1,0 +1,138 @@
+{
+  "countries": [
+    { "id": "mexico", "nameRu": "Мексика", "region": "Северная Америка" },
+    { "id": "india", "nameRu": "Индия", "region": "Южная Азия" },
+    { "id": "brazil", "nameRu": "Бразилия", "region": "Южная Америка" },
+    { "id": "canada", "nameRu": "Канада", "region": "Северная Америка" },
+    { "id": "south-africa", "nameRu": "ЮАР", "region": "Южная Африка" },
+    { "id": "united-states", "nameRu": "США", "region": "Северная Америка" },
+    { "id": "australia", "nameRu": "Австралия", "region": "Океания" },
+    { "id": "japan", "nameRu": "Япония", "region": "Восточная Азия" },
+    { "id": "zambia", "nameRu": "Замбия", "region": "Южная Африка" },
+    { "id": "zimbabwe", "nameRu": "Зимбабве", "region": "Южная Африка" }
+  ],
+  "sources": [
+    { "id": "mx-symbols", "title": "Escudo y lábaro patrio, simbolismo de historia, mito y biodiversidad", "publisher": "Правительство Мексики, SEMARNAT", "url": "https://www.gob.mx/semarnat/articulos/escudo-y-labaro-patrio-simbolismo-de-historia-mito-y-biodiversidad-217105", "sourceType": "government", "accessedAt": "2026-09-22" },
+    { "id": "mx-flag-history", "title": "Bandera: símbolo de identidad y unidad", "publisher": "Национальный институт антропологии и истории Мексики", "url": "https://www.inah.gob.mx/foto-del-dia/bandera-simbolo-de-identidad-y-unidad", "sourceType": "government", "accessedAt": "2026-09-22" },
+    { "id": "in-flag", "title": "Indian Tricolor", "publisher": "Национальный портал Индии", "url": "https://knowindia.india.gov.in/my-india-my-pride/indian-tricolor.php", "sourceType": "government", "accessedAt": "2026-09-22" },
+    { "id": "in-emblem", "title": "National Emblem", "publisher": "Government of India", "url": "https://www.presentations.gov.in/logos/national-emblem/", "sourceType": "government", "accessedAt": "2026-09-22" },
+    { "id": "br-flag", "title": "Bandeira Nacional", "publisher": "Правительство Бразилии", "url": "https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biblioteca-da-pr/simbolos-nacionais/bandeira/bandeira-nacional", "sourceType": "government", "accessedAt": "2026-09-22" },
+    { "id": "br-arms", "title": "Armas Nacionais", "publisher": "Правительство Бразилии", "url": "https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biblioteca-da-pr/simbolos-nacionais/brasao-da-republica", "sourceType": "government", "accessedAt": "2026-09-22" },
+    { "id": "br-arms-detail", "title": "Manual de Identidade Visual", "publisher": "Министерство обороны Бразилии", "url": "https://www.gov.br/defesa/pt-br/arquivos/ajuste-01/lai/institucional/identidade_visual/copy_of_manual_2_atualizado_2023_versao_site.pdf", "sourceType": "government", "accessedAt": "2026-09-22" },
+    { "id": "ca-flag", "title": "Description of the National Flag of Canada", "publisher": "Правительство Канады", "url": "https://www.canada.ca/en/canadian-heritage/services/flag-canada-description.html", "sourceType": "government", "accessedAt": "2026-09-22" },
+    { "id": "ca-flag-history", "title": "Origin of Canada's Flag", "publisher": "Правительство Канады", "url": "https://www.canada.ca/en/canadian-heritage/services/flag-canada-origin.html", "sourceType": "government", "accessedAt": "2026-09-22" },
+    { "id": "za-arms", "title": "National Symbols", "publisher": "Президентство ЮАР", "url": "https://www.presidency.gov.za/national-symbols-0", "sourceType": "government", "accessedAt": "2026-09-22" },
+    { "id": "grca-stat", "title": "Park Statistics", "publisher": "Служба национальных парков США", "url": "https://home.nps.gov/grca/learn/management/statistics.htm", "sourceType": "national_park", "accessedAt": "2026-09-22" },
+    { "id": "grca-geology", "title": "Geology", "publisher": "Служба национальных парков США", "url": "https://home.nps.gov/grca/learn/nature/grca-geology.htm", "sourceType": "national_park", "accessedAt": "2026-09-22" },
+    { "id": "uluru-geology", "title": "Uluru-Kata Tjuta geology fact sheet", "publisher": "Parks Australia", "url": "https://api.parksaustralia.gov.au/sites/default/files/2023-09/uktnp-a4factsheet-geology_23-sept.pdf", "sourceType": "national_park", "accessedAt": "2026-09-22" },
+    { "id": "uluru-facts", "title": "Uluru-Kata Tjuta media handbook", "publisher": "Parks Australia", "url": "https://parksaustralia.gov.au/uluru/pub/uluru-kata-tjuta-media-handbook.pdf", "sourceType": "national_park", "accessedAt": "2026-09-22" },
+    { "id": "fuji-unesco", "title": "Fujisan, sacred place and source of artistic inspiration", "publisher": "ЮНЕСКО", "url": "https://whc.unesco.org/en/list/1418", "sourceType": "unesco", "accessedAt": "2026-09-22" },
+    { "id": "falls-unesco", "title": "Mosi-oa-Tunya / Victoria Falls", "publisher": "ЮНЕСКО", "url": "https://whc.unesco.org/en/list/509", "sourceType": "unesco", "accessedAt": "2026-09-22" }
+  ],
+  "entries": [
+    {
+      "id": "mexico-national-flag", "kind": "flag", "countryId": "mexico", "nameRu": "Мексика", "subtitleRu": "Государственный флаг", "variantType": "national", "mediaId": "flag-mexico",
+      "summaryRu": "В центре зелёно-бело-красного полотнища расположен государственный герб: орёл со змеёй на кактусе.",
+      "explanationRu": "Сцена отсылает к преданию об основании Теночтитлана. При изучении запомните три детали вместе: орёл, змея и нопаль.",
+      "historyRu": "Современные пропорции и рисунок флага закреплены в 1968 году.",
+      "symbols": [
+        { "nameRu": "Орёл", "category": "bird", "meaningRu": "Часть сцены, связанной с основанием Теночтитлана.", "meaningStatus": "well_sourced", "sourceIds": ["mx-symbols"] },
+        { "nameRu": "Змея", "category": "animal", "meaningRu": "Элемент той же исторической сцены.", "meaningStatus": "well_sourced", "sourceIds": ["mx-symbols"] },
+        { "nameRu": "Нопаль", "category": "plant", "meaningRu": "Кактус, на котором сидит орёл в национальном гербе.", "meaningStatus": "well_sourced", "sourceIds": ["mx-symbols"] }
+      ],
+      "facts": [{ "labelRu": "Регион", "valueRu": "Северная Америка" }, { "labelRu": "Особенность", "valueRu": "Герб в центре флага" }],
+      "sourceIds": ["mx-symbols", "mx-flag-history"], "quizHints": { "similarityTags": ["emblem_on_flag", "bird_symbol"] }, "status": "published", "verifiedAt": "2026-09-22"
+    },
+    {
+      "id": "india-national-flag", "kind": "flag", "countryId": "india", "nameRu": "Индия", "subtitleRu": "Национальный флаг", "variantType": "national", "mediaId": "flag-india",
+      "summaryRu": "Три горизонтальные полосы: шафрановая, белая и зелёная. В центре — тёмно-синее колесо Ашоки с 24 спицами.",
+      "explanationRu": "Колесо связано с Дхарма-чакрой на львиной капители Ашоки в Сарнатхе. Его 24 спицы помогают отличить флаг от других триколоров.",
+      "historyRu": "Флаг в современном виде принят Учредительным собранием 22 июля 1947 года.",
+      "symbols": [{ "nameRu": "Колесо Ашоки", "category": "other", "meaningRu": "Колесо закона; на флаге изображено с 24 спицами.", "meaningStatus": "official", "sourceIds": ["in-flag"] }],
+      "facts": [{ "labelRu": "Регион", "valueRu": "Южная Азия" }, { "labelRu": "Деталь", "valueRu": "24 спицы" }],
+      "sourceIds": ["in-flag"], "quizHints": { "similarityTags": ["tricolor", "central_symbol"] }, "status": "published", "verifiedAt": "2026-09-22"
+    },
+    {
+      "id": "brazil-national-flag", "kind": "flag", "countryId": "brazil", "nameRu": "Бразилия", "subtitleRu": "Национальный флаг", "variantType": "national", "mediaId": "flag-brazil",
+      "summaryRu": "На зелёном поле — жёлтый ромб и синяя небесная сфера со звёздами и девизом «Ordem e Progresso».",
+      "explanationRu": "Звёзды изображают созвездия и соотносятся с субъектами федерации. Белая лента несёт девиз «Порядок и прогресс».",
+      "historyRu": "Республиканский флаг принят в ноябре 1889 года; число звёзд позднее менялось вместе с составом федерации.",
+      "symbols": [{ "nameRu": "Звёзды", "category": "constellation", "meaningRu": "Созвездия на небесной сфере; звёзды представляют субъекты федерации.", "meaningStatus": "official", "sourceIds": ["br-flag"] }, { "nameRu": "Девиз", "category": "inscription", "meaningRu": "«Порядок и прогресс».", "meaningStatus": "official", "sourceIds": ["br-flag"] }],
+      "facts": [{ "labelRu": "Регион", "valueRu": "Южная Америка" }, { "labelRu": "Надпись", "valueRu": "Ordem e Progresso" }],
+      "sourceIds": ["br-flag"], "quizHints": { "similarityTags": ["stars", "inscription"] }, "status": "published", "verifiedAt": "2026-09-22"
+    },
+    {
+      "id": "canada-national-flag", "kind": "flag", "countryId": "canada", "nameRu": "Канада", "subtitleRu": "Национальный флаг", "variantType": "national", "mediaId": "flag-canada",
+      "summaryRu": "Красный кленовый лист с 11 выступами расположен на белом поле между двумя красными полосами.",
+      "explanationRu": "Кленовый лист — давний символ канадской идентичности. Упрощённую форму с 11 выступами легче узнавать на расстоянии.",
+      "historyRu": "Официальный флаг впервые подняли 15 февраля 1965 года.",
+      "symbols": [{ "nameRu": "Кленовый лист", "category": "leaf", "meaningRu": "Символ канадской национальной идентичности.", "meaningStatus": "official", "sourceIds": ["ca-flag"] }],
+      "facts": [{ "labelRu": "Регион", "valueRu": "Северная Америка" }, { "labelRu": "Деталь", "valueRu": "11 выступов листа" }],
+      "sourceIds": ["ca-flag", "ca-flag-history"], "quizHints": { "similarityTags": ["plant_symbol"] }, "status": "published", "verifiedAt": "2026-09-22"
+    },
+    {
+      "id": "mexico-coat-of-arms", "kind": "emblem", "countryId": "mexico", "nameRu": "Мексика", "subtitleRu": "Государственный герб", "symbolType": "coat_of_arms", "mediaId": "emblem-mexico",
+      "summaryRu": "Орёл со змеёй сидит на цветущем нопале, который растёт на скале посреди озера.",
+      "explanationRu": "Композиция связана с преданием о месте основания Теночтитлана. Нижнюю часть обрамляют ветви дуба и лавра.",
+      "historyRu": "Элементы сцены присутствовали в государственных символах Мексики в разных формах с XIX века.",
+      "symbols": [{ "nameRu": "Орёл", "category": "bird", "meaningRu": "Участник сцены основания Теночтитлана.", "meaningStatus": "well_sourced", "sourceIds": ["mx-symbols"] }, { "nameRu": "Нопаль", "category": "plant", "meaningRu": "Кактус на скале посреди озера.", "meaningStatus": "well_sourced", "sourceIds": ["mx-symbols"] }],
+      "facts": [{ "labelRu": "Тип", "valueRu": "Государственный герб" }], "sourceIds": ["mx-symbols"], "quizHints": { "similarityTags": ["bird", "plant"] }, "status": "published", "verifiedAt": "2026-09-22"
+    },
+    {
+      "id": "india-state-emblem", "kind": "emblem", "countryId": "india", "nameRu": "Индия", "subtitleRu": "Государственная эмблема", "symbolType": "state_emblem", "mediaId": "emblem-india",
+      "summaryRu": "Эмблема основана на львиной капители Ашоки из Сарнатха.",
+      "explanationRu": "На изображении видны три льва; четвёртый находится с обратной стороны скульптуры. Под ними — основание с колесом дхармы.",
+      "historyRu": "Эмблема связана с историческим памятником эпохи императора Ашоки.",
+      "symbols": [{ "nameRu": "Львы", "category": "animal", "meaningStatus": "unknown", "sourceIds": ["in-emblem"] }, { "nameRu": "Колесо дхармы", "category": "other", "meaningStatus": "unknown", "sourceIds": ["in-emblem"] }],
+      "facts": [{ "labelRu": "Тип", "valueRu": "Государственная эмблема" }, { "labelRu": "Прототип", "valueRu": "Львиная капитель Ашоки" }], "sourceIds": ["in-emblem"], "quizHints": { "similarityTags": ["animal", "historic"] }, "status": "published", "verifiedAt": "2026-09-22"
+    },
+    {
+      "id": "brazil-coat-of-arms", "kind": "emblem", "countryId": "brazil", "nameRu": "Бразилия", "subtitleRu": "Государственный герб", "symbolType": "coat_of_arms", "mediaId": "emblem-brazil",
+      "summaryRu": "В центре герба — созвездие Южного Креста на синем щите; композицию дополняют звезда, меч и ветви растений.",
+      "explanationRu": "Ветви кофе и табака относятся к историческим сельскохозяйственным культурам страны. На ленте указана дата провозглашения республики.",
+      "historyRu": "Герб республики учреждён в 1889 году.",
+      "symbols": [{ "nameRu": "Южный Крест", "category": "other", "meaningStatus": "official", "sourceIds": ["br-arms-detail"] }, { "nameRu": "Кофе и табак", "category": "plant", "meaningStatus": "official", "sourceIds": ["br-arms-detail"] }],
+      "facts": [{ "labelRu": "Тип", "valueRu": "Государственный герб" }], "sourceIds": ["br-arms", "br-arms-detail"], "quizHints": { "similarityTags": ["plant", "stars"] }, "status": "published", "verifiedAt": "2026-09-22"
+    },
+    {
+      "id": "south-africa-coat-of-arms", "kind": "emblem", "countryId": "south-africa", "nameRu": "ЮАР", "subtitleRu": "Государственный герб", "symbolType": "coat_of_arms", "mediaId": "emblem-south-africa",
+      "summaryRu": "В композиции выделяются птица-секретарь с поднятыми крыльями, цветок протеи, щит и бивни слона.",
+      "explanationRu": "Официальное описание связывает птицу-секретаря с защитой, а протею — с красотой страны и её развитием.",
+      "historyRu": "Современный герб представлен 27 апреля 2000 года.",
+      "symbols": [{ "nameRu": "Птица-секретарь", "category": "bird", "meaningRu": "Символ защиты страны в официальном объяснении.", "meaningStatus": "official", "sourceIds": ["za-arms"] }, { "nameRu": "Протея", "category": "flower", "meaningRu": "Красота страны и раскрытие её потенциала.", "meaningStatus": "official", "sourceIds": ["za-arms"] }],
+      "facts": [{ "labelRu": "Тип", "valueRu": "Государственный герб" }, { "labelRu": "Принят", "valueRu": "2000" }], "sourceIds": ["za-arms"], "quizHints": { "similarityTags": ["bird", "flower"] }, "status": "published", "verifiedAt": "2026-09-22"
+    },
+    {
+      "id": "grand-canyon", "kind": "landmark", "nameRu": "Гранд-Каньон", "subtitleRu": "США · Аризона", "landmarkType": "canyon", "countryIds": ["united-states"], "mediaId": "landmark-grand-canyon",
+      "summaryRu": "Глубокий каньон реки Колорадо на плато Колорадо в штате Аризона.",
+      "explanationRu": "Река Колорадо прорезала поднятые пласты пород; её притоки, дождь и выветривание расширяли каньон.",
+      "whyNotableRu": "В стенах видна последовательность древних слоёв горных пород.",
+      "facts": [{ "labelRu": "Тип", "valueRu": "Каньон" }, { "labelRu": "Длина", "valueRu": "около 447 км в пределах парка" }, { "labelRu": "Средняя глубина", "valueRu": "около 1,6 км" }],
+      "sourceIds": ["grca-stat", "grca-geology"], "quizHints": { "similarityTags": ["canyon", "erosion"] }, "status": "published", "verifiedAt": "2026-09-22"
+    },
+    {
+      "id": "uluru", "kind": "landmark", "nameRu": "Улуру", "subtitleRu": "Австралия · Северная территория", "landmarkType": "geological_formation", "countryIds": ["australia"], "mediaId": "landmark-uluru",
+      "summaryRu": "Крупный скальный массив из аркозового песчаника в национальном парке Улуру — Ката-Тьюта.",
+      "explanationRu": "Осадки древних гор уплотнились в песчаник; более мягкие окружающие породы со временем разрушились.",
+      "whyNotableRu": "Улуру имеет большое культурное значение для народа анангу и выделяется в пустынном ландшафте.",
+      "facts": [{ "labelRu": "Тип", "valueRu": "Скальный массив" }, { "labelRu": "Высота над равниной", "valueRu": "около 340 м" }, { "labelRu": "Окружность", "valueRu": "около 9,4 км" }],
+      "sourceIds": ["uluru-geology", "uluru-facts"], "quizHints": { "similarityTags": ["rock", "desert"] }, "status": "published", "verifiedAt": "2026-09-22"
+    },
+    {
+      "id": "mount-fuji", "kind": "landmark", "nameRu": "Фудзи", "subtitleRu": "Япония · Хонсю", "landmarkType": "volcano", "countryIds": ["japan"], "mediaId": "landmark-fuji",
+      "summaryRu": "Отдельно стоящий стратовулкан к юго-западу от Токио, высочайшая вершина Японии.",
+      "explanationRu": "Коническая форма складывалась в ходе последовательных вулканических извержений. Фудзи стала важным образом в японском искусстве и паломничестве.",
+      "whyNotableRu": "Гора входит в список всемирного наследия как культурный объект.",
+      "facts": [{ "labelRu": "Тип", "valueRu": "Стратовулкан" }, { "labelRu": "Высота", "valueRu": "3776 м над уровнем моря" }],
+      "sourceIds": ["fuji-unesco"], "quizHints": { "similarityTags": ["mountain", "volcano"] }, "status": "published", "verifiedAt": "2026-09-22"
+    },
+    {
+      "id": "victoria-falls", "kind": "landmark", "nameRu": "Водопад Виктория", "subtitleRu": "Замбия · Зимбабве", "landmarkType": "waterfall", "countryIds": ["zambia", "zimbabwe"], "mediaId": "landmark-victoria-falls",
+      "summaryRu": "Водопад на реке Замбези у границы Замбии и Зимбабве; местное название — Моси-оа-Тунья.",
+      "explanationRu": "Вода падает в узкое ущелье и образует мощное облако брызг. Вид водопада сильно меняется в течение года вместе со стоком реки.",
+      "whyNotableRu": "ЮНЕСКО отмечает исключительный по масштабу сплошной водяной занавес и активные геологические процессы.",
+      "facts": [{ "labelRu": "Тип", "valueRu": "Водопад" }, { "labelRu": "Река", "valueRu": "Замбези" }],
+      "sourceIds": ["falls-unesco"], "quizHints": { "similarityTags": ["waterfall", "river"] }, "status": "published", "verifiedAt": "2026-09-22"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+import { expect, test } from '@playwright/test';
+
+test('Learn → catalog → detail', async ({ page }) => {
+  await page.goto('/learn');
+  await page.getByRole('link', { name: /Флаги/ }).first().click();
+  await expect(page.getByRole('heading', { name: 'Флаги' })).toBeVisible();
+  await page.getByRole('link', { name: /Мексика/ }).first().click();
+  await expect(page.getByRole('heading', { name: 'Мексика' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: 'Источники и права' })).toBeVisible();
+  await page.getByRole('button', { name: 'Открыть изображение крупнее' }).click();
+  await expect(page.getByRole('dialog', { name: 'Просмотр изображения' })).toBeVisible();
+  await page.keyboard.press('Escape');
+  await expect(page.getByRole('dialog', { name: 'Просмотр изображения' })).toBeHidden();
+});
+
+test('correct answer shows explanation before next question', async ({ page }) => {
+  await page.goto('/item/mexico-national-flag');
+  await page.getByRole('link', { name: 'Проверить себя' }).click();
+  await page.getByRole('button', { name: 'Мексика' }).click();
+  await expect(page.getByText('Верно', { exact: true })).toBeVisible();
+  await expect(page.getByRole('heading', { name: 'Мексика' })).toBeVisible();
+  await page.getByRole('button', { name: 'Следующий вопрос' }).click();
+  await expect(page.getByText('2 / 5')).toBeVisible();
+});
+
+test('wrong answer appears in Mistakes and persists after reload', async ({ page }) => {
+  await page.goto('/item/mexico-national-flag');
+  await page.getByRole('link', { name: 'Проверить себя' }).click();
+  await page.locator('.answer-button').filter({ hasNotText: 'Мексика' }).first().click();
+  await expect(page.getByText(/Неверно\. Правильный ответ: Мексика/)).toBeVisible();
+  await page.goto('/mistakes');
+  await expect(page.getByRole('link', { name: /Мексика/ }).first()).toBeVisible();
+  await page.reload();
+  await expect(page.getByRole('link', { name: /Мексика/ }).first()).toBeVisible();
+});
+
+test('navigation matches viewport and does not overflow', async ({ page }, testInfo) => {
+  await page.goto('/learn/flags');
+  const mobile = testInfo.project.name === 'mobile';
+  await expect(page.locator('.mobile-bottom-nav')).toBeVisible({ visible: mobile });
+  await expect(page.locator('.desktop-sidebar')).toBeVisible({ visible: !mobile });
+  const overflow = await page.evaluate(() => document.documentElement.scrollWidth - window.innerWidth);
+  expect(overflow).toBeLessThanOrEqual(1);
+});
+
+test('visited app shell opens offline', async ({ page, context }) => {
+  await page.goto('/learn');
+  await page.evaluate(() => navigator.serviceWorker.ready);
+  await page.waitForFunction(() => navigator.serviceWorker.controller !== null);
+  await expect.poll(() => page.evaluate(async () => Boolean(await caches.match('/media/flags/mexico.svg')))).toBe(true);
+  await context.setOffline(true);
+  await page.reload();
+  await expect(page.getByRole('heading', { name: 'Изучать' })).toBeVisible();
+  await expect.poll(() => page.locator('.category-flag img').evaluate((image: HTMLImageElement) => image.naturalWidth)).toBeGreaterThan(0);
+});
+
+test('main layouts fit required widths', async ({ page }, testInfo) => {
+  test.skip(testInfo.project.name !== 'desktop');
+  test.setTimeout(60_000);
+  for (const width of [360, 390, 430, 768, 1280, 1440, 1920]) {
+    await page.setViewportSize({ width, height: width < 600 ? 844 : 900 });
+    for (const route of ['/learn', '/learn/flags', '/item/mexico-national-flag', '/quiz/session?mode=flag&count=5&focus=mexico-national-flag', '/progress']) {
+      await page.goto(route);
+      const overflow = await page.evaluate(() => document.documentElement.scrollWidth - window.innerWidth);
+      expect(overflow, `${route} at ${width}px`).toBeLessThanOrEqual(1);
+    }
+  }
+});
