@@ -343,6 +343,14 @@
       "m49": "616",
       "iso2": "PL",
       "iso3": "POL"
+    },
+    {
+      "id": "belize",
+      "nameRu": "Белиз",
+      "region": "Центральная Америка",
+      "m49": "084",
+      "iso2": "BZ",
+      "iso3": "BLZ"
     }
   ],
   "sources": [
@@ -1089,6 +1097,14 @@
       "url": "https://whc.unesco.org/en/list/33",
       "sourceType": "unesco",
       "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "belize-barrier-reef-unesco",
+      "title": "Belize Barrier Reef Reserve System",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/764",
+      "sourceType": "unesco",
+      "accessedAt": "2026-09-24"
     }
   ],
   "entries": [
@@ -5196,6 +5212,81 @@
       },
       "status": "published",
       "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "belize-barrier-reef",
+      "kind": "landmark",
+      "countryIds": [
+        "belize"
+      ],
+      "nameRu": "Белизский барьерный риф",
+      "subtitleRu": "Коралловая рифовая система у побережья Белиза",
+      "landmarkType": "other",
+      "regionRu": "Карибское побережье Белиза",
+      "mediaId": "photo-belize-barrier-reef",
+      "summaryRu": "На подводном снимке коралловые веера растут на Белизском барьерном рифе.",
+      "explanationRu": "Белизский барьерный риф — система коралловых рифов у карибского побережья страны. ЮНЕСКО описывает в ней разные рифовые сообщества, атоллы и лагуны. На фотографии показаны коралловые веера в этой системе; по одному подводному кадру нельзя увидеть её полный контур.",
+      "whyNotableRu": "Именованная рифовая система с разнообразными коралловыми местообитаниями.",
+      "facts": [
+        {
+          "labelRu": "Где находится",
+          "valueRu": "Карибское море у побережья Белиза"
+        },
+        {
+          "labelRu": "На фото",
+          "valueRu": "Коралловые веера на рифе"
+        }
+      ],
+      "sourceIds": [
+        "belize-barrier-reef-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "coral_reef",
+          "belize",
+          "caribbean"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "glovers-reef-atoll",
+      "kind": "landmark",
+      "countryIds": [
+        "belize"
+      ],
+      "nameRu": "Атолл Гловерс-Риф",
+      "subtitleRu": "Кольцо рифов вокруг лагуны",
+      "landmarkType": "other",
+      "regionRu": "Карибское море у Белиза",
+      "mediaId": "photo-glovers-reef-atoll",
+      "summaryRu": "С самолёта видно кольцо рифов атолла Гловерс-Риф и внутреннюю лагуну.",
+      "explanationRu": "Гловерс-Риф — один из атоллов Белизской барьерной рифовой системы. Его кольцеобразный риф окружает лагуну. ЮНЕСКО отдельно называет Гловерс-Риф среди компонентов охраняемой рифовой системы; воздушный снимок помогает различить форму атолла.",
+      "whyNotableRu": "Именованный атолл в Белизской барьерной рифовой системе.",
+      "facts": [
+        {
+          "labelRu": "Где находится",
+          "valueRu": "Карибское море у Белиза"
+        },
+        {
+          "labelRu": "Форма",
+          "valueRu": "Рифовое кольцо с внутренней лагуной"
+        }
+      ],
+      "sourceIds": [
+        "belize-barrier-reef-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "atoll",
+          "coral_reef",
+          "belize",
+          "caribbean"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
     }
   ]
 }

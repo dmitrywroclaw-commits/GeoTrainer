@@ -1,0 +1,254 @@
+{
+  "batch_id": "nature-013-whc-764-749-967-1432-355",
+  "checked_at": "2026-09-24",
+  "sources": [
+    {
+      "source_id": "belize-barrier-reef-unesco",
+      "title": "Belize Barrier Reef Reserve System",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_type": "unesco",
+      "url": "https://whc.unesco.org/en/list/764",
+      "accessed_at": "2026-09-24",
+      "supports": "Подтверждены Белизский барьерный риф, Большая голубая дыра, атоллы Лайтхаус и Гловерс, остров Хаф-Мун-Кей и скалистый мыс Роки-Пойнт."
+    },
+    {
+      "source_id": "belize-blue-hole-tourism",
+      "title": "Great Blue Hole Belize Guide",
+      "publisher": "Belize Tourism Board",
+      "source_type": "government",
+      "url": "https://tourismbelize.com/great-blue-hole-belize-guide",
+      "accessed_at": "2026-09-24",
+      "supports": "Большая голубая дыра находится внутри атолла Лайтхаус и представляет собой отдельную узнаваемую геологическую формацию."
+    },
+    {
+      "source_id": "wap-complex-unesco",
+      "title": "W-Arly-Pendjari Complex",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_type": "unesco",
+      "url": "https://whc.unesco.org/en/list/749",
+      "accessed_at": "2026-09-24",
+      "supports": "ЮНЕСКО отдельно выделяет полулистопадный лес Бонджагу внутри парка Пенджари."
+    },
+    {
+      "source_id": "pendjari-biosphere-unesco",
+      "title": "Pendjari",
+      "publisher": "UNESCO Man and the Biosphere Programme",
+      "source_type": "unesco",
+      "url": "https://www.unesco.org/en/mab/pendjari",
+      "accessed_at": "2026-09-24",
+      "supports": "Лес Бонджагу подтверждён как отдельный лесной участок в резервате Пенджари."
+    },
+    {
+      "source_id": "noel-kempff-unesco",
+      "title": "Noel Kempff Mercado National Park",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_type": "unesco",
+      "url": "https://whc.unesco.org/en/list/967",
+      "accessed_at": "2026-09-24",
+      "supports": "ЮНЕСКО отдельно называет плато Уанчака и его изолированные ландшафты серрадо."
+    },
+    {
+      "source_id": "noel-kempff-fan-guide",
+      "title": "Biodiversidad del Parque Nacional Noel Kempff Mercado: Información General",
+      "publisher": "Fundación Amigos de la Naturaleza",
+      "source_type": "scientific_agency",
+      "url": "https://assets.publishing.service.gov.uk/media/57a08cd9e5274a27b2001491/R7475_-_InforGeneral-1A.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Полевой справочник природоохранной организации называет водопад Аркоирис и помещает его в парк Ноэль-Кемпфф-Меркадо."
+    }
+  ],
+  "landmarks": [
+    {
+      "landmark_id": "belize-barrier-reef",
+      "name_original": "Belize Barrier Reef",
+      "name_ru": "Белизский барьерный риф",
+      "landmark_type": "other",
+      "country_ids": "belize",
+      "region": "Карибское побережье Белиза",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО выделяет именованную протяжённую барьерную рифовую систему с разными типами коралловых сообществ.",
+      "source_catalog": "unesco_whc:764",
+      "source_ids": "belize-barrier-reef-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/764",
+      "decision": "eligible",
+      "decision_reason": "Самостоятельная именованная рифовая система, а не один административный резерват.",
+      "notes": "Не повторять рейтинги длины без одинакового определения барьерного рифа."
+    },
+    {
+      "landmark_id": "great-blue-hole-belize",
+      "name_original": "Great Blue Hole",
+      "name_ru": "Большая голубая дыра",
+      "landmark_type": "geological_formation",
+      "country_ids": "belize",
+      "region": "Атолл Лайтхаус, Белиз",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО выделяет Blue Hole как особую геологическую формацию, а Совет по туризму Белиза подтверждает её имя и расположение внутри атолла Лайтхаус.",
+      "source_catalog": "unesco_whc:764",
+      "source_ids": "belize-barrier-reef-unesco|belize-blue-hole-tourism",
+      "source_urls": "https://whc.unesco.org/en/list/764|https://tourismbelize.com/great-blue-hole-belize-guide",
+      "decision": "eligible",
+      "decision_reason": "Отдельная круглая морская карстовая формация с узнаваемым видом сверху.",
+      "notes": "Не смешивать с пещерным водоёмом St. Herman's Blue Hole в материковой части Белиза."
+    },
+    {
+      "landmark_id": "lighthouse-reef-atoll",
+      "name_original": "Lighthouse Reef",
+      "name_ru": "Атолл Лайтхаус",
+      "landmark_type": "other",
+      "country_ids": "belize",
+      "region": "Карибское море у Белиза",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО называет атолл Лайтхаус одной из крупных частей рифовой системы; в нём расположен Blue Hole.",
+      "source_catalog": "unesco_whc:764",
+      "source_ids": "belize-barrier-reef-unesco|belize-blue-hole-tourism",
+      "source_urls": "https://whc.unesco.org/en/list/764|https://tourismbelize.com/great-blue-hole-belize-guide",
+      "decision": "eligible",
+      "decision_reason": "Именованный атолл с самостоятельным кольцевым рифовым ландшафтом.",
+      "notes": "Для публикации нужен обзор всего атолла, а не только Голубой дыры."
+    },
+    {
+      "landmark_id": "glovers-reef-atoll",
+      "name_original": "Glover's Reef",
+      "name_ru": "Атолл Гловерс-Риф",
+      "landmark_type": "other",
+      "country_ids": "belize",
+      "region": "Карибское море у Белиза",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО отдельно называет атолл Гловерс-Риф и его морской резерват.",
+      "source_catalog": "unesco_whc:764",
+      "source_ids": "belize-barrier-reef-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/764",
+      "decision": "eligible",
+      "decision_reason": "Именованный морской атолл внутри Белизской рифовой системы.",
+      "notes": "Не дублировать вид Большой голубой дыры как иллюстрацию другого атолла."
+    },
+    {
+      "landmark_id": "half-moon-caye",
+      "name_original": "Half Moon Caye",
+      "name_ru": "Остров Хаф-Мун-Кей",
+      "landmark_type": "island",
+      "country_ids": "belize",
+      "region": "Атолл Лайтхаус, Белиз",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО отдельно называет остров Хаф-Мун-Кей и колонию красноногой олуши на нём.",
+      "source_catalog": "unesco_whc:764",
+      "source_ids": "belize-barrier-reef-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/764",
+      "decision": "eligible",
+      "decision_reason": "Именованный остров в рифовой системе, отличимый от общего атолла.",
+      "notes": "Не сводить карточку к фото птицы без островного ландшафта."
+    },
+    {
+      "landmark_id": "rocky-point-belize",
+      "name_original": "Rocky Point",
+      "name_ru": "Мыс Роки-Пойнт",
+      "landmark_type": "geological_formation",
+      "country_ids": "belize",
+      "region": "Северное побережье Белиза",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО отдельно отмечает Роки-Пойнт как место, где барьерный риф подходит к берегу.",
+      "source_catalog": "unesco_whc:764",
+      "source_ids": "belize-barrier-reef-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/764",
+      "decision": "eligible",
+      "decision_reason": "Именованная прибрежная формация с особым контактом рифа и берега.",
+      "notes": "Нужен географически точный обзорный снимок."
+    },
+    {
+      "landmark_id": "bondjagou-forest",
+      "name_original": "Bondjagou Forest",
+      "name_ru": "Лес Бонджагу",
+      "landmark_type": "other",
+      "country_ids": "benin",
+      "region": "Резерват Пенджари, Бенин",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО отдельно выделяет полулистопадный лес Бонджагу внутри парка Пенджари.",
+      "source_catalog": "unesco_whc:749",
+      "source_ids": "wap-complex-unesco|pendjari-biosphere-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/749|https://www.unesco.org/en/mab/pendjari",
+      "decision": "eligible",
+      "decision_reason": "Конкретный именованный лесной массив внутри обширной территории.",
+      "notes": "Не заменять общим снимком саванны парка."
+    },
+    {
+      "landmark_id": "huanchaca-plateau",
+      "name_original": "Huanchaca Meseta",
+      "name_ru": "Плато Уанчака",
+      "landmark_type": "geological_formation",
+      "country_ids": "bolivia",
+      "region": "Парк Ноэль-Кемпфф-Меркадо, Боливия",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО называет плато Уанчака и изолированные на нём экосистемы серрадо.",
+      "source_catalog": "unesco_whc:967",
+      "source_ids": "noel-kempff-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/967",
+      "decision": "eligible",
+      "decision_reason": "Конкретное именованное плато с самостоятельным рельефом.",
+      "notes": "Для публикации требуется обзор плато или его характерного уступа."
+    },
+    {
+      "landmark_id": "arcoiris-waterfall-bolivia",
+      "name_original": "Catarata Arcoiris",
+      "name_ru": "Водопад Аркоирис",
+      "landmark_type": "waterfall",
+      "country_ids": "bolivia",
+      "region": "Парк Ноэль-Кемпфф-Меркадо, Боливия",
+      "coordinates": "",
+      "significance_basis": "Полевой справочник Fundación Amigos de la Naturaleza отдельно называет водопад Аркоирис внутри парка.",
+      "source_catalog": "unesco_whc:967",
+      "source_ids": "noel-kempff-unesco|noel-kempff-fan-guide",
+      "source_urls": "https://whc.unesco.org/en/list/967|https://assets.publishing.service.gov.uk/media/57a08cd9e5274a27b2001491/R7475_-_InforGeneral-1A.pdf",
+      "decision": "eligible",
+      "decision_reason": "Самостоятельный именованный водопад, а не весь парк.",
+      "notes": "Не использовать неподтверждённые высоту и суперлативы."
+    }
+  ],
+  "catalog_updates": [
+    {
+      "catalog_record_id": "whc-764",
+      "landmark_ids": [
+        "belize-barrier-reef",
+        "great-blue-hole-belize",
+        "lighthouse-reef-atoll",
+        "glovers-reef-atoll",
+        "half-moon-caye",
+        "rocky-point-belize"
+      ],
+      "candidate_decision": "eligible",
+      "decision_reason": "Выделены риф, два атолла, Голубая дыра, остров Хаф-Мун-Кей и мыс Роки-Пойнт; административные названия остальных резерватов пока не приравнены к отдельным физическим объектам."
+    },
+    {
+      "catalog_record_id": "whc-749",
+      "landmark_ids": [
+        "bondjagou-forest"
+      ],
+      "candidate_decision": "eligible",
+      "decision_reason": "Выделен отдельно названный лес Бонджагу; названия других компонентов обозначают национальные парки и охотничьи зоны."
+    },
+    {
+      "catalog_record_id": "whc-967",
+      "landmark_ids": [
+        "huanchaca-plateau",
+        "arcoiris-waterfall-bolivia"
+      ],
+      "candidate_decision": "eligible",
+      "decision_reason": "Выделены плато Уанчака и водопад Аркоирис, названные авторитетными источниками."
+    },
+    {
+      "catalog_record_id": "whc-1432",
+      "landmark_ids": [
+        "okavango-delta"
+      ],
+      "candidate_decision": "eligible",
+      "decision_reason": "Дельта Окаванго уже опубликована как единый именованный физический объект."
+    },
+    {
+      "catalog_record_id": "whc-355",
+      "landmark_ids": [
+        "iguazu-falls"
+      ],
+      "candidate_decision": "eligible",
+      "decision_reason": "Водопады Игуасу уже опубликованы; бразильская и аргентинская строки ЮНЕСКО относятся к одной трансграничной системе."
+    }
+  ]
+}
