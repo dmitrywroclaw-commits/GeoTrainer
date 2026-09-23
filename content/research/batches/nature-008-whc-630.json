@@ -1,0 +1,66 @@
+{
+  "batch_id": "nature-008-whc-630",
+  "checked_at": "2026-09-23",
+  "sources": [
+    {
+      "source_id": "kgari-unesco",
+      "title": "K’gari",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_type": "unesco",
+      "url": "https://whc.unesco.org/en/list/630",
+      "accessed_at": "2026-09-23",
+      "supports": "ЮНЕСКО описывает К’гари как песчаный остров у восточного берега Австралии с дюнами, тропическими лесами на песке и пресноводными дюнными озёрами. Рекорд по площади оставлен без числового сравнения других островов."
+    },
+    {
+      "source_id": "boorangoora-qld-parks",
+      "title": "Boorangoora (Lake McKenzie) day-use area",
+      "publisher": "Department of the Environment, Tourism, Science and Innovation, Queensland",
+      "source_type": "national_park",
+      "url": "https://parks.qld.gov.au/parks/kgari-fraser/attractions/lake-mckenzie-day-use-area",
+      "accessed_at": "2026-09-23",
+      "supports": "Официальная страница парка подтверждает местное название Буронгура (озеро Маккензи), его расположение на К’гари, прозрачную голубую воду и белый песчаный берег."
+    }
+  ],
+  "landmarks": [
+    {
+      "landmark_id": "kgari-island",
+      "name_original": "K’gari",
+      "name_ru": "Остров К’гари",
+      "landmark_type": "island",
+      "country_ids": "australia",
+      "region": "Побережье Квинсленда, Австралия",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО выделяет именованный песчаный остров с дюнами, лесами на песке и дюнными пресноводными озёрами.",
+      "source_catalog": "unesco_whc:630",
+      "source_ids": "kgari-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/630",
+      "decision": "eligible",
+      "decision_reason": "Физический остров с самостоятельным именем и узнаваемым сочетанием ландшафтов.",
+      "notes": "Для карточки нужен снимок островного побережья с песчаными дюнами или обзорный вид; рекорд размера требует отдельной методики, если упоминать его в квизе."
+    },
+    {
+      "landmark_id": "boorangoora-lake-mckenzie",
+      "name_original": "Boorangoora (Lake McKenzie)",
+      "name_ru": "Озеро Буронгура (Маккензи)",
+      "landmark_type": "lake",
+      "country_ids": "australia",
+      "region": "Остров К’гари, Квинсленд, Австралия",
+      "coordinates": "",
+      "significance_basis": "Официальная служба парков Квинсленда выделяет именованное пресноводное озеро с прозрачной водой и белым песчаным берегом.",
+      "source_catalog": "unesco_whc:630",
+      "source_ids": "kgari-unesco|boorangoora-qld-parks",
+      "source_urls": "https://whc.unesco.org/en/list/630|https://parks.qld.gov.au/parks/kgari-fraser/attractions/lake-mckenzie-day-use-area",
+      "decision": "eligible",
+      "decision_reason": "Конкретное названное озеро в составе территории ЮНЕСКО.",
+      "notes": "Сохранять местное название Буронгура вместе с названием Маккензи."
+    }
+  ],
+  "catalog_updates": [
+    {
+      "catalog_record_id": "whc-630",
+      "landmark_ids": ["kgari-island", "boorangoora-lake-mckenzie"],
+      "candidate_decision": "eligible",
+      "decision_reason": "Выделены песчаный остров К’гари и отдельно подтверждённое правительственным источником озеро Буронгура (Маккензи)."
+    }
+  ]
+}
