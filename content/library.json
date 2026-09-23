@@ -1009,6 +1009,30 @@
       "url": "https://www.nationalparks.nsw.gov.au/things-to-do/lookouts/echo-point-lookout-three-sisters",
       "sourceType": "national_park",
       "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "heard-mcdonald-islands-unesco",
+      "title": "Heard and McDonald Islands",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/577",
+      "sourceType": "unesco",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "macquarie-island-unesco",
+      "title": "Macquarie Island",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/629",
+      "sourceType": "unesco",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "wentworth-falls-nsw-parks",
+      "title": "Wentworth Falls track",
+      "publisher": "NSW National Parks and Wildlife Service",
+      "url": "https://www.nationalparks.nsw.gov.au/things-to-do/walking-tracks/wentworth-falls-track",
+      "sourceType": "national_park",
+      "accessedAt": "2026-09-23"
     }
   ],
   "entries": [
@@ -4733,6 +4757,121 @@
         "similarityTags": [
           "rock_formation",
           "sandstone",
+          "australia"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "big-ben-volcano",
+      "kind": "landmark",
+      "countryIds": [
+        "australia"
+      ],
+      "nameRu": "Вулкан Биг-Бен",
+      "subtitleRu": "Снежный вулкан острова Херд",
+      "landmarkType": "volcano",
+      "regionRu": "Остров Херд, южный Индийский океан",
+      "mediaId": "photo-big-ben-volcano",
+      "summaryRu": "Снежный купол действующего вулкана поднимается над побережьем субантарктического острова Херд.",
+      "explanationRu": "Биг-Бен занимает большую часть острова Херд. ЮНЕСКО выделяет продолжающиеся вулканические процессы и ледники острова. На снимке хорошо видны заснеженная вершина и спускающийся по склону ледниковый покров.",
+      "whyNotableRu": "Отдельно названный действующий вулкан в составе природной территории островов Херд и Макдональд.",
+      "facts": [
+        {
+          "labelRu": "Где находится",
+          "valueRu": "Остров Херд, внешняя территория Австралии"
+        },
+        {
+          "labelRu": "Рельеф",
+          "valueRu": "Вулканические склоны покрыты снегом и ледниками"
+        }
+      ],
+      "sourceIds": [
+        "heard-mcdonald-islands-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "volcano",
+          "glacier",
+          "subantarctic",
+          "australia"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "macquarie-island",
+      "kind": "landmark",
+      "countryIds": [
+        "australia"
+      ],
+      "nameRu": "Остров Маккуори",
+      "subtitleRu": "Субантарктический остров с крутыми склонами и колониями морских птиц",
+      "landmarkType": "island",
+      "regionRu": "К юго-востоку от Тасмании, Австралия",
+      "mediaId": "photo-macquarie-island",
+      "summaryRu": "Каменистый берег острова у подножия крутых зелёных склонов; на фото видны пингвины и морские слоны.",
+      "explanationRu": "Остров Маккуори выделяется из океана крутыми берегами и необычными выходами океанических пород. ЮНЕСКО также отмечает большие скопления пингвинов и тюленей. На снимке виден восточный берег с колонией животных и склонами острова.",
+      "whyNotableRu": "Один из редких островных участков, где океанические породы подняты над уровнем моря и доступны наблюдению.",
+      "facts": [
+        {
+          "labelRu": "Где находится",
+          "valueRu": "К юго-востоку от Тасмании"
+        },
+        {
+          "labelRu": "На фото",
+          "valueRu": "Восточное побережье острова"
+        }
+      ],
+      "sourceIds": [
+        "macquarie-island-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "island",
+          "subantarctic",
+          "penguins",
+          "australia"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "wentworth-falls",
+      "kind": "landmark",
+      "countryIds": [
+        "australia"
+      ],
+      "nameRu": "Водопад Уэнтворт-Фолс",
+      "subtitleRu": "Водопад среди песчаниковых обрывов Голубых гор",
+      "landmarkType": "waterfall",
+      "regionRu": "Новый Южный Уэльс, Австралия",
+      "mediaId": "photo-wentworth-falls",
+      "summaryRu": "Потоки воды падают по ступенчатому песчаниковому обрыву среди эвкалиптового леса.",
+      "explanationRu": "Уэнтворт-Фолс — именованный водопад национального парка Голубые горы. Его узнают по высокому песчаниковому уступу и нескольким струям, спускающимся по скале. На этом снимке поток невелик.",
+      "whyNotableRu": "Один из отдельно названных водопадов внутри территории Всемирного наследия Голубых гор.",
+      "facts": [
+        {
+          "labelRu": "Где находится",
+          "valueRu": "Национальный парк Голубые горы, Новый Южный Уэльс"
+        },
+        {
+          "labelRu": "Ландшафт",
+          "valueRu": "Песчаниковый обрыв среди эвкалиптового леса"
+        }
+      ],
+      "sourceIds": [
+        "greater-blue-mountains-unesco",
+        "wentworth-falls-nsw-parks"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "waterfall",
+          "sandstone",
+          "forest",
           "australia"
         ]
       },

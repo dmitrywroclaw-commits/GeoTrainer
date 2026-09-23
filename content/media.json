@@ -1049,5 +1049,47 @@
     "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
     "attributionText": "Cqui / Wikimedia Commons, CC BY-SA 3.0; уменьшено до 1280 px.",
     "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "photo-big-ben-volcano",
+    "kind": "photo",
+    "localPath": "/media/landmarks/big-ben-volcano.jpg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Big_Ben_Heard_Island.jpg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Big_Ben_Heard_Island.jpg",
+    "publisher": "Wikimedia Commons",
+    "author": "laikolosse",
+    "rightsHolder": "laikolosse",
+    "license": "CC BY 2.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "attributionText": "laikolosse / Wikimedia Commons, CC BY 2.0; уменьшено до 1280 px.",
+    "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "photo-macquarie-island",
+    "kind": "photo",
+    "localPath": "/media/landmarks/macquarie-island.jpg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:MacquarieIslandBeach.JPG",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/MacquarieIslandBeach.JPG",
+    "publisher": "Wikimedia Commons",
+    "author": "Hullwarren",
+    "rightsHolder": "Hullwarren",
+    "license": "CC BY-SA 3.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attributionText": "Hullwarren / Wikimedia Commons, CC BY-SA 3.0; без изменений.",
+    "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "photo-wentworth-falls",
+    "kind": "photo",
+    "localPath": "/media/landmarks/wentworth-falls.jpg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Wentworth_Falls,_Blue_Mountains,_New_South_Wales_(483631)_(9440561905).jpg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Wentworth_Falls%2C_Blue_Mountains%2C_New_South_Wales_%28483631%29_%289440561905%29.jpg",
+    "publisher": "Wikimedia Commons",
+    "author": "Robert Linsdell",
+    "rightsHolder": "Robert Linsdell",
+    "license": "CC BY 2.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "attributionText": "Robert Linsdell / Wikimedia Commons, CC BY 2.0; уменьшено до 960 px по ширине.",
+    "checkedAt": "2026-09-23"
   }
 ]
