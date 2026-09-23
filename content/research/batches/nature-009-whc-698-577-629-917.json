@@ -1,0 +1,259 @@
+{
+  "batch_id": "nature-009-whc-698-577-629-917",
+  "checked_at": "2026-09-23",
+  "sources": [
+    {
+      "source_id": "australian-fossil-sites-unesco",
+      "title": "Australian Fossil Mammal Sites (Riversleigh / Naracoorte)",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_type": "unesco",
+      "url": "https://whc.unesco.org/en/list/698",
+      "accessed_at": "2026-09-23",
+      "supports": "ЮНЕСКО описывает разнесённые местонахождения Риверслей и Наракорт и отдельно называет пещеру Victoria Fossil Cave с отложениями ископаемых позвоночных."
+    },
+    {
+      "source_id": "riversleigh-trail-qld-parks",
+      "title": "Riversleigh fossil trail",
+      "publisher": "Department of the Environment, Tourism, Science and Innovation, Queensland",
+      "source_type": "national_park",
+      "url": "https://parks.qld.gov.au/parks/boodjamulla-lawn-hill/journeys/riversleigh-fossil-trail",
+      "accessed_at": "2026-09-23",
+      "supports": "Официальная страница парка описывает D Site в Риверслее, известняковый выход с видимыми ископаемыми и его принадлежность территории ЮНЕСКО."
+    },
+    {
+      "source_id": "victoria-fossil-cave-sa-parks",
+      "title": "Victoria Fossil Cave",
+      "publisher": "Naracoorte Caves, Government of South Australia",
+      "source_type": "national_park",
+      "url": "https://www.naracoortecaves.sa.gov.au/discover/under-the-ground/victoria-fossil-cave",
+      "accessed_at": "2026-09-23",
+      "supports": "Государственная страница подтверждает имя пещеры Виктория в Наракорте и находящуюся в ней камеру с многочисленными ископаемыми останками."
+    },
+    {
+      "source_id": "heard-mcdonald-islands-unesco",
+      "title": "Heard and McDonald Islands",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_type": "unesco",
+      "url": "https://whc.unesco.org/en/list/577",
+      "accessed_at": "2026-09-23",
+      "supports": "ЮНЕСКО отдельно описывает остров Херд, вулкан Биг-Бен на нём и меньший остров Макдональд; отмечает вулканические и ледниковые процессы."
+    },
+    {
+      "source_id": "macquarie-island-unesco",
+      "title": "Macquarie Island",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_type": "unesco",
+      "url": "https://whc.unesco.org/en/list/629",
+      "accessed_at": "2026-09-23",
+      "supports": "ЮНЕСКО описывает остров Маккуори, его обрывистый рельеф, морские террасы и открытые над уровнем моря океанические породы. Мелкие соседние островки названы как части границы территории, но их самостоятельная учебная значимость не раскрыта."
+    },
+    {
+      "source_id": "greater-blue-mountains-unesco",
+      "title": "Greater Blue Mountains Area",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_type": "unesco",
+      "url": "https://whc.unesco.org/en/list/917",
+      "accessed_at": "2026-09-23",
+      "supports": "ЮНЕСКО характеризует охраняемую территорию как песчаниковое плато с обрывами, ущельями, водопадами и эвкалиптовыми лесами; отдельные именованные формации дополнительно проверяются у службы парков."
+    },
+    {
+      "source_id": "three-sisters-nsw-parks",
+      "title": "Echo Point lookout (Three Sisters)",
+      "publisher": "NSW National Parks and Wildlife Service",
+      "source_type": "national_park",
+      "url": "https://www.nationalparks.nsw.gov.au/things-to-do/lookouts/echo-point-lookout-three-sisters",
+      "accessed_at": "2026-09-23",
+      "supports": "Государственная служба парков называет Три сестры узнаваемой скальной формацией территории ЮНЕСКО и указывает точку обзора Echo Point."
+    },
+    {
+      "source_id": "wentworth-falls-nsw-parks",
+      "title": "Wentworth Falls track",
+      "publisher": "NSW National Parks and Wildlife Service",
+      "source_type": "national_park",
+      "url": "https://www.nationalparks.nsw.gov.au/things-to-do/walking-tracks/wentworth-falls-track",
+      "accessed_at": "2026-09-23",
+      "supports": "Государственная служба парков описывает именованный водопад Уэнтворт-Фолс и его расположение в национальном парке Голубые горы."
+    },
+    {
+      "source_id": "three-sisters-walk-nsw-parks",
+      "title": "Three Sisters walk",
+      "publisher": "NSW National Parks and Wildlife Service",
+      "source_type": "national_park",
+      "url": "https://www.nationalparks.nsw.gov.au/things-to-do/walking-tracks/three-sisters-walk",
+      "accessed_at": "2026-09-23",
+      "supports": "Государственная служба парков отдельно называет долину Джеймисон, видимую от скальной формации Три сестры."
+    }
+  ],
+  "landmarks": [
+    {
+      "landmark_id": "riversleigh-d-site",
+      "name_original": "Riversleigh D Site",
+      "name_ru": "Ископаемый участок D в Риверслее",
+      "landmark_type": "geological_formation",
+      "country_ids": "australia",
+      "region": "Квинсленд, Австралия",
+      "coordinates": "",
+      "significance_basis": "На конкретном известняковом выходе Риверслея видны окаменелости древних животных; государственная служба парков выделяет его как доступную часть местонахождения ЮНЕСКО.",
+      "source_catalog": "unesco_whc:698",
+      "source_ids": "australian-fossil-sites-unesco|riversleigh-trail-qld-parks",
+      "source_urls": "https://whc.unesco.org/en/list/698|https://parks.qld.gov.au/parks/boodjamulla-lawn-hill/journeys/riversleigh-fossil-trail",
+      "decision": "eligible",
+      "decision_reason": "Именованный конкретный выход известняка с видимыми ископаемыми, а не весь национальный парк.",
+      "notes": "Для публикации требуется фото именно D Site или его доступного известнякового выхода."
+    },
+    {
+      "landmark_id": "victoria-fossil-cave",
+      "name_original": "Victoria Fossil Cave",
+      "name_ru": "Пещера Виктория в Наракорте",
+      "landmark_type": "cave",
+      "country_ids": "australia",
+      "region": "Южная Австралия, Австралия",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО и государственная служба Наракорта отдельно описывают пещеру и её богатые отложения ископаемых позвоночных.",
+      "source_catalog": "unesco_whc:698",
+      "source_ids": "australian-fossil-sites-unesco|victoria-fossil-cave-sa-parks",
+      "source_urls": "https://whc.unesco.org/en/list/698|https://www.naracoortecaves.sa.gov.au/discover/under-the-ground/victoria-fossil-cave",
+      "decision": "eligible",
+      "decision_reason": "Конкретная именованная пещера с особым геологическим и палеонтологическим содержанием.",
+      "notes": "Снимок должен показывать пещеру, а не только музейную реконструкцию ископаемых."
+    },
+    {
+      "landmark_id": "heard-island",
+      "name_original": "Heard Island",
+      "name_ru": "Остров Херд",
+      "landmark_type": "island",
+      "country_ids": "australia",
+      "region": "Южный Индийский океан, внешняя территория Австралии",
+      "coordinates": "",
+      "significance_basis": "Именованный субантарктический остров с покрытыми снегом и льдом склонами; ЮНЕСКО выделяет вулканические и ледниковые процессы.",
+      "source_catalog": "unesco_whc:577",
+      "source_ids": "heard-mcdonald-islands-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/577",
+      "decision": "eligible",
+      "decision_reason": "Самостоятельный именованный физический остров, визуально отличный от острова Макдональд и вулкана Биг-Бен.",
+      "notes": "В регионе сохранить статус внешней территории; после создания расширенного реестра привязать к соответствующей сущности."
+    },
+    {
+      "landmark_id": "big-ben-volcano",
+      "name_original": "Big Ben",
+      "name_ru": "Вулкан Биг-Бен",
+      "landmark_type": "volcano",
+      "country_ids": "australia",
+      "region": "Остров Херд, южный Индийский океан",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО отдельно называет действующий вулкан Биг-Бен доминирующей формой рельефа острова Херд.",
+      "source_catalog": "unesco_whc:577",
+      "source_ids": "heard-mcdonald-islands-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/577",
+      "decision": "eligible",
+      "decision_reason": "Конкретный названный вулкан с самостоятельной формой рельефа.",
+      "notes": "Не повторять абсолютную высоту без даты и метода измерения; снимок должен ясно показывать вулкан."
+    },
+    {
+      "landmark_id": "mcdonald-island",
+      "name_original": "McDonald Island",
+      "name_ru": "Остров Макдональд",
+      "landmark_type": "island",
+      "country_ids": "australia",
+      "region": "Южный Индийский океан, внешняя территория Австралии",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО отдельно описывает меньший вулканический остров и изменение его формы после возобновления вулканической активности.",
+      "source_catalog": "unesco_whc:577",
+      "source_ids": "heard-mcdonald-islands-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/577",
+      "decision": "eligible",
+      "decision_reason": "Отдельный именованный остров с отличимым вулканическим происхождением.",
+      "notes": "Требуется точный снимок или собственная схема острова; не использовать общий вид острова Херд."
+    },
+    {
+      "landmark_id": "macquarie-island",
+      "name_original": "Macquarie Island",
+      "name_ru": "Остров Маккуори",
+      "landmark_type": "island",
+      "country_ids": "australia",
+      "region": "Субантарктические воды к юго-востоку от Тасмании",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО выделяет именованный остров с крутыми склонами, террасами и геологическими выходами океанических пород.",
+      "source_catalog": "unesco_whc:629",
+      "source_ids": "macquarie-island-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/629",
+      "decision": "eligible",
+      "decision_reason": "Остров и его рельеф составляют отдельный распознаваемый природный объект.",
+      "notes": "Соседние небольшие группы Judge and Clerk и Bishop and Clerk в источнике названы как части границы территории; отдельная визуальная значимость для карточек не установлена."
+    },
+    {
+      "landmark_id": "three-sisters-blue-mountains",
+      "name_original": "Three Sisters",
+      "name_ru": "Скалы Три сестры",
+      "landmark_type": "geological_formation",
+      "country_ids": "australia",
+      "region": "Голубые горы, Новый Южный Уэльс, Австралия",
+      "coordinates": "",
+      "significance_basis": "Служба парков Нового Южного Уэльса выделяет узнаваемую скальную формацию на границе национального парка и связывает её с территорией ЮНЕСКО.",
+      "source_catalog": "unesco_whc:917",
+      "source_ids": "greater-blue-mountains-unesco|three-sisters-nsw-parks",
+      "source_urls": "https://whc.unesco.org/en/list/917|https://www.nationalparks.nsw.gov.au/things-to-do/lookouts/echo-point-lookout-three-sisters",
+      "decision": "eligible",
+      "decision_reason": "Конкретная именованная формация из трёх песчаниковых скал.",
+      "notes": "Избегать единственной версии сюжета о названии: служба парков отмечает несколько аборигенных историй."
+    },
+    {
+      "landmark_id": "wentworth-falls",
+      "name_original": "Wentworth Falls",
+      "name_ru": "Водопад Уэнтворт-Фолс",
+      "landmark_type": "waterfall",
+      "country_ids": "australia",
+      "region": "Голубые горы, Новый Южный Уэльс, Австралия",
+      "coordinates": "",
+      "significance_basis": "Служба парков Нового Южного Уэльса выделяет именованный водопад внутри национального парка Голубые горы.",
+      "source_catalog": "unesco_whc:917",
+      "source_ids": "greater-blue-mountains-unesco|wentworth-falls-nsw-parks",
+      "source_urls": "https://whc.unesco.org/en/list/917|https://www.nationalparks.nsw.gov.au/things-to-do/walking-tracks/wentworth-falls-track",
+      "decision": "eligible",
+      "decision_reason": "Именованный водопад с визуально различимой формой, а не только обзорная точка.",
+      "notes": "Не использовать высоту из маршрута как точный геодезический рекорд."
+    },
+    {
+      "landmark_id": "jamison-valley",
+      "name_original": "Jamison Valley",
+      "name_ru": "Долина Джеймисон",
+      "landmark_type": "other",
+      "country_ids": "australia",
+      "region": "Голубые горы, Новый Южный Уэльс, Австралия",
+      "coordinates": "",
+      "significance_basis": "Служба парков отдельно называет долину, открывающуюся со стороны скал Три сестры, среди песчаниковых ущелий территории ЮНЕСКО.",
+      "source_catalog": "unesco_whc:917",
+      "source_ids": "greater-blue-mountains-unesco|three-sisters-walk-nsw-parks",
+      "source_urls": "https://whc.unesco.org/en/list/917|https://www.nationalparks.nsw.gov.au/things-to-do/walking-tracks/three-sisters-walk",
+      "decision": "eligible",
+      "decision_reason": "Конкретная именованная долина с самостоятельным ландшафтным обзором.",
+      "notes": "Для карточки нужен снимок долины, а не крупный план скал Три сестры."
+    }
+  ],
+  "catalog_updates": [
+    {
+      "catalog_record_id": "whc-698",
+      "landmark_ids": ["riversleigh-d-site", "victoria-fossil-cave"],
+      "candidate_decision": "eligible",
+      "decision_reason": "Два разнесённых местонахождения разложены на конкретные доступные геологические объекты: известняковый участок D и пещеру Виктория."
+    },
+    {
+      "catalog_record_id": "whc-577",
+      "landmark_ids": ["heard-island", "big-ben-volcano", "mcdonald-island"],
+      "candidate_decision": "eligible",
+      "decision_reason": "Выделены два отдельных острова и названный вулкан Биг-Бен на острове Херд."
+    },
+    {
+      "catalog_record_id": "whc-629",
+      "landmark_ids": ["macquarie-island"],
+      "candidate_decision": "eligible",
+      "decision_reason": "Остров Маккуори выделен как единый именованный ландшафт; соседние мелкие островки только обозначают границы территории и не получили отдельного подтверждения значимости."
+    },
+    {
+      "catalog_record_id": "whc-917",
+      "landmark_ids": ["three-sisters-blue-mountains", "wentworth-falls", "jamison-valley"],
+      "candidate_decision": "eligible",
+      "decision_reason": "В большой территории выделены три конкретных названных объекта, проверенных службой парков Нового Южного Уэльса."
+    }
+  ]
+}

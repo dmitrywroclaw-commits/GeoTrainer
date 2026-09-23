@@ -1,0 +1,111 @@
+{
+  "batch_id": "publish-034-victoria-three-sisters",
+  "sources": [
+    {
+      "id": "australian-fossil-sites-unesco",
+      "title": "Australian Fossil Mammal Sites (Riversleigh / Naracoorte)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/698",
+      "sourceType": "unesco",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "victoria-fossil-cave-sa-parks",
+      "title": "Victoria Fossil Cave",
+      "publisher": "Naracoorte Caves, Government of South Australia",
+      "url": "https://www.naracoortecaves.sa.gov.au/discover/under-the-ground/victoria-fossil-cave",
+      "sourceType": "national_park",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "greater-blue-mountains-unesco",
+      "title": "Greater Blue Mountains Area",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/917",
+      "sourceType": "unesco",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "three-sisters-nsw-parks",
+      "title": "Echo Point lookout (Three Sisters)",
+      "publisher": "NSW National Parks and Wildlife Service",
+      "url": "https://www.nationalparks.nsw.gov.au/things-to-do/lookouts/echo-point-lookout-three-sisters",
+      "sourceType": "national_park",
+      "accessedAt": "2026-09-23"
+    }
+  ],
+  "media": [
+    {
+      "id": "photo-victoria-fossil-cave",
+      "kind": "photo",
+      "localPath": "/media/landmarks/victoria-fossil-cave.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Victoria_Fossil_Cave_at_Naracoorte_Caves.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Victoria_Fossil_Cave_at_Naracoorte_Caves.jpg",
+      "publisher": "Wikimedia Commons",
+      "author": "KTWPhotography",
+      "rightsHolder": "KTWPhotography",
+      "license": "CC BY-SA 4.0",
+      "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attributionText": "KTWPhotography / Wikimedia Commons, CC BY-SA 4.0; уменьшено до 1280 px.",
+      "checkedAt": "2026-09-23"
+    },
+    {
+      "id": "photo-three-sisters-blue-mountains",
+      "kind": "photo",
+      "localPath": "/media/landmarks/three-sisters-blue-mountains.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Three_Sisters,_Blue_Mountains.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Three_Sisters%2C_Blue_Mountains.jpg",
+      "publisher": "Wikimedia Commons",
+      "author": "Cqui",
+      "rightsHolder": "Cqui",
+      "license": "CC BY-SA 3.0",
+      "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "attributionText": "Cqui / Wikimedia Commons, CC BY-SA 3.0; уменьшено до 1280 px.",
+      "checkedAt": "2026-09-23"
+    }
+  ],
+  "entries": [
+    {
+      "id": "victoria-fossil-cave",
+      "kind": "landmark",
+      "countryIds": ["australia"],
+      "nameRu": "Пещера Виктория в Наракорте",
+      "subtitleRu": "Пещера с залежами ископаемых позвоночных",
+      "landmarkType": "cave",
+      "regionRu": "Южная Австралия, Австралия",
+      "mediaId": "photo-victoria-fossil-cave",
+      "summaryRu": "Известняковая пещера с натёчными образованиями и богатой летописью ископаемой фауны Австралии.",
+      "explanationRu": "Пещера Виктория — часть местонахождения Наракорт. ЮНЕСКО выделяет её ископаемые отложения как свидетельство более недавней истории австралийских животных, чем находки Риверслея. На снимке видна сама пещерная камера с натёчными образованиями; залежи костей этим снимком не показаны.",
+      "whyNotableRu": "Именованная пещера в составе объекта ЮНЕСКО «Ископаемые останки австралийских млекопитающих».",
+      "facts": [
+        { "labelRu": "Где находится", "valueRu": "Наракорт, Южная Австралия" },
+        { "labelRu": "Что сохраняет", "valueRu": "Ископаемые останки древних позвоночных" }
+      ],
+      "sourceIds": ["australian-fossil-sites-unesco", "victoria-fossil-cave-sa-parks"],
+      "quizHints": { "similarityTags": ["cave", "fossils", "australia"] },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "three-sisters-blue-mountains",
+      "kind": "landmark",
+      "countryIds": ["australia"],
+      "nameRu": "Скалы Три сестры",
+      "subtitleRu": "Песчаниковая формация Голубых гор",
+      "landmarkType": "geological_formation",
+      "regionRu": "Новый Южный Уэльс, Австралия",
+      "mediaId": "photo-three-sisters-blue-mountains",
+      "summaryRu": "Три соседних песчаниковых выступа возвышаются над лесистой долиной в Голубых горах.",
+      "explanationRu": "Скальную формацию узнают по трём отдельным вершинам рядом друг с другом. Она видна с площадки Echo Point у Катумбы. На снимке за скалами простирается эвкалиптовый ландшафт Голубых гор.",
+      "whyNotableRu": "Служба парков Нового Южного Уэльса выделяет Три сестры как узнаваемую формацию территории Всемирного наследия.",
+      "facts": [
+        { "labelRu": "Где находятся", "valueRu": "Голубые горы, Новый Южный Уэльс" },
+        { "labelRu": "Откуда видны", "valueRu": "С обзорной площадки Echo Point" }
+      ],
+      "sourceIds": ["greater-blue-mountains-unesco", "three-sisters-nsw-parks"],
+      "quizHints": { "similarityTags": ["rock_formation", "sandstone", "australia"] },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    }
+  ]
+}

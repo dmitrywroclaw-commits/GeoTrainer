@@ -1021,5 +1021,33 @@
     "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attributionText": "UrbanDruid / Wikimedia Commons, CC BY-SA 4.0; уменьшено до 1280 px.",
     "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "photo-victoria-fossil-cave",
+    "kind": "photo",
+    "localPath": "/media/landmarks/victoria-fossil-cave.jpg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Victoria_Fossil_Cave_at_Naracoorte_Caves.jpg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Victoria_Fossil_Cave_at_Naracoorte_Caves.jpg",
+    "publisher": "Wikimedia Commons",
+    "author": "KTWPhotography",
+    "rightsHolder": "KTWPhotography",
+    "license": "CC BY-SA 4.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionText": "KTWPhotography / Wikimedia Commons, CC BY-SA 4.0; уменьшено до 1280 px.",
+    "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "photo-three-sisters-blue-mountains",
+    "kind": "photo",
+    "localPath": "/media/landmarks/three-sisters-blue-mountains.jpg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Three_Sisters,_Blue_Mountains.jpg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Three_Sisters%2C_Blue_Mountains.jpg",
+    "publisher": "Wikimedia Commons",
+    "author": "Cqui",
+    "rightsHolder": "Cqui",
+    "license": "CC BY-SA 3.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attributionText": "Cqui / Wikimedia Commons, CC BY-SA 3.0; уменьшено до 1280 px.",
+    "checkedAt": "2026-09-23"
   }
 ]
