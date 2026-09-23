@@ -223,6 +223,30 @@
       "m49": "096",
       "iso2": "BN",
       "iso3": "BRN"
+    },
+    {
+      "id": "iceland",
+      "nameRu": "Исландия",
+      "region": "Северная Европа",
+      "m49": "352",
+      "iso2": "IS",
+      "iso3": "ISL"
+    },
+    {
+      "id": "united-kingdom",
+      "nameRu": "Соединённое Королевство",
+      "region": "Северная Европа",
+      "m49": "826",
+      "iso2": "GB",
+      "iso3": "GBR"
+    },
+    {
+      "id": "spain",
+      "nameRu": "Испания",
+      "region": "Южная Европа",
+      "m49": "724",
+      "iso2": "ES",
+      "iso3": "ESP"
     }
   ],
   "sources": [
@@ -608,6 +632,30 @@
       "publisher": "Attorney General's Chambers of Brunei Darussalam",
       "url": "https://www.agc.gov.bn/SitePages/National%20Flag%20and%20Crest.aspx",
       "sourceType": "government",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "surtsey-unesco",
+      "title": "Surtsey",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1267",
+      "sourceType": "unesco",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "giants-causeway-unesco",
+      "title": "Giant's Causeway and Causeway Coast",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/369",
+      "sourceType": "unesco",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "mount-teide-unesco",
+      "title": "Teide National Park",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1258",
+      "sourceType": "unesco",
       "accessedAt": "2026-09-23"
     }
   ],
@@ -2737,6 +2785,124 @@
           "crescent_symbol",
           "hands_symbol",
           "umbrella_symbol"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "surtsey",
+      "kind": "landmark",
+      "countryIds": [
+        "iceland"
+      ],
+      "nameRu": "Сюртсей",
+      "subtitleRu": "Вулканический остров",
+      "landmarkType": "island",
+      "regionRu": "Атлантический океан, к югу от Исландии",
+      "coordinates": {
+        "lat": 63.3031,
+        "lon": -20.6022
+      },
+      "mediaId": "photo-surtsey",
+      "summaryRu": "Вулканический остров у южного побережья Исландии. На аэрофотографии видны тёмная суша и прибой вдоль берега.",
+      "explanationRu": "Остров появился в ходе извержений 1963–1967 годов. Поскольку Сюртсей охраняется с момента возникновения, учёные наблюдают, как растения и животные постепенно заселяют новую сушу с минимальным вмешательством человека.",
+      "historyRu": "Остров включён в Список всемирного наследия ЮНЕСКО в 2008 году.",
+      "whyNotableRu": "Редкая природная лаборатория для длительного наблюдения за формированием экосистемы на новом вулканическом острове.",
+      "facts": [
+        {
+          "labelRu": "Где находится",
+          "valueRu": "Примерно в 32 км к югу от побережья Исландии"
+        },
+        {
+          "labelRu": "Формирование",
+          "valueRu": "Вулканические извержения 1963–1967 годов"
+        }
+      ],
+      "sourceIds": [
+        "surtsey-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "island",
+          "volcano",
+          "aerial_view"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "giants-causeway",
+      "kind": "landmark",
+      "countryIds": [
+        "united-kingdom"
+      ],
+      "nameRu": "Тропа гигантов",
+      "subtitleRu": "Базальтовые колонны",
+      "landmarkType": "geological_formation",
+      "regionRu": "Графство Антрим, Северная Ирландия",
+      "mediaId": "photo-giants-causeway",
+      "summaryRu": "Прибрежное образование из тесно примыкающих базальтовых колонн. На снимке видны многогранные торцы столбов у самой воды.",
+      "explanationRu": "Колонны образовались при остывании древних лавовых потоков. ЮНЕСКО описывает Тропу гигантов как особенно наглядный пример столбчатой отдельности базальта.",
+      "historyRu": "Тропа гигантов и прилегающее побережье включены в Список всемирного наследия в 1986 году.",
+      "whyNotableRu": "Правильные многогранные колонны помогают изучать вулканическую историю побережья Северной Ирландии.",
+      "facts": [
+        {
+          "labelRu": "Где находится",
+          "valueRu": "Северная Ирландия, Соединённое Королевство"
+        },
+        {
+          "labelRu": "Основная порода",
+          "valueRu": "Базальт"
+        }
+      ],
+      "sourceIds": [
+        "giants-causeway-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "geological_formation",
+          "basalt_columns",
+          "coast"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "mount-teide",
+      "kind": "landmark",
+      "countryIds": [
+        "spain"
+      ],
+      "nameRu": "Тейде",
+      "subtitleRu": "Вулкан острова Тенерифе",
+      "landmarkType": "volcano",
+      "regionRu": "Остров Тенерифе, Канарские острова, Испания",
+      "mediaId": "photo-mount-teide",
+      "summaryRu": "Вулкан Тейде возвышается над лавовыми ландшафтами Тенерифе. На снимке хорошо различим его высокий конус.",
+      "explanationRu": "Тейде входит в вулканический комплекс Тейде — Пико-Вьехо. ЮНЕСКО выделяет этот ландшафт как свидетельство геологических процессов, формирующих океанические острова.",
+      "historyRu": "Национальный парк Тейде включён в Список всемирного наследия в 2007 году.",
+      "whyNotableRu": "Узнаваемый вулканический конус в сложном ландшафте лавовых потоков и кальдеры Лас-Каньядас.",
+      "facts": [
+        {
+          "labelRu": "Где находится",
+          "valueRu": "Остров Тенерифе, Испания"
+        },
+        {
+          "labelRu": "Тип",
+          "valueRu": "Стратовулкан"
+        }
+      ],
+      "sourceIds": [
+        "mount-teide-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "volcano",
+          "island",
+          "lava_landscape"
         ]
       },
       "status": "published",

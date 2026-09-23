@@ -579,5 +579,46 @@
     "license": "CC0 1.0",
     "rightsUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
     "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "photo-surtsey",
+    "kind": "photo",
+    "localPath": "/media/landmarks/surtsey.jpg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Surtsey_from_air_by_Bruce_McAdam.jpg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Surtsey_from_air_by_Bruce_McAdam.jpg",
+    "publisher": "Wikimedia Commons",
+    "author": "Bruce McAdam",
+    "rightsHolder": "Bruce McAdam",
+    "license": "CC BY-SA 2.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "attributionText": "Bruce McAdam / Wikimedia Commons, CC BY-SA 2.0; изображение уменьшено до 1280 px без иных изменений относительно версии Commons с коррекцией цвета и контраста 2020 года.",
+    "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "photo-giants-causeway",
+    "kind": "photo",
+    "localPath": "/media/landmarks/giants-causeway.jpg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Giant%27s_Causeway_2006_08.jpg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Giant%27s_Causeway_2006_08.jpg",
+    "publisher": "Wikimedia Commons",
+    "author": "Man vyi",
+    "rightsHolder": "Man vyi",
+    "license": "Public domain — released by author",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Giant%27s_Causeway_2006_08.jpg",
+    "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "photo-mount-teide",
+    "kind": "photo",
+    "localPath": "/media/landmarks/mount-teide.jpg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Mount_Teide_Tenerife_IMGP2064.jpg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Mount_Teide_Tenerife_IMGP2064.jpg",
+    "publisher": "Wikimedia Commons",
+    "author": "Nikodem Nijaki",
+    "rightsHolder": "Nikodem Nijaki",
+    "license": "CC BY-SA 3.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attributionText": "Nikodem Nijaki / Wikimedia Commons, CC BY-SA 3.0; изображение уменьшено до 1280 px без иных изменений.",
+    "checkedAt": "2026-09-23"
   }
 ]

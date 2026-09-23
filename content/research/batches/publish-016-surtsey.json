@@ -1,0 +1,64 @@
+{
+  "batch_id": "publish-016-surtsey",
+  "countries": [
+    {
+      "id": "iceland",
+      "nameRu": "Исландия",
+      "region": "Северная Европа",
+      "m49": "352",
+      "iso2": "IS",
+      "iso3": "ISL"
+    }
+  ],
+  "sources": [
+    {
+      "id": "surtsey-unesco",
+      "title": "Surtsey",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1267",
+      "sourceType": "unesco",
+      "accessedAt": "2026-09-23"
+    }
+  ],
+  "media": [
+    {
+      "id": "photo-surtsey",
+      "kind": "photo",
+      "localPath": "/media/landmarks/surtsey.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Surtsey_from_air_by_Bruce_McAdam.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Surtsey_from_air_by_Bruce_McAdam.jpg",
+      "publisher": "Wikimedia Commons",
+      "author": "Bruce McAdam",
+      "rightsHolder": "Bruce McAdam",
+      "license": "CC BY-SA 2.0",
+      "rightsUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "attributionText": "Bruce McAdam / Wikimedia Commons, CC BY-SA 2.0; изображение уменьшено до 1280 px без иных изменений относительно версии Commons с коррекцией цвета и контраста 2020 года.",
+      "checkedAt": "2026-09-23"
+    }
+  ],
+  "entries": [
+    {
+      "id": "surtsey",
+      "kind": "landmark",
+      "countryIds": ["iceland"],
+      "nameRu": "Сюртсей",
+      "subtitleRu": "Вулканический остров",
+      "landmarkType": "island",
+      "regionRu": "Атлантический океан, к югу от Исландии",
+      "coordinates": { "lat": 63.3031, "lon": -20.6022 },
+      "mediaId": "photo-surtsey",
+      "summaryRu": "Вулканический остров у южного побережья Исландии. На аэрофотографии видны тёмная суша и прибой вдоль берега.",
+      "explanationRu": "Остров появился в ходе извержений 1963–1967 годов. Поскольку Сюртсей охраняется с момента возникновения, учёные наблюдают, как растения и животные постепенно заселяют новую сушу с минимальным вмешательством человека.",
+      "historyRu": "Остров включён в Список всемирного наследия ЮНЕСКО в 2008 году.",
+      "whyNotableRu": "Редкая природная лаборатория для длительного наблюдения за формированием экосистемы на новом вулканическом острове.",
+      "facts": [
+        { "labelRu": "Где находится", "valueRu": "Примерно в 32 км к югу от побережья Исландии" },
+        { "labelRu": "Формирование", "valueRu": "Вулканические извержения 1963–1967 годов" }
+      ],
+      "sourceIds": ["surtsey-unesco"],
+      "quizHints": { "similarityTags": ["island", "volcano", "aerial_view"] },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    }
+  ]
+}

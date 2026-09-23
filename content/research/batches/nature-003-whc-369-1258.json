@@ -1,0 +1,72 @@
+{
+  "batch_id": "nature-003-whc-369-1258",
+  "checked_at": "2026-09-23",
+  "sources": [
+    {
+      "source_id": "giants-causeway-unesco",
+      "title": "Giant's Causeway and Causeway Coast",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_type": "unesco",
+      "url": "https://whc.unesco.org/en/list/369",
+      "accessed_at": "2026-09-23",
+      "supports": "Конкретная Тропа гигантов на побережье Северной Ирландии; около 40 тысяч базальтовых колонн и их вулканическое происхождение."
+    },
+    {
+      "source_id": "mount-teide-unesco",
+      "title": "Teide National Park",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_type": "unesco",
+      "url": "https://whc.unesco.org/en/list/1258",
+      "accessed_at": "2026-09-23",
+      "supports": "Тейде как конкретный вулкан на острове Тенерифе; геологическая значимость комплекса Тейде — Пико-Вьехо."
+    }
+  ],
+  "landmarks": [
+    {
+      "landmark_id": "giants-causeway",
+      "name_original": "Giant's Causeway",
+      "name_ru": "Тропа гигантов",
+      "landmark_type": "geological_formation",
+      "country_ids": "united-kingdom",
+      "region": "Побережье графства Антрим, Северная Ирландия",
+      "coordinates": "",
+      "significance_basis": "Именованное прибрежное образование из множества правильных базальтовых колонн, возникших при древней вулканической активности.",
+      "source_catalog": "unesco_whc:369",
+      "source_ids": "giants-causeway-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/369",
+      "decision": "eligible",
+      "decision_reason": "Из прибрежного объекта ЮНЕСКО выделено конкретное и визуально узнаваемое базальтовое образование.",
+      "notes": "На фотографии показаны столбы самой Тропы гигантов, а не любой сходный базальтовый массив."
+    },
+    {
+      "landmark_id": "mount-teide",
+      "name_original": "Mount Teide",
+      "name_ru": "Тейде",
+      "landmark_type": "volcano",
+      "country_ids": "spain",
+      "region": "Остров Тенерифе, Канарские острова",
+      "coordinates": "",
+      "significance_basis": "Отдельный вулкан в составе объекта ЮНЕСКО «Национальный парк Тейде», свидетельство геологического развития океанического острова.",
+      "source_catalog": "unesco_whc:1258",
+      "source_ids": "mount-teide-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/1258",
+      "decision": "eligible",
+      "decision_reason": "ЮНЕСКО отдельно называет вулкан Тейде; фотография показывает именно его узнаваемый конус.",
+      "notes": "Суперлативы высоты намеренно не используются без отдельной методики измерения."
+    }
+  ],
+  "catalog_updates": [
+    {
+      "catalog_record_id": "whc-369",
+      "landmark_ids": ["giants-causeway"],
+      "candidate_decision": "eligible",
+      "decision_reason": "Из охраняемой прибрежной территории выделена сама Тропа гигантов."
+    },
+    {
+      "catalog_record_id": "whc-1258",
+      "landmark_ids": ["mount-teide"],
+      "candidate_decision": "eligible",
+      "decision_reason": "Из национального парка выделен конкретный вулкан Тейде."
+    }
+  ]
+}
