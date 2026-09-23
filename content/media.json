@@ -1217,5 +1217,47 @@
     "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attributionText": "Steveprutz / Wikimedia Commons, CC BY-SA 4.0; уменьшено до 960 px по ширине.",
     "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "photo-monte-pascoal",
+    "kind": "photo",
+    "localPath": "/media/landmarks/monte-pascoal.jpg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Monte_Pascoal.jpg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Monte_Pascoal.jpg",
+    "publisher": "Wikimedia Commons",
+    "author": "Mário C. Bucci",
+    "rightsHolder": "Mário C. Bucci",
+    "license": "CC BY-SA 2.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "attributionText": "Mário C. Bucci / Wikimedia Commons, CC BY-SA 2.0.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "photo-anavilhanas-archipelago",
+    "kind": "photo",
+    "localPath": "/media/landmarks/anavilhanas-archipelago.jpg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Anavilhanas2.jpg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Anavilhanas2.jpg",
+    "publisher": "Wikimedia Commons",
+    "author": "Jason Auch",
+    "rightsHolder": "Jason Auch",
+    "license": "CC BY 2.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "attributionText": "Jason Auch / Wikimedia Commons, CC BY 2.0; уменьшено до 1280 px по ширине.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "photo-atol-das-rocas",
+    "kind": "photo",
+    "localPath": "/media/landmarks/atol-das-rocas.jpg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Atol_das_Rocas_ISS007.jpg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Atol_das_Rocas_ISS007.jpg",
+    "publisher": "Wikimedia Commons",
+    "author": "NASA Johnson Space Center",
+    "rightsHolder": "NASA Johnson Space Center",
+    "license": "Public domain (NASA)",
+    "rightsUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "attributionText": "NASA Johnson Space Center / Wikimedia Commons; снимок ISS007-E-9762, исходная версия кадрирована.",
+    "checkedAt": "2026-09-24"
   }
 ]

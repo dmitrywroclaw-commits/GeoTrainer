@@ -1,0 +1,77 @@
+{
+  "batch_id": "publish-041-brazil-landscapes",
+  "countries": [],
+  "sources": [
+    { "id": "discovery-coast-unesco", "title": "Discovery Coast Atlantic Forest Reserves", "publisher": "UNESCO World Heritage Centre", "url": "https://whc.unesco.org/en/list/892", "sourceType": "unesco", "accessedAt": "2026-09-24" },
+    { "id": "monte-pascoal-bahia-tourism", "title": "Há 520 anos, potencial turístico do Brasil era descoberto", "publisher": "Secretaria de Turismo do Estado da Bahia", "url": "https://www.ba.gov.br/turismo/noticia/2024-07/3480/ha-520-anos-potencial-turistico-do-brasil-era-descoberto", "sourceType": "government", "accessedAt": "2026-09-24" },
+    { "id": "central-amazon-unesco", "title": "Central Amazon Conservation Complex", "publisher": "UNESCO World Heritage Centre", "url": "https://whc.unesco.org/en/list/998", "sourceType": "unesco", "accessedAt": "2026-09-24" },
+    { "id": "brazil-atlantic-islands-unesco", "title": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves", "publisher": "UNESCO World Heritage Centre", "url": "https://whc.unesco.org/en/list/1000", "sourceType": "unesco", "accessedAt": "2026-09-24" }
+  ],
+  "media": [
+    {
+      "id": "photo-monte-pascoal", "kind": "photo", "localPath": "/media/landmarks/monte-pascoal.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Monte_Pascoal.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Monte_Pascoal.jpg",
+      "publisher": "Wikimedia Commons", "author": "Mário C. Bucci", "rightsHolder": "Mário C. Bucci",
+      "license": "CC BY-SA 2.0", "rightsUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "attributionText": "Mário C. Bucci / Wikimedia Commons, CC BY-SA 2.0.", "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "photo-anavilhanas-archipelago", "kind": "photo", "localPath": "/media/landmarks/anavilhanas-archipelago.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Anavilhanas2.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Anavilhanas2.jpg",
+      "publisher": "Wikimedia Commons", "author": "Jason Auch", "rightsHolder": "Jason Auch",
+      "license": "CC BY 2.0", "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "attributionText": "Jason Auch / Wikimedia Commons, CC BY 2.0; уменьшено до 1280 px по ширине.", "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "photo-atol-das-rocas", "kind": "photo", "localPath": "/media/landmarks/atol-das-rocas.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Atol_das_Rocas_ISS007.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Atol_das_Rocas_ISS007.jpg",
+      "publisher": "Wikimedia Commons", "author": "NASA Johnson Space Center", "rightsHolder": "NASA Johnson Space Center",
+      "license": "Public domain (NASA)", "rightsUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "attributionText": "NASA Johnson Space Center / Wikimedia Commons; снимок ISS007-E-9762, исходная версия кадрирована.", "checkedAt": "2026-09-24"
+    }
+  ],
+  "entries": [
+    {
+      "id": "monte-pascoal", "kind": "landmark", "countryIds": ["brazil"], "nameRu": "Гора Монте-Паскоал",
+      "subtitleRu": "Лесистая гора на юге Баии", "landmarkType": "mountain", "regionRu": "Юг штата Баия, Бразилия", "mediaId": "photo-monte-pascoal",
+      "summaryRu": "Над низкой растительностью возвышается отдельная лесистая гора.",
+      "explanationRu": "Монте-Паскоал — гора на юге бразильского штата Баия, давшая название национальному парку. Этот парк входит в состав объекта Всемирного наследия «Лесные резерваты Берега открытия». На снимке виден профиль самой горы, а не весь лесной резерват.",
+      "whyNotableRu": "Отдельная именованная гора в составе охраняемого ландшафта Атлантического леса.",
+      "facts": [
+        { "labelRu": "Где находится", "valueRu": "Юг штата Баия" },
+        { "labelRu": "На фото", "valueRu": "Профиль горы Монте-Паскоал" }
+      ],
+      "sourceIds": ["discovery-coast-unesco", "monte-pascoal-bahia-tourism"], "quizHints": { "similarityTags": ["mountain", "atlantic_forest", "brazil"] },
+      "status": "published", "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "anavilhanas-archipelago", "kind": "landmark", "countryIds": ["brazil"], "nameRu": "Архипелаг Анавильянас",
+      "subtitleRu": "Лесистые речные острова среди проток Риу-Негру", "landmarkType": "island", "regionRu": "Река Риу-Негру, штат Амазонас, Бразилия", "mediaId": "photo-anavilhanas-archipelago",
+      "summaryRu": "С воздуха видны многочисленные острова и протоки речного архипелага.",
+      "explanationRu": "Анавильянас — речной архипелаг на Риу-Негру в бассейне Амазонки. ЮНЕСКО выделяет его среди ландшафтов Центрального амазонского природоохранного комплекса и описывает меняющуюся сеть островов и проток. Воздушный снимок показывает эту мозаичную форму.",
+      "whyNotableRu": "Именованный речной архипелаг в Центральной Амазонии.",
+      "facts": [
+        { "labelRu": "Где находится", "valueRu": "Риу-Негру, штат Амазонас" },
+        { "labelRu": "Тип", "valueRu": "Речной архипелаг" }
+      ],
+      "sourceIds": ["central-amazon-unesco"], "quizHints": { "similarityTags": ["river_islands", "amazon", "brazil"] },
+      "status": "published", "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "atol-das-rocas", "kind": "landmark", "countryIds": ["brazil"], "nameRu": "Атолл Рокас",
+      "subtitleRu": "Рифовое кольцо в Южной Атлантике", "landmarkType": "other", "regionRu": "Южная Атлантика у побережья Бразилии", "mediaId": "photo-atol-das-rocas",
+      "summaryRu": "На снимке с орбиты видно рифовое кольцо и мелководье внутри него.",
+      "explanationRu": "Атолл Рокас лежит в Атлантическом океане к западу от архипелага Фернанду-ди-Норонья. ЮНЕСКО описывает его как эллиптический риф с двумя небольшими островами; во время отлива открываются лагуны и приливные бассейны. Орбитальный снимок помогает увидеть форму атолла целиком.",
+      "whyNotableRu": "Именованный океанический атолл в составе бразильского объекта Всемирного наследия.",
+      "facts": [
+        { "labelRu": "Где находится", "valueRu": "Южная Атлантика у Бразилии" },
+        { "labelRu": "Форма", "valueRu": "Эллиптический риф с внутренним мелководьем" }
+      ],
+      "sourceIds": ["brazil-atlantic-islands-unesco"], "quizHints": { "similarityTags": ["atoll", "reef", "brazil", "atlantic"] },
+      "status": "published", "verifiedAt": "2026-09-24"
+    }
+  ]
+}
