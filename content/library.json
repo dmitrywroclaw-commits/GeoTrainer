@@ -143,6 +143,14 @@
       "m49": "887",
       "iso2": "YE",
       "iso3": "YEM"
+    },
+    {
+      "id": "bhutan",
+      "nameRu": "Бутан",
+      "region": "Южная Азия",
+      "m49": "064",
+      "iso2": "BT",
+      "iso3": "BTN"
     }
   ],
   "sources": [
@@ -393,6 +401,14 @@
       "url": "https://whc.unesco.org/en/list/1263",
       "sourceType": "unesco",
       "accessedAt": "2026-09-22"
+    },
+    {
+      "id": "bt-constitution-first-schedule",
+      "title": "The Constitution of the Kingdom of Bhutan, Article 1 and First Schedule",
+      "publisher": "Royal Civil Service Commission, Kingdom of Bhutan",
+      "url": "https://www.rcsc.gov.bt/wp-content/uploads/2021/02/Constitution-of-Bhutan-Eng-2008.pdf",
+      "sourceType": "law",
+      "accessedAt": "2026-09-23"
     }
   ],
   "entries": [
@@ -1707,6 +1723,52 @@
       },
       "status": "published",
       "verifiedAt": "2026-09-22"
+    },
+    {
+      "id": "bhutan-national-flag",
+      "kind": "flag",
+      "countryId": "bhutan",
+      "nameRu": "Бутан",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-bhutan",
+      "summaryRu": "На диагонально разделённом жёлто-оранжевом полотнище изображён белый дракон.",
+      "explanationRu": "Белый дракон — главный опознавательный знак флага Бутана. Согласно Конституции, дракон связан с названием страны, а его белый цвет — с чистотой помыслов народа.",
+      "historyRu": "Современные флаг и национальная эмблема описаны в первом приложении Конституции Бутана 2008 года.",
+      "symbols": [
+        {
+          "nameRu": "Белый дракон",
+          "category": "animal",
+          "meaningRu": "Связан с названием королевства; белый цвет обозначает чистоту помыслов народа.",
+          "meaningStatus": "official",
+          "sourceIds": [
+            "bt-constitution-first-schedule"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Регион",
+          "valueRu": "Южная Азия"
+        },
+        {
+          "labelRu": "Основной символ",
+          "valueRu": "Белый дракон"
+        }
+      ],
+      "sourceIds": [
+        "bt-constitution-first-schedule"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "dragon",
+          "animal_symbol",
+          "diagonal_flag"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
     }
   ]
 }

@@ -13,6 +13,17 @@ test('Learn → catalog → detail', async ({ page }) => {
   await expect(page.getByRole('dialog', { name: 'Просмотр изображения' })).toBeHidden();
 });
 
+test('new Bhutan flag card appears with its local illustration', async ({ page }) => {
+  await page.goto('/learn/flags');
+  await page.getByRole('textbox', { name: 'Поиск по каталогу' }).fill('Бутан');
+  await page.getByRole('link', { name: /Бутан/ }).click();
+  await expect(page.getByRole('heading', { name: 'Бутан' })).toBeVisible();
+  await expect(page.getByText(/Белый дракон — главный опознавательный знак/)).toBeVisible();
+  const image = page.getByRole('img', { name: 'Национальный флаг Бутан' });
+  await expect(image).toBeVisible();
+  await expect.poll(() => image.evaluate((element: HTMLImageElement) => element.naturalWidth)).toBeGreaterThan(0);
+});
+
 test('correct answer shows explanation before next question', async ({ page }) => {
   await page.goto('/item/mexico-national-flag');
   await page.getByRole('link', { name: 'Проверить себя' }).click();

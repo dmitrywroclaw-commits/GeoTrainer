@@ -348,5 +348,17 @@
     "rightsUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "attributionText": "Rod Waddington / Wikimedia Commons / CC BY-SA 2.0",
     "checkedAt": "2026-09-22"
+  },
+  {
+    "id": "flag-bhutan",
+    "kind": "flag",
+    "localPath": "/media/flags/bhutan.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Bhutan.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Open Clip Art contributors; subsequent Wikimedia Commons editors (see file history)",
+    "license": "Public domain",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Bhutan.svg",
+    "checkedAt": "2026-09-23"
   }
 ]

@@ -1,0 +1,69 @@
+{
+  "batch_id": "publish-002-bhutan-flag",
+  "countries": [
+    {
+      "id": "bhutan",
+      "nameRu": "Бутан",
+      "region": "Южная Азия",
+      "m49": "064",
+      "iso2": "BT",
+      "iso3": "BTN"
+    }
+  ],
+  "sources": [
+    {
+      "id": "bt-constitution-first-schedule",
+      "title": "The Constitution of the Kingdom of Bhutan, Article 1 and First Schedule",
+      "publisher": "Royal Civil Service Commission, Kingdom of Bhutan",
+      "url": "https://www.rcsc.gov.bt/wp-content/uploads/2021/02/Constitution-of-Bhutan-Eng-2008.pdf",
+      "sourceType": "law",
+      "accessedAt": "2026-09-23"
+    }
+  ],
+  "media": [
+    {
+      "id": "flag-bhutan",
+      "kind": "flag",
+      "localPath": "/media/flags/bhutan.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Bhutan.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Open Clip Art contributors; subsequent Wikimedia Commons editors (see file history)",
+      "license": "Public domain",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Bhutan.svg",
+      "checkedAt": "2026-09-23"
+    }
+  ],
+  "entries": [
+    {
+      "id": "bhutan-national-flag",
+      "kind": "flag",
+      "countryId": "bhutan",
+      "nameRu": "Бутан",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-bhutan",
+      "summaryRu": "На диагонально разделённом жёлто-оранжевом полотнище изображён белый дракон.",
+      "explanationRu": "Белый дракон — главный опознавательный знак флага Бутана. Согласно Конституции, дракон связан с названием страны, а его белый цвет — с чистотой помыслов народа.",
+      "historyRu": "Современные флаг и национальная эмблема описаны в первом приложении Конституции Бутана 2008 года.",
+      "symbols": [
+        {
+          "nameRu": "Белый дракон",
+          "category": "animal",
+          "meaningRu": "Связан с названием королевства; белый цвет обозначает чистоту помыслов народа.",
+          "meaningStatus": "official",
+          "sourceIds": ["bt-constitution-first-schedule"]
+        }
+      ],
+      "facts": [
+        { "labelRu": "Регион", "valueRu": "Южная Азия" },
+        { "labelRu": "Основной символ", "valueRu": "Белый дракон" }
+      ],
+      "sourceIds": ["bt-constitution-first-schedule"],
+      "quizHints": { "similarityTags": ["dragon", "animal_symbol", "diagonal_flag"] },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    }
+  ]
+}

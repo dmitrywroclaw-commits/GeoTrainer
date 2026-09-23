@@ -10,7 +10,7 @@ describe('content validation', () => {
     const parsed = librarySchema.parse(library);
     const assets = mediaSchema.parse(media);
     expect(() => validateReferences(parsed, assets)).not.toThrow();
-    expect(parsed.entries.filter(entry => entry.status === 'published')).toHaveLength(27);
+    expect(parsed.entries.every(entry => entry.status === 'published')).toBe(true);
     for (const asset of assets) expect(existsSync(join(process.cwd(), 'public', asset.localPath.slice(1))), asset.id).toBe(true);
   });
 

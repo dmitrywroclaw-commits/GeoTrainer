@@ -20,8 +20,9 @@ function unique(rows, field, label) {
   return seen;
 }
 
-const [countries, flags, emblems, landmarks, natureCatalog, sources, media] = await Promise.all([
+const [countries, flags, emblems, landmarks, natureCatalog, sources, media, library] = await Promise.all([
   read('countries.csv'), read('flag-variants.csv'), read('emblems.csv'), read('landmark-candidates.csv'), read('nature-source-catalog.csv'), read('sources.csv'), read('media-review.csv'),
+  readFile(path.join(root, 'content/library.json'), 'utf8').then(JSON.parse),
 ]);
 const countryIds = unique(countries, 'country_id', 'countries.csv');
 unique(countries, 'm49', 'countries.csv');
@@ -80,6 +81,26 @@ const mediaDecisions = new Set(['needs_revalidation', 'approved', 'rejected', 'd
 for (const row of media) {
   assert(mediaDecisions.has(row.decision), `media-review.csv: неверное решение у ${row.media_id}`);
   if (/CC BY(?:-|\s)/.test(row.license)) assert(Boolean(row.attribution_text), `media-review.csv: нет атрибуции у ${row.media_id}`);
+}
+
+const registryByKind = { flag: flags, emblem: emblems, landmark: landmarks };
+const published = library.entries.filter(entry => entry.status === 'published');
+for (const entry of published) {
+  const matches = registryByKind[entry.kind].filter(row => row.content_entry_id === entry.id);
+  assert(matches.length === 1, `Опубликованная карточка ${entry.id} должна иметь ровно одну строку реестра`);
+  if (matches.length === 1) assert(matches[0].decision === 'eligible', `Опубликованная карточка ${entry.id} не eligible в реестре`);
+}
+const publishedIds = new Set(published.map(entry => entry.id));
+for (const [kind, rows] of Object.entries(registryByKind)) {
+  for (const row of rows) {
+    if (row.content_entry_id) assert(publishedIds.has(row.content_entry_id), `${kind}: отсутствует опубликованная карточка ${row.content_entry_id}`);
+  }
+}
+for (const row of natureCatalog) {
+  if (row.review_status !== 'sources_checked' || !row.notes.startsWith('Выделенные объекты: ')) continue;
+  for (const landmarkId of split(row.notes.slice('Выделенные объекты: '.length))) {
+    assert(landmarks.some(candidate => candidate.landmark_id === landmarkId), `Исходная запись ${row.catalog_record_id}: неизвестный объект ${landmarkId}`);
+  }
 }
 
 if (errors.length) {

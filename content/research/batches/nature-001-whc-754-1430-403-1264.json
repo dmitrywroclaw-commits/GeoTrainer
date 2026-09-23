@@ -1,0 +1,166 @@
+{
+  "batch_id": "nature-001-whc-754-1430-403-1264",
+  "checked_at": "2026-09-23",
+  "sources": [
+    {
+      "source_id": "baikal-unesco",
+      "title": "Lake Baikal",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_type": "unesco",
+      "url": "https://whc.unesco.org/en/list/754",
+      "accessed_at": "2026-09-23",
+      "supports": "Озеро Байкал как конкретный природный объект; расположение, древность, глубина и природная значимость. Измерения и рекорды требуют отдельной проверки методики перед публикацией."
+    },
+    {
+      "source_id": "namib-sand-sea-unesco",
+      "title": "Namib Sand Sea",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_type": "unesco",
+      "url": "https://whc.unesco.org/en/list/1430",
+      "accessed_at": "2026-09-23",
+      "supports": "Именованная прибрежная песчаная пустыня в Намибии; дюны и влияние тумана"
+    },
+    {
+      "source_id": "kilimanjaro-unesco",
+      "title": "Kilimanjaro National Park",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_type": "unesco",
+      "url": "https://whc.unesco.org/en/list/403",
+      "accessed_at": "2026-09-23",
+      "supports": "Вулканический массив Килиманджаро как конкретный объект внутри национального парка"
+    },
+    {
+      "source_id": "jeju-volcanic-unesco",
+      "title": "Jeju Volcanic Island and Lava Tubes",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_type": "unesco",
+      "url": "https://whc.unesco.org/en/list/1264",
+      "accessed_at": "2026-09-23",
+      "supports": "Три отдельно названных компонента: система лавовых трубок Geomunoreum, туфовый конус Seongsan Ilchulbong и гора Hallasan"
+    }
+  ],
+  "landmarks": [
+    {
+      "landmark_id": "lake-baikal",
+      "name_original": "Lake Baikal",
+      "name_ru": "Озеро Байкал",
+      "landmark_type": "lake",
+      "country_ids": "russia",
+      "region": "Юго-восточная Сибирь",
+      "coordinates": "",
+      "significance_basis": "Древнее глубокое пресноводное озеро с уникальной экосистемой; точные рекорды требуют методического источника.",
+      "source_catalog": "unesco_whc:754",
+      "source_ids": "baikal-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/754",
+      "decision": "eligible",
+      "decision_reason": "Именованное и визуально определимое озеро; запись ЮНЕСКО прямо относится к самому озеру.",
+      "notes": "Перед публикацией сверить методику глубины и объёма пресной воды, не переносить суперлатив без оговорки."
+    },
+    {
+      "landmark_id": "namib-sand-sea",
+      "name_original": "Namib Sand Sea",
+      "name_ru": "Намибское песчаное море",
+      "landmark_type": "desert",
+      "country_ids": "namibia",
+      "region": "Атлантическое побережье Намибии",
+      "coordinates": "",
+      "significance_basis": "Именованная прибрежная область больших дюн, где туман влияет на экосистему.",
+      "source_catalog": "unesco_whc:1430",
+      "source_ids": "namib-sand-sea-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/1430",
+      "decision": "eligible",
+      "decision_reason": "ЮНЕСКО описывает конкретный именованный песчаный массив и его физические особенности.",
+      "notes": "Для викторины нужна фотография с различимым характерным ландшафтом; обычный снимок дюн без привязки недостаточен."
+    },
+    {
+      "landmark_id": "mount-kilimanjaro",
+      "name_original": "Mount Kilimanjaro",
+      "name_ru": "Килиманджаро",
+      "landmark_type": "mountain",
+      "country_ids": "tanzania",
+      "region": "Северная Танзания",
+      "coordinates": "",
+      "significance_basis": "Вулканический горный массив с хорошо различимым силуэтом и высотной поясностью.",
+      "source_catalog": "unesco_whc:403",
+      "source_ids": "kilimanjaro-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/403",
+      "decision": "eligible",
+      "decision_reason": "Отдельная гора внутри объекта ЮНЕСКО «Kilimanjaro National Park»; не смешивается с парком как территорией.",
+      "notes": "Перед публикацией высоты проверить актуальную методику и источник."
+    },
+    {
+      "landmark_id": "geomunoreum-lava-tubes",
+      "name_original": "Geomunoreum Lava Tube System",
+      "name_ru": "Лавовые трубки Гомунорым",
+      "landmark_type": "cave",
+      "country_ids": "south-korea",
+      "region": "Остров Чеджу",
+      "coordinates": "",
+      "significance_basis": "Отдельно названная система лавовых пещер с характерными стенами и карбонатными отложениями.",
+      "source_catalog": "unesco_whc:1264",
+      "source_ids": "jeju-volcanic-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/1264",
+      "decision": "eligible",
+      "decision_reason": "ЮНЕСКО выделяет систему лавовых трубок как отдельный компонент объекта наследия.",
+      "notes": "Выбрать снимок конкретной трубки с подтверждённым местом съёмки; оценить пригодность к визуальному распознаванию."
+    },
+    {
+      "landmark_id": "seongsan-ilchulbong",
+      "name_original": "Seongsan Ilchulbong",
+      "name_ru": "Сонсан-Ильчхульбон",
+      "landmark_type": "volcano",
+      "country_ids": "south-korea",
+      "region": "Остров Чеджу",
+      "coordinates": "",
+      "significance_basis": "Отдельный туфовый конус, сформированный вулканическим извержением у моря.",
+      "source_catalog": "unesco_whc:1264",
+      "source_ids": "jeju-volcanic-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/1264",
+      "decision": "eligible",
+      "decision_reason": "ЮНЕСКО выделяет узнаваемый туфовый конус как самостоятельный компонент.",
+      "notes": "Русскую транскрипцию проверить при редактуре."
+    },
+    {
+      "landmark_id": "mount-halla",
+      "name_original": "Mount Halla (Hallasan)",
+      "name_ru": "Вулкан Халласан",
+      "landmark_type": "volcano",
+      "country_ids": "south-korea",
+      "region": "Остров Чеджу",
+      "coordinates": "",
+      "significance_basis": "Вулканическая гора с кратерным озером, отдельно названная в составе объекта ЮНЕСКО.",
+      "source_catalog": "unesco_whc:1264",
+      "source_ids": "jeju-volcanic-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/1264",
+      "decision": "eligible",
+      "decision_reason": "ЮНЕСКО выделяет гору Халласан как третий компонент вулканического объекта Чеджу.",
+      "notes": "Перед публикацией проверить фотографию конкретного вулкана и русскую транскрипцию."
+    }
+  ],
+  "catalog_updates": [
+    {
+      "catalog_record_id": "whc-754",
+      "landmark_ids": ["lake-baikal"],
+      "candidate_decision": "eligible",
+      "decision_reason": "Выделен конкретный физический объект — озеро Байкал."
+    },
+    {
+      "catalog_record_id": "whc-1430",
+      "landmark_ids": ["namib-sand-sea"],
+      "candidate_decision": "eligible",
+      "decision_reason": "Именованная песчаная пустыня сама является физическим объектом."
+    },
+    {
+      "catalog_record_id": "whc-403",
+      "landmark_ids": ["mount-kilimanjaro"],
+      "candidate_decision": "eligible",
+      "decision_reason": "Из парковой территории выделена конкретная гора Килиманджаро."
+    },
+    {
+      "catalog_record_id": "whc-1264",
+      "landmark_ids": ["geomunoreum-lava-tubes", "seongsan-ilchulbong", "mount-halla"],
+      "candidate_decision": "eligible",
+      "decision_reason": "Объект ЮНЕСКО разложен на три отдельно названных физических компонента."
+    }
+  ]
+}

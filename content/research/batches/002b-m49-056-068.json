@@ -1,0 +1,178 @@
+{
+  "batch_id": "002b-m49-056-068",
+  "checked_at": "2026-09-23",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "be-government-flags",
+      "title": "Belgian flags",
+      "publisher": "Belgium.be, Belgian federal government",
+      "source_type": "government",
+      "url": "https://www.belgium.be/en/about_belgium/country/belgium_in_nutshell/symbols/flags",
+      "accessed_at": "2026-09-23",
+      "supports": "Три полосы национального флага; отличает региональные флаги от национального"
+    },
+    {
+      "source_id": "be-government-arms",
+      "title": "Heraldic emblem and motto",
+      "publisher": "Belgium.be, Belgian federal government",
+      "source_type": "government",
+      "url": "https://www.belgium.be/en/about_belgium/country/belgium_in_nutshell/symbols/coats_of_arms",
+      "accessed_at": "2026-09-23",
+      "supports": "Официальный геральдический знак: золотой лев на чёрном поле с красными когтями и языком"
+    },
+    {
+      "source_id": "bt-constitution-first-schedule",
+      "title": "The Constitution of the Kingdom of Bhutan, Article 1 and First Schedule",
+      "publisher": "Royal Civil Service Commission, Kingdom of Bhutan",
+      "source_type": "law",
+      "url": "https://www.rcsc.gov.bt/wp-content/uploads/2021/02/Constitution-of-Bhutan-Eng-2008.pdf",
+      "accessed_at": "2026-09-23",
+      "supports": "Официальный вид и значение элементов национального флага и национальной эмблемы Бутана"
+    },
+    {
+      "source_id": "bo-constitution-art-6",
+      "title": "Constitución Política del Estado Plurinacional de Bolivia, Artículo 6",
+      "publisher": "Servicio Nacional de Propiedad Intelectual, Bolivia",
+      "source_type": "law",
+      "url": "https://www.senapi.gob.bo/normativas/constitucion-politica-del-estado/constitucion-politica-del-estado-plurinacional-de-bolivia",
+      "accessed_at": "2026-09-23",
+      "supports": "Конституционный перечень государственных символов: триколор, герб и Wiphala"
+    },
+    {
+      "source_id": "bo-decree-241-official-register",
+      "title": "Gaceta Oficial, edición 125ESP: Decreto Supremo N° 241, Símbolos del Estado",
+      "publisher": "Gaceta Oficial del Estado Plurinacional de Bolivia",
+      "source_type": "law",
+      "url": "https://www.gacetaoficialdebolivia.gob.bo/edicions/view/125ESP",
+      "accessed_at": "2026-09-23",
+      "supports": "Официальная публикация указа о характеристиках и использовании государственных символов"
+    },
+    {
+      "source_id": "bo-decree-241-parliament-copy",
+      "title": "Decreto Supremo 241, text reproduced in parliamentary material",
+      "publisher": "Cámara de Diputados, Asamblea Legislativa Plurinacional de Bolivia",
+      "source_type": "government",
+      "url": "https://diputados.gob.bo/wp-content/uploads/2023/02/PL-137-2022-2023.pdf",
+      "accessed_at": "2026-09-23",
+      "supports": "Текст определения государственных флагов Боливии как триколора и Wiphala"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "belgium",
+      "audit_status": "deferred",
+      "notes": "Федеральный портал подтверждает простой национальный триколор и геральдический знак с львом. Возможный государственный морской флаг с дополнительным гербом требует отдельного первичного правового подтверждения; страну пока нельзя закрыть.",
+      "flags": [
+        {
+          "variant_id": "belgium-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "false",
+          "official_status": "official",
+          "graphic_elements": "",
+          "decision": "excluded",
+          "decision_reason": "Национальный флаг содержит только три вертикальные полосы без отдельного графического символа.",
+          "source_ids": "be-government-flags",
+          "primary_source_urls": "https://www.belgium.be/en/about_belgium/country/belgium_in_nutshell/symbols/flags"
+        },
+        {
+          "variant_id": "belgium-state-ensign-candidate",
+          "variant_type": "state_ensign",
+          "is_primary_study_variant": "false",
+          "official_status": "unconfirmed",
+          "graphic_elements": "lion|crown",
+          "decision": "deferred",
+          "decision_reason": "Упоминания государственного морского флага с гербом найдены, но не найден доступный первичный нормативный акт, подтверждающий действующий вид и право использования.",
+          "source_ids": "",
+          "primary_source_urls": "",
+          "notes": "Федеральная страница описывает лишь обычный флаг; найденные упоминания морского варианта не подтверждены первичным источником. Проверить официальный морской акт перед решением eligible/excluded."
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "belgium-federal-heraldic-emblem",
+          "symbol_type": "coat_of_arms",
+          "official_name_ru": "Геральдическая эмблема Бельгии",
+          "elements": "lion|shield",
+          "decision": "eligible",
+          "decision_reason": "Федеральный портал показывает и описывает бельгийского льва: золотой лев с красными когтями и языком на чёрном поле.",
+          "source_ids": "be-government-arms",
+          "primary_source_urls": "https://www.belgium.be/en/about_belgium/country/belgium_in_nutshell/symbols/coats_of_arms",
+          "notes": "Перед публикацией уточнить, какая официальная версия полного/малого герба соответствует конкретному изображению."
+        }
+      ]
+    },
+    {
+      "country_id": "bhutan",
+      "audit_status": "complete",
+      "notes": "Статья 1 и первое приложение Конституции напрямую определяют национальный флаг и национальную эмблему с описанием их элементов.",
+      "flags": [
+        {
+          "variant_id": "bhutan-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "dragon|jewel",
+          "decision": "eligible",
+          "decision_reason": "На национальном флаге изображён белый дракон поверх жёлтого и оранжевого полей; Конституция объясняет его значение.",
+          "source_ids": "bt-constitution-first-schedule",
+          "primary_source_urls": "https://www.rcsc.gov.bt/wp-content/uploads/2021/02/Constitution-of-Bhutan-Eng-2008.pdf"
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "bhutan-national-emblem",
+          "symbol_type": "national_emblem",
+          "official_name_ru": "Национальная эмблема Бутана",
+          "elements": "vajra|lotus|dragon|jewel",
+          "decision": "eligible",
+          "decision_reason": "Первое приложение Конституции описывает две скрещённые ваджры над лотосом, двух белых драконов и драгоценный камень.",
+          "source_ids": "bt-constitution-first-schedule",
+          "primary_source_urls": "https://www.rcsc.gov.bt/wp-content/uploads/2021/02/Constitution-of-Bhutan-Eng-2008.pdf"
+        }
+      ]
+    },
+    {
+      "country_id": "bolivia",
+      "audit_status": "deferred",
+      "notes": "Конституция и декрет 241 закрепляют триколор, Wiphala и герб. Обычный триколор исключён по критерию; для Wiphala требуется редакционное решение, относится ли её семицветная сетка к изображённому символу сверх геометрического узора. Проверить также любые подтверждённые государственные варианты триколора с гербом.",
+      "flags": [
+        {
+          "variant_id": "bolivia-national-tricolor",
+          "variant_type": "national",
+          "is_primary_study_variant": "false",
+          "official_status": "official",
+          "graphic_elements": "",
+          "decision": "excluded",
+          "decision_reason": "Обычный государственный триколор состоит только из красной, жёлтой и зелёной горизонтальных полос.",
+          "source_ids": "bo-constitution-art-6|bo-decree-241-parliament-copy",
+          "primary_source_urls": "https://www.senapi.gob.bo/normativas/constitucion-politica-del-estado/constitucion-politica-del-estado-plurinacional-de-bolivia|https://diputados.gob.bo/wp-content/uploads/2023/02/PL-137-2022-2023.pdf"
+        },
+        {
+          "variant_id": "bolivia-wiphala",
+          "variant_type": "other_official",
+          "is_primary_study_variant": "false",
+          "official_status": "official",
+          "graphic_elements": "multicolor_grid",
+          "decision": "deferred",
+          "decision_reason": "Wiphala прямо признана государственным флагом, но семицветный геометрический узор требует отдельного решения о соответствии критерию графического символа.",
+          "source_ids": "bo-constitution-art-6|bo-decree-241-parliament-copy",
+          "primary_source_urls": "https://www.senapi.gob.bo/normativas/constitucion-politica-del-estado/constitucion-politica-del-estado-plurinacional-de-bolivia|https://diputados.gob.bo/wp-content/uploads/2023/02/PL-137-2022-2023.pdf"
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "bolivia-coat-of-arms",
+          "symbol_type": "coat_of_arms",
+          "official_name_ru": "Герб Многонационального Государства Боливия",
+          "elements": "condor|mountain|animal|plant|flag|star",
+          "decision": "eligible",
+          "decision_reason": "Конституция закрепляет герб как символ государства, а декрет 241 регулирует его элементы и использование.",
+          "source_ids": "bo-constitution-art-6|bo-decree-241-official-register|bo-decree-241-parliament-copy",
+          "primary_source_urls": "https://www.senapi.gob.bo/normativas/constitucion-politica-del-estado/constitucion-politica-del-estado-plurinacional-de-bolivia|https://www.gacetaoficialdebolivia.gob.bo/edicions/view/125ESP|https://diputados.gob.bo/wp-content/uploads/2023/02/PL-137-2022-2023.pdf",
+          "notes": "Перед публикацией карточки сверить современную графическую редакцию герба с полным текстом декрета и конкретным файлом изображения."
+        }
+      ]
+    }
+  ]
+}
