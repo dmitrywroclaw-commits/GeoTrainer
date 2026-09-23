@@ -857,5 +857,57 @@
     "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attributionText": "M.Bustos / Wikimedia Commons, CC BY-SA 4.0; без изменений.",
     "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "flag-chile",
+    "kind": "flag",
+    "localPath": "/media/flags/chile.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Chile.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "SVG flag maker (текущая версия SVG; история файла Wikimedia Commons)",
+    "license": "CC0 1.0 / public domain in Chile",
+    "rightsUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attributionText": "SVG flag maker / Wikimedia Commons, CC0 1.0; государственный символ Чили, без изменений.",
+    "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "flag-chile-presidential-standard",
+    "kind": "flag",
+    "localPath": "/media/flags/chile-presidential-standard.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Presidential_Standard_of_Chile.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Presidential_Standard_of_Chile.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "James2813 (vector and composition); Heralder and Sodacan (coat elements)",
+    "license": "CC BY-SA 4.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionText": "James2813, with coat elements by Heralder and Sodacan / Wikimedia Commons, CC BY-SA 4.0; без изменений.",
+    "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "emblem-chile",
+    "kind": "emblem",
+    "localPath": "/media/emblems/chile.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_Chile.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Coat_of_Arms_of_Chile.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "James2813, with elements by Heralder and Sodacan",
+    "license": "CC BY-SA 4.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionText": "James2813, with elements by Heralder and Sodacan / Wikimedia Commons, CC BY-SA 4.0; без изменений.",
+    "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "emblem-chile-cockade",
+    "kind": "emblem",
+    "localPath": "/media/emblems/chile-cockade.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Escarapela_de_Chile.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Escarapela_de_Chile.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "B1mbo",
+    "license": "CC BY-SA 3.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attributionText": "B1mbo / Wikimedia Commons, CC BY-SA 3.0; без изменений.",
+    "checkedAt": "2026-09-23"
   }
 ]

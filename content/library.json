@@ -319,6 +319,14 @@
       "m49": "148",
       "iso2": "TD",
       "iso3": "TCD"
+    },
+    {
+      "id": "chile",
+      "nameRu": "Чили",
+      "region": "Южная Америка",
+      "m49": "152",
+      "iso2": "CL",
+      "iso3": "CHL"
     }
   ],
   "sources": [
@@ -912,6 +920,14 @@
       "publisher": "UNESCO World Heritage Centre",
       "url": "https://whc.unesco.org/en/list/966",
       "sourceType": "unesco",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "cl-national-emblems-decree-1534",
+      "title": "Decreto 1534 de 1967: determina los emblemas nacionales y reglamenta su uso",
+      "publisher": "Biblioteca del Congreso Nacional de Chile",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=18035",
+      "sourceType": "law",
       "accessedAt": "2026-09-23"
     }
   ],
@@ -4075,6 +4091,189 @@
           "desert",
           "triassic",
           "argentina"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "chile-national-flag",
+      "kind": "flag",
+      "countryId": "chile",
+      "nameRu": "Чили",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-chile",
+      "summaryRu": "Красная нижняя полоса, белое верхнее поле и синий квадрат у древка с белой пятиконечной звездой.",
+      "explanationRu": "Декрет о национальных эмблемах точно задаёт расположение и пропорции полей, а также размер звезды: её диаметр равен половине стороны синего квадрата. Значение цветов и звезды этот нормативный текст не объясняет.",
+      "symbols": [
+        {
+          "nameRu": "Белая пятиконечная звезда",
+          "category": "star",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "cl-national-emblems-decree-1534"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Отличительный знак",
+          "valueRu": "Белая звезда в синем квадрате"
+        },
+        {
+          "labelRu": "Пропорции",
+          "valueRu": "2:3"
+        }
+      ],
+      "sourceIds": [
+        "cl-national-emblems-decree-1534"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "single_white_star",
+          "blue_canton",
+          "red_white"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "chile-presidential-standard",
+      "kind": "flag",
+      "countryId": "chile",
+      "nameRu": "Чили",
+      "subtitleRu": "Президентский штандарт",
+      "variantType": "other_official",
+      "isPrimaryStudyVariant": false,
+      "mediaId": "flag-chile-presidential-standard",
+      "summaryRu": "Национальный флаг Чили с государственным гербом в центре полотнища.",
+      "explanationRu": "Декрет 1534/1967 выделяет президентский штандарт как отдельную национальную эмблему и предписывает поместить герб поверх цветов флага по центру. Его применение связано с присутствием президента.",
+      "symbols": [
+        {
+          "nameRu": "Герб поверх флага",
+          "category": "coat_of_arms",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "cl-national-emblems-decree-1534"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Официальный президентский вариант флага"
+        },
+        {
+          "labelRu": "Отличие",
+          "valueRu": "Государственный герб в центре"
+        }
+      ],
+      "sourceIds": [
+        "cl-national-emblems-decree-1534"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "single_white_star",
+          "coat_on_flag",
+          "presidential"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "chile-coat-of-arms",
+      "kind": "emblem",
+      "countryId": "chile",
+      "nameRu": "Чили",
+      "subtitleRu": "Государственный герб",
+      "symbolType": "coat_of_arms",
+      "mediaId": "emblem-chile",
+      "summaryRu": "Сине-красный щит с серебряной звездой держат хуэмуль и кондор в золотых морских коронах; над щитом трёхцветный плюмаж, под ним девиз.",
+      "explanationRu": "Описание герба в декрете называет хуэмуля, кондора, морские короны и ленту с девизом «Por la razón o la fuerza». Смысл животных и звезды в самом декрете не раскрыт.",
+      "symbols": [
+        {
+          "nameRu": "Хуэмуль и кондор",
+          "category": "animal",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "cl-national-emblems-decree-1534"
+          ]
+        },
+        {
+          "nameRu": "Серебряная звезда",
+          "category": "star",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "cl-national-emblems-decree-1534"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Государственный герб"
+        },
+        {
+          "labelRu": "Девиз",
+          "valueRu": "Por la razón o la fuerza"
+        }
+      ],
+      "sourceIds": [
+        "cl-national-emblems-decree-1534"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "huemul",
+          "condor",
+          "single_star",
+          "naval_crowns"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "chile-national-cockade",
+      "kind": "emblem",
+      "countryId": "chile",
+      "nameRu": "Чили",
+      "subtitleRu": "Национальная кокарда",
+      "symbolType": "national_emblem",
+      "mediaId": "emblem-chile-cockade",
+      "summaryRu": "Круглая кокарда: синий центр с серебряной звездой, вокруг белое кольцо и наружное красное кольцо.",
+      "explanationRu": "Кокарда (Escarapela o Cucarda) перечислена в декрете отдельно от герба, флага и президентского штандарта. Декрет задаёт порядок цветов и звезду в центре, но не приписывает элементам отдельные значения.",
+      "symbols": [
+        {
+          "nameRu": "Звезда в синем центре",
+          "category": "star",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "cl-national-emblems-decree-1534"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Национальная кокарда"
+        },
+        {
+          "labelRu": "Кольца",
+          "valueRu": "Внутреннее белое, внешнее красное"
+        }
+      ],
+      "sourceIds": [
+        "cl-national-emblems-decree-1534"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "cockade",
+          "single_star",
+          "red_white_blue"
         ]
       },
       "status": "published",
