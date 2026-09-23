@@ -311,6 +311,14 @@
       "m49": "144",
       "iso2": "LK",
       "iso3": "LKA"
+    },
+    {
+      "id": "chad",
+      "nameRu": "Чад",
+      "region": "Центральная Африка",
+      "m49": "148",
+      "iso2": "TD",
+      "iso3": "TCD"
     }
   ],
   "sources": [
@@ -887,6 +895,14 @@
       "title": "Becoming a republic",
       "publisher": "Sri Lanka National Archives",
       "url": "https://archives.gov.lk/online-exhibits/path-to-freedom/republic",
+      "sourceType": "government",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "td-state-graphic-charter",
+      "title": "Guide pratique de rédaction administrative et Charte graphique de l'État du Tchad, pages 99–103, annex II",
+      "publisher": "Ministère de l'Enseignement Supérieur, de la Recherche Scientifique et de la Formation Professionnelle du Tchad",
+      "url": "https://mesrsfp.gouv.td/wp-content/uploads/2026/04/Guide-pratique-de-redaction-administrative-et-de-de-Charte-graphique-de-lEtat-du-Tchad_230823_190003.pdf",
       "sourceType": "government",
       "accessedAt": "2026-09-23"
     }
@@ -3921,6 +3937,58 @@
           "lotus",
           "dharmachakra",
           "rice"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "chad-coat-of-arms",
+      "kind": "emblem",
+      "countryId": "chad",
+      "nameRu": "Чад",
+      "subtitleRu": "Государственный герб",
+      "symbolType": "coat_of_arms",
+      "mediaId": "emblem-chad",
+      "summaryRu": "Щит с золотыми и синими волнистыми полосами держат золотистые муфлон и лев; над щитом восходящее красное солнце, внизу национальный орден и девиз.",
+      "explanationRu": "Главные ориентиры — муфлон слева и лев справа от полосатого щита. Официальный ордонанс 2022 года задаёт также 14 лучей восходящего солнца и девиз «Unité – Travail – Progrès»; значения отдельных фигур здесь не утверждаются без первичного объяснения.",
+      "symbols": [
+        {
+          "nameRu": "Муфлон и лев",
+          "category": "animal",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "td-state-graphic-charter"
+          ]
+        },
+        {
+          "nameRu": "Восходящее солнце",
+          "category": "sun",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "td-state-graphic-charter"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Государственный герб"
+        },
+        {
+          "labelRu": "Девиз",
+          "valueRu": "Единство, труд, прогресс"
+        }
+      ],
+      "sourceIds": [
+        "td-state-graphic-charter"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "mouflon",
+          "lion",
+          "rising_sun",
+          "wavy_shield"
         ]
       },
       "status": "published",

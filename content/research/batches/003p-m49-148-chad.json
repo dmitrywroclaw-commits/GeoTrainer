@@ -1,0 +1,69 @@
+{
+  "batch_id": "003p-m49-148-chad",
+  "checked_at": "2026-09-23",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "td-state-graphic-charter",
+      "title": "Guide pratique de rédaction administrative et Charte graphique de l'État du Tchad, pages 99–103, annex II",
+      "publisher": "Ministère de l'Enseignement Supérieur, de la Recherche Scientifique et de la Formation Professionnelle du Tchad",
+      "source_type": "government_publication",
+      "url": "https://mesrsfp.gouv.td/wp-content/uploads/2026/04/Guide-pratique-de-redaction-administrative-et-de-de-Charte-graphique-de-lEtat-du-Tchad_230823_190003.pdf",
+      "accessed_at": "2026-09-23",
+      "supports": "Закон № 13/1959 устанавливает простой трёхполосный флаг; ордонанс № 001/PCMT/2022 описывает действующий герб и официальный образец; ордонанс № 029/1986 отдельно учреждает государственную печать с профилем Келу."
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "chad",
+      "audit_status": "deferred",
+      "notes": "Официальное руководство подтверждает простой сине-золотисто-красный флаг, не проходящий графический критерий, и действующий герб. Герб опубликован с локальным SVG и атрибуцией. Отдельная государственная печать с профилем Келу и возможный президентский флаг с гербом оставлены Q-17 до проверки действующих образцов и прав.",
+      "flags": [
+        {
+          "variant_id": "chad-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "false",
+          "official_status": "official",
+          "graphic_elements": "none_plain_vertical_stripes",
+          "decision": "excluded",
+          "decision_reason": "Флаг состоит только из трёх вертикальных цветовых полос без отдельного графического символа.",
+          "source_ids": "td-state-graphic-charter",
+          "primary_source_urls": "https://mesrsfp.gouv.td/wp-content/uploads/2026/04/Guide-pratique-de-redaction-administrative-et-de-de-Charte-graphique-de-lEtat-du-Tchad_230823_190003.pdf"
+        },
+        {
+          "variant_id": "chad-presidential-flag-candidate",
+          "variant_type": "other_official",
+          "is_primary_study_variant": "false",
+          "official_status": "unverified",
+          "graphic_elements": "coat_of_arms_on_tricolor_unverified",
+          "decision": "deferred",
+          "decision_reason": "Сторонний SVG заявляет президентский флаг с гербом, но официальный действующий образец или акт не найден.",
+          "source_ids": "td-state-graphic-charter",
+          "primary_source_urls": "https://mesrsfp.gouv.td/wp-content/uploads/2026/04/Guide-pratique-de-redaction-administrative-et-de-de-Charte-graphique-de-lEtat-du-Tchad_230823_190003.pdf"
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "chad-coat-of-arms",
+          "symbol_type": "coat_of_arms",
+          "official_name_ru": "Государственный герб Чада",
+          "elements": "shield|rising_sun|mouflon|lion|national_order|motto",
+          "decision": "eligible",
+          "decision_reason": "Официальное руководство воспроизводит ордонанс № 001/PCMT/2022 и действующий образец герба; локальный SVG визуально соответствует фигурам и композиции.",
+          "source_ids": "td-state-graphic-charter",
+          "primary_source_urls": "https://mesrsfp.gouv.td/wp-content/uploads/2026/04/Guide-pratique-de-redaction-administrative-et-de-de-Charte-graphique-de-lEtat-du-Tchad_230823_190003.pdf"
+        },
+        {
+          "symbol_id": "chad-state-seal",
+          "symbol_type": "state_seal",
+          "official_name_ru": "Государственная печать Чада",
+          "elements": "kelou_profile|circular_inscriptions",
+          "decision": "deferred",
+          "decision_reason": "Ордонанс № 029/1986 предусматривает отдельную печать с профилем Келу, но готовый для публикации официальный рисунок и права на конкретное изображение ещё не сверены.",
+          "source_ids": "td-state-graphic-charter",
+          "primary_source_urls": "https://mesrsfp.gouv.td/wp-content/uploads/2026/04/Guide-pratique-de-redaction-administrative-et-de-de-Charte-graphique-de-lEtat-du-Tchad_230823_190003.pdf"
+        }
+      ]
+    }
+  ]
+}
