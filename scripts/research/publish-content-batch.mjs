@@ -60,6 +60,14 @@ addUnique(library.sources, batch.sources, 'источника');
 addUnique(library.entries, batch.entries, 'карточки');
 addUnique(media, batch.media, 'медиа');
 
+const countryIds = new Set(library.countries.map(item => item.id));
+for (const item of batch.entries ?? []) {
+  const referencedCountries = item.kind === 'landmark' ? item.countryIds : [item.countryId];
+  for (const countryId of referencedCountries) {
+    if (!countryIds.has(countryId)) throw new Error(`Не найдена страна ${countryId} для ${item.id}`);
+  }
+}
+
 const json = value => `${JSON.stringify(value, null, 2)}\n`;
 const csv = (headers, rows) => stringifyCsv(headers, rows);
 await Promise.all([

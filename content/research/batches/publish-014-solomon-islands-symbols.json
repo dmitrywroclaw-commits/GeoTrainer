@@ -1,0 +1,129 @@
+{
+  "batch_id": "publish-014-solomon-islands-symbols",
+  "countries": [
+    {
+      "id": "solomon-islands",
+      "nameRu": "Соломоновы Острова",
+      "region": "Меланезия",
+      "m49": "090",
+      "iso2": "SB",
+      "iso3": "SLB"
+    }
+  ],
+  "sources": [
+    {
+      "id": "sb-shipping-act-sima",
+      "title": "Shipping Act 1998 — amended consolidated version 2021",
+      "publisher": "Solomon Islands Maritime Authority",
+      "url": "https://www.sima.gov.sb/wp-content/uploads/Shipping-Act-1998-Amended-Consolidated-Version-01-01-2021.pdf",
+      "sourceType": "law",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "sb-policy-statement-2024",
+      "title": "Government of National Unity and Transformation — Policy Statements (2024)",
+      "publisher": "Solomon Islands Government",
+      "url": "https://solomons.gov.sb/wp-content/uploads/2024/06/Policy-Statement-TUESDAY-6PM-Final.pdf",
+      "sourceType": "government",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "sb-coat-parliament-hansard",
+      "title": "National Parliament Hansard, 8 April 2015",
+      "publisher": "National Parliament of Solomon Islands",
+      "url": "https://parliament.gov.sb/sites/default/files/hansard/10th_session/2nd%20Meeting/April/Wednesday%208th%20April%202015.pdf",
+      "sourceType": "government",
+      "accessedAt": "2026-09-23"
+    }
+  ],
+  "media": [
+    {
+      "id": "flag-solomon-islands",
+      "kind": "flag",
+      "localPath": "/media/flags/solomon-islands.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Solomon_Islands.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Solomon_Islands.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "SKopp; later Wikimedia Commons editors",
+      "license": "Public domain — simple geometry",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Solomon_Islands.svg",
+      "checkedAt": "2026-09-23"
+    },
+    {
+      "id": "emblem-solomon-islands",
+      "kind": "emblem",
+      "localPath": "/media/emblems/solomon-islands.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Solomon_Islands.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Coat_of_arms_of_the_Solomon_Islands.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Prez001; later Wikimedia Commons editors",
+      "license": "CC BY-SA 3.0",
+      "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "attributionText": "Prez001 и редакторы Wikimedia Commons / CC BY-SA 3.0. Исходный SVG без изменений.",
+      "checkedAt": "2026-09-23"
+    }
+  ],
+  "entries": [
+    {
+      "id": "solomon-islands-national-flag",
+      "kind": "flag",
+      "countryId": "solomon-islands",
+      "nameRu": "Соломоновы Острова",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-solomon-islands",
+      "summaryRu": "Синее и зелёное поля разделены жёлтой диагональной полосой; на синем поле расположены пять белых звёзд.",
+      "explanationRu": "Для распознавания запомните пять звёзд в верхнем синем углу и жёлтую диагональ между синим и зелёным. Проверенные правительственные источники подтверждают изображение и статус флага, но не раскрывают смысл каждого элемента.",
+      "symbols": [
+        {
+          "nameRu": "Пять белых звёзд",
+          "category": "star",
+          "meaningStatus": "unknown",
+          "sourceIds": ["sb-policy-statement-2024"]
+        }
+      ],
+      "facts": [
+        { "labelRu": "Регион", "valueRu": "Меланезия" },
+        { "labelRu": "Использование", "valueRu": "Национальный флаг, в том числе национальные цвета зарегистрированных судов" }
+      ],
+      "sourceIds": ["sb-shipping-act-sima", "sb-policy-statement-2024"],
+      "quizHints": { "similarityTags": ["star_symbol", "diagonal_flag"] },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "solomon-islands-coat-of-arms",
+      "kind": "emblem",
+      "countryId": "solomon-islands",
+      "nameRu": "Соломоновы Острова",
+      "subtitleRu": "Государственный герб",
+      "symbolType": "coat_of_arms",
+      "mediaId": "emblem-solomon-islands",
+      "summaryRu": "Щит поддерживают крокодил и акула; над ним помещены шлем, каноэ и солнце, внизу — девиз «To Lead Is To Serve».",
+      "explanationRu": "Отличительные детали герба — крокодил и акула по сторонам щита. На щите видны птицы, черепахи, щит и стрелы; наверху расположены каноэ и солнце. Значение этих деталей здесь не утверждается без отдельного официального толкования.",
+      "symbols": [
+        {
+          "nameRu": "Крокодил и акула",
+          "category": "animal",
+          "meaningStatus": "unknown",
+          "sourceIds": ["sb-coat-parliament-hansard"]
+        },
+        {
+          "nameRu": "Каноэ и солнце",
+          "category": "sun",
+          "meaningStatus": "unknown",
+          "sourceIds": ["sb-coat-parliament-hansard"]
+        }
+      ],
+      "facts": [
+        { "labelRu": "Тип", "valueRu": "Государственный герб" },
+        { "labelRu": "Девиз", "valueRu": "To Lead Is To Serve" }
+      ],
+      "sourceIds": ["sb-policy-statement-2024", "sb-coat-parliament-hansard"],
+      "quizHints": { "similarityTags": ["animal_supporters", "shield", "sun_symbol"] },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    }
+  ]
+}
