@@ -1,0 +1,53 @@
+{
+  "batch_id": "publish-010-geomunoreum-lava-tubes",
+  "sources": [
+    {
+      "id": "jeju-geomunoreum-unesco-map",
+      "title": "Jeju Volcanic Island and Lava Tubes — Maps of the inscribed components",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/documents/103176",
+      "sourceType": "unesco",
+      "accessedAt": "2026-09-23"
+    }
+  ],
+  "media": [
+    {
+      "id": "photo-geomunoreum-lava-tubes",
+      "kind": "photo",
+      "localPath": "/media/landmarks/geomunoreum-lava-tubes.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Jeju-Manjanggul_Lava_Tube.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Jeju-Manjanggul_Lava_Tube.jpg",
+      "publisher": "Wikimedia Commons",
+      "author": "Olga Lipunova",
+      "rightsHolder": "Olga Lipunova",
+      "license": "CC BY-SA 3.0",
+      "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "attributionText": "Olga Lipunova / Wikimedia Commons, CC BY-SA 3.0; изображение уменьшено до 1280 px без иных изменений.",
+      "checkedAt": "2026-09-23"
+    }
+  ],
+  "entries": [
+    {
+      "id": "geomunoreum-lava-tubes",
+      "kind": "landmark",
+      "countryIds": ["south-korea"],
+      "nameRu": "Лавовые трубки Гомунорым",
+      "subtitleRu": "Система вулканических пещер",
+      "landmarkType": "cave",
+      "regionRu": "Остров Чеджу, Республика Корея",
+      "mediaId": "photo-geomunoreum-lava-tubes",
+      "summaryRu": "Подземная система лавовых пещер острова Чеджу. На фотографии — широкий ход трубки Манчжангуль, входящей в эту систему.",
+      "explanationRu": "Лавовые трубки возникают, когда наружная часть потока застывает, а расплавленная лава продолжает двигаться внутри. ЮНЕСКО отмечает тёмные лавовые стены и необычные карбонатные отложения системы Гомунорым.",
+      "historyRu": "Система входит в объект Всемирного наследия «Вулканический остров Чеджу и лавовые трубки», включённый в список в 2007 году.",
+      "whyNotableRu": "Сочетание обширных лавовых ходов и карбонатных образований делает систему важным свидетельством вулканических процессов Чеджу.",
+      "facts": [
+        { "labelRu": "Где находится", "valueRu": "Остров Чеджу, Республика Корея" },
+        { "labelRu": "На снимке", "valueRu": "Лавовая трубка Манчжангуль" }
+      ],
+      "sourceIds": ["jeju-volcanic-unesco", "jeju-geomunoreum-unesco-map"],
+      "quizHints": { "similarityTags": ["cave", "volcano", "lava_tube"] },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    }
+  ]
+}
