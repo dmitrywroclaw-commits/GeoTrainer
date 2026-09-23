@@ -1,0 +1,41 @@
+{
+  "batch_id": "nature-004-whc-145-perito-moreno",
+  "checked_at": "2026-09-23",
+  "sources": [
+    {
+      "source_id": "perito-moreno-unesco",
+      "title": "Los Glaciares National Park",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_type": "unesco",
+      "url": "https://whc.unesco.org/en/list/145",
+      "accessed_at": "2026-09-23",
+      "supports": "Отдельно называет ледник Перито-Морено, его выход к озеру Архентино, откалывание льда и природную ценность территории."
+    }
+  ],
+  "landmarks": [
+    {
+      "landmark_id": "perito-moreno-glacier",
+      "name_original": "Perito Moreno Glacier",
+      "name_ru": "Ледник Перито-Морено",
+      "landmark_type": "glacier",
+      "country_ids": "argentina",
+      "region": "Национальный парк Лос-Гласьярес, провинция Санта-Крус, Патагония",
+      "coordinates": "",
+      "significance_basis": "Отдельный крупный ледник, узнаваемый по широкому ледовому фронту у озера Архентино; ЮНЕСКО выделяет его как наиболее заметный объект парка.",
+      "source_catalog": "unesco_whc:145",
+      "source_ids": "perito-moreno-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/145",
+      "decision": "eligible",
+      "decision_reason": "Из обширного национального парка выделен конкретный именованный ледник, названный ЮНЕСКО; фотография показывает его фронт у озера.",
+      "notes": "Не используются утверждения о росте или неизменности ледника без свежих измерений."
+    }
+  ],
+  "catalog_updates": [
+    {
+      "catalog_record_id": "whc-145",
+      "landmark_ids": ["perito-moreno-glacier"],
+      "candidate_decision": "eligible",
+      "decision_reason": "Из территории Лос-Гласьярес выделен конкретный ледник Перито-Морено."
+    }
+  ]
+}
