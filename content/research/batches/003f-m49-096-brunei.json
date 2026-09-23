@@ -1,0 +1,97 @@
+{
+  "batch_id": "003f-m49-096-brunei",
+  "checked_at": "2026-09-23",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "bn-flag-crest-agc",
+      "title": "National Flag and Crest",
+      "publisher": "Attorney General's Chambers of Brunei Darussalam",
+      "source_type": "government_publication",
+      "url": "https://www.agc.gov.bn/SitePages/National%20Flag%20and%20Crest.aspx",
+      "accessed_at": "2026-09-23",
+      "supports": "Официально описывает национальный флаг с красной эмблемой и саму национальную эмблему: зонт, крылья, руки, полумесяц и надписи; приводит толкование элементов"
+    },
+    {
+      "source_id": "bn-flags-jain",
+      "title": "Bendera & Panji-panji",
+      "publisher": "Jabatan Adat Istiadat Negara Brunei Darussalam",
+      "source_type": "government_publication",
+      "url": "https://www.adat-istiadat.gov.bn/bendera-panji-panji/",
+      "accessed_at": "2026-09-23",
+      "supports": "Государственное ведомство церемониала различает национальный флаг, султанский штандарт и личные флаги членов династии и должностных лиц"
+    },
+    {
+      "source_id": "bn-constitution-state-emblems",
+      "title": "Succession and Regency Proclamation — State emblems, flags etc., section 26",
+      "publisher": "Attorney General's Chambers of Brunei Darussalam",
+      "source_type": "law",
+      "url": "https://www.agc.gov.bn/AGC%20Images/LOB/cons_doc/constitution_ii.pdf",
+      "accessed_at": "2026-09-23",
+      "supports": "Раздел 26 отдельно признаёт государственные символы, штандарт султана и флаги сановников"
+    },
+    {
+      "source_id": "bn-merchant-shipping-order-2002",
+      "title": "Merchant Shipping Order, 2002, section 36",
+      "publisher": "Attorney General's Chambers of Brunei Darussalam",
+      "source_type": "law",
+      "url": "https://www.agc.gov.bn/AGC%20Images/LAWS/Gazette_PDF/2002/EN/s027.pdf",
+      "accessed_at": "2026-09-23",
+      "supports": "Раздел 36 предусматривает назначаемый министром морской флаг для зарегистрированных судов, но сам рисунок в этом тексте не приведён"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "brunei",
+      "audit_status": "deferred",
+      "notes": "Национальный флаг и национальная эмблема подтверждены и готовы к публикации. Конституционный источник признаёт штандарт султана; точный действующий рисунок и его пригодное изображение для карточки требуют отдельной проверки. Merchant Shipping Order 2002 предусматривает назначаемый министром морской флаг, но действующий утверждённый образец не найден. Личные флаги других членов семьи и ведомственные флаги не являются общенациональными учебными вариантами. Вопросы отложены в OPEN_QUESTIONS.md.",
+      "flags": [
+        {
+          "variant_id": "brunei-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "national_emblem|crescent|hands|umbrella|inscription",
+          "decision": "eligible",
+          "decision_reason": "Официальное описание Генеральной прокуратуры определяет красную национальную эмблему на жёлтом флаге с белой и чёрной диагональными полосами.",
+          "source_ids": "bn-flag-crest-agc",
+          "primary_source_urls": "https://www.agc.gov.bn/SitePages/National%20Flag%20and%20Crest.aspx"
+        },
+        {
+          "variant_id": "brunei-sultan-standard",
+          "variant_type": "other_official",
+          "is_primary_study_variant": "false",
+          "official_status": "official",
+          "graphic_elements": "unverified",
+          "decision": "deferred",
+          "decision_reason": "Конституционный источник признаёт штандарт султана, но точный утверждённый действующий рисунок не подтверждён для карточки.",
+          "source_ids": "bn-constitution-state-emblems|bn-flags-jain",
+          "primary_source_urls": "https://www.agc.gov.bn/AGC%20Images/LOB/cons_doc/constitution_ii.pdf|https://www.adat-istiadat.gov.bn/bendera-panji-panji/"
+        },
+        {
+          "variant_id": "brunei-merchant-ensign-candidate",
+          "variant_type": "civil_ensign",
+          "is_primary_study_variant": "false",
+          "official_status": "unconfirmed",
+          "graphic_elements": "unverified",
+          "decision": "deferred",
+          "decision_reason": "Merchant Shipping Order 2002 предусматривает назначаемый министром морской флаг, но его действующий образец и отличие от национального флага не подтверждены.",
+          "source_ids": "bn-merchant-shipping-order-2002",
+          "primary_source_urls": "https://www.agc.gov.bn/AGC%20Images/LAWS/Gazette_PDF/2002/EN/s027.pdf"
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "brunei-national-emblem",
+          "symbol_type": "national_emblem",
+          "official_name_ru": "Национальная эмблема Брунея-Даруссалама",
+          "elements": "flag|royal_umbrella|wings|hands|crescent|inscription",
+          "decision": "eligible",
+          "decision_reason": "Генеральная прокуратура отдельно описывает национальную эмблему и её пять основных частей, а также надписи на полумесяце и ленте.",
+          "source_ids": "bn-flag-crest-agc",
+          "primary_source_urls": "https://www.agc.gov.bn/SitePages/National%20Flag%20and%20Crest.aspx"
+        }
+      ]
+    }
+  ]
+}

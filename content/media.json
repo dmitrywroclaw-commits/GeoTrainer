@@ -555,5 +555,29 @@
     "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
     "attributionText": "Prez001 и редакторы Wikimedia Commons / CC BY-SA 3.0. Исходный SVG без изменений.",
     "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "flag-brunei",
+    "kind": "flag",
+    "localPath": "/media/flags/brunei.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Brunei.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Brunei.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Nightstallion; Wikimedia Commons editors",
+    "license": "Public domain — flag",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Brunei.svg",
+    "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "emblem-brunei",
+    "kind": "emblem",
+    "localPath": "/media/emblems/brunei.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Emblem_of_Brunei.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Emblem_of_Brunei.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Open Clip Art Library contributors; Wikimedia Commons editors",
+    "license": "CC0 1.0",
+    "rightsUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "checkedAt": "2026-09-23"
   }
 ]

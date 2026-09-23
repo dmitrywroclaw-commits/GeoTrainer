@@ -215,6 +215,14 @@
       "m49": "090",
       "iso2": "SB",
       "iso3": "SLB"
+    },
+    {
+      "id": "brunei",
+      "nameRu": "Бруней-Даруссалам",
+      "region": "Юго-Восточная Азия",
+      "m49": "096",
+      "iso2": "BN",
+      "iso3": "BRN"
     }
   ],
   "sources": [
@@ -591,6 +599,14 @@
       "title": "National Parliament Hansard, 8 April 2015",
       "publisher": "National Parliament of Solomon Islands",
       "url": "https://parliament.gov.sb/sites/default/files/hansard/10th_session/2nd%20Meeting/April/Wednesday%208th%20April%202015.pdf",
+      "sourceType": "government",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "bn-flag-crest-agc",
+      "title": "National Flag and Crest",
+      "publisher": "Attorney General's Chambers of Brunei Darussalam",
+      "url": "https://www.agc.gov.bn/SitePages/National%20Flag%20and%20Crest.aspx",
       "sourceType": "government",
       "accessedAt": "2026-09-23"
     }
@@ -2616,6 +2632,111 @@
           "animal_supporters",
           "shield",
           "sun_symbol"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "brunei-national-flag",
+      "kind": "flag",
+      "countryId": "brunei",
+      "nameRu": "Бруней-Даруссалам",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-brunei",
+      "summaryRu": "На жёлтом поле проходят белая и чёрная диагональные полосы; в центре помещена красная национальная эмблема.",
+      "explanationRu": "Для узнавания запомните жёлтый фон, две диагональные полосы и красную эмблему посередине. Официальное описание отдельно называет пять частей эмблемы: флаг, королевский зонт, крылья, руки и полумесяц.",
+      "symbols": [
+        {
+          "nameRu": "Красная национальная эмблема",
+          "category": "emblem",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "bn-flag-crest-agc"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Регион",
+          "valueRu": "Юго-Восточная Азия"
+        },
+        {
+          "labelRu": "Рисунок",
+          "valueRu": "Жёлтое поле, белая и чёрная диагональные полосы, красная эмблема"
+        }
+      ],
+      "sourceIds": [
+        "bn-flag-crest-agc"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "diagonal_flag",
+          "national_emblem"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "brunei-national-emblem",
+      "kind": "emblem",
+      "countryId": "brunei",
+      "nameRu": "Бруней-Даруссалам",
+      "subtitleRu": "Национальная эмблема",
+      "symbolType": "national_emblem",
+      "mediaId": "emblem-brunei",
+      "summaryRu": "Красная эмблема объединяет флаг, королевский зонт, крылья, руки и полумесяц с надписями.",
+      "explanationRu": "Официальное описание связывает крылья с защитой справедливости, спокойствия, благополучия и мира, а руки — с заботой государства о благосостоянии и мире. Полумесяц обозначает ислам; на нём написан государственный девиз.",
+      "symbols": [
+        {
+          "nameRu": "Крылья",
+          "category": "wing",
+          "meaningRu": "Защита справедливости, спокойствия, благополучия и мира.",
+          "meaningStatus": "official",
+          "sourceIds": [
+            "bn-flag-crest-agc"
+          ]
+        },
+        {
+          "nameRu": "Руки",
+          "category": "hand",
+          "meaningRu": "Обязательство государства заботиться о благосостоянии и мире.",
+          "meaningStatus": "official",
+          "sourceIds": [
+            "bn-flag-crest-agc"
+          ]
+        },
+        {
+          "nameRu": "Полумесяц",
+          "category": "crescent",
+          "meaningRu": "Ислам.",
+          "meaningStatus": "official",
+          "sourceIds": [
+            "bn-flag-crest-agc"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Национальная эмблема"
+        },
+        {
+          "labelRu": "Части",
+          "valueRu": "Флаг, королевский зонт, крылья, руки, полумесяц"
+        }
+      ],
+      "sourceIds": [
+        "bn-flag-crest-agc"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "crescent_symbol",
+          "hands_symbol",
+          "umbrella_symbol"
         ]
       },
       "status": "published",
