@@ -1,0 +1,59 @@
+{
+  "batch_id": "003d-m49-084-belize",
+  "checked_at": "2026-09-23",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "bz-national-symbols-act-2025",
+      "title": "National Symbols Act, 2025 (Act No. 9 of 2025)",
+      "publisher": "Attorney General's Ministry of Belize",
+      "source_type": "law",
+      "url": "https://www.agm.gov.bz/uploads/laws/67fe7b9cbe9a7_Act_No._09_of_2025_National_Symbols_Act__2025.pdf",
+      "accessed_at": "2026-09-23",
+      "supports": "Закон объявляет флаг и герб национальными символами, даёт их подробный рисунок в приложениях I и IV и закрепляет авторские права на их дизайн за Короной бессрочно"
+    },
+    {
+      "source_id": "bz-merchant-ships-2010",
+      "title": "Merchant Ships (Registration) Act, 2010 (No. 22 of 2010)",
+      "publisher": "Government of Belize",
+      "source_type": "law",
+      "url": "https://ifsc.gov.bz/wp-content/uploads/2019/10/Merchant-Ships-Registration-Act-2010-No.-22-of-2010.pdf",
+      "accessed_at": "2026-09-23",
+      "supports": "Статья 28 предписывает белизским судам национальный флаг и исключает отдельный гражданский морской флаг в этой сфере"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "belize",
+      "audit_status": "complete",
+      "notes": "Закон 2025 года определяет национальный флаг и герб; закон о регистрации судов указывает национальный флаг как морской. Отдельный подходящий общегосударственный вариант в проверенных правовых источниках не выявлен. Обе eligible-записи ждут подтверждённого права на перепубликацию изображения: статья 11 закона сохраняет права на дизайн флага и герба за Короной бессрочно; лицензия отдельного SVG на Wikimedia Commons не устраняет эту неопределённость.",
+      "flags": [
+        {
+          "variant_id": "belize-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "coat_of_arms|people|ship|tree|tools|inscription",
+          "decision": "eligible",
+          "decision_reason": "Приложение I к закону 2025 года устанавливает синий флаг с красными полосами и гербом в белом круге; присутствуют многочисленные отдельные графические символы.",
+          "source_ids": "bz-national-symbols-act-2025|bz-merchant-ships-2010",
+          "primary_source_urls": "https://www.agm.gov.bz/uploads/laws/67fe7b9cbe9a7_Act_No._09_of_2025_National_Symbols_Act__2025.pdf|https://ifsc.gov.bz/wp-content/uploads/2019/10/Merchant-Ships-Registration-Act-2010-No.-22-of-2010.pdf",
+          "notes": "Публикация карточки ожидает выяснения прав на дизайн по статье 11 закона."
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "belize-coat-of-arms",
+          "symbol_type": "coat_of_arms",
+          "official_name_ru": "Национальный герб Белиза",
+          "elements": "shield|ship|timber_tools|two_people|mahogany_tree|motto|wreath",
+          "decision": "eligible",
+          "decision_reason": "Приложение IV к закону 2025 года описывает герб: щит с кораблём и лесозаготовительными инструментами, два щитодержателя, красное дерево, девиз и венок.",
+          "source_ids": "bz-national-symbols-act-2025",
+          "primary_source_urls": "https://www.agm.gov.bz/uploads/laws/67fe7b9cbe9a7_Act_No._09_of_2025_National_Symbols_Act__2025.pdf",
+          "notes": "Публикация карточки ожидает выяснения прав на дизайн по статье 11 закона."
+        }
+      ]
+    }
+  ]
+}
