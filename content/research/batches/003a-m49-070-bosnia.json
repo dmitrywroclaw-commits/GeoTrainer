@@ -1,0 +1,57 @@
+{
+  "batch_id": "003a-m49-070-bosnia",
+  "checked_at": "2026-09-23",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "ba-flag-law-parliament",
+      "title": "Zakon o zastavi Bosne i Hercegovine — consolidated text (2016)",
+      "publisher": "Parlamentarna skupština Bosne i Hercegovine",
+      "source_type": "law",
+      "url": "https://www.parlament.ba/law/DownloadDocument?langTag=bs&lawDocumentId=39682910-7bc4-4b7e-a326-5d6c59109acd",
+      "accessed_at": "2026-09-23",
+      "supports": "Закон описывает синий флаг, жёлтый треугольник и ряд белых пятиконечных звёзд, его государственный статус и официальное использование"
+    },
+    {
+      "source_id": "ba-coat-law-ohr",
+      "title": "Decision on the shape and design of the coat-of-arms of BiH",
+      "publisher": "Office of the High Representative for Bosnia and Herzegovina",
+      "source_type": "law",
+      "url": "https://www.ohr.int/decision-on-the-shape-and-design-of-the-coat-of-arms-of-bih/",
+      "accessed_at": "2026-09-23",
+      "supports": "Официальный герб в форме синего щита с жёлтым треугольником и белыми пятиконечными звёздами; допустимость образовательного использования"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "bosnia-and-herzegovina",
+      "audit_status": "complete",
+      "notes": "Государственный флаг и герб описаны отдельными законами. Флаги энтитетов и ведомств не относятся к общегосударственным вариантам; дополнительных действующих общегосударственных вариантов в проверенных правовых источниках не найдено.",
+      "flags": [
+        {
+          "variant_id": "bosnia-and-herzegovina-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "stars",
+          "decision": "eligible",
+          "decision_reason": "Закон о флаге определяет ряд белых пятиконечных звёзд вдоль жёлтого треугольника на синем фоне.",
+          "source_ids": "ba-flag-law-parliament",
+          "primary_source_urls": "https://www.parlament.ba/law/DownloadDocument?langTag=bs&lawDocumentId=39682910-7bc4-4b7e-a326-5d6c59109acd"
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "bosnia-and-herzegovina-coat-of-arms",
+          "symbol_type": "coat_of_arms",
+          "official_name_ru": "Герб Боснии и Герцеговины",
+          "elements": "shield|triangle|stars",
+          "decision": "eligible",
+          "decision_reason": "Нормативный текст определяет официальный синий щит с жёлтым треугольником и рядом белых пятиконечных звёзд.",
+          "source_ids": "ba-coat-law-ohr",
+          "primary_source_urls": "https://www.ohr.int/decision-on-the-shape-and-design-of-the-coat-of-arms-of-bih/"
+        }
+      ]
+    }
+  ]
+}

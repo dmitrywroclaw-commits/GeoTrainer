@@ -199,6 +199,14 @@
       "m49": "516",
       "iso2": "NA",
       "iso3": "NAM"
+    },
+    {
+      "id": "bosnia-and-herzegovina",
+      "nameRu": "Босния и Герцеговина",
+      "region": "Южная Европа",
+      "m49": "070",
+      "iso2": "BA",
+      "iso3": "BIH"
     }
   ],
   "sources": [
@@ -512,6 +520,22 @@
       "publisher": "UNESCO World Heritage Centre",
       "url": "https://whc.unesco.org/en/documents/103176",
       "sourceType": "unesco",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "ba-flag-law-parliament",
+      "title": "Zakon o zastavi Bosne i Hercegovine — consolidated text (2016)",
+      "publisher": "Parlamentarna skupština Bosne i Hercegovine",
+      "url": "https://www.parlament.ba/law/DownloadDocument?langTag=bs&lawDocumentId=39682910-7bc4-4b7e-a326-5d6c59109acd",
+      "sourceType": "law",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "ba-coat-law-ohr",
+      "title": "Decision on the shape and design of the coat-of-arms of BiH",
+      "publisher": "Office of the High Representative for Bosnia and Herzegovina",
+      "url": "https://www.ohr.int/decision-on-the-shape-and-design-of-the-coat-of-arms-of-bih/",
+      "sourceType": "law",
       "accessedAt": "2026-09-23"
     }
   ],
@@ -2192,6 +2216,94 @@
           "cave",
           "volcano",
           "lava_tube"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "bosnia-and-herzegovina-national-flag",
+      "kind": "flag",
+      "countryId": "bosnia-and-herzegovina",
+      "nameRu": "Босния и Герцеговина",
+      "subtitleRu": "Государственный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-bosnia-and-herzegovina",
+      "summaryRu": "На синем полотнище расположен жёлтый треугольник и диагональный ряд белых пятиконечных звёзд.",
+      "explanationRu": "Для распознавания запомните звёзды вдоль одной стороны жёлтого треугольника. Закон определяет вид флага, но не даёт толкования значения его фигур.",
+      "historyRu": "Действующий вид флага закреплён законом о флаге Боснии и Герцеговины.",
+      "symbols": [
+        {
+          "nameRu": "Белые пятиконечные звёзды",
+          "category": "star",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "ba-flag-law-parliament"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Регион",
+          "valueRu": "Южная Европа"
+        },
+        {
+          "labelRu": "Пропорции",
+          "valueRu": "1:2 по закону о флаге"
+        }
+      ],
+      "sourceIds": [
+        "ba-flag-law-parliament"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "star_symbol",
+          "triangle_flag"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "bosnia-and-herzegovina-coat-of-arms",
+      "kind": "emblem",
+      "countryId": "bosnia-and-herzegovina",
+      "nameRu": "Босния и Герцеговина",
+      "subtitleRu": "Государственный герб",
+      "symbolType": "coat_of_arms",
+      "mediaId": "emblem-bosnia-and-herzegovina",
+      "summaryRu": "Синий щит с жёлтым треугольником и диагональным рядом белых пятиконечных звёзд.",
+      "explanationRu": "Герб повторяет главные графические элементы флага, но имеет форму щита. Нормативный текст подтверждает вид и статус герба, не объясняя значения отдельных фигур.",
+      "historyRu": "Закон о гербе введён решением Управления высокого представителя в 1998 году.",
+      "symbols": [
+        {
+          "nameRu": "Ряд белых пятиконечных звёзд",
+          "category": "star",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "ba-coat-law-ohr"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Государственный герб"
+        },
+        {
+          "labelRu": "Форма",
+          "valueRu": "Синий щит с заострённым нижним концом"
+        }
+      ],
+      "sourceIds": [
+        "ba-coat-law-ohr"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "star_symbol",
+          "shield",
+          "triangle_emblem"
         ]
       },
       "status": "published",

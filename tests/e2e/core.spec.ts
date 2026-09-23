@@ -25,7 +25,7 @@ test('new Bhutan flag card appears with its local illustration', async ({ page }
 });
 
 test('new flag and landmark cards load', async ({ page }) => {
-  for (const [id, title] of [['barbados-national-flag', 'Барбадос'], ['antigua-and-barbuda-national-flag', 'Антигуа и Барбуда'], ['seongsan-ilchulbong', 'Сонсан-Ильчхульбон'], ['mount-halla', 'Халласан'], ['geomunoreum-lava-tubes', 'Лавовые трубки Гомунорым'], ['mount-kilimanjaro', 'Килиманджаро'], ['lake-baikal', 'Озеро Байкал'], ['namib-sand-sea', 'Намибское песчаное море']]) {
+  for (const [id, title] of [['barbados-national-flag', 'Барбадос'], ['antigua-and-barbuda-national-flag', 'Антигуа и Барбуда'], ['bosnia-and-herzegovina-national-flag', 'Босния и Герцеговина'], ['bosnia-and-herzegovina-coat-of-arms', 'Босния и Герцеговина'], ['seongsan-ilchulbong', 'Сонсан-Ильчхульбон'], ['mount-halla', 'Халласан'], ['geomunoreum-lava-tubes', 'Лавовые трубки Гомунорым'], ['mount-kilimanjaro', 'Килиманджаро'], ['lake-baikal', 'Озеро Байкал'], ['namib-sand-sea', 'Намибское песчаное море']]) {
     await page.goto(`/item/${id}`);
     await expect(page.getByRole('heading', { name: title })).toBeVisible();
     await expect(page.getByRole('heading', { name: 'Источники и права' })).toBeVisible();
