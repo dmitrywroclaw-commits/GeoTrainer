@@ -1,0 +1,75 @@
+{
+  "batch_id": "003h-m49-104-myanmar",
+  "checked_at": "2026-09-23",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "mm-constitution-moi",
+      "title": "Constitution of the Republic of the Union of Myanmar, chapter XIII",
+      "publisher": "Ministry of Information of Myanmar",
+      "source_type": "law",
+      "url": "https://www.moi.gov.mm/sites/default/files/general-pdf/2020-06/Con%20%26%20Repub%20%28Myanm%20%26%20Eng%29%20Big-1.pdf",
+      "accessed_at": "2026-09-23",
+      "supports": "Статьи 437–438 отдельно устанавливают государственный флаг и государственную печать."
+    },
+    {
+      "source_id": "mm-national-symbols-portal",
+      "title": "National Symbols — Union Flag and State Seal",
+      "publisher": "Myanmar National Portal",
+      "source_type": "government_publication",
+      "url": "https://myanmar.gov.mm/en/web/guest/national-symbols",
+      "accessed_at": "2026-09-23",
+      "supports": "Точный рисунок флага: три равные горизонтальные полосы и большая белая пятиконечная звезда; объяснение цветов и звезды по Union Flag Law. Раздел о печати опубликован без учёта поправки 2025 года."
+    },
+    {
+      "source_id": "mm-state-seal-amendment-2025",
+      "title": "Law Amending the State Seal Law, No. 2/2025",
+      "publisher": "Ministry of Information of Myanmar",
+      "source_type": "law",
+      "url": "https://www.moi.gov.mm/file-download/download/public/93564",
+      "accessed_at": "2026-09-23",
+      "supports": "Первичный текст изменения закона о государственной печати 11 августа 2025 года; актуальную редакцию рисунка и надписей нужно сверить до публикации."
+    },
+    {
+      "source_id": "mm-flag-ceremony-moi-2026",
+      "title": "State flag hoisted, saluted to mark 79th Union Day in Nay Pyi Taw",
+      "publisher": "Ministry of Information of Myanmar",
+      "source_type": "government_publication",
+      "url": "https://www.moi.gov.mm/moi%3Aeng/index.php/news/20265",
+      "accessed_at": "2026-09-23",
+      "supports": "Подтверждает современное использование государственного флага в 2026 году."
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "myanmar",
+      "audit_status": "deferred",
+      "notes": "Государственный/национальный флаг со звездой подтверждён первичными источниками и опубликован. Национальный портал содержит старое описание печати, но 11 августа 2025 года специальный закон изменён; действующую редакцию, официальный образец и пригодное изображение печати нужно сверить отдельно. Военные и региональные флаги не приравнены к общенациональным учебным вариантам. Вопрос Q-11 отложен в OPEN_QUESTIONS.md.",
+      "flags": [
+        {
+          "variant_id": "myanmar-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "five_pointed_star",
+          "decision": "eligible",
+          "decision_reason": "Конституция и национальный портал описывают жёлто-зелёно-красное полотнище с большой белой пятиконечной звездой; звезда проходит графический критерий.",
+          "source_ids": "mm-constitution-moi|mm-national-symbols-portal|mm-flag-ceremony-moi-2026",
+          "primary_source_urls": "https://www.moi.gov.mm/sites/default/files/general-pdf/2020-06/Con%20%26%20Repub%20%28Myanm%20%26%20Eng%29%20Big-1.pdf|https://myanmar.gov.mm/en/web/guest/national-symbols|https://www.moi.gov.mm/moi%3Aeng/index.php/news/20265"
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "myanmar-state-seal",
+          "symbol_type": "state_seal",
+          "official_name_ru": "Государственная печать Мьянмы",
+          "elements": "map|eugenia_sprigs|lions|star|inscription",
+          "decision": "deferred",
+          "decision_reason": "Печать официальна, но Закон № 2/2025 изменил её описание после публикации текста национального портала; точный действующий образец и права на конкретное изображение ещё не сверены.",
+          "source_ids": "mm-constitution-moi|mm-national-symbols-portal|mm-state-seal-amendment-2025",
+          "primary_source_urls": "https://www.moi.gov.mm/sites/default/files/general-pdf/2020-06/Con%20%26%20Repub%20%28Myanm%20%26%20Eng%29%20Big-1.pdf|https://myanmar.gov.mm/en/web/guest/national-symbols|https://www.moi.gov.mm/file-download/download/public/93564"
+        }
+      ]
+    }
+  ]
+}

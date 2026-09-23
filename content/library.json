@@ -247,6 +247,14 @@
       "m49": "724",
       "iso2": "ES",
       "iso3": "ESP"
+    },
+    {
+      "id": "myanmar",
+      "nameRu": "Мьянма",
+      "region": "Юго-Восточная Азия",
+      "m49": "104",
+      "iso2": "MM",
+      "iso3": "MMR"
     }
   ],
   "sources": [
@@ -656,6 +664,30 @@
       "publisher": "UNESCO World Heritage Centre",
       "url": "https://whc.unesco.org/en/list/1258",
       "sourceType": "unesco",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "mm-constitution-moi",
+      "title": "Constitution of the Republic of the Union of Myanmar, chapter XIII",
+      "publisher": "Ministry of Information of Myanmar",
+      "url": "https://www.moi.gov.mm/sites/default/files/general-pdf/2020-06/Con%20%26%20Repub%20%28Myanm%20%26%20Eng%29%20Big-1.pdf",
+      "sourceType": "law",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "mm-national-symbols-portal",
+      "title": "National Symbols — Union Flag and State Seal",
+      "publisher": "Myanmar National Portal",
+      "url": "https://myanmar.gov.mm/en/web/guest/national-symbols",
+      "sourceType": "government",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "mm-flag-ceremony-moi-2026",
+      "title": "State flag hoisted, saluted to mark 79th Union Day in Nay Pyi Taw",
+      "publisher": "Ministry of Information of Myanmar",
+      "url": "https://www.moi.gov.mm/moi%3Aeng/index.php/news/20265",
+      "sourceType": "government",
       "accessedAt": "2026-09-23"
     }
   ],
@@ -2903,6 +2935,52 @@
           "volcano",
           "island",
           "lava_landscape"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "myanmar-national-flag",
+      "kind": "flag",
+      "countryId": "myanmar",
+      "nameRu": "Мьянма",
+      "subtitleRu": "Государственный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-myanmar",
+      "summaryRu": "Три горизонтальные полосы — жёлтая, зелёная и красная — пересечены большой белой пятиконечной звездой.",
+      "explanationRu": "Для распознавания запомните крупную белую звезду в центре триколора. Закон о флаге в изложении национального портала связывает белый цвет звезды с чистотой, честностью и состраданием; жёлтый — с единством, зелёный — с плодородием и миром, красный — с храбростью.",
+      "symbols": [
+        {
+          "nameRu": "Белая пятиконечная звезда",
+          "category": "star",
+          "meaningRu": "Её белый цвет означает чистоту, честность и сострадание.",
+          "meaningStatus": "official",
+          "sourceIds": [
+            "mm-national-symbols-portal"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Регион",
+          "valueRu": "Юго-Восточная Азия"
+        },
+        {
+          "labelRu": "Цвета полос",
+          "valueRu": "Жёлтый, зелёный, красный"
+        }
+      ],
+      "sourceIds": [
+        "mm-constitution-moi",
+        "mm-national-symbols-portal",
+        "mm-flag-ceremony-moi-2026"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "star_symbol",
+          "horizontal_tricolor"
         ]
       },
       "status": "published",
