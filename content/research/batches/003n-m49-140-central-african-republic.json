@@ -1,0 +1,78 @@
+{
+  "batch_id": "003n-m49-140-central-african-republic",
+  "checked_at": "2026-09-23",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "cf-constitution-2023-embassy",
+      "title": "Constitution de la République Centrafricaine de 2023, article 1",
+      "publisher": "Ambassade de la République Centrafricaine en France",
+      "source_type": "law",
+      "url": "https://paris.diplomatie.gouv.cf/sites/paris/files/2023-07/Nouvelle-Constitution_RCA_Bonne-Version_2023.pdf",
+      "accessed_at": "2026-09-23",
+      "supports": "Действующее конституционное описание флага с четырьмя горизонтальными полосами, красной вертикальной полосой и жёлтой звездой; подтверждение отдельного правового статуса герба и печатей."
+    },
+    {
+      "source_id": "cf-symbols-embassy",
+      "title": "Ses symboles",
+      "publisher": "Ambassade de la République Centrafricaine en France",
+      "source_type": "government_publication",
+      "url": "https://paris.diplomatie.gouv.cf/centrafrique/28/ses-symboles",
+      "accessed_at": "2026-09-23",
+      "supports": "Официальное описание флага, значение звезды и цветов; подробное описание герба с четверочастным щитом, солнцем, девизом и орденом."
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "central-african-republic",
+      "audit_status": "deferred",
+      "notes": "Национальный флаг и герб подтверждены Конституцией и сайтом посольства; их локальные SVG опубликованы. Конституция отдельно упоминает государственные печати, но не описывает их вид. Сторонние каталоги показывают президентский штандарт, однако первичного подтверждения его действующего рисунка не найдено; оба вопроса отложены как Q-15.",
+      "flags": [
+        {
+          "variant_id": "central-african-republic-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "yellow_five_pointed_star|red_vertical_band|four_horizontal_bands",
+          "decision": "eligible",
+          "decision_reason": "Статья 1 Конституции 2023 года описывает действующий флаг со звездой, четырьмя горизонтальными и одной вертикальной полосой.",
+          "source_ids": "cf-constitution-2023-embassy|cf-symbols-embassy",
+          "primary_source_urls": "https://paris.diplomatie.gouv.cf/sites/paris/files/2023-07/Nouvelle-Constitution_RCA_Bonne-Version_2023.pdf|https://paris.diplomatie.gouv.cf/centrafrique/28/ses-symboles"
+        },
+        {
+          "variant_id": "central-african-republic-presidential-standard",
+          "variant_type": "other_official",
+          "is_primary_study_variant": "false",
+          "official_status": "unverified",
+          "graphic_elements": "national_flag|presidential_insignia_unverified",
+          "decision": "deferred",
+          "decision_reason": "Изображение штандарта встречается в сторонних каталогах, но действующий статус и точный рисунок не подтверждены первичным актом или образцом.",
+          "source_ids": "cf-constitution-2023-embassy",
+          "primary_source_urls": "https://paris.diplomatie.gouv.cf/sites/paris/files/2023-07/Nouvelle-Constitution_RCA_Bonne-Version_2023.pdf"
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "central-african-republic-coat-of-arms",
+          "symbol_type": "coat_of_arms",
+          "official_name_ru": "Государственный герб Центральноафриканской Республики",
+          "elements": "quartered_shield|elephant_head|baobab|stars|hand|africa_map|sun|flags|order|motto",
+          "decision": "eligible",
+          "decision_reason": "Посольство приводит официальное описание герба; Конституция 2023 года отдельно признаёт герб как охраняемый законом государственный символ.",
+          "source_ids": "cf-constitution-2023-embassy|cf-symbols-embassy",
+          "primary_source_urls": "https://paris.diplomatie.gouv.cf/sites/paris/files/2023-07/Nouvelle-Constitution_RCA_Bonne-Version_2023.pdf|https://paris.diplomatie.gouv.cf/centrafrique/28/ses-symboles"
+        },
+        {
+          "symbol_id": "central-african-republic-state-seals",
+          "symbol_type": "state_seal",
+          "official_name_ru": "Государственные печати Центральноафриканской Республики",
+          "elements": "design_unverified",
+          "decision": "deferred",
+          "decision_reason": "Конституция упоминает печати отдельно от герба, но не приводит их точные действующие рисунки.",
+          "source_ids": "cf-constitution-2023-embassy",
+          "primary_source_urls": "https://paris.diplomatie.gouv.cf/sites/paris/files/2023-07/Nouvelle-Constitution_RCA_Bonne-Version_2023.pdf"
+        }
+      ]
+    }
+  ]
+}

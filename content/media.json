@@ -767,5 +767,29 @@
     "license": "Public domain — author dedication",
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Cape_Verde.svg",
     "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "flag-central-african-republic",
+    "kind": "flag",
+    "localPath": "/media/flags/central-african-republic.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Central_African_Republic.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Central_African_Republic.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Barthélemy Boganda (design); MapGrid and Wikimedia Commons editors (vector)",
+    "license": "Public domain — simple geometry; Central African Republic copyright term",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Central_African_Republic.svg",
+    "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "emblem-central-african-republic",
+    "kind": "emblem",
+    "localPath": "/media/emblems/central-african-republic.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Central_African_Republic.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Coat_of_arms_of_the_Central_African_Republic.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Original artist unknown; TRAJAN 117 and later Wikimedia Commons editors (vector)",
+    "license": "Public domain — Central African Republic copyright term; no original authorship",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Central_African_Republic.svg",
+    "checkedAt": "2026-09-23"
   }
 ]

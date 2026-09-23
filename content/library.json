@@ -295,6 +295,14 @@
       "m49": "132",
       "iso2": "CV",
       "iso3": "CPV"
+    },
+    {
+      "id": "central-african-republic",
+      "nameRu": "Центральноафриканская Республика",
+      "region": "Центральная Африка",
+      "m49": "140",
+      "iso2": "CF",
+      "iso3": "CAF"
     }
   ],
   "sources": [
@@ -831,6 +839,22 @@
       "title": "Armas da República",
       "publisher": "Governo de Cabo Verde",
       "url": "https://www.governo.cv/o-arquipelago/simbolos/armas-da-republica/",
+      "sourceType": "government",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "cf-constitution-2023-embassy",
+      "title": "Constitution de la République Centrafricaine de 2023, article 1",
+      "publisher": "Ambassade de la République Centrafricaine en France",
+      "url": "https://paris.diplomatie.gouv.cf/sites/paris/files/2023-07/Nouvelle-Constitution_RCA_Bonne-Version_2023.pdf",
+      "sourceType": "law",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "cf-symbols-embassy",
+      "title": "Ses symboles",
+      "publisher": "Ambassade de la République Centrafricaine en France",
+      "url": "https://paris.diplomatie.gouv.cf/centrafrique/28/ses-symboles",
       "sourceType": "government",
       "accessedAt": "2026-09-23"
     }
@@ -3654,6 +3678,105 @@
           "torch",
           "ten_stars",
           "palm_branches"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "central-african-republic-national-flag",
+      "kind": "flag",
+      "countryId": "central-african-republic",
+      "nameRu": "Центральноафриканская Республика",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-central-african-republic",
+      "summaryRu": "Четыре равные горизонтальные полосы синего, белого, зелёного и жёлтого цветов пересечены красной вертикальной полосой; в левом верхнем углу — жёлтая звезда.",
+      "explanationRu": "Конституция закрепляет этот рисунок. По объяснению посольства звезда ведёт народ к свободе и освобождению; синий, белый и красный напоминают о французском флаге, а зелёный, жёлтый и красный — об общеафриканских цветах.",
+      "symbols": [
+        {
+          "nameRu": "Жёлтая звезда",
+          "category": "star",
+          "meaningRu": "Путь народа к свободе и освобождению.",
+          "meaningStatus": "official",
+          "sourceIds": [
+            "cf-symbols-embassy"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Регион",
+          "valueRu": "Центральная Африка"
+        },
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Четыре горизонтальные и одна вертикальная"
+        }
+      ],
+      "sourceIds": [
+        "cf-constitution-2023-embassy",
+        "cf-symbols-embassy"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "single_star",
+          "red_vertical_band",
+          "blue_white_green_yellow"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "central-african-republic-coat-of-arms",
+      "kind": "emblem",
+      "countryId": "central-african-republic",
+      "nameRu": "Центральноафриканская Республика",
+      "subtitleRu": "Государственный герб",
+      "symbolType": "coat_of_arms",
+      "mediaId": "emblem-central-african-republic",
+      "summaryRu": "Четверочастный щит с головой слона, деревом, звёздами и рукой; в центре — карта Африки со звездой. Над щитом солнце, по сторонам флаги, внизу орден и девиз.",
+      "explanationRu": "Герб легче узнать по четырём разным полям щита и карте Африки в центре. Посольство приводит официальный рисунок и описание; смысл отдельных фигур здесь не утверждается, поскольку первичного объяснения этих значений не найдено.",
+      "symbols": [
+        {
+          "nameRu": "Карта Африки со звездой",
+          "category": "map",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "cf-symbols-embassy"
+          ]
+        },
+        {
+          "nameRu": "Голова слона и дерево",
+          "category": "animal_plant",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "cf-symbols-embassy"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Государственный герб"
+        },
+        {
+          "labelRu": "Девиз",
+          "valueRu": "Единство, достоинство, труд"
+        }
+      ],
+      "sourceIds": [
+        "cf-constitution-2023-embassy",
+        "cf-symbols-embassy"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "quartered_shield",
+          "elephant",
+          "africa_map",
+          "sun"
         ]
       },
       "status": "published",
