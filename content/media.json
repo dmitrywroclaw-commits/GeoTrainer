@@ -1147,5 +1147,19 @@
     "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attributionText": "W. Bulach / Wikimedia Commons, CC BY-SA 4.0; уменьшено до 1280 px по ширине.",
     "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "photo-vjetrenica-cave",
+    "kind": "photo",
+    "localPath": "/media/landmarks/vjetrenica-cave.jpg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Vjetrenica_Cave_Inside_2024.jpg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Vjetrenica_Cave_Inside_2024.jpg",
+    "publisher": "Wikimedia Commons",
+    "author": "Bdx",
+    "rightsHolder": "Bdx",
+    "license": "CC0 1.0",
+    "rightsUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attributionText": "Bdx / Wikimedia Commons, CC0 1.0; уменьшено до 1280 px по ширине.",
+    "checkedAt": "2026-09-23"
   }
 ]

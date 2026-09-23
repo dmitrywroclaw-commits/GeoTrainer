@@ -1,0 +1,41 @@
+{
+  "batch_id": "nature-011-whc-1673",
+  "checked_at": "2026-09-23",
+  "sources": [
+    {
+      "source_id": "vjetrenica-cave-unesco",
+      "title": "Vjetrenica Cave, Ravno",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_type": "unesco",
+      "url": "https://whc.unesco.org/en/list/1673",
+      "accessed_at": "2026-09-23",
+      "supports": "ЮНЕСКО подтверждает именованную пещеру Ветреница в Динарском карсте на юге Боснии и Герцеговины, её карстовые формы и исключительное разнообразие подземной фауны."
+    }
+  ],
+  "landmarks": [
+    {
+      "landmark_id": "vjetrenica-cave",
+      "name_original": "Vjetrenica Cave",
+      "name_ru": "Пещера Ветреница",
+      "landmark_type": "cave",
+      "country_ids": "bosnia-and-herzegovina",
+      "region": "Равно, юг Боснии и Герцеговины",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО выделяет конкретную именованную карстовую пещеру как место с разнообразной подземной фауной и эндемичными видами.",
+      "source_catalog": "unesco_whc:1673",
+      "source_ids": "vjetrenica-cave-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/1673",
+      "decision": "eligible",
+      "decision_reason": "Самостоятельная именованная пещера с подтверждённой местностью и пригодным изображением внутренней части.",
+      "notes": "Не превращать заявленное ЮНЕСКО биологическое значение в визуально распознаваемый признак фотографии; не использовать длину без указания методики."
+    }
+  ],
+  "catalog_updates": [
+    {
+      "catalog_record_id": "whc-1673",
+      "landmark_ids": ["vjetrenica-cave"],
+      "candidate_decision": "eligible",
+      "decision_reason": "Исходная территория содержит одну конкретную именованную карстовую пещеру."
+    }
+  ]
+}

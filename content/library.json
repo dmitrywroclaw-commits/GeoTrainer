@@ -1049,6 +1049,14 @@
       "url": "https://whc.unesco.org/en/list/1369",
       "sourceType": "unesco",
       "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "vjetrenica-cave-unesco",
+      "title": "Vjetrenica Cave, Ravno",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1673",
+      "sourceType": "unesco",
+      "accessedAt": "2026-09-23"
     }
   ],
   "entries": [
@@ -5038,6 +5046,43 @@
           "gorge",
           "sandstone",
           "australia"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "vjetrenica-cave",
+      "kind": "landmark",
+      "countryIds": [
+        "bosnia-and-herzegovina"
+      ],
+      "nameRu": "Пещера Ветреница",
+      "subtitleRu": "Карстовая пещера Динарского нагорья",
+      "landmarkType": "cave",
+      "regionRu": "Равно, Босния и Герцеговина",
+      "mediaId": "photo-vjetrenica-cave",
+      "summaryRu": "Подземная галерея пещеры Ветреница с открытыми слоями породы и оборудованной дорожкой для посетителей.",
+      "explanationRu": "Ветреница — карстовая пещера на юге Боснии и Герцеговины. ЮНЕСКО выделяет её прежде всего за разнообразие и эндемичность подземной фауны. На снимке видна часть доступной посетителям скальной галереи; животные на нём не показаны.",
+      "whyNotableRu": "Именованная пещера Всемирного наследия с исключительным разнообразием подземной фауны.",
+      "facts": [
+        {
+          "labelRu": "Где находится",
+          "valueRu": "Равно, юг Боснии и Герцеговины"
+        },
+        {
+          "labelRu": "Тип",
+          "valueRu": "Карстовая пещера"
+        }
+      ],
+      "sourceIds": [
+        "vjetrenica-cave-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "cave",
+          "karst",
+          "bosnia-and-herzegovina"
         ]
       },
       "status": "published",

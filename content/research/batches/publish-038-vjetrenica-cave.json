@@ -1,0 +1,32 @@
+{
+  "batch_id": "publish-038-vjetrenica-cave",
+  "sources": [
+    { "id": "vjetrenica-cave-unesco", "title": "Vjetrenica Cave, Ravno", "publisher": "UNESCO World Heritage Centre", "url": "https://whc.unesco.org/en/list/1673", "sourceType": "unesco", "accessedAt": "2026-09-23" }
+  ],
+  "media": [
+    {
+      "id": "photo-vjetrenica-cave", "kind": "photo", "localPath": "/media/landmarks/vjetrenica-cave.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Vjetrenica_Cave_Inside_2024.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Vjetrenica_Cave_Inside_2024.jpg",
+      "publisher": "Wikimedia Commons", "author": "Bdx", "rightsHolder": "Bdx",
+      "license": "CC0 1.0", "rightsUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attributionText": "Bdx / Wikimedia Commons, CC0 1.0; уменьшено до 1280 px по ширине.", "checkedAt": "2026-09-23"
+    }
+  ],
+  "entries": [
+    {
+      "id": "vjetrenica-cave", "kind": "landmark", "countryIds": ["bosnia-and-herzegovina"], "nameRu": "Пещера Ветреница",
+      "subtitleRu": "Карстовая пещера Динарского нагорья", "landmarkType": "cave",
+      "regionRu": "Равно, Босния и Герцеговина", "mediaId": "photo-vjetrenica-cave",
+      "summaryRu": "Подземная галерея пещеры Ветреница с открытыми слоями породы и оборудованной дорожкой для посетителей.",
+      "explanationRu": "Ветреница — карстовая пещера на юге Боснии и Герцеговины. ЮНЕСКО выделяет её прежде всего за разнообразие и эндемичность подземной фауны. На снимке видна часть доступной посетителям скальной галереи; животные на нём не показаны.",
+      "whyNotableRu": "Именованная пещера Всемирного наследия с исключительным разнообразием подземной фауны.",
+      "facts": [
+        { "labelRu": "Где находится", "valueRu": "Равно, юг Боснии и Герцеговины" },
+        { "labelRu": "Тип", "valueRu": "Карстовая пещера" }
+      ],
+      "sourceIds": ["vjetrenica-cave-unesco"], "quizHints": { "similarityTags": ["cave", "karst", "bosnia-and-herzegovina"] },
+      "status": "published", "verifiedAt": "2026-09-23"
+    }
+  ]
+}
