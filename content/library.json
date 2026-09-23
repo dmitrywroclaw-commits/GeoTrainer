@@ -279,6 +279,14 @@
       "m49": "112",
       "iso2": "BY",
       "iso3": "BLR"
+    },
+    {
+      "id": "cameroon",
+      "nameRu": "Камерун",
+      "region": "Центральная Африка",
+      "m49": "120",
+      "iso2": "CM",
+      "iso3": "CMR"
     }
   ],
   "sources": [
@@ -767,6 +775,22 @@
       "title": "Дзяржаўныя сімвалы",
       "publisher": "Витебский областной комитет по труду, занятости и социальной защите",
       "url": "https://be.vitkomtrud.gov.by/page/gosudarstvennye-simvoly",
+      "sourceType": "government",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "cm-constitution-presidency",
+      "title": "Constitution of the Republic of Cameroon, Article 1",
+      "publisher": "Presidency of the Republic of Cameroon",
+      "url": "https://www.prc.cm/files/c9/b7/ea/c0609c9d4b1c56a57d25fe5897d534a9.pdf",
+      "sourceType": "law",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "cm-flag-presidency-2022",
+      "title": "The National Flag: A Rallying Banner",
+      "publisher": "Presidency of the Republic of Cameroon",
+      "url": "https://www.prc.cm/files/f6/9e/cd/9e544bcc6412dfd56317bb59a4623fb6.pdf",
       "sourceType": "government",
       "accessedAt": "2026-09-23"
     }
@@ -3355,6 +3379,102 @@
           "country_outline",
           "red_star",
           "wreath"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "cameroon-national-flag",
+      "kind": "flag",
+      "countryId": "cameroon",
+      "nameRu": "Камерун",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-cameroon",
+      "summaryRu": "Три равные вертикальные полосы — зелёная, красная и жёлтая; в центре красной полосы золотая пятиконечная звезда.",
+      "explanationRu": "Главный ориентир — одна золотая звезда в центре. По материалу администрации Президента она обозначает единство; зелёный цвет связан с надеждой и растительностью, красный напоминает о борьбе за свободу, а жёлтый — о солнце.",
+      "symbols": [
+        {
+          "nameRu": "Золотая звезда",
+          "category": "star",
+          "meaningRu": "Единство страны.",
+          "meaningStatus": "official",
+          "sourceIds": [
+            "cm-flag-presidency-2022"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Регион",
+          "valueRu": "Центральная Африка"
+        },
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Три равные вертикальные"
+        }
+      ],
+      "sourceIds": [
+        "cm-constitution-presidency",
+        "cm-flag-presidency-2022"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "single_star",
+          "green_red_yellow"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "cameroon-coat-of-arms",
+      "kind": "emblem",
+      "countryId": "cameroon",
+      "nameRu": "Камерун",
+      "subtitleRu": "Государственный герб",
+      "symbolType": "coat_of_arms",
+      "mediaId": "emblem-cameroon",
+      "summaryRu": "На щите с зелёным, красным и жёлтым полями изображены звезда, контур Камеруна, меч и весы; за щитом скрещены два фасция.",
+      "explanationRu": "Герб узнаётся по контуру страны и весам внутри щита. Конституция описывает эти фигуры и девиз «Peace – Work – Fatherland»; значения отдельных фигур здесь не утверждаются без официального объяснения.",
+      "symbols": [
+        {
+          "nameRu": "Контур Камеруна",
+          "category": "map",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "cm-constitution-presidency"
+          ]
+        },
+        {
+          "nameRu": "Меч и весы",
+          "category": "justice",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "cm-constitution-presidency"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Государственный герб"
+        },
+        {
+          "labelRu": "Девиз",
+          "valueRu": "Мир, труд, отечество"
+        }
+      ],
+      "sourceIds": [
+        "cm-constitution-presidency"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "country_outline",
+          "scales",
+          "fasces"
         ]
       },
       "status": "published",

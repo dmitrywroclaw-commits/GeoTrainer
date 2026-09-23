@@ -1,0 +1,67 @@
+{
+  "batch_id": "003l-m49-120-cameroon",
+  "checked_at": "2026-09-23",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "cm-constitution-presidency",
+      "title": "Constitution of the Republic of Cameroon, Article 1",
+      "publisher": "Presidency of the Republic of Cameroon",
+      "source_type": "law",
+      "url": "https://www.prc.cm/files/c9/b7/ea/c0609c9d4b1c56a57d25fe5897d534a9.pdf",
+      "accessed_at": "2026-09-23",
+      "supports": "Конституционное описание флага с золотой звездой, герба со щитом, картой, весами и фасциями, а также отдельной Большой государственной печати с двусторонним рисунком."
+    },
+    {
+      "source_id": "cm-flag-presidency-2022",
+      "title": "The National Flag: A Rallying Banner",
+      "publisher": "Presidency of the Republic of Cameroon",
+      "source_type": "government_publication",
+      "url": "https://www.prc.cm/files/f6/9e/cd/9e544bcc6412dfd56317bb59a4623fb6.pdf",
+      "accessed_at": "2026-09-23",
+      "supports": "Официальное описание трёх полос и золотой звезды, объяснение их значений."
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "cameroon",
+      "audit_status": "deferred",
+      "notes": "Конституция и издание администрации Президента подтверждают флаг и герб; оба опубликованы с локальными SVG. Конституция отдельно описывает Большую государственную печать с лицевой и оборотной сторонами; её действующий официальный образец и права на конкретные изображения ещё предстоит сверить (Q-14).",
+      "flags": [
+        {
+          "variant_id": "cameroon-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "gold_five_pointed_star",
+          "decision": "eligible",
+          "decision_reason": "Конституция и официальный материал показывают золотую пятиконечную звезду на средней красной полосе.",
+          "source_ids": "cm-constitution-presidency|cm-flag-presidency-2022",
+          "primary_source_urls": "https://www.prc.cm/files/c9/b7/ea/c0609c9d4b1c56a57d25fe5897d534a9.pdf|https://www.prc.cm/files/f6/9e/cd/9e544bcc6412dfd56317bb59a4623fb6.pdf"
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "cameroon-coat-of-arms",
+          "symbol_type": "coat_of_arms",
+          "official_name_ru": "Государственный герб Камеруна",
+          "elements": "shield|star|country_outline|sword|scales|fasces|motto",
+          "decision": "eligible",
+          "decision_reason": "Конституция описывает герб со щитом, звездой, контуром страны, мечом, весами и двумя скрещёнными фасциями.",
+          "source_ids": "cm-constitution-presidency",
+          "primary_source_urls": "https://www.prc.cm/files/c9/b7/ea/c0609c9d4b1c56a57d25fe5897d534a9.pdf"
+        },
+        {
+          "symbol_id": "cameroon-great-seal",
+          "symbol_type": "state_seal",
+          "official_name_ru": "Большая государственная печать Камеруна",
+          "elements": "obverse_figure|coffee_leaves|cocoa_pods|reverse_coat_of_arms|bilingual_inscriptions",
+          "decision": "deferred",
+          "decision_reason": "Конституция описывает отдельную двустороннюю государственную печать, но её действующий официальный образец и права на конкретные изображения ещё не сверены.",
+          "source_ids": "cm-constitution-presidency",
+          "primary_source_urls": "https://www.prc.cm/files/c9/b7/ea/c0609c9d4b1c56a57d25fe5897d534a9.pdf"
+        }
+      ]
+    }
+  ]
+}

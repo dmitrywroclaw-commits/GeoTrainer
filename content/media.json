@@ -705,5 +705,29 @@
     "license": "Public domain — Belarus state symbol",
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Belarus_(2020%E2%80%93present).svg",
     "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "flag-cameroon",
+    "kind": "flag",
+    "localPath": "/media/flags/cameroon.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Cameroon.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "SKopp; SVG code by -xfi-",
+    "license": "Public domain — Cameroon official insignia and simple geometry",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Cameroon.svg",
+    "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "emblem-cameroon",
+    "kind": "emblem",
+    "localPath": "/media/emblems/cameroon.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Cameroon.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Coat_of_arms_of_Cameroon.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Original author unknown; vector by Connormah; later Wikimedia Commons editors",
+    "license": "Public domain — Cameroon official insignia",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Cameroon.svg",
+    "checkedAt": "2026-09-23"
   }
 ]
