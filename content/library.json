@@ -303,6 +303,14 @@
       "m49": "140",
       "iso2": "CF",
       "iso3": "CAF"
+    },
+    {
+      "id": "sri-lanka",
+      "nameRu": "Шри-Ланка",
+      "region": "Южная Азия",
+      "m49": "144",
+      "iso2": "LK",
+      "iso3": "LKA"
     }
   ],
   "sources": [
@@ -855,6 +863,30 @@
       "title": "Ses symboles",
       "publisher": "Ambassade de la République Centrafricaine en France",
       "url": "https://paris.diplomatie.gouv.cf/centrafrique/28/ses-symboles",
+      "sourceType": "government",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "lk-constitution-parliament",
+      "title": "The Constitution of the Democratic Socialist Republic of Sri Lanka, Article 6 and Second Schedule",
+      "publisher": "Parliament of Sri Lanka",
+      "url": "https://www.parliament.lk/en/constitution-main",
+      "sourceType": "law",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "lk-overview-government",
+      "title": "Sri Lanka Country Overview: National Flag and National Emblem",
+      "publisher": "Government of Sri Lanka",
+      "url": "https://www.gov.lk/index.php/sri-lanka/country-overview",
+      "sourceType": "government",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "lk-national-archives-republic",
+      "title": "Becoming a republic",
+      "publisher": "Sri Lanka National Archives",
+      "url": "https://archives.gov.lk/online-exhibits/path-to-freedom/republic",
       "sourceType": "government",
       "accessedAt": "2026-09-23"
     }
@@ -3777,6 +3809,118 @@
           "elephant",
           "africa_map",
           "sun"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "sri-lanka-national-flag",
+      "kind": "flag",
+      "countryId": "sri-lanka",
+      "nameRu": "Шри-Ланка",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-sri-lanka",
+      "summaryRu": "В бордовом поле изображён золотой лев с мечом, по углам — четыре листа бо; слева зелёная и оранжевая вертикальные полосы, вокруг жёлтая кайма.",
+      "explanationRu": "По объяснению правительства лев связан с сингальским народом, меч — с суверенитетом. Оранжевая полоса представляет тамильское меньшинство, зелёная — мусульманское; листья бо связаны с буддизмом и четырьмя добродетелями.",
+      "symbols": [
+        {
+          "nameRu": "Лев с мечом",
+          "category": "animal",
+          "meaningRu": "Лев представляет сингальский народ, меч — суверенитет страны.",
+          "meaningStatus": "official",
+          "sourceIds": [
+            "lk-overview-government"
+          ]
+        },
+        {
+          "nameRu": "Листья бо",
+          "category": "plant",
+          "meaningRu": "Буддизм и четыре добродетели.",
+          "meaningStatus": "official",
+          "sourceIds": [
+            "lk-overview-government"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Регион",
+          "valueRu": "Южная Азия"
+        },
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Зелёная и оранжевая у древка"
+        }
+      ],
+      "sourceIds": [
+        "lk-constitution-parliament",
+        "lk-overview-government"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "lion",
+          "sword",
+          "bo_leaves",
+          "orange_green_stripes"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "sri-lanka-national-emblem",
+      "kind": "emblem",
+      "countryId": "sri-lanka",
+      "nameRu": "Шри-Ланка",
+      "subtitleRu": "Государственная эмблема",
+      "symbolType": "national_emblem",
+      "mediaId": "emblem-sri-lanka",
+      "summaryRu": "В центре — золотой лев с мечом на бордовом фоне, окружённый лепестками лотоса; вокруг колосья риса, внизу сосуд для зерна, наверху колесо Дхармы.",
+      "explanationRu": "Правительственный портал связывает колосья риса с процветанием, а колесо Дхармы — с буддизмом и справедливым правлением. Национальный архив подтверждает, что эмблема создана при переходе страны к республике в 1972 году и служит государственной печатью.",
+      "symbols": [
+        {
+          "nameRu": "Колосья риса",
+          "category": "plant",
+          "meaningRu": "Процветание.",
+          "meaningStatus": "official",
+          "sourceIds": [
+            "lk-overview-government"
+          ]
+        },
+        {
+          "nameRu": "Колесо Дхармы",
+          "category": "wheel",
+          "meaningRu": "Буддизм и справедливое правление.",
+          "meaningStatus": "official",
+          "sourceIds": [
+            "lk-overview-government"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Государственная эмблема"
+        },
+        {
+          "labelRu": "Принята",
+          "valueRu": "1972 год"
+        }
+      ],
+      "sourceIds": [
+        "lk-overview-government",
+        "lk-national-archives-republic"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "lion",
+          "sword",
+          "lotus",
+          "dharmachakra",
+          "rice"
         ]
       },
       "status": "published",

@@ -791,5 +791,29 @@
     "license": "Public domain — Central African Republic copyright term; no original authorship",
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Central_African_Republic.svg",
     "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "flag-sri-lanka",
+    "kind": "flag",
+    "localPath": "/media/flags/sri-lanka.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Sri_Lanka.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Sri Lanka (original design); Zscout370, Mike Rohsopht and later Wikimedia Commons editors (vector)",
+    "license": "Public domain in Sri Lanka — official national flag",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Sri_Lanka.svg",
+    "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "emblem-sri-lanka",
+    "kind": "emblem",
+    "localPath": "/media/emblems/sri-lanka.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Emblem_of_Sri_Lanka.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Emblem_of_Sri_Lanka.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "S. M. Seneviratne (state design); Tonyjeff and later Wikimedia Commons editors (vector)",
+    "license": "Public domain in Sri Lanka — original; vector dedicated to public domain",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Emblem_of_Sri_Lanka.svg",
+    "checkedAt": "2026-09-23"
   }
 ]

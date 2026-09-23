@@ -1,0 +1,106 @@
+{
+  "batch_id": "003o-m49-144-sri-lanka",
+  "checked_at": "2026-09-23",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "lk-constitution-parliament",
+      "title": "The Constitution of the Democratic Socialist Republic of Sri Lanka, Article 6 and Second Schedule",
+      "publisher": "Parliament of Sri Lanka",
+      "source_type": "law",
+      "url": "https://www.parliament.lk/en/constitution-main",
+      "accessed_at": "2026-09-23",
+      "supports": "Конституционное закрепление национального флага и его изображения во Втором приложении."
+    },
+    {
+      "source_id": "lk-overview-government",
+      "title": "Sri Lanka Country Overview: National Flag and National Emblem",
+      "publisher": "Government of Sri Lanka",
+      "source_type": "government_publication",
+      "url": "https://www.gov.lk/index.php/sri-lanka/country-overview",
+      "accessed_at": "2026-09-23",
+      "supports": "Описание государственного флага и эмблемы и официальные объяснения основных элементов."
+    },
+    {
+      "source_id": "lk-national-archives-republic",
+      "title": "Becoming a republic",
+      "publisher": "Sri Lanka National Archives",
+      "source_type": "government_publication",
+      "url": "https://archives.gov.lk/online-exhibits/path-to-freedom/republic",
+      "accessed_at": "2026-09-23",
+      "supports": "Государственная эмблема создана в 1972 году и служит официальной печатью государства."
+    },
+    {
+      "source_id": "lk-navy-history",
+      "title": "History",
+      "publisher": "Sri Lanka Navy",
+      "source_type": "government_publication",
+      "url": "https://navy.lk/about-us/history.html",
+      "accessed_at": "2026-09-23",
+      "supports": "Наличие военно-морского флага с национальным флагом в крыже; военный вариант вне критерия национальных флагов."
+    },
+    {
+      "source_id": "lk-shipping-rules",
+      "title": "Sri Lanka merchant shipping rules, Annex 01",
+      "publisher": "Directorate of Merchant Shipping, Sri Lanka",
+      "source_type": "law",
+      "url": "https://www.dgshipping.gov.lk/web/images/pdf/rules/annex01.pdf",
+      "accessed_at": "2026-09-23",
+      "supports": "Упоминание национального морского флага для судов; точный рисунок возможного отдельного государственного морского варианта не установлен."
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "sri-lanka",
+      "audit_status": "deferred",
+      "notes": "Конституция и правительственный портал подтверждают флаг; портал и Национальный архив подтверждают государственную эмблему. Оба SVG сохранены локально и опубликованы. Военно-морской флаг исключён по критерию. Точный статус и рисунок возможного отдельного государственного/торгового морского флага отложены как Q-16.",
+      "flags": [
+        {
+          "variant_id": "sri-lanka-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "lion_with_sword|four_bo_leaves",
+          "decision": "eligible",
+          "decision_reason": "Флаг со львом и мечом и четырьмя листьями бо закреплён Конституцией и описан правительством.",
+          "source_ids": "lk-constitution-parliament|lk-overview-government",
+          "primary_source_urls": "https://www.parliament.lk/en/constitution-main|https://www.gov.lk/index.php/sri-lanka/country-overview"
+        },
+        {
+          "variant_id": "sri-lanka-naval-ensign",
+          "variant_type": "other_official",
+          "is_primary_study_variant": "false",
+          "official_status": "official",
+          "graphic_elements": "national_flag_in_canton|cross",
+          "decision": "excluded",
+          "decision_reason": "Военно-морской флаг подтверждён историей ВМС, но военные флаги не входят в критерий национальных и государственных вариантов плана № 6.",
+          "source_ids": "lk-navy-history",
+          "primary_source_urls": "https://navy.lk/about-us/history.html"
+        },
+        {
+          "variant_id": "sri-lanka-state-ensign-candidate",
+          "variant_type": "state_ensign",
+          "is_primary_study_variant": "false",
+          "official_status": "unverified",
+          "graphic_elements": "national_flag_in_canton|blue_field_unverified",
+          "decision": "deferred",
+          "decision_reason": "Сторонние каталоги называют синее полотнище с флагом в крыже государственным морским вариантом, но первичный действующий образец и назначение не найдены; судовые правила упоминают национальный флаг без точного рисунка отдельного варианта.",
+          "source_ids": "lk-shipping-rules",
+          "primary_source_urls": "https://www.dgshipping.gov.lk/web/images/pdf/rules/annex01.pdf"
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "sri-lanka-national-emblem",
+          "symbol_type": "national_emblem",
+          "official_name_ru": "Государственная эмблема Шри-Ланки",
+          "elements": "lion_with_sword|lotus_petals|rice_sheaves|dharmachakra|grain_vase",
+          "decision": "eligible",
+          "decision_reason": "Правительственный портал описывает действующую эмблему, а Национальный архив подтверждает её государственный статус и использование в качестве официальной печати.",
+          "source_ids": "lk-overview-government|lk-national-archives-republic",
+          "primary_source_urls": "https://www.gov.lk/index.php/sri-lanka/country-overview|https://archives.gov.lk/online-exhibits/path-to-freedom/republic"
+        }
+      ]
+    }
+  ]
+}
