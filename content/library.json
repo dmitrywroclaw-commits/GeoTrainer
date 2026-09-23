@@ -255,6 +255,14 @@
       "m49": "104",
       "iso2": "MM",
       "iso3": "MMR"
+    },
+    {
+      "id": "burundi",
+      "nameRu": "Бурунди",
+      "region": "Восточная Африка",
+      "m49": "108",
+      "iso2": "BI",
+      "iso3": "BDI"
     }
   ],
   "sources": [
@@ -687,6 +695,30 @@
       "title": "State flag hoisted, saluted to mark 79th Union Day in Nay Pyi Taw",
       "publisher": "Ministry of Information of Myanmar",
       "url": "https://www.moi.gov.mm/moi%3Aeng/index.php/news/20265",
+      "sourceType": "government",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "bi-constitution-presidency-2018",
+      "title": "Constitution de la République du Burundi, 7 juin 2018",
+      "publisher": "Présidence de la République du Burundi",
+      "url": "https://www.presidence.gov.bi/wp-content/uploads/2018/07/constitution-promulguee-le-7-juin-2018.pdf",
+      "sourceType": "law",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "bi-flag-presidency",
+      "title": "Le Drapeau",
+      "publisher": "Présidence de la République du Burundi",
+      "url": "https://presidence.gov.bi/le-drapeau/",
+      "sourceType": "government",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "bi-coat-presidency",
+      "title": "Les Armoiries",
+      "publisher": "Présidence de la République du Burundi",
+      "url": "https://presidence.gov.bi/les-armoiries/",
       "sourceType": "government",
       "accessedAt": "2026-09-23"
     }
@@ -2981,6 +3013,105 @@
         "similarityTags": [
           "star_symbol",
           "horizontal_tricolor"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "burundi-national-flag",
+      "kind": "flag",
+      "countryId": "burundi",
+      "nameRu": "Бурунди",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-burundi",
+      "summaryRu": "Белая диагональная крестовина разделяет красные и зелёные поля; в центре белого круга находятся три красные шестиконечные звезды с зелёной каймой.",
+      "explanationRu": "Главный ориентир — три звезды в белом круге. По объяснению администрации Президента, они напоминают девиз «Единство, труд, прогресс». Красный связан с жертвами ради независимости, зелёный — с надеждой, белый — с миром.",
+      "symbols": [
+        {
+          "nameRu": "Три шестиконечные звезды",
+          "category": "star",
+          "meaningRu": "Традиционно обозначают три слова национального девиза: «Единство, труд, прогресс».",
+          "meaningStatus": "official",
+          "sourceIds": [
+            "bi-flag-presidency"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Регион",
+          "valueRu": "Восточная Африка"
+        },
+        {
+          "labelRu": "Девиз",
+          "valueRu": "Unité – Travail – Progrès"
+        }
+      ],
+      "sourceIds": [
+        "bi-constitution-presidency-2018",
+        "bi-flag-presidency"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "three_stars",
+          "diagonal_cross"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "burundi-coat-of-arms",
+      "kind": "emblem",
+      "countryId": "burundi",
+      "nameRu": "Бурунди",
+      "subtitleRu": "Государственный герб",
+      "symbolType": "coat_of_arms",
+      "mediaId": "emblem-burundi",
+      "summaryRu": "На щите изображена голова льва; за щитом скрещены три копья, ниже помещена лента с девизом «Unité – Travail – Progrès».",
+      "explanationRu": "По официальному объяснению, щит выражает защиту страны, лев — мужество и достоинство, а копья — готовность защищать единство и независимость Бурунди.",
+      "symbols": [
+        {
+          "nameRu": "Голова льва",
+          "category": "animal",
+          "meaningRu": "Мужество, сила, бдительность и государственная власть.",
+          "meaningStatus": "official",
+          "sourceIds": [
+            "bi-coat-presidency"
+          ]
+        },
+        {
+          "nameRu": "Три копья",
+          "category": "weapon",
+          "meaningRu": "Защита страны и её независимости, коллективная бдительность.",
+          "meaningStatus": "official",
+          "sourceIds": [
+            "bi-coat-presidency"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Государственный герб"
+        },
+        {
+          "labelRu": "Девиз",
+          "valueRu": "Unité – Travail – Progrès"
+        }
+      ],
+      "sourceIds": [
+        "bi-constitution-presidency-2018",
+        "bi-coat-presidency"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "lion_symbol",
+          "shield",
+          "spears"
         ]
       },
       "status": "published",
