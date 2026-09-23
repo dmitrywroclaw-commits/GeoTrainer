@@ -1,0 +1,105 @@
+{
+  "batch_id": "003g-m49-100-bulgaria",
+  "checked_at": "2026-09-23",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "bg-constitution-justice",
+      "title": "Constitution of the Republic of Bulgaria, articles 164–167",
+      "publisher": "Ministry of Justice of the Republic of Bulgaria",
+      "source_type": "law",
+      "url": "https://www.justice.government.bg/home/normdoc/521957377",
+      "accessed_at": "2026-09-23",
+      "supports": "Конституция различает герб, государственную печать и национальный флаг; описывает золотого льва на тёмно-красном щите и горизонтальный бело-зелёно-красный триколор."
+    },
+    {
+      "source_id": "bg-coat-parliament",
+      "title": "Coat of Arms of the Republic of Bulgaria — extract from the Coat of Arms Act",
+      "publisher": "National Assembly of the Republic of Bulgaria",
+      "source_type": "law",
+      "url": "https://www.parliament.bg/bg/20",
+      "accessed_at": "2026-09-23",
+      "supports": "Действующий герб с короной, львами-щитодержателями и девизом; отдельно предусматривает изображение герба на государственной печати."
+    },
+    {
+      "source_id": "bg-seal-parliament",
+      "title": "State Seal of the Republic of Bulgaria — extract from the State Seal and National Flag Act",
+      "publisher": "National Assembly of the Republic of Bulgaria",
+      "source_type": "law",
+      "url": "https://parliament.bg/bg/23",
+      "accessed_at": "2026-09-23",
+      "supports": "Государственная печать круглая, диаметром 55 мм, содержит большую форму герба и текст «РЕПУБЛИКА БЪЛГАРИЯ ДЪРЖАВЕН ПЕЧАТ»."
+    },
+    {
+      "source_id": "bg-flag-parliament",
+      "title": "National Flag of the Republic of Bulgaria — extract from the State Seal and National Flag Act",
+      "publisher": "National Assembly of the Republic of Bulgaria",
+      "source_type": "law",
+      "url": "https://www.parliament.bg/bg/21",
+      "accessed_at": "2026-09-23",
+      "supports": "Национальный флаг — горизонтальный бело-зелёно-красный триколор; акт регулирует его использование."
+    },
+    {
+      "source_id": "bg-coat-decree-132-2009",
+      "title": "Decree No. 132 of 29 May 2009 on the use of the coat of arms",
+      "publisher": "State Gazette of the Republic of Bulgaria",
+      "source_type": "law",
+      "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21850",
+      "accessed_at": "2026-09-23",
+      "supports": "Герб обычно не помещают на национальный флаг, кроме нужд государственного протокола; авторские права на изображение герба и его основную форму осуществляются государством."
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "bulgaria",
+      "audit_status": "deferred",
+      "notes": "Национальный триколор исключён по графическому критерию. Герб и отдельная государственная печать подтверждены первичными законами и подходят, но конкретные изображения пока не опубликованы: постановление 132/2009 закрепляет осуществление прав на рисунок герба за государством. Возможность флага с гербом для государственного протокола требует уточнения его утверждённого вида и статуса как отдельного официального варианта. Вопросы Q-10 и R-03 отложены в OPEN_QUESTIONS.md.",
+      "flags": [
+        {
+          "variant_id": "bulgaria-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "false",
+          "official_status": "official",
+          "graphic_elements": "horizontal_white_green_red_stripes",
+          "decision": "excluded",
+          "decision_reason": "Подтверждённый национальный флаг состоит только из трёх горизонтальных цветовых полос без отдельного графического символа.",
+          "source_ids": "bg-constitution-justice|bg-flag-parliament",
+          "primary_source_urls": "https://www.justice.government.bg/home/normdoc/521957377|https://www.parliament.bg/bg/21"
+        },
+        {
+          "variant_id": "bulgaria-state-protocol-flag-candidate",
+          "variant_type": "other_official",
+          "is_primary_study_variant": "false",
+          "official_status": "unconfirmed",
+          "graphic_elements": "coat_of_arms",
+          "decision": "deferred",
+          "decision_reason": "Постановление допускает герб на флаге для государственного протокола, но отдельный утверждённый образец и статус этого варианта пока не проверены.",
+          "source_ids": "bg-coat-decree-132-2009",
+          "primary_source_urls": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21850"
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "bulgaria-coat-of-arms",
+          "symbol_type": "coat_of_arms",
+          "official_name_ru": "Государственный герб Болгарии",
+          "elements": "crowned_lion|shield|supporting_lions|crown|motto",
+          "decision": "eligible",
+          "decision_reason": "Конституция и закон парламента подтверждают действующий герб и его видимые элементы; публикация ждёт проверки права на конкретное изображение.",
+          "source_ids": "bg-constitution-justice|bg-coat-parliament|bg-coat-decree-132-2009",
+          "primary_source_urls": "https://www.justice.government.bg/home/normdoc/521957377|https://www.parliament.bg/bg/20|https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21850"
+        },
+        {
+          "symbol_id": "bulgaria-state-seal",
+          "symbol_type": "state_seal",
+          "official_name_ru": "Государственная печать Болгарии",
+          "elements": "coat_of_arms|circular_inscription",
+          "decision": "eligible",
+          "decision_reason": "Конституция и специальный закон подтверждают отдельную круглую печать с большой формой герба и текстом; публикация ждёт допустимого изображения.",
+          "source_ids": "bg-constitution-justice|bg-seal-parliament",
+          "primary_source_urls": "https://www.justice.government.bg/home/normdoc/521957377|https://parliament.bg/bg/23"
+        }
+      ]
+    }
+  ]
+}
