@@ -400,5 +400,59 @@
     "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attributionText": "Joshua0608, CC BY-SA 4.0; изображение уменьшено до 1280 px без иных изменений.",
     "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "flag-antigua-and-barbuda",
+    "kind": "flag",
+    "localPath": "/media/flags/antigua-and-barbuda.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Antigua_and_Barbuda.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Original design: Sir Reginald Samuel; SVG: David Benbennick and Wikimedia Commons editors",
+    "license": "Public domain",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Antigua_and_Barbuda.svg",
+    "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "photo-mount-kilimanjaro",
+    "kind": "photo",
+    "localPath": "/media/landmarks/mount-kilimanjaro.jpg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Kilimanjaro_from_Amboseli.jpg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Kilimanjaro_from_Amboseli.jpg",
+    "publisher": "Wikimedia Commons",
+    "author": "Sergey Pesterev",
+    "rightsHolder": "Sergey Pesterev",
+    "license": "CC BY-SA 4.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionText": "© Sergey Pesterev / Wikimedia Commons, CC BY-SA 4.0; изображение уменьшено до 1280 px без иных изменений.",
+    "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "photo-lake-baikal",
+    "kind": "photo",
+    "localPath": "/media/landmarks/lake-baikal.jpg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Panorama_of_lake_Baikal.jpg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Panorama_of_lake_Baikal.jpg",
+    "publisher": "Wikimedia Commons",
+    "author": "Sergey Pesterev",
+    "rightsHolder": "Sergey Pesterev",
+    "license": "CC BY-SA 4.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionText": "© Sergey Pesterev / Wikimedia Commons, CC BY-SA 4.0; изображение уменьшено до 1280 px без иных изменений.",
+    "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "photo-namib-sand-sea",
+    "kind": "photo",
+    "localPath": "/media/landmarks/namib-sand-sea.jpg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Namib_Sand_Sea_Swakopmund.tif",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Namib_Sand_Sea_Swakopmund.tif",
+    "publisher": "Wikimedia Commons",
+    "author": "Buiobuione",
+    "rightsHolder": "Buiobuione",
+    "license": "CC BY-SA 4.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionText": "Buiobuione / Wikimedia Commons, CC BY-SA 4.0; уменьшенная до 1280 px JPEG-копия исходного TIFF без иных изменений.",
+    "checkedAt": "2026-09-23"
   }
 ]

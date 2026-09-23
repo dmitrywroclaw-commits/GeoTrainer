@@ -1,0 +1,64 @@
+{
+  "batch_id": "publish-007-kilimanjaro",
+  "countries": [
+    {
+      "id": "tanzania",
+      "nameRu": "Танзания",
+      "region": "Восточная Африка",
+      "m49": "834",
+      "iso2": "TZ",
+      "iso3": "TZA"
+    }
+  ],
+  "sources": [
+    {
+      "id": "kilimanjaro-unesco",
+      "title": "Kilimanjaro National Park",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/403",
+      "sourceType": "unesco",
+      "accessedAt": "2026-09-23"
+    }
+  ],
+  "media": [
+    {
+      "id": "photo-mount-kilimanjaro",
+      "kind": "photo",
+      "localPath": "/media/landmarks/mount-kilimanjaro.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Kilimanjaro_from_Amboseli.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Kilimanjaro_from_Amboseli.jpg",
+      "publisher": "Wikimedia Commons",
+      "author": "Sergey Pesterev",
+      "rightsHolder": "Sergey Pesterev",
+      "license": "CC BY-SA 4.0",
+      "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attributionText": "© Sergey Pesterev / Wikimedia Commons, CC BY-SA 4.0; изображение уменьшено до 1280 px без иных изменений.",
+      "checkedAt": "2026-09-23"
+    }
+  ],
+  "entries": [
+    {
+      "id": "mount-kilimanjaro",
+      "kind": "landmark",
+      "countryIds": ["tanzania"],
+      "nameRu": "Килиманджаро",
+      "subtitleRu": "Вулканический горный массив",
+      "landmarkType": "mountain",
+      "regionRu": "Северная Танзания",
+      "mediaId": "photo-mount-kilimanjaro",
+      "summaryRu": "Горный вулканический массив поднимается над окружающими равнинами; на фотографии видны его отдельные вершины и снежная шапка.",
+      "explanationRu": "ЮНЕСКО описывает три главные вулканические вершины массива: Кибо, Мавензи и Шира. Вид массива над саванной помогает отличить Килиманджаро от других гор.",
+      "historyRu": "Килиманджаро охраняется в составе одноимённого национального парка, включённого в Список всемирного наследия в 1987 году.",
+      "whyNotableRu": "ЮНЕСКО выделяет изолированный вулканический массив и его выразительный вид над окружающими равнинами.",
+      "facts": [
+        { "labelRu": "Где находится", "valueRu": "Танзания, Восточная Африка" },
+        { "labelRu": "Вулканические вершины", "valueRu": "Кибо, Мавензи и Шира" },
+        { "labelRu": "Точка съёмки", "valueRu": "Национальный парк Амбосели, Кения" }
+      ],
+      "sourceIds": ["kilimanjaro-unesco"],
+      "quizHints": { "similarityTags": ["mountain", "volcano", "snow_peak"] },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    }
+  ]
+}

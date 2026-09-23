@@ -1,0 +1,63 @@
+{
+  "batch_id": "publish-008-lake-baikal",
+  "countries": [
+    {
+      "id": "russia",
+      "nameRu": "Россия",
+      "region": "Восточная Европа и Северная Азия",
+      "m49": "643",
+      "iso2": "RU",
+      "iso3": "RUS"
+    }
+  ],
+  "sources": [
+    {
+      "id": "baikal-unesco",
+      "title": "Lake Baikal",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/754",
+      "sourceType": "unesco",
+      "accessedAt": "2026-09-23"
+    }
+  ],
+  "media": [
+    {
+      "id": "photo-lake-baikal",
+      "kind": "photo",
+      "localPath": "/media/landmarks/lake-baikal.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Panorama_of_lake_Baikal.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Panorama_of_lake_Baikal.jpg",
+      "publisher": "Wikimedia Commons",
+      "author": "Sergey Pesterev",
+      "rightsHolder": "Sergey Pesterev",
+      "license": "CC BY-SA 4.0",
+      "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attributionText": "© Sergey Pesterev / Wikimedia Commons, CC BY-SA 4.0; изображение уменьшено до 1280 px без иных изменений.",
+      "checkedAt": "2026-09-23"
+    }
+  ],
+  "entries": [
+    {
+      "id": "lake-baikal",
+      "kind": "landmark",
+      "countryIds": ["russia"],
+      "nameRu": "Озеро Байкал",
+      "subtitleRu": "Древнее пресноводное озеро",
+      "landmarkType": "lake",
+      "regionRu": "Юго-восточная Сибирь, Россия",
+      "mediaId": "photo-lake-baikal",
+      "summaryRu": "Озеро в юго-восточной Сибири. На фотографии с острова Ольхон виден первый зимний лёд на поверхности Байкала.",
+      "explanationRu": "ЮНЕСКО связывает исключительную ценность Байкала с его геологической историей, изоляцией и необычайно богатой пресноводной фауной, включая эндемичные виды.",
+      "historyRu": "Озеро Байкал включено в Список всемирного наследия в 1996 году.",
+      "whyNotableRu": "Древняя озёрная экосистема с большим разнообразием эндемичных пресноводных организмов.",
+      "facts": [
+        { "labelRu": "Где находится", "valueRu": "Юго-восточная Сибирь, Россия" },
+        { "labelRu": "На снимке", "valueRu": "Первый лёд на озере, вид с острова Ольхон" }
+      ],
+      "sourceIds": ["baikal-unesco"],
+      "quizHints": { "similarityTags": ["lake", "freshwater", "winter_landscape"] },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    }
+  ]
+}

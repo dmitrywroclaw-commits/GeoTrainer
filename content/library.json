@@ -167,6 +167,38 @@
       "m49": "410",
       "iso2": "KR",
       "iso3": "KOR"
+    },
+    {
+      "id": "antigua-and-barbuda",
+      "nameRu": "Антигуа и Барбуда",
+      "region": "Карибский бассейн",
+      "m49": "028",
+      "iso2": "AG",
+      "iso3": "ATG"
+    },
+    {
+      "id": "tanzania",
+      "nameRu": "Танзания",
+      "region": "Восточная Африка",
+      "m49": "834",
+      "iso2": "TZ",
+      "iso3": "TZA"
+    },
+    {
+      "id": "russia",
+      "nameRu": "Россия",
+      "region": "Восточная Европа и Северная Азия",
+      "m49": "643",
+      "iso2": "RU",
+      "iso3": "RUS"
+    },
+    {
+      "id": "namibia",
+      "nameRu": "Намибия",
+      "region": "Южная Африка",
+      "m49": "516",
+      "iso2": "NA",
+      "iso3": "NAM"
     }
   ],
   "sources": [
@@ -439,6 +471,38 @@
       "title": "Jeju Volcanic Island and Lava Tubes",
       "publisher": "UNESCO World Heritage Centre",
       "url": "https://whc.unesco.org/en/list/1264",
+      "sourceType": "unesco",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "ag-national-symbols",
+      "title": "Our National Symbols",
+      "publisher": "Government of Antigua and Barbuda",
+      "url": "https://www.ab.gov.ag/detail_template.php?page=aboutAB%2Four_national_symbols",
+      "sourceType": "government",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "kilimanjaro-unesco",
+      "title": "Kilimanjaro National Park",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/403",
+      "sourceType": "unesco",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "baikal-unesco",
+      "title": "Lake Baikal",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/754",
+      "sourceType": "unesco",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "namib-sand-sea-unesco",
+      "title": "Namib Sand Sea",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1430",
       "sourceType": "unesco",
       "accessedAt": "2026-09-23"
     }
@@ -1917,6 +1981,170 @@
           "volcano",
           "crater",
           "lake"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "antigua-and-barbuda-national-flag",
+      "kind": "flag",
+      "countryId": "antigua-and-barbuda",
+      "nameRu": "Антигуа и Барбуда",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-antigua-and-barbuda",
+      "summaryRu": "Красные боковые поля образуют букву V. Между ними расположены чёрное поле с семилучевым золотым солнцем, синяя полоса и белый треугольник.",
+      "explanationRu": "Главный ориентир — семилучевое восходящее солнце над синей полосой. Правительство объясняет его как начало новой эпохи, а форму V — как знак победы.",
+      "historyRu": "Флаг разработал Реджинальд Сэмюэл; по сведениям правительства он принят 27 февраля 1967 года.",
+      "symbols": [
+        {
+          "nameRu": "Семилучевое золотое солнце",
+          "category": "sun",
+          "meaningRu": "Начало новой эпохи.",
+          "meaningStatus": "official",
+          "sourceIds": [
+            "ag-national-symbols"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Регион",
+          "valueRu": "Карибский бассейн"
+        },
+        {
+          "labelRu": "Дата принятия",
+          "valueRu": "27 февраля 1967 года"
+        }
+      ],
+      "sourceIds": [
+        "ag-national-symbols"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "sun_symbol",
+          "v_shape",
+          "coastal_country"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "mount-kilimanjaro",
+      "kind": "landmark",
+      "countryIds": [
+        "tanzania"
+      ],
+      "nameRu": "Килиманджаро",
+      "subtitleRu": "Вулканический горный массив",
+      "landmarkType": "mountain",
+      "regionRu": "Северная Танзания",
+      "mediaId": "photo-mount-kilimanjaro",
+      "summaryRu": "Горный вулканический массив поднимается над окружающими равнинами; на фотографии видны его отдельные вершины и снежная шапка.",
+      "explanationRu": "ЮНЕСКО описывает три главные вулканические вершины массива: Кибо, Мавензи и Шира. Вид массива над саванной помогает отличить Килиманджаро от других гор.",
+      "historyRu": "Килиманджаро охраняется в составе одноимённого национального парка, включённого в Список всемирного наследия в 1987 году.",
+      "whyNotableRu": "ЮНЕСКО выделяет изолированный вулканический массив и его выразительный вид над окружающими равнинами.",
+      "facts": [
+        {
+          "labelRu": "Где находится",
+          "valueRu": "Танзания, Восточная Африка"
+        },
+        {
+          "labelRu": "Вулканические вершины",
+          "valueRu": "Кибо, Мавензи и Шира"
+        },
+        {
+          "labelRu": "Точка съёмки",
+          "valueRu": "Национальный парк Амбосели, Кения"
+        }
+      ],
+      "sourceIds": [
+        "kilimanjaro-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "mountain",
+          "volcano",
+          "snow_peak"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "lake-baikal",
+      "kind": "landmark",
+      "countryIds": [
+        "russia"
+      ],
+      "nameRu": "Озеро Байкал",
+      "subtitleRu": "Древнее пресноводное озеро",
+      "landmarkType": "lake",
+      "regionRu": "Юго-восточная Сибирь, Россия",
+      "mediaId": "photo-lake-baikal",
+      "summaryRu": "Озеро в юго-восточной Сибири. На фотографии с острова Ольхон виден первый зимний лёд на поверхности Байкала.",
+      "explanationRu": "ЮНЕСКО связывает исключительную ценность Байкала с его геологической историей, изоляцией и необычайно богатой пресноводной фауной, включая эндемичные виды.",
+      "historyRu": "Озеро Байкал включено в Список всемирного наследия в 1996 году.",
+      "whyNotableRu": "Древняя озёрная экосистема с большим разнообразием эндемичных пресноводных организмов.",
+      "facts": [
+        {
+          "labelRu": "Где находится",
+          "valueRu": "Юго-восточная Сибирь, Россия"
+        },
+        {
+          "labelRu": "На снимке",
+          "valueRu": "Первый лёд на озере, вид с острова Ольхон"
+        }
+      ],
+      "sourceIds": [
+        "baikal-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "lake",
+          "freshwater",
+          "winter_landscape"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "namib-sand-sea",
+      "kind": "landmark",
+      "countryIds": [
+        "namibia"
+      ],
+      "nameRu": "Намибское песчаное море",
+      "subtitleRu": "Прибрежные дюны Намибии",
+      "landmarkType": "desert",
+      "regionRu": "Атлантическое побережье Намибии",
+      "mediaId": "photo-namib-sand-sea",
+      "summaryRu": "Обширный прибрежный массив песчаных дюн в Намибии; на фотографии дюны подходят к Атлантическому океану.",
+      "explanationRu": "ЮНЕСКО описывает взаимодействие ветра, песка и океанского тумана: туман служит важным источником влаги в засушливой прибрежной среде.",
+      "historyRu": "Намибское песчаное море включено в Список всемирного наследия в 2013 году.",
+      "whyNotableRu": "Крупный массив прибрежных дюн, формирование которого связано с переносом песка реками, океанскими течениями и ветром.",
+      "facts": [
+        {
+          "labelRu": "Где находится",
+          "valueRu": "Атлантическое побережье Намибии"
+        },
+        {
+          "labelRu": "Особенность",
+          "valueRu": "Дюны и океанский туман"
+        }
+      ],
+      "sourceIds": [
+        "namib-sand-sea-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "desert",
+          "dunes",
+          "coastal_landmark"
         ]
       },
       "status": "published",

@@ -1,0 +1,63 @@
+{
+  "batch_id": "publish-009-namib-sand-sea",
+  "countries": [
+    {
+      "id": "namibia",
+      "nameRu": "Намибия",
+      "region": "Южная Африка",
+      "m49": "516",
+      "iso2": "NA",
+      "iso3": "NAM"
+    }
+  ],
+  "sources": [
+    {
+      "id": "namib-sand-sea-unesco",
+      "title": "Namib Sand Sea",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1430",
+      "sourceType": "unesco",
+      "accessedAt": "2026-09-23"
+    }
+  ],
+  "media": [
+    {
+      "id": "photo-namib-sand-sea",
+      "kind": "photo",
+      "localPath": "/media/landmarks/namib-sand-sea.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Namib_Sand_Sea_Swakopmund.tif",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Namib_Sand_Sea_Swakopmund.tif",
+      "publisher": "Wikimedia Commons",
+      "author": "Buiobuione",
+      "rightsHolder": "Buiobuione",
+      "license": "CC BY-SA 4.0",
+      "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attributionText": "Buiobuione / Wikimedia Commons, CC BY-SA 4.0; уменьшенная до 1280 px JPEG-копия исходного TIFF без иных изменений.",
+      "checkedAt": "2026-09-23"
+    }
+  ],
+  "entries": [
+    {
+      "id": "namib-sand-sea",
+      "kind": "landmark",
+      "countryIds": ["namibia"],
+      "nameRu": "Намибское песчаное море",
+      "subtitleRu": "Прибрежные дюны Намибии",
+      "landmarkType": "desert",
+      "regionRu": "Атлантическое побережье Намибии",
+      "mediaId": "photo-namib-sand-sea",
+      "summaryRu": "Обширный прибрежный массив песчаных дюн в Намибии; на фотографии дюны подходят к Атлантическому океану.",
+      "explanationRu": "ЮНЕСКО описывает взаимодействие ветра, песка и океанского тумана: туман служит важным источником влаги в засушливой прибрежной среде.",
+      "historyRu": "Намибское песчаное море включено в Список всемирного наследия в 2013 году.",
+      "whyNotableRu": "Крупный массив прибрежных дюн, формирование которого связано с переносом песка реками, океанскими течениями и ветром.",
+      "facts": [
+        { "labelRu": "Где находится", "valueRu": "Атлантическое побережье Намибии" },
+        { "labelRu": "Особенность", "valueRu": "Дюны и океанский туман" }
+      ],
+      "sourceIds": ["namib-sand-sea-unesco"],
+      "quizHints": { "similarityTags": ["desert", "dunes", "coastal_landmark"] },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    }
+  ]
+}
