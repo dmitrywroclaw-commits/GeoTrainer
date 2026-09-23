@@ -1,0 +1,43 @@
+{
+  "batch_id": "publish-005-mount-halla",
+  "media": [
+    {
+      "id": "photo-mount-halla",
+      "kind": "photo",
+      "localPath": "/media/landmarks/mount-halla.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:The_Peak_of_Hallasan,_Baengnokdam_2.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/The_Peak_of_Hallasan%2C_Baengnokdam_2.jpg",
+      "publisher": "Wikimedia Commons",
+      "author": "Joshua0608",
+      "rightsHolder": "Joshua0608",
+      "license": "CC BY-SA 4.0",
+      "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attributionText": "Joshua0608, CC BY-SA 4.0; изображение уменьшено до 1280 px без иных изменений.",
+      "checkedAt": "2026-09-23"
+    }
+  ],
+  "entries": [
+    {
+      "id": "mount-halla",
+      "kind": "landmark",
+      "countryIds": ["south-korea"],
+      "nameRu": "Халласан",
+      "subtitleRu": "Вулкан с кратерным озером",
+      "landmarkType": "volcano",
+      "regionRu": "Остров Чеджу, Республика Корея",
+      "mediaId": "photo-mount-halla",
+      "summaryRu": "Вулканическая гора на острове Чеджу; на снимке виден её вершинный кратер с озером Пэнноктам.",
+      "explanationRu": "Халласан входит в вулканический комплекс Чеджу. ЮНЕСКО выделяет его кратерное озеро, водопады и разнообразные скальные образования как узнаваемые особенности горы.",
+      "historyRu": "Халласан — один из трёх отдельных компонентов объекта Всемирного наследия «Вулканический остров Чеджу и лавовые трубки».",
+      "whyNotableRu": "Кратерное озеро и вулканические породы показывают геологическую историю острова Чеджу.",
+      "facts": [
+        { "labelRu": "Где находится", "valueRu": "Остров Чеджу, Республика Корея" },
+        { "labelRu": "На снимке", "valueRu": "Озеро Пэнноктам в кратере Халласана" }
+      ],
+      "sourceIds": ["jeju-volcanic-unesco"],
+      "quizHints": { "similarityTags": ["volcano", "crater", "lake"] },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    }
+  ]
+}

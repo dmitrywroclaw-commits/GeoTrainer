@@ -386,5 +386,19 @@
     "rightsUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
     "attributionText": "Korea.net / Korean Culture and Information Service, CC BY-SA 2.0; изображение уменьшено до 1280 px без иных изменений.",
     "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "photo-mount-halla",
+    "kind": "photo",
+    "localPath": "/media/landmarks/mount-halla.jpg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:The_Peak_of_Hallasan,_Baengnokdam_2.jpg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/The_Peak_of_Hallasan%2C_Baengnokdam_2.jpg",
+    "publisher": "Wikimedia Commons",
+    "author": "Joshua0608",
+    "rightsHolder": "Joshua0608",
+    "license": "CC BY-SA 4.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionText": "Joshua0608, CC BY-SA 4.0; изображение уменьшено до 1280 px без иных изменений.",
+    "checkedAt": "2026-09-23"
   }
 ]
