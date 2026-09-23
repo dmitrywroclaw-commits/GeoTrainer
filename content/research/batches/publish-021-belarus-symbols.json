@@ -1,0 +1,62 @@
+{
+  "batch_id": "publish-021-belarus-symbols",
+  "countries": [
+    { "id": "belarus", "nameRu": "Беларусь", "region": "Восточная Европа", "m49": "112", "iso2": "BY", "iso3": "BLR" }
+  ],
+  "sources": [
+    { "id": "by-symbols-vitebsk-labor", "title": "Дзяржаўныя сімвалы", "publisher": "Витебский областной комитет по труду, занятости и социальной защите", "url": "https://be.vitkomtrud.gov.by/page/gosudarstvennye-simvoly", "sourceType": "government", "accessedAt": "2026-09-23" }
+  ],
+  "media": [
+    {
+      "id": "flag-belarus", "kind": "flag", "localPath": "/media/flags/belarus.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Belarus.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg",
+      "publisher": "Wikimedia Commons", "author": "MapGrid; earlier Wikimedia Commons contributors",
+      "license": "Public domain — Belarus state symbol and author dedication",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Belarus.svg",
+      "checkedAt": "2026-09-23"
+    },
+    {
+      "id": "emblem-belarus", "kind": "emblem", "localPath": "/media/emblems/belarus.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Belarus_(2020%E2%80%93present).svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Coat_of_arms_of_Belarus_%282020%E2%80%93present%29.svg",
+      "publisher": "Wikimedia Commons", "author": "Кот Баюн; Добромир Костадинов",
+      "license": "Public domain — Belarus state symbol",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Belarus_(2020%E2%80%93present).svg",
+      "checkedAt": "2026-09-23"
+    }
+  ],
+  "entries": [
+    {
+      "id": "belarus-national-flag", "kind": "flag", "countryId": "belarus", "nameRu": "Беларусь", "subtitleRu": "Государственный флаг", "variantType": "national", "isPrimaryStudyVariant": true, "mediaId": "flag-belarus",
+      "summaryRu": "Красная верхняя и зелёная нижняя полосы; у древка расположен красный белорусский орнамент на белом поле.",
+      "explanationRu": "Узнать флаг помогает вертикальная полоса с белорусским орнаментом у древка. По государственному описанию, красная горизонтальная полоса вдвое шире зелёной, а белое поле с орнаментом занимает девятую часть длины полотнища.",
+      "symbols": [
+        { "nameRu": "Белорусский национальный орнамент", "category": "ornament", "meaningStatus": "unknown", "sourceIds": ["by-symbols-vitebsk-labor"] }
+      ],
+      "facts": [
+        { "labelRu": "Регион", "valueRu": "Восточная Европа" },
+        { "labelRu": "Пропорция полотнища", "valueRu": "1:2" }
+      ],
+      "sourceIds": ["by-symbols-vitebsk-labor"],
+      "quizHints": { "similarityTags": ["ornament", "red_green"] },
+      "status": "published", "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "belarus-state-emblem", "kind": "emblem", "countryId": "belarus", "nameRu": "Беларусь", "subtitleRu": "Государственный герб", "symbolType": "national_emblem", "mediaId": "emblem-belarus",
+      "summaryRu": "Золотой контур Беларуси помещён на лучах восходящего над земным шаром солнца; сверху красная звезда, вокруг венок из колосьев с цветами клевера и льна.",
+      "explanationRu": "Главные ориентиры — контур страны в центре, красная пятиконечная звезда сверху и обрамляющий венок. В основании на красно-зелёной ленте написано «Рэспубліка Беларусь». Официальный текст допускает несколько цветовых исполнений одного герба.",
+      "symbols": [
+        { "nameRu": "Контур государственной границы", "category": "map", "meaningStatus": "unknown", "sourceIds": ["by-symbols-vitebsk-labor"] },
+        { "nameRu": "Красная пятиконечная звезда", "category": "star", "meaningStatus": "unknown", "sourceIds": ["by-symbols-vitebsk-labor"] }
+      ],
+      "facts": [
+        { "labelRu": "Официальное название", "valueRu": "Государственный герб Республики Беларусь" },
+        { "labelRu": "Растения в венке", "valueRu": "Колосья, клевер и лён" }
+      ],
+      "sourceIds": ["by-symbols-vitebsk-labor"],
+      "quizHints": { "similarityTags": ["country_outline", "red_star", "wreath"] },
+      "status": "published", "verifiedAt": "2026-09-23"
+    }
+  ]
+}

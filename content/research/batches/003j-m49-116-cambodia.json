@@ -59,7 +59,7 @@
         },
         {
           "variant_id": "cambodia-royal-standard",
-          "variant_type": "royal_standard",
+          "variant_type": "other_official",
           "is_primary_study_variant": "false",
           "official_status": "official",
           "graphic_elements": "royal_arms_candidate",

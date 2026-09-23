@@ -1,0 +1,68 @@
+{
+  "batch_id": "003k-m49-112-belarus",
+  "checked_at": "2026-09-23",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "by-symbols-vitebsk-labor",
+      "title": "Дзяржаўныя сімвалы",
+      "publisher": "Витебский областной комитет по труду, занятости и социальной защите",
+      "source_type": "government_publication",
+      "url": "https://be.vitkomtrud.gov.by/page/gosudarstvennye-simvoly",
+      "accessed_at": "2026-09-23",
+      "supports": "Описывает действующие государственный флаг с белорусским орнаментом и государственный герб с контуром страны, солнцем, звездой и венком; упоминает многоцветную, двухцветную и одноцветную версии герба."
+    },
+    {
+      "source_id": "by-standard-cis-2025",
+      "title": "Церемония вступления в должность Президента Республики Беларусь, 2025",
+      "publisher": "Исполнительный комитет СНГ",
+      "source_type": "government_publication",
+      "url": "https://e-cis.info/news/566/126067/",
+      "accessed_at": "2026-09-23",
+      "supports": "Сообщение о внесении государственного флага и отдельного штандарта Президента на государственную церемонию в 2025 году; рисунок штандарта не описывает."
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "belarus",
+      "audit_status": "deferred",
+      "notes": "Действующие государственный флаг и герб проверены по правительственному описанию; оба опубликованы с локальными SVG. Официальный источник упоминает несколько цветовых исполнений одного герба, их не дублируем как разные символы. Штандарт Президента подтверждён сообщением о церемонии, но точный действующий рисунок требует первичного образца; Q-13.",
+      "flags": [
+        {
+          "variant_id": "belarus-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "belarusian_ornament",
+          "decision": "eligible",
+          "decision_reason": "Правительственная страница описывает красно-зелёный флаг с отдельным вертикальным белорусским орнаментом красного цвета на белом поле.",
+          "source_ids": "by-symbols-vitebsk-labor",
+          "primary_source_urls": "https://be.vitkomtrud.gov.by/page/gosudarstvennye-simvoly"
+        },
+        {
+          "variant_id": "belarus-presidential-standard",
+          "variant_type": "other_official",
+          "is_primary_study_variant": "false",
+          "official_status": "official",
+          "graphic_elements": "state_emblem_candidate",
+          "decision": "deferred",
+          "decision_reason": "Государственная церемония подтверждает отдельный штандарт Президента, но его точный действующий рисунок не проверен по первичному образцу.",
+          "source_ids": "by-standard-cis-2025",
+          "primary_source_urls": "https://e-cis.info/news/566/126067/"
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "belarus-state-emblem",
+          "symbol_type": "national_emblem",
+          "official_name_ru": "Государственный герб Беларуси",
+          "elements": "country_outline|rising_sun|globe|red_star|grain_wreath|clover|flax|inscription",
+          "decision": "eligible",
+          "decision_reason": "Правительственное описание и изображение подтверждают действующий государственный герб; цветовые исполнения представляют один знак.",
+          "source_ids": "by-symbols-vitebsk-labor",
+          "primary_source_urls": "https://be.vitkomtrud.gov.by/page/gosudarstvennye-simvoly"
+        }
+      ]
+    }
+  ]
+}
