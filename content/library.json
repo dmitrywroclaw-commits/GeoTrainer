@@ -553,6 +553,14 @@
       "url": "https://www.gov.bw/sale-goods-and-services/use-national-emblems",
       "sourceType": "government",
       "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "br-symbols-law-5700",
+      "title": "Lei nº 5.700, de 1º de setembro de 1971 — texto compilado",
+      "publisher": "Presidência da República do Brasil",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5700compilado.htm",
+      "sourceType": "law",
+      "accessedAt": "2026-09-23"
     }
   ],
   "entries": [
@@ -2428,6 +2436,58 @@
           "animal_supporters",
           "shield",
           "zebra"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "brazil-national-seal",
+      "kind": "emblem",
+      "countryId": "brazil",
+      "nameRu": "Бразилия",
+      "subtitleRu": "Национальная печать",
+      "symbolType": "state_seal",
+      "mediaId": "emblem-brazil-national-seal",
+      "summaryRu": "Круглая печать с небесной сферой, звёздами и лентой «Ordem e Progresso»; по внешнему кольцу идёт надпись «República Federativa do Brasil».",
+      "explanationRu": "В центре печати повторена небесная сфера с национального флага. Отличить её от герба помогает круговая надпись с полным названием государства. Закон предписывает использовать печать для удостоверения актов правительства, дипломов и свидетельств.",
+      "historyRu": "Действующая форма национальной печати описана в статье 9 закона № 5.700.",
+      "symbols": [
+        {
+          "nameRu": "Небесная сфера и звёзды",
+          "category": "star",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "br-symbols-law-5700"
+          ]
+        },
+        {
+          "nameRu": "Круговая надпись с названием республики",
+          "category": "inscription",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "br-symbols-law-5700"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Государственная печать"
+        },
+        {
+          "labelRu": "Применение",
+          "valueRu": "Удостоверение актов правительства и документов об образовании"
+        }
+      ],
+      "sourceIds": [
+        "br-symbols-law-5700"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "star_symbol",
+          "inscription",
+          "seal"
         ]
       },
       "status": "published",

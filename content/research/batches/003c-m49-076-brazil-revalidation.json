@@ -1,0 +1,69 @@
+{
+  "batch_id": "003c-m49-076-brazil-revalidation",
+  "checked_at": "2026-09-23",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "br-symbols-law-5700",
+      "title": "Lei nº 5.700, de 1º de setembro de 1971 — texto compilado",
+      "publisher": "Presidência da República do Brasil",
+      "source_type": "law",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5700compilado.htm",
+      "accessed_at": "2026-09-23",
+      "supports": "Закон отдельно определяет национальный флаг, государственный герб и национальную печать; статья 9 описывает небесную сферу, звёзды и надпись на печати"
+    },
+    {
+      "source_id": "br-ceremonial-decree-70274",
+      "title": "Decreto nº 70.274, de 9 de março de 1972 — normas do cerimonial público",
+      "publisher": "Presidência da República do Brasil",
+      "source_type": "law",
+      "url": "https://www.presidencia.gov.br/ccivil_03/decreto/d70274.htm",
+      "accessed_at": "2026-09-23",
+      "supports": "Указ предусматривает президентский и вице-президентский штандарты при официальном церемониале"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "brazil",
+      "audit_status": "deferred",
+      "notes": "Повторный аудит обнаружил отдельную национальную печать и президентский/вице-президентский штандарты. Закон № 5.700 подтверждает печать. Указ № 70.274 подтверждает использование обоих штандартов, однако точный действующий рисунок и официальный акт учреждения вице-президентского штандарта ещё нужно сверить. Ранее опубликованные флаг и герб остаются в очереди повторной проверки медиа.",
+      "flags": [
+        {
+          "variant_id": "brazil-presidential-standard",
+          "variant_type": "other_official",
+          "is_primary_study_variant": "false",
+          "official_status": "official",
+          "graphic_elements": "unverified",
+          "decision": "deferred",
+          "decision_reason": "Действующий церемониальный указ подтверждает использование президентского штандарта, но точное современное изображение требуется подтвердить первичным источником.",
+          "source_ids": "br-ceremonial-decree-70274",
+          "primary_source_urls": "https://www.presidencia.gov.br/ccivil_03/decreto/d70274.htm",
+          "notes": "Проверить современный официальный образец и права на конкретный SVG."
+        },
+        {
+          "variant_id": "brazil-vice-presidential-standard",
+          "variant_type": "other_official",
+          "is_primary_study_variant": "false",
+          "official_status": "official",
+          "graphic_elements": "unverified",
+          "decision": "deferred",
+          "decision_reason": "Указ подтверждает существование штандарта вице-президента, но его действующий рисунок и соответствие графическому критерию ещё не подтверждены первичным источником.",
+          "source_ids": "br-ceremonial-decree-70274",
+          "primary_source_urls": "https://www.presidencia.gov.br/ccivil_03/decreto/d70274.htm"
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "brazil-national-seal",
+          "symbol_type": "state_seal",
+          "official_name_ru": "Национальная печать Бразилии",
+          "elements": "celestial_sphere|stars|inscription",
+          "decision": "eligible",
+          "decision_reason": "Закон № 5.700 прямо перечисляет национальную печать среди символов страны и описывает её круг с небесной сферой и надписью «República Federativa do Brasil».",
+          "source_ids": "br-symbols-law-5700",
+          "primary_source_urls": "https://www.planalto.gov.br/ccivil_03/leis/l5700compilado.htm"
+        }
+      ]
+    }
+  ]
+}
