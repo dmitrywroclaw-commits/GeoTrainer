@@ -1,0 +1,31 @@
+{
+  "batch_id": "publish-029-valle-de-la-luna",
+  "media": [
+    {
+      "id": "photo-valle-de-la-luna-ischigualasto", "kind": "photo", "localPath": "/media/landmarks/valle-de-la-luna-ischigualasto.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:A_-_Valle_de_la_Luna,_el_hongo,_San_Juan,_Argentina.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/A_-_Valle_de_la_Luna%2C_el_hongo%2C_San_Juan%2C_Argentina.jpg",
+      "publisher": "Wikimedia Commons", "author": "M.Bustos", "rightsHolder": "M.Bustos",
+      "license": "CC BY-SA 4.0", "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attributionText": "M.Bustos / Wikimedia Commons, CC BY-SA 4.0; без изменений.",
+      "checkedAt": "2026-09-23"
+    }
+  ],
+  "entries": [
+    {
+      "id": "valle-de-la-luna-ischigualasto", "kind": "landmark", "countryIds": ["argentina"],
+      "nameRu": "Лунная долина Исчигуаласто", "subtitleRu": "Геологический ландшафт", "landmarkType": "geological_formation", "regionRu": "Провинциальный парк Исчигуаласто, Аргентина", "mediaId": "photo-valle-de-la-luna-ischigualasto",
+      "summaryRu": "Засушливый ландшафт Исчигуаласто с белыми и разноцветными осадочными породами; на фотографии — скальная форма «Эль-Онго» внутри Лунной долины.",
+      "explanationRu": "ЮНЕСКО отдельно называет Лунную долину среди характерных ландшафтов парка Исчигуаласто. Белые и разноцветные отложения показывают геологические слои региона, где сохранились триасовые окаменелости.",
+      "historyRu": "Исчигуаласто и соседний парк Талампайя включены в Список всемирного наследия в 2000 году.",
+      "whyNotableRu": "Необычные формы выветривания и контраст светлых и красноватых пород делают долину визуально узнаваемой.",
+      "facts": [
+        { "labelRu": "Где находится", "valueRu": "Провинция Сан-Хуан, Аргентина" },
+        { "labelRu": "На фото", "valueRu": "Скальная форма «Эль-Онго» в Лунной долине" }
+      ],
+      "sourceIds": ["ischigualasto-talampaya-unesco"],
+      "quizHints": { "similarityTags": ["rock_formation", "desert", "triassic", "argentina"] },
+      "status": "published", "verifiedAt": "2026-09-23"
+    }
+  ]
+}
