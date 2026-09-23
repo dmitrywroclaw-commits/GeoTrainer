@@ -1,0 +1,57 @@
+{
+  "batch_id": "nature-005-whc-966-talampaya-ischigualasto",
+  "checked_at": "2026-09-23",
+  "sources": [
+    {
+      "source_id": "ischigualasto-talampaya-unesco",
+      "title": "Ischigualasto / Talampaya Natural Parks",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_type": "unesco",
+      "url": "https://whc.unesco.org/en/list/966",
+      "accessed_at": "2026-09-23",
+      "supports": "Отдельно называет Cañón de Talampaya и Valle de la Luna; описывает красные песчаниковые стены каньона и разноцветные отложения Лунной долины."
+    }
+  ],
+  "landmarks": [
+    {
+      "landmark_id": "talampaya-canyon",
+      "name_original": "Cañón de Talampaya",
+      "name_ru": "Каньон Талампайя",
+      "landmark_type": "canyon",
+      "country_ids": "argentina",
+      "region": "Национальный парк Талампайя, провинция Ла-Риоха, Аргентина",
+      "coordinates": "",
+      "significance_basis": "Именованный каньон с высокими красными песчаниковыми стенами; ЮНЕСКО выделяет его как характерный объект территории.",
+      "source_catalog": "unesco_whc:966",
+      "source_ids": "ischigualasto-talampaya-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/966",
+      "decision": "eligible",
+      "decision_reason": "Из двух обширных парков выделен конкретный каньон; проверенная фотография показывает его стены.",
+      "notes": "Высота конкретной стены по фотографии не утверждается; ЮНЕСКО говорит о стенах до 200 м в парке."
+    },
+    {
+      "landmark_id": "valle-de-la-luna-ischigualasto",
+      "name_original": "Valle de la Luna",
+      "name_ru": "Лунная долина Исчигуаласто",
+      "landmark_type": "geological_formation",
+      "country_ids": "argentina",
+      "region": "Провинциальный парк Исчигуаласто, провинция Сан-Хуан, Аргентина",
+      "coordinates": "",
+      "significance_basis": "Именованный ландшафт белых и разноцветных отложений, отдельно выделенный ЮНЕСКО.",
+      "source_catalog": "unesco_whc:966",
+      "source_ids": "ischigualasto-talampaya-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/966",
+      "decision": "eligible",
+      "decision_reason": "ЮНЕСКО называет Valle de la Luna как отдельный узнаваемый ландшафт внутри парка Исчигуаласто.",
+      "notes": "Подобрать фотографию именно этой долины с подтверждённым местом и правами; затем отредактировать карточку."
+    }
+  ],
+  "catalog_updates": [
+    {
+      "catalog_record_id": "whc-966",
+      "landmark_ids": ["talampaya-canyon", "valle-de-la-luna-ischigualasto"],
+      "candidate_decision": "eligible",
+      "decision_reason": "Из двух парков выделены именованные каньон Талампайя и Лунная долина Исчигуаласто."
+    }
+  ]
+}

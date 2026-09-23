@@ -905,6 +905,14 @@
       "url": "https://mesrsfp.gouv.td/wp-content/uploads/2026/04/Guide-pratique-de-redaction-administrative-et-de-de-Charte-graphique-de-lEtat-du-Tchad_230823_190003.pdf",
       "sourceType": "government",
       "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "ischigualasto-talampaya-unesco",
+      "title": "Ischigualasto / Talampaya Natural Parks",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/966",
+      "sourceType": "unesco",
+      "accessedAt": "2026-09-23"
     }
   ],
   "entries": [
@@ -3989,6 +3997,45 @@
           "lion",
           "rising_sun",
           "wavy_shield"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "talampaya-canyon",
+      "kind": "landmark",
+      "countryIds": [
+        "argentina"
+      ],
+      "nameRu": "Каньон Талампайя",
+      "subtitleRu": "Песчаниковый каньон",
+      "landmarkType": "canyon",
+      "regionRu": "Национальный парк Талампайя, Аргентина",
+      "mediaId": "photo-talampaya-canyon",
+      "summaryRu": "Каньон с высокими стенами из красноватого песчаника в засушливой части аргентинской провинции Ла-Риоха.",
+      "explanationRu": "ЮНЕСКО отдельно называет каньон Талампайя среди наиболее заметных ландшафтов двух соседних парков. Его стены обнажают осадочные породы территории, известной триасовыми окаменелостями.",
+      "historyRu": "Природные парки Исчигуаласто и Талампайя включены в Список всемирного наследия в 2000 году.",
+      "whyNotableRu": "Чёткие вертикальные стены каньона позволяют узнать его на фотографии и показывают геологическое строение засушливого ландшафта.",
+      "facts": [
+        {
+          "labelRu": "Где находится",
+          "valueRu": "Провинция Ла-Риоха, Аргентина"
+        },
+        {
+          "labelRu": "Порода",
+          "valueRu": "Красноватый песчаник"
+        }
+      ],
+      "sourceIds": [
+        "ischigualasto-talampaya-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "canyon",
+          "sandstone",
+          "desert",
+          "argentina"
         ]
       },
       "status": "published",
