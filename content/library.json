@@ -327,6 +327,22 @@
       "m49": "152",
       "iso2": "CL",
       "iso3": "CHL"
+    },
+    {
+      "id": "bangladesh",
+      "nameRu": "Бангладеш",
+      "region": "Южная Азия",
+      "m49": "050",
+      "iso2": "BD",
+      "iso3": "BGD"
+    },
+    {
+      "id": "poland",
+      "nameRu": "Польша",
+      "region": "Восточная Европа",
+      "m49": "616",
+      "iso2": "PL",
+      "iso3": "POL"
     }
   ],
   "sources": [
@@ -1055,6 +1071,22 @@
       "title": "Vjetrenica Cave, Ravno",
       "publisher": "UNESCO World Heritage Centre",
       "url": "https://whc.unesco.org/en/list/1673",
+      "sourceType": "unesco",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "sundarbans-bangladesh-unesco",
+      "title": "The Sundarbans",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/798",
+      "sourceType": "unesco",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "bialowieza-forest-unesco",
+      "title": "Białowieża Forest",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/33",
       "sourceType": "unesco",
       "accessedAt": "2026-09-23"
     }
@@ -5083,6 +5115,83 @@
           "cave",
           "karst",
           "bosnia-and-herzegovina"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "sundarbans-bangladesh",
+      "kind": "landmark",
+      "countryIds": [
+        "bangladesh"
+      ],
+      "nameRu": "Мангровые леса Сундарбан",
+      "subtitleRu": "Приливные протоки среди мангров в Бангладеш",
+      "landmarkType": "other",
+      "regionRu": "Дельта Ганга, Брахмапутры и Мегхны, Бангладеш",
+      "mediaId": "photo-sundarbans-bangladesh",
+      "summaryRu": "Протока проходит между берегами, покрытыми мангровыми деревьями.",
+      "explanationRu": "Сундарбан — мангровый лес в дельте трёх больших рек у Бенгальского залива. ЮНЕСКО отмечает его сеть приливных протоков, отмелей и лесных островов. На снимке из западного заповедника Бангладеш видна одна из проток с мангровой растительностью по берегам.",
+      "whyNotableRu": "Именованный мангровый лес и территория Всемирного наследия в дельте крупных рек.",
+      "facts": [
+        {
+          "labelRu": "Где находится",
+          "valueRu": "Юго-запад Бангладеш, побережье Бенгальского залива"
+        },
+        {
+          "labelRu": "Ландшафт",
+          "valueRu": "Мангровые острова и приливные протоки"
+        }
+      ],
+      "sourceIds": [
+        "sundarbans-bangladesh-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "mangrove",
+          "forest",
+          "delta",
+          "bangladesh"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "bialowieza-forest",
+      "kind": "landmark",
+      "countryIds": [
+        "poland",
+        "belarus"
+      ],
+      "nameRu": "Беловежская пуща",
+      "subtitleRu": "Старовозрастный лес на границе двух стран",
+      "landmarkType": "other",
+      "regionRu": "Граница Польши и Беларуси",
+      "mediaId": "photo-bialowieza-forest",
+      "summaryRu": "Поваленный ствол разлагается среди молодого подлеска и взрослых деревьев.",
+      "explanationRu": "Беловежская пуща — единый лесной массив по обе стороны польско-белорусской границы. ЮНЕСКО выделяет большие участки старовозрастного леса, где естественные процессы сохраняют много валежника. На снимке из польской части показан упавший ствол, постепенно зарастающий растениями.",
+      "whyNotableRu": "Крупный трансграничный массив сохранившегося старовозрастного леса.",
+      "facts": [
+        {
+          "labelRu": "Где находится",
+          "valueRu": "На границе Польши и Беларуси"
+        },
+        {
+          "labelRu": "На фото",
+          "valueRu": "Валежник в польской части пущи"
+        }
+      ],
+      "sourceIds": [
+        "bialowieza-forest-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "forest",
+          "old_growth",
+          "poland",
+          "belarus"
         ]
       },
       "status": "published",

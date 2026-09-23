@@ -1161,5 +1161,33 @@
     "rightsUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
     "attributionText": "Bdx / Wikimedia Commons, CC0 1.0; уменьшено до 1280 px по ширине.",
     "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "photo-sundarbans-bangladesh",
+    "kind": "photo",
+    "localPath": "/media/landmarks/sundarbans-bangladesh.jpg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Sundarbans_river.jpg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Sundarbans_river.jpg",
+    "publisher": "Wikimedia Commons",
+    "author": "Saikattanu",
+    "rightsHolder": "Saikattanu",
+    "license": "CC BY-SA 4.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionText": "Saikattanu / Wikimedia Commons, CC BY-SA 4.0; уменьшено до 1280 px по ширине.",
+    "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "photo-bialowieza-forest",
+    "kind": "photo",
+    "localPath": "/media/landmarks/bialowieza-forest.jpg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Bialowieza_National_Park_in_Poland0012.JPG",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Bialowieza_National_Park_in_Poland0012.JPG",
+    "publisher": "Wikimedia Commons",
+    "author": "Jacek Karczmarz",
+    "rightsHolder": "Jacek Karczmarz",
+    "license": "CC BY-SA 3.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attributionText": "Jacek Karczmarz / Wikimedia Commons, CC BY-SA 3.0; уменьшено до 1280 px по ширине.",
+    "checkedAt": "2026-09-23"
   }
 ]

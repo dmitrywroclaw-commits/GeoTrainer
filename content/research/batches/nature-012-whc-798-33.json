@@ -1,0 +1,72 @@
+{
+  "batch_id": "nature-012-whc-798-33",
+  "checked_at": "2026-09-23",
+  "sources": [
+    {
+      "source_id": "sundarbans-bangladesh-unesco",
+      "title": "The Sundarbans",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_type": "unesco",
+      "url": "https://whc.unesco.org/en/list/798",
+      "accessed_at": "2026-09-23",
+      "supports": "ЮНЕСКО описывает мангровый лес Сундарбан в Бангладеш, его приливные протоки, илистые отмели и лесные острова в дельте Ганга, Брахмапутры и Мегхны."
+    },
+    {
+      "source_id": "bialowieza-forest-unesco",
+      "title": "Białowieża Forest",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_type": "unesco",
+      "url": "https://whc.unesco.org/en/list/33",
+      "accessed_at": "2026-09-23",
+      "supports": "ЮНЕСКО подтверждает трансграничный лесной массив Польши и Беларуси с хвойными и широколиственными деревьями и крупными участками старовозрастного леса с валежником."
+    }
+  ],
+  "landmarks": [
+    {
+      "landmark_id": "sundarbans-bangladesh",
+      "name_original": "The Sundarbans",
+      "name_ru": "Мангровые леса Сундарбан",
+      "landmark_type": "other",
+      "country_ids": "bangladesh",
+      "region": "Побережье Бенгальского залива, Бангладеш",
+      "coordinates": "",
+      "significance_basis": "Именованный мангровый лес в дельте Ганга, Брахмапутры и Мегхны; ЮНЕСКО выделяет сеть приливных протоков, илистые отмели и лесные острова.",
+      "source_catalog": "unesco_whc:798",
+      "source_ids": "sundarbans-bangladesh-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/798",
+      "decision": "eligible",
+      "decision_reason": "Самостоятельный именованный физический лесной массив с узнаваемым сочетанием мангров и протоков.",
+      "notes": "Индийская часть Сундарбана относится к другой строке ЮНЕСКО; для этой карточки использовать подтверждённый снимок из Бангладеш. Не повторять спорные оценки мирового первенства и численности тигров."
+    },
+    {
+      "landmark_id": "bialowieza-forest",
+      "name_original": "Białowieża Forest",
+      "name_ru": "Беловежская пуща",
+      "landmark_type": "other",
+      "country_ids": "poland|belarus",
+      "region": "Граница Польши и Беларуси",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО описывает единый трансграничный лесной массив с участками старовозрастного леса, валежником и разнообразной лесной фауной.",
+      "source_catalog": "unesco_whc:33",
+      "source_ids": "bialowieza-forest-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/33",
+      "decision": "eligible",
+      "decision_reason": "Самостоятельный именованный физический лесной массив, не только административная охраняемая территория.",
+      "notes": "Снимок относится к польской части леса. Не утверждать по фотографии присутствие зубров или конкретные численности видов."
+    }
+  ],
+  "catalog_updates": [
+    {
+      "catalog_record_id": "whc-798",
+      "landmark_ids": ["sundarbans-bangladesh"],
+      "candidate_decision": "eligible",
+      "decision_reason": "Выделен именованный мангровый лес Бангладеш; отдельные неназванные протоки не дублируются."
+    },
+    {
+      "catalog_record_id": "whc-33",
+      "landmark_ids": ["bialowieza-forest"],
+      "candidate_decision": "eligible",
+      "decision_reason": "Выделен единый именованный лесной массив по обе стороны границы."
+    }
+  ]
+}

@@ -34,6 +34,19 @@ export function createSession(all: Entry[], mode: QuizMode, count: number, revie
   const eligible = all.filter(x => !x.quizHints?.excludeFromQuiz && (mode === 'mixed' || (mode === 'mistakes' ? reviewIds.includes(x.id) : x.kind === mode)));
   if (!eligible.length) return [];
   const questions: Question[] = [];
+  if (mode === 'mixed') {
+    const kinds = (['flag', 'emblem', 'landmark'] as const).filter(kind => eligible.some(item => item.kind === kind));
+    const pools = Object.fromEntries(kinds.map(kind => [kind, eligible.filter(item => item.kind === kind)])) as Record<Entry['kind'], Entry[]>;
+    const cycles: Partial<Record<Entry['kind'], Entry[]>> = {};
+    let round: Entry['kind'][] = [];
+    while (questions.length < count) {
+      if (!round.length) round = shuffle(kinds, random);
+      const kind = round.pop()!;
+      if (!cycles[kind]?.length) cycles[kind] = shuffle(pools[kind], random);
+      questions.push(buildQuestion(cycles[kind]!.pop()!, all, random));
+    }
+    return questions;
+  }
   let cycle: Entry[] = [];
   while (questions.length < count) {
     if (!cycle.length) cycle = shuffle(eligible, random);
