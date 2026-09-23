@@ -8,6 +8,8 @@ This folder contains the initial product and engineering specification for the G
 - `02_PROTOTYPE_DESIGN.md` — UI, routes, architecture, responsive behavior, PWA and testing requirements.
 - `03_CONTENT_MODEL.md` — structured content schemas, source policy and media-rights metadata.
 - `04_DEVELOPMENT_PLAN.md` — implementation phases, milestones and definition of done.
+- `05_UI_UX.md` — visual design and interface guidance.
+- `06_CONTENT_PRODUCTION_PLAN.md` — country screening, nature candidate research, editorial checks and publication batches.
 - `AGENTS.md` — repository-level instructions intended for Codex/AI coding agents.
 
 ## Recommended starting sequence

@@ -1,0 +1,16 @@
+{
+  "checkedAt": "2026-09-22",
+  "worldHeritage": {
+    "officialListUrl": "https://whc.unesco.org/en/list/",
+    "naturalActive": 240,
+    "naturalDelisted": 1,
+    "mixedActive": 42
+  },
+  "globalGeoparks": {
+    "officialListUrl": "https://www.unesco.org/en/iggp/geoparks",
+    "headlineCount": 241,
+    "uniqueDetailedEntries": 239,
+    "unresolvedCountDifference": 2,
+    "note": "Заявленный итог страницы не совпадает с числом уникальных названий в детальном списке; разницу нельзя заполнять догадками."
+  }
+}

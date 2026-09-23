@@ -231,6 +231,8 @@ The first usable prototype should contain approximately:
 - 15–20 coat-of-arms/emblem entries;
 - 15–20 natural-landmark entries.
 
+This is a prototype quality milestone, not the final catalog limit.
+
 The prototype must support:
 
 - responsive desktop/mobile UI;
@@ -244,6 +246,16 @@ The prototype must support:
 - source metadata;
 - offline application shell;
 - caching of previously used content.
+
+### Full catalog scope
+
+The full product should publish every eligible record from the completed content registries:
+
+- all qualifying official flag variants and national symbols for the 195 UN member and observer states;
+- qualifying records from a separately classified extended registry of partially recognized states, dependencies, and territories with distinct official symbols;
+- all eligible concrete natural landmarks found through the complete authoritative catalog and thematic passes defined in `06_CONTENT_PRODUCTION_PLAN.md`.
+
+The final number of cards is determined by the audited registries and has no predefined cap. Political status must be explicit and neutral. Every record still requires verified facts, media rights, editorial review, and a working learning explanation before publication.
 
 ## 9. Explicit non-goals for prototype
 

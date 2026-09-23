@@ -73,6 +73,8 @@ interface MediaAsset {
 
 A media asset must not reach `published` status until rights have been checked.
 
+For a Creative Commons license that requires attribution, `author`, `rightsUrl`, and a non-empty `attributionText` are mandatory before publication.
+
 ## 5. Country model
 
 ```ts
@@ -80,9 +82,10 @@ interface Country {
   id: string;
   nameRu: string;
   officialNameRu?: string;
-  iso2?: string;
-  iso3?: string;
-  region?: string;
+  m49: string;
+  iso2: string;
+  iso3: string;
+  region: string;
   flagIds: string[];
   emblemIds: string[];
   sourceIds: string[];
@@ -347,3 +350,5 @@ Use them to finalize UI and schema.
 Only then expand to approximately 15–20 entries per category.
 
 The first batch should intentionally cover diverse symbol categories so filters and layouts are genuinely tested.
+
+The 15–20 range is the prototype milestone. Full production continues in reviewed batches until every `eligible` record in the base country registry, the separately classified extended entity registry, and the natural-landmark registry has a published card. The system must therefore support an open-ended catalog without changing stable IDs or duplicating factual records in UI code.

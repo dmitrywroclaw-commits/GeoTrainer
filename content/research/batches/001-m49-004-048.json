@@ -1,0 +1,604 @@
+{
+  "batch_id": "001-m49-004-048",
+  "checked_at": "2026-09-22",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "af-constitution-2004",
+      "title": "Enforced Constitution of Afghanistan (2004)",
+      "publisher": "Ministry of Justice of Afghanistan",
+      "source_type": "government",
+      "url": "https://moj.gov.af/en/node/450",
+      "accessed_at": "2026-09-22",
+      "supports": "Исторически действовавшие флаг и национальная эмблема Исламской Республики; не подтверждает нынешний статус после 2021 года"
+    },
+    {
+      "source_id": "al-president-symbols",
+      "title": "Simbolet e Republikës",
+      "publisher": "President of the Republic of Albania",
+      "source_type": "government",
+      "url": "https://president.al/simbolet/",
+      "accessed_at": "2026-09-22",
+      "supports": "Официальный вид и описание флага и герба Албании"
+    },
+    {
+      "source_id": "al-constitution",
+      "title": "Kushtetuta e Republikës së Shqipërisë",
+      "publisher": "President of the Republic of Albania",
+      "source_type": "law",
+      "url": "https://www.president.al/wp-content/uploads/2018/04/kushtetuta.pdf",
+      "accessed_at": "2026-09-22",
+      "supports": "Конституционный статус и состав флага и герба, статья 14"
+    },
+    {
+      "source_id": "dz-flag-law-1963",
+      "title": "Loi n° 63-145 du 25 avril 1963 portant caractéristiques de l'emblème national algérien",
+      "publisher": "Journal officiel de la République algérienne",
+      "source_type": "law",
+      "url": "https://www.joradp.dz/FTP/Jo-Francais/1963/F1963026.pdf",
+      "accessed_at": "2026-09-22",
+      "supports": "Официальные характеристики национального флага Алжира"
+    },
+    {
+      "source_id": "dz-constitution-2008",
+      "title": "Loi n° 08-19 portant révision constitutionnelle",
+      "publisher": "Journal officiel de la République algérienne",
+      "source_type": "law",
+      "url": "https://www.joradp.dz/FTP/jo-francais/2008/F2008063.pdf",
+      "accessed_at": "2026-09-22",
+      "supports": "Конституционный статус национальной эмблемы и упоминание государственной печати"
+    },
+    {
+      "source_id": "ad-state-signs-law",
+      "title": "Llei sobre la utilització dels signes d’Estat, versió consolidada",
+      "publisher": "Govern d’Andorra",
+      "source_type": "law",
+      "url": "https://www.govern.ad/documents/d/guest/llei_se_versio_consolidada_2022-pdf?download=true",
+      "accessed_at": "2026-09-22",
+      "supports": "Состав традиционных герба и флага; допустимое отсутствие герба в отдельных уменьшенных форматах"
+    },
+    {
+      "source_id": "ad-state-signs-office",
+      "title": "Sobre els signes d’Estat",
+      "publisher": "Govern d’Andorra",
+      "source_type": "government",
+      "url": "https://www.govern.ad/ca/tematiques/empresa-i-emprenedoria/ompa/signes-d-estat/sobre-els-signes-d-estat",
+      "accessed_at": "2026-09-22",
+      "supports": "Компетентный орган по флагу и гербу Андорры"
+    },
+    {
+      "source_id": "ao-national-symbols",
+      "title": "Símbolos Nacionais",
+      "publisher": "Portal Oficial do Governo de Angola",
+      "source_type": "government",
+      "url": "https://governo.gov.ao/angola/simbolos-nacionais",
+      "accessed_at": "2026-09-22",
+      "supports": "Официальный статус, вид и значение элементов флага и Insígnia da República Анголы"
+    },
+    {
+      "source_id": "ag-national-symbols",
+      "title": "Our National Symbols",
+      "publisher": "Government of Antigua and Barbuda",
+      "source_type": "government",
+      "url": "https://www.ab.gov.ag/detail_template.php?page=aboutAB%2Four_national_symbols",
+      "accessed_at": "2026-09-22",
+      "supports": "Официальное описание и символика флага и герба Антигуа и Барбуды"
+    },
+    {
+      "source_id": "az-state-symbols",
+      "title": "Государственные символы Азербайджана",
+      "publisher": "Президент Азербайджанской Республики",
+      "source_type": "government",
+      "url": "https://president.az/ru/pages/view/azerbaijan/symbols",
+      "accessed_at": "2026-09-22",
+      "supports": "Официальный статус, вид и описание государственного флага и герба Азербайджана"
+    },
+    {
+      "source_id": "az-flag-law",
+      "title": "Конституционный закон об изображении Государственного флага Азербайджанской Республики",
+      "publisher": "Президент Азербайджанской Республики",
+      "source_type": "law",
+      "url": "https://president.az/ru/articles/view/30708",
+      "accessed_at": "2026-09-22",
+      "supports": "Юридическое описание государственного флага Азербайджана"
+    },
+    {
+      "source_id": "ar-flag",
+      "title": "Bandera Nacional Argentina",
+      "publisher": "Argentina.gob.ar",
+      "source_type": "government",
+      "url": "https://www.argentina.gob.ar/pais/simbolos/bandera",
+      "accessed_at": "2026-09-22",
+      "supports": "Официальный статус и описание флага Аргентины с Солнцем мая"
+    },
+    {
+      "source_id": "ar-symbols-decree",
+      "title": "Decreto 10.302/1944: Símbolos Nacionales",
+      "publisher": "Argentina.gob.ar, Información Legislativa",
+      "source_type": "law",
+      "url": "https://www.argentina.gob.ar/normativa/nacional/59311/actualizacion",
+      "accessed_at": "2026-09-22",
+      "supports": "Правовые образцы флага, герба и других национальных символов Аргентины"
+    },
+    {
+      "source_id": "au-national-flag",
+      "title": "Australian National Flag",
+      "publisher": "Department of the Prime Minister and Cabinet, Australia",
+      "source_type": "government",
+      "url": "https://www.pmc.gov.au/honours-and-symbols/australian-national-symbols/australian-national-flag",
+      "accessed_at": "2026-09-22",
+      "supports": "Официальный статус и элементы национального флага Австралии"
+    },
+    {
+      "source_id": "au-flags",
+      "title": "Australian flags",
+      "publisher": "Department of the Prime Minister and Cabinet, Australia",
+      "source_type": "government",
+      "url": "https://www.pmc.gov.au/honours-and-symbols/australian-national-symbols/australian-flags",
+      "accessed_at": "2026-09-22",
+      "supports": "Статус Australian Red Ensign и границы национальных и служебных флагов"
+    },
+    {
+      "source_id": "au-coat-of-arms",
+      "title": "Commonwealth Coat of Arms",
+      "publisher": "Department of the Prime Minister and Cabinet, Australia",
+      "source_type": "government",
+      "url": "https://www.pmc.gov.au/honours-and-symbols/commonwealth-coat-arms",
+      "accessed_at": "2026-09-22",
+      "supports": "Официальный статус, элементы и использование герба Австралийского Союза"
+    },
+    {
+      "source_id": "at-constitution-art-8a",
+      "title": "Bundes-Verfassungsgesetz Art. 8a",
+      "publisher": "Rechtsinformationssystem des Bundes",
+      "source_type": "law",
+      "url": "https://ris.bka.gv.at/eli/bgbl/1930/1/A8a/NOR40045733",
+      "accessed_at": "2026-09-22",
+      "supports": "Конституционное описание флага и федерального герба Австрии"
+    },
+    {
+      "source_id": "at-arms-law-sec-3",
+      "title": "Wappengesetz § 3",
+      "publisher": "Rechtsinformationssystem des Bundes",
+      "source_type": "law",
+      "url": "https://ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000782&Paragraf=3",
+      "accessed_at": "2026-09-22",
+      "supports": "Описание флага Республики и служебного флага Федерации с гербом"
+    },
+    {
+      "source_id": "bs-symbols-law",
+      "title": "The Flags and Coat of Arms (Regulation) Act",
+      "publisher": "Laws of The Bahamas",
+      "source_type": "law",
+      "url": "https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1973/1973-0020/1973-0020_1.pdf",
+      "accessed_at": "2026-09-22",
+      "supports": "Правовое описание флага и герба Багамских Островов"
+    },
+    {
+      "source_id": "bh-constitution",
+      "title": "The Constitution of the Kingdom of Bahrain",
+      "publisher": "Legislation and Legal Opinion Commission, Bahrain",
+      "source_type": "law",
+      "url": "https://www.legalaffairs.gov.bh/en/page/The%20Constitution%20of%20the%20Kingdom%20of%20Bahrain",
+      "accessed_at": "2026-09-22",
+      "supports": "Статья 3: флаг и эмблема Королевства определяются законом"
+    },
+    {
+      "source_id": "bh-flag-law-reference",
+      "title": "Royal Order No. 16 of 2024 concerning the Silver Jubilee Flag",
+      "publisher": "Legislation and Legal Opinion Commission, Bahrain",
+      "source_type": "law",
+      "url": "https://www.legalaffairs.gov.bh/Legislation/HTM/O1624",
+      "accessed_at": "2026-09-22",
+      "supports": "Подтверждает действующий Закон № 4 от 2002 года о флаге Бахрейна"
+    },
+    {
+      "source_id": "bh-emblem-amendment-2022",
+      "title": "Legislative Decree No. 3 of 2022 amending Law No. 27 of 2006 concerning the emblem of the Kingdom of Bahrain",
+      "publisher": "Official Gazette of Bahrain",
+      "source_type": "law",
+      "url": "https://www.legalaffairs.gov.bh/OG/3638.pdf",
+      "accessed_at": "2026-09-22",
+      "supports": "Современное юридическое описание эмблемы Бахрейна"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "afghanistan",
+      "audit_status": "deferred",
+      "notes": "Найден официальный текст Конституции 2004 года, но он не позволяет подтвердить действующие после 2021 года флаг и государственную эмблему. Нужна ручная проверка нынешнего правового и международно-протокольного статуса.",
+      "flags": [
+        {
+          "variant_id": "afghanistan-current-flag-unresolved",
+          "variant_type": "national",
+          "official_status": "disputed",
+          "graphic_elements": "inscription|emblem",
+          "decision": "deferred",
+          "decision_reason": "Текущий официальный вариант и его международный статус нельзя надёжно подтвердить найденным первичным источником; Конституция 2004 года описывает прежний республиканский флаг.",
+          "source_ids": "af-constitution-2004",
+          "primary_source_urls": "https://moj.gov.af/en/node/450",
+          "notes": "Не публиковать до разрешения расхождения между действующим де-факто использованием и прежним конституционным символом."
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "afghanistan-current-emblem-unresolved",
+          "symbol_type": "state_emblem",
+          "official_name_ru": "Государственная эмблема Афганистана",
+          "elements": "architecture|inscription|plant",
+          "decision": "deferred",
+          "decision_reason": "Найденное официальное описание относится к конституционному строю 2004 года и не подтверждает нынешнюю версию и статус эмблемы.",
+          "source_ids": "af-constitution-2004",
+          "primary_source_urls": "https://moj.gov.af/en/node/450",
+          "notes": "Требуется первичный источник о действующем символе после 2021 года."
+        }
+      ]
+    },
+    {
+      "country_id": "albania",
+      "audit_status": "complete",
+      "notes": "Флаг и герб подтверждены Конституцией и официальной страницей Президента.",
+      "flags": [
+        {
+          "variant_id": "albania-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "bird",
+          "decision": "eligible",
+          "decision_reason": "На красном поле расположен чёрный двуглавый орёл; отдельный узнаваемый графический символ подтверждён статьёй 14 Конституции.",
+          "source_ids": "al-constitution|al-president-symbols",
+          "primary_source_urls": "https://www.president.al/wp-content/uploads/2018/04/kushtetuta.pdf|https://president.al/simbolet/"
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "albania-coat-of-arms",
+          "symbol_type": "coat_of_arms",
+          "official_name_ru": "Герб Республики Албания",
+          "elements": "bird|helmet",
+          "decision": "eligible",
+          "decision_reason": "Конституция определяет красный щит с чёрным двуглавым орлом и шлемом Скандербега.",
+          "source_ids": "al-constitution|al-president-symbols",
+          "primary_source_urls": "https://www.president.al/wp-content/uploads/2018/04/kushtetuta.pdf|https://president.al/simbolet/"
+        }
+      ]
+    },
+    {
+      "country_id": "algeria",
+      "audit_status": "deferred",
+      "notes": "Флаг проверен по закону. Для современного национального герба/эмблемы не найдено достаточно точного первичного описания; конституционный источник подтверждает государственную печать, но не её вид.",
+      "flags": [
+        {
+          "variant_id": "algeria-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "crescent|star",
+          "decision": "eligible",
+          "decision_reason": "Закон устанавливает зелёно-белый флаг с красными полумесяцем и звездой; символы проходят критерий отбора.",
+          "source_ids": "dz-flag-law-1963",
+          "primary_source_urls": "https://www.joradp.dz/FTP/Jo-Francais/1963/F1963026.pdf"
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "algeria-national-emblem-unresolved",
+          "symbol_type": "national_emblem",
+          "official_name_ru": "Национальная эмблема Алжира",
+          "elements": "",
+          "decision": "deferred",
+          "decision_reason": "Конституционный источник подтверждает существование государственной печати, но не даёт проверяемого изображения и состава нынешней национальной эмблемы.",
+          "source_ids": "dz-constitution-2008",
+          "primary_source_urls": "https://www.joradp.dz/FTP/jo-francais/2008/F2008063.pdf",
+          "notes": "Нужен действующий закон или официальное описание конкретной версии эмблемы."
+        }
+      ]
+    },
+    {
+      "country_id": "andorra",
+      "audit_status": "complete",
+      "notes": "Закон описывает традиционный флаг с гербом и допускает представление без герба в отдельных уменьшенных или специальных форматах; оба решения зафиксированы.",
+      "flags": [
+        {
+          "variant_id": "andorra-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "coat_of_arms",
+          "decision": "eligible",
+          "decision_reason": "Традиционный флаг содержит герб в центре жёлтой полосы и имеет отдельный узнаваемый графический элемент.",
+          "source_ids": "ad-state-signs-law|ad-state-signs-office",
+          "primary_source_urls": "https://www.govern.ad/documents/d/guest/llei_se_versio_consolidada_2022-pdf?download=true|https://www.govern.ad/ca/tematiques/empresa-i-emprenedoria/ompa/signes-d-estat/sobre-els-signes-d-estat"
+        },
+        {
+          "variant_id": "andorra-reduced-flag-representation",
+          "variant_type": "other_official",
+          "official_status": "limited_format",
+          "graphic_elements": "",
+          "decision": "excluded",
+          "decision_reason": "Закон допускает три полосы без герба в отдельных уменьшенных или специальных форматах; такое представление состоит только из простых цветовых полей.",
+          "source_ids": "ad-state-signs-law",
+          "primary_source_urls": "https://www.govern.ad/documents/d/guest/llei_se_versio_consolidada_2022-pdf?download=true",
+          "notes": "Не считать отдельным основным флагом; строка сохраняет явное отрицательное решение по допустимому варианту воспроизведения."
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "andorra-coat-of-arms",
+          "symbol_type": "coat_of_arms",
+          "official_name_ru": "Герб Княжества Андорра",
+          "elements": "mitre|crozier|animals|inscription",
+          "decision": "eligible",
+          "decision_reason": "Закон описывает четыре традиционные части герба и возможный девиз; официальный статус подтверждён правительственным органом.",
+          "source_ids": "ad-state-signs-law|ad-state-signs-office",
+          "primary_source_urls": "https://www.govern.ad/documents/d/guest/llei_se_versio_consolidada_2022-pdf?download=true|https://www.govern.ad/ca/tematiques/empresa-i-emprenedoria/ompa/signes-d-estat/sobre-els-signes-d-estat"
+        }
+      ]
+    },
+    {
+      "country_id": "angola",
+      "audit_status": "complete",
+      "notes": "Правительственная страница ссылается на Закон 14/18 и описывает оба символа и официальное значение элементов.",
+      "flags": [
+        {
+          "variant_id": "angola-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "gear|machete|star",
+          "decision": "eligible",
+          "decision_reason": "В центре флага находятся часть зубчатого колеса, мачете и звезда; официальный источник описывает их вид и значение.",
+          "source_ids": "ao-national-symbols",
+          "primary_source_urls": "https://governo.gov.ao/angola/simbolos-nacionais"
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "angola-insignia-of-the-republic",
+          "symbol_type": "national_emblem",
+          "official_name_ru": "Инсигния Республики Ангола",
+          "elements": "gear|plant|book|sun|machete|hoe|star|inscription",
+          "decision": "eligible",
+          "decision_reason": "Правительство называет символ Insígnia da República и подробно перечисляет его графические элементы.",
+          "source_ids": "ao-national-symbols",
+          "primary_source_urls": "https://governo.gov.ao/angola/simbolos-nacionais"
+        }
+      ]
+    },
+    {
+      "country_id": "antigua-and-barbuda",
+      "audit_status": "complete",
+      "notes": "Флаг и герб проверены по официальной странице правительства о национальных символах.",
+      "flags": [
+        {
+          "variant_id": "antigua-and-barbuda-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "sun",
+          "decision": "eligible",
+          "decision_reason": "Флаг содержит восходящее солнце с семью лучами; официальный источник подтверждает вид и значение.",
+          "source_ids": "ag-national-symbols",
+          "primary_source_urls": "https://www.ab.gov.ag/detail_template.php?page=aboutAB%2Four_national_symbols"
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "antigua-and-barbuda-coat-of-arms",
+          "symbol_type": "coat_of_arms",
+          "official_name_ru": "Герб Антигуа и Барбуды",
+          "elements": "animal|plant|sun|building|inscription",
+          "decision": "eligible",
+          "decision_reason": "Официальный герб содержит оленей, ананас, сахарный завод, солнце и девиз; символ достаточно различим для карточки.",
+          "source_ids": "ag-national-symbols",
+          "primary_source_urls": "https://www.ab.gov.ag/detail_template.php?page=aboutAB%2Four_national_symbols"
+        }
+      ]
+    },
+    {
+      "country_id": "azerbaijan",
+      "audit_status": "complete",
+      "notes": "Флаг и государственный герб подтверждены официальной страницей Президента; флаг дополнительно сверён с конституционным законом.",
+      "flags": [
+        {
+          "variant_id": "azerbaijan-state-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "crescent|star",
+          "decision": "eligible",
+          "decision_reason": "Государственный флаг содержит белые полумесяц и восьмиконечную звезду, подтверждённые конституционным законом.",
+          "source_ids": "az-state-symbols|az-flag-law",
+          "primary_source_urls": "https://president.az/ru/pages/view/azerbaijan/symbols|https://president.az/ru/articles/view/30708"
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "azerbaijan-state-emblem",
+          "symbol_type": "state_emblem",
+          "official_name_ru": "Государственный герб Азербайджанской Республики",
+          "elements": "flame|star|plant",
+          "decision": "eligible",
+          "decision_reason": "Официальная страница Президента подтверждает государственный статус и композицию со звездой, пламенем, дубовыми ветвями и колосьями.",
+          "source_ids": "az-state-symbols",
+          "primary_source_urls": "https://president.az/ru/pages/view/azerbaijan/symbols"
+        }
+      ]
+    },
+    {
+      "country_id": "argentina",
+      "audit_status": "complete",
+      "notes": "Флаг и национальный герб проверены по государственному порталу и действующей редакции декрета о национальных символах.",
+      "flags": [
+        {
+          "variant_id": "argentina-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "sun",
+          "decision": "eligible",
+          "decision_reason": "Официальный флаг содержит Солнце мая; отдельный графический символ подтверждён государственным источником.",
+          "source_ids": "ar-flag|ar-symbols-decree",
+          "primary_source_urls": "https://www.argentina.gob.ar/pais/simbolos/bandera|https://www.argentina.gob.ar/normativa/nacional/59311/actualizacion"
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "argentina-national-coat-of-arms",
+          "symbol_type": "coat_of_arms",
+          "official_name_ru": "Национальный герб Аргентины",
+          "elements": "hands|staff|cap|sun|plant",
+          "decision": "eligible",
+          "decision_reason": "Официальный образец национального герба закреплён декретом и содержит достаточно различимую композицию для учебной карточки.",
+          "source_ids": "ar-symbols-decree",
+          "primary_source_urls": "https://www.argentina.gob.ar/normativa/nacional/59311/actualizacion"
+        }
+      ]
+    },
+    {
+      "country_id": "australia",
+      "audit_status": "complete",
+      "notes": "Проверены национальный флаг, гражданский морской флаг и Commonwealth Coat of Arms. Военные и ведомственные флаги не включены как служебные, а не национальные варианты.",
+      "flags": [
+        {
+          "variant_id": "australia-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "constellation|star|union_jack",
+          "decision": "eligible",
+          "decision_reason": "Национальный флаг содержит Union Jack, Звезду Содружества и созвездие Южного Креста.",
+          "source_ids": "au-national-flag",
+          "primary_source_urls": "https://www.pmc.gov.au/honours-and-symbols/australian-national-symbols/australian-national-flag"
+        },
+        {
+          "variant_id": "australia-red-ensign",
+          "variant_type": "civil_ensign",
+          "is_primary_study_variant": "false",
+          "official_status": "official",
+          "graphic_elements": "constellation|star|union_jack",
+          "decision": "eligible",
+          "decision_reason": "Australian Red Ensign официально используется австралийскими торговыми судами и сохраняет узнаваемые звёздные символы.",
+          "source_ids": "au-flags",
+          "primary_source_urls": "https://www.pmc.gov.au/honours-and-symbols/australian-national-symbols/australian-flags"
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "australia-commonwealth-coat-of-arms",
+          "symbol_type": "coat_of_arms",
+          "official_name_ru": "Герб Австралийского Союза",
+          "elements": "kangaroo|emu|shield|star|plant",
+          "decision": "eligible",
+          "decision_reason": "Официальный герб содержит щит шести штатов, кенгуру, эму, Звезду Содружества и золотую акацию.",
+          "source_ids": "au-coat-of-arms",
+          "primary_source_urls": "https://www.pmc.gov.au/honours-and-symbols/commonwealth-coat-arms"
+        }
+      ]
+    },
+    {
+      "country_id": "austria",
+      "audit_status": "complete",
+      "notes": "Основной национальный флаг исключён как простые полосы; федеральный служебный флаг с гербом проходит критерий. Герб проверен по Конституции и Wappengesetz.",
+      "flags": [
+        {
+          "variant_id": "austria-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "false",
+          "official_status": "official",
+          "graphic_elements": "",
+          "decision": "excluded",
+          "decision_reason": "Флаг Республики состоит только из трёх равных красно-бело-красных горизонтальных полос без отдельного графического символа.",
+          "source_ids": "at-constitution-art-8a|at-arms-law-sec-3",
+          "primary_source_urls": "https://ris.bka.gv.at/eli/bgbl/1930/1/A8a/NOR40045733|https://ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000782&Paragraf=3"
+        },
+        {
+          "variant_id": "austria-federal-service-flag",
+          "variant_type": "state",
+          "is_primary_study_variant": "true",
+          "official_status": "restricted_official_use",
+          "graphic_elements": "coat_of_arms|bird|tools",
+          "decision": "eligible",
+          "decision_reason": "Dienstflagge des Bundes помещает федеральный герб в центр полос и поэтому имеет узнаваемый графический символ; право использования ограничено законом.",
+          "source_ids": "at-arms-law-sec-3",
+          "primary_source_urls": "https://ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000782&Paragraf=3",
+          "notes": "В карточке обязательно пояснить, что это федеральный служебный флаг, а не основной гражданский флаг."
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "austria-federal-coat-of-arms",
+          "symbol_type": "coat_of_arms",
+          "official_name_ru": "Федеральный герб Австрии",
+          "elements": "bird|crown|chain|sickle|hammer|shield",
+          "decision": "eligible",
+          "decision_reason": "Статья 8a Конституции подробно определяет орла, корону, разорванную цепь, серп, молот и щит.",
+          "source_ids": "at-constitution-art-8a",
+          "primary_source_urls": "https://ris.bka.gv.at/eli/bgbl/1930/1/A8a/NOR40045733"
+        }
+      ]
+    },
+    {
+      "country_id": "bahamas",
+      "audit_status": "complete",
+      "notes": "Флаг и герб проверены по закону. Флаг исключён по критерию простой геометрии; герб подходит.",
+      "flags": [
+        {
+          "variant_id": "bahamas-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "false",
+          "official_status": "official",
+          "graphic_elements": "",
+          "decision": "excluded",
+          "decision_reason": "Флаг состоит из трёх горизонтальных полос и чёрного треугольника у древка; отдельного графического символа нет.",
+          "source_ids": "bs-symbols-law",
+          "primary_source_urls": "https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1973/1973-0020/1973-0020_1.pdf"
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "bahamas-coat-of-arms",
+          "symbol_type": "coat_of_arms",
+          "official_name_ru": "Герб Содружества Багамских Островов",
+          "elements": "ship|sun|shell|palm|flamingo|marlin|inscription",
+          "decision": "eligible",
+          "decision_reason": "Закон закрепляет многосоставной официальный герб с кораблём, раковиной, пальмой, фламинго, марлином и девизом.",
+          "source_ids": "bs-symbols-law",
+          "primary_source_urls": "https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1973/1973-0020/1973-0020_1.pdf"
+        }
+      ]
+    },
+    {
+      "country_id": "bahrain",
+      "audit_status": "complete",
+      "notes": "Правовой статус флага и эмблемы подтверждён. Флаг исключён как цветовые поля с зубчатой границей без отдельного символа; эмблема в редакции 2022 года подходит.",
+      "flags": [
+        {
+          "variant_id": "bahrain-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "false",
+          "official_status": "official",
+          "graphic_elements": "",
+          "decision": "excluded",
+          "decision_reason": "Действующий флаг образован белым и красным полями с зубчатой границей; отдельного графического символа сверх геометрического деления полотнища нет.",
+          "source_ids": "bh-constitution|bh-flag-law-reference",
+          "primary_source_urls": "https://www.legalaffairs.gov.bh/en/page/The%20Constitution%20of%20the%20Kingdom%20of%20Bahrain|https://www.legalaffairs.gov.bh/Legislation/HTM/O1624",
+          "notes": "Перед публикационным использованием отрицательного решения желательно добавить прямую доступную копию Закона № 4 от 2002 года."
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "bahrain-national-emblem",
+          "symbol_type": "national_emblem",
+          "official_name_ru": "Эмблема Королевства Бахрейн",
+          "elements": "flag|shield|crown|ornament",
+          "decision": "eligible",
+          "decision_reason": "Поправка 2022 года описывает флаг внутри трёхстороннего щита, арабский орнамент и королевскую корону.",
+          "source_ids": "bh-constitution|bh-emblem-amendment-2022",
+          "primary_source_urls": "https://www.legalaffairs.gov.bh/en/page/The%20Constitution%20of%20the%20Kingdom%20of%20Bahrain|https://www.legalaffairs.gov.bh/OG/3638.pdf"
+        }
+      ]
+    }
+  ]
+}

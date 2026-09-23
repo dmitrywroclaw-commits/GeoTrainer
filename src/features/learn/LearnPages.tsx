@@ -14,10 +14,17 @@ const categories = [
 ];
 const paths = { flags: 'flag', emblems: 'emblem', nature: 'landmark' } as const;
 const filters: Record<Entry['kind'], { label: string; value: string }[]> = {
-  flag: [{ label: 'Все', value: 'all' }, { label: 'Птицы', value: 'bird' }, { label: 'Животные', value: 'animal' }, { label: 'Растения', value: 'plant' }, { label: 'Звёзды', value: 'constellation' }, { label: 'Надписи', value: 'inscription' }],
+  flag: [{ label: 'Все', value: 'all' }, { label: 'Птицы', value: 'bird' }, { label: 'Животные', value: 'animal' }, { label: 'Растения', value: 'plant' }, { label: 'Звёзды', value: 'star' }, { label: 'Надписи', value: 'inscription' }],
   emblem: [{ label: 'Все', value: 'all' }, { label: 'Птицы', value: 'bird' }, { label: 'Животные', value: 'animal' }, { label: 'Растения', value: 'plant' }, { label: 'Цветы', value: 'flower' }],
-  landmark: [{ label: 'Все', value: 'all' }, { label: 'Каньоны', value: 'canyon' }, { label: 'Вулканы', value: 'volcano' }, { label: 'Водопады', value: 'waterfall' }, { label: 'Скалы', value: 'geological_formation' }],
+  landmark: [{ label: 'Все', value: 'all' }, { label: 'Каньоны', value: 'canyon' }, { label: 'Вулканы', value: 'volcano' }, { label: 'Водопады', value: 'waterfall' }, { label: 'Озёра', value: 'lake' }, { label: 'Реки и дельты', value: 'river' }, { label: 'Острова', value: 'island' }, { label: 'Рифы и чудеса', value: 'natural_wonder' }, { label: 'Скалы', value: 'geological_formation' }],
 };
+
+function objectCount(value: number) {
+  const lastTwo = value % 100;
+  const last = value % 10;
+  const noun = lastTwo >= 11 && lastTwo <= 14 ? 'объектов' : last === 1 ? 'объект' : last >= 2 && last <= 4 ? 'объекта' : 'объектов';
+  return `${value} ${noun}`;
+}
 
 export function LearnHome() {
   const { records } = useProgress();
@@ -31,12 +38,12 @@ export function LearnHome() {
       const media = contentRepository.media(entries[0].mediaId)!;
       return <Link key={category.kind} className={`category-card category-${category.kind}`} to={`/learn/${kindPath[category.kind]}`}>
         <div className="category-visual"><MediaFrame media={media} alt="" /></div>
-        <div className="category-body"><span className="eyebrow">{entries.length} объекта</span><h2>{category.title}</h2><p>{category.description}</p><span className="category-teaser">{category.teaser}</span></div>
+        <div className="category-body"><span className="eyebrow">{objectCount(entries.length)}</span><h2>{category.title}</h2><p>{category.description}</p><span className="category-teaser">{category.teaser}</span></div>
       </Link>;
     })}</div>
     {(continueEntry || reviewCount > 0) && <div className="home-secondary">
       {continueEntry && <section><h2>Продолжить изучение</h2><Link className="inline-card" to={`/item/${continueEntry.id}`}>{continueEntry.nameRu}<span>Открыть карточку →</span></Link></section>}
-      {reviewCount > 0 && <section><h2>Повторить ошибки</h2><Link className="inline-card" to="/mistakes">{reviewCount} {reviewCount === 1 ? 'объект' : 'объекта'} для повторения<span>Перейти →</span></Link></section>}
+      {reviewCount > 0 && <section><h2>Повторить ошибки</h2><Link className="inline-card" to="/mistakes">{objectCount(reviewCount)} для повторения<span>Перейти →</span></Link></section>}
     </div>}
   </>;
 }
@@ -51,7 +58,7 @@ export function CatalogPage() {
     const query = search.trim().toLocaleLowerCase('ru');
     return contentRepository.byKind(kind).filter(entry => {
       const text = [entry.nameRu, entry.subtitleRu, entry.summaryRu, ...(entry.kind === 'landmark' ? [] : entry.symbols.map(x => x.nameRu))].join(' ').toLocaleLowerCase('ru');
-      return (!query || text.includes(query)) && (filter === 'all' || (entry.kind === 'landmark' ? entry.landmarkType === filter : entry.symbols.some(x => x.category === filter || (filter === 'plant' && ['leaf', 'flower', 'tree'].includes(x.category)))));
+      return (!query || text.includes(query)) && (filter === 'all' || (entry.kind === 'landmark' ? entry.landmarkType === filter : entry.symbols.some(x => x.category === filter || (filter === 'star' && x.category === 'constellation') || (filter === 'plant' && ['leaf', 'flower', 'tree'].includes(x.category)))));
     });
   }, [kind, search, filter]);
   if (!kind) return <EmptyState title="Раздел не найден" description="Проверьте адрес страницы." action={{ to: '/learn', label: 'К разделам' }} />;
@@ -60,7 +67,7 @@ export function CatalogPage() {
     <div className="catalog-toolbar"><label className="search-field"><Icon name="search" size={20}/><span className="sr-only">Поиск по каталогу</span><input value={search} onChange={event => setSearch(event.target.value)} placeholder="Страна, символ или объект" /></label>
       <div className="chip-row" aria-label="Фильтр">{filters[kind].map(item => <button key={item.value} type="button" className={`chip ${filter === item.value ? 'selected' : ''}`} onClick={() => setFilter(item.value)} aria-pressed={filter === item.value}>{item.label}</button>)}</div>
     </div>
-    <p className="catalog-count">{entries.length} {entries.length === 1 ? 'объект' : 'объекта'}</p>
+    <p className="catalog-count">{objectCount(entries.length)}</p>
     {entries.length ? <div className={`entry-grid grid-${kind}`}>{entries.map(entry => <EntryCard key={entry.id} entry={entry}/>)}</div> : <div className="empty-state"><h2>Ничего не найдено</h2><p>Попробуйте другое название или уберите фильтр.</p><button type="button" className="button secondary-button" onClick={() => { setSearch(''); setFilter('all'); }}>Сбросить фильтры</button></div>}
   </>;
 }

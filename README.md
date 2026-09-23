@@ -32,7 +32,7 @@ After the first deployment, check a direct visit to `/learn`, a quiz and progres
 
 ## Current content
 
-The initial curated set has 12 entries: four flags, four coats of arms or emblems, and four natural landmarks. It includes the five golden records needed to validate the content and interface model. The planned 15–20 entries per category remain a separate editorial batch because each addition needs verified facts and media rights.
+The current reviewed set has 27 entries: nine flags, nine coats of arms or emblems, and nine natural landmarks. The 18 entries per category target is the next prototype quality milestone. Full content production continues after that milestone until every eligible record in the complete country, extended entity, and natural-landmark registries is published; the final catalog has no predefined card limit.
 
 Content lives in `content/library.json`; image metadata lives in `content/media.json`. Images are saved under `public/media/`. `src/data/schema.ts` validates content and references when the app loads. Facts and rights links are shown on each detail page.
 

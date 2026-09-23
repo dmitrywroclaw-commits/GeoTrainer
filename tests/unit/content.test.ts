@@ -10,7 +10,7 @@ describe('content validation', () => {
     const parsed = librarySchema.parse(library);
     const assets = mediaSchema.parse(media);
     expect(() => validateReferences(parsed, assets)).not.toThrow();
-    expect(parsed.entries.filter(entry => entry.status === 'published')).toHaveLength(12);
+    expect(parsed.entries.filter(entry => entry.status === 'published')).toHaveLength(27);
     for (const asset of assets) expect(existsSync(join(process.cwd(), 'public', asset.localPath.slice(1))), asset.id).toBe(true);
   });
 
@@ -19,5 +19,13 @@ describe('content validation', () => {
     const assets = mediaSchema.parse(media);
     const broken = { ...parsed, entries: parsed.entries.map((entry, index) => index === 0 ? { ...entry, mediaId: 'missing-media' } : entry) };
     expect(() => validateReferences(broken, assets)).toThrow(/изображение/);
+  });
+
+  it('rejects published CC BY media without attribution text', () => {
+    const parsed = librarySchema.parse(library);
+    const assets = mediaSchema.parse(media).map(asset => asset.id === 'emblem-south-africa'
+      ? { ...asset, attributionText: '' }
+      : asset);
+    expect(() => validateReferences(parsed, assets)).toThrow(/атрибуция/);
   });
 });

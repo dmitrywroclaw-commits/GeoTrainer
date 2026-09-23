@@ -164,6 +164,21 @@ Exit criteria:
 - every published image has rights metadata;
 - quiz remains usable with the larger data set.
 
+### Phase 9 — Complete catalog production
+
+Deliverables:
+
+- every eligible official flag variant and national symbol from the complete base and extended registries;
+- every eligible concrete natural landmark from the completed source and thematic passes;
+- coverage reports linking every registry decision to a published card or a documented exclusion;
+- scalable catalog navigation, search, quiz selection, media loading, and PWA caching for an open-ended number of records.
+
+Exit criteria:
+
+- all registry rows have final decisions and the deferred queue is empty;
+- every eligible row is published and every published card maps back to a registry row;
+- facts, media provenance, attribution, responsive layouts, quizzes, progress, and offline behavior remain validated at full catalog size.
+
 ## 3. Milestone definition
 
 ### M0 — Skeleton
@@ -189,6 +204,10 @@ PWA behavior and offline shell work.
 ### M5 — Prototype Complete
 
 50–60 reviewed content entries and passing critical E2E flows.
+
+### M6 — Full Catalog Complete
+
+All eligible records from the versioned country, entity, and natural-landmark registries are published. The total is discovered through the audit and is not capped in advance.
 
 ## 4. Suggested implementation order for Codex
 
