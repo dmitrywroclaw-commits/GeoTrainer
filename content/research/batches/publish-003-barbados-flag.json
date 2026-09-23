@@ -1,0 +1,68 @@
+{
+  "batch_id": "publish-003-barbados-flag",
+  "countries": [
+    {
+      "id": "barbados",
+      "nameRu": "Барбадос",
+      "region": "Карибский бассейн",
+      "m49": "052",
+      "iso2": "BB",
+      "iso3": "BRB"
+    }
+  ],
+  "sources": [
+    {
+      "id": "bb-national-emblems-regulations",
+      "title": "National Emblems and National Anthem of Barbados Regulations, CAP. 300A",
+      "publisher": "Laws of Barbados, Government Printer",
+      "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/subsidiary_legislation_of_barbados/NationalEmblemsandNationalAnthemofBarbadosRegulations%2C1976Cap300A%27A.pdf",
+      "sourceType": "law",
+      "accessedAt": "2026-09-23"
+    }
+  ],
+  "media": [
+    {
+      "id": "flag-barbados",
+      "kind": "flag",
+      "localPath": "/media/flags/barbados.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Barbados.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Barbados.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Denelson83; later Wikimedia Commons editors",
+      "license": "Public domain",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Barbados.svg",
+      "checkedAt": "2026-09-23"
+    }
+  ],
+  "entries": [
+    {
+      "id": "barbados-national-flag",
+      "kind": "flag",
+      "countryId": "barbados",
+      "nameRu": "Барбадос",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-barbados",
+      "summaryRu": "Три вертикальные полосы — синяя, золотая и синяя. В центре изображён чёрный сломанный трезубец.",
+      "explanationRu": "Для распознавания запомните чёрный сломанный трезубец на золотой полосе между двумя синими. Официальное описание закрепляет именно такой вид флага; значение трезубца этот источник не объясняет.",
+      "historyRu": "Вид национального флага описан в правилах о государственных символах Барбадоса 1976 года.",
+      "symbols": [
+        {
+          "nameRu": "Сломанный трезубец",
+          "category": "tool",
+          "meaningStatus": "unknown",
+          "sourceIds": ["bb-national-emblems-regulations"]
+        }
+      ],
+      "facts": [
+        { "labelRu": "Регион", "valueRu": "Карибский бассейн" },
+        { "labelRu": "Особенность", "valueRu": "Чёрный сломанный трезубец" }
+      ],
+      "sourceIds": ["bb-national-emblems-regulations"],
+      "quizHints": { "similarityTags": ["tool_symbol", "vertical_flag"] },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    }
+  ]
+}

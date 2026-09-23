@@ -24,6 +24,16 @@ test('new Bhutan flag card appears with its local illustration', async ({ page }
   await expect.poll(() => image.evaluate((element: HTMLImageElement) => element.naturalWidth)).toBeGreaterThan(0);
 });
 
+test('new Barbados flag and Seongsan landmark cards load', async ({ page }) => {
+  for (const [id, title] of [['barbados-national-flag', 'Барбадос'], ['seongsan-ilchulbong', 'Сонсан-Ильчхульбон']]) {
+    await page.goto(`/item/${id}`);
+    await expect(page.getByRole('heading', { name: title })).toBeVisible();
+    await expect(page.getByRole('heading', { name: 'Источники и права' })).toBeVisible();
+    const image = page.locator('.detail-media img').first();
+    await expect.poll(() => image.evaluate((element: HTMLImageElement) => element.naturalWidth)).toBeGreaterThan(0);
+  }
+});
+
 test('correct answer shows explanation before next question', async ({ page }) => {
   await page.goto('/item/mexico-national-flag');
   await page.getByRole('link', { name: 'Проверить себя' }).click();

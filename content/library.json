@@ -151,6 +151,22 @@
       "m49": "064",
       "iso2": "BT",
       "iso3": "BTN"
+    },
+    {
+      "id": "barbados",
+      "nameRu": "Барбадос",
+      "region": "Карибский бассейн",
+      "m49": "052",
+      "iso2": "BB",
+      "iso3": "BRB"
+    },
+    {
+      "id": "south-korea",
+      "nameRu": "Республика Корея",
+      "region": "Восточная Азия",
+      "m49": "410",
+      "iso2": "KR",
+      "iso3": "KOR"
     }
   ],
   "sources": [
@@ -408,6 +424,22 @@
       "publisher": "Royal Civil Service Commission, Kingdom of Bhutan",
       "url": "https://www.rcsc.gov.bt/wp-content/uploads/2021/02/Constitution-of-Bhutan-Eng-2008.pdf",
       "sourceType": "law",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "bb-national-emblems-regulations",
+      "title": "National Emblems and National Anthem of Barbados Regulations, CAP. 300A",
+      "publisher": "Laws of Barbados, Government Printer",
+      "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/subsidiary_legislation_of_barbados/NationalEmblemsandNationalAnthemofBarbadosRegulations%2C1976Cap300A%27A.pdf",
+      "sourceType": "law",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "jeju-volcanic-unesco",
+      "title": "Jeju Volcanic Island and Lava Tubes",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1264",
+      "sourceType": "unesco",
       "accessedAt": "2026-09-23"
     }
   ],
@@ -1765,6 +1797,88 @@
           "dragon",
           "animal_symbol",
           "diagonal_flag"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "barbados-national-flag",
+      "kind": "flag",
+      "countryId": "barbados",
+      "nameRu": "Барбадос",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-barbados",
+      "summaryRu": "Три вертикальные полосы — синяя, золотая и синяя. В центре изображён чёрный сломанный трезубец.",
+      "explanationRu": "Для распознавания запомните чёрный сломанный трезубец на золотой полосе между двумя синими. Официальное описание закрепляет именно такой вид флага; значение трезубца этот источник не объясняет.",
+      "historyRu": "Вид национального флага описан в правилах о государственных символах Барбадоса 1976 года.",
+      "symbols": [
+        {
+          "nameRu": "Сломанный трезубец",
+          "category": "tool",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "bb-national-emblems-regulations"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Регион",
+          "valueRu": "Карибский бассейн"
+        },
+        {
+          "labelRu": "Особенность",
+          "valueRu": "Чёрный сломанный трезубец"
+        }
+      ],
+      "sourceIds": [
+        "bb-national-emblems-regulations"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "tool_symbol",
+          "vertical_flag"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "seongsan-ilchulbong",
+      "kind": "landmark",
+      "countryIds": [
+        "south-korea"
+      ],
+      "nameRu": "Сонсан-Ильчхульбон",
+      "subtitleRu": "Вулканический туфовый конус",
+      "landmarkType": "volcano",
+      "regionRu": "Остров Чеджу, Республика Корея",
+      "mediaId": "photo-seongsan-ilchulbong",
+      "summaryRu": "Туфовый конус у берега острова Чеджу: крутые стены окружают широкий зелёный кратер.",
+      "explanationRu": "Конус сформировался в результате вулканического извержения у моря. ЮНЕСКО рассматривает его слои как важный пример извержения, при котором магма взаимодействует с водой.",
+      "historyRu": "Сонсан-Ильчхульбон — один из трёх отдельных компонентов объекта Всемирного наследия «Вулканический остров Чеджу и лавовые трубки».",
+      "whyNotableRu": "Узнаваемый кратер на морском берегу; ЮНЕСКО отмечает выразительный ландшафт и геологическую ценность обнажённых слоёв.",
+      "facts": [
+        {
+          "labelRu": "Где находится",
+          "valueRu": "Остров Чеджу, Республика Корея"
+        },
+        {
+          "labelRu": "Тип",
+          "valueRu": "Вулканический туфовый конус"
+        }
+      ],
+      "sourceIds": [
+        "jeju-volcanic-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "volcano",
+          "coastal_landmark",
+          "crater"
         ]
       },
       "status": "published",
