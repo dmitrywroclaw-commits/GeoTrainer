@@ -1,0 +1,123 @@
+{
+  "batch_id": "publish-012-botswana-symbols",
+  "sources": [
+    {
+      "id": "bw-national-symbols-bopa",
+      "title": "National symbols stand test of time",
+      "publisher": "Botswana Press Agency / DailyNews",
+      "url": "https://dailynews.gov.bw/news-detail/31255",
+      "sourceType": "government",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "bw-national-emblems-government",
+      "title": "Use of National Emblems",
+      "publisher": "Government of Botswana — Office of the President",
+      "url": "https://www.gov.bw/sale-goods-and-services/use-national-emblems",
+      "sourceType": "government",
+      "accessedAt": "2026-09-23"
+    }
+  ],
+  "media": [
+    {
+      "id": "flag-botswana-presidential-standard",
+      "kind": "flag",
+      "localPath": "/media/flags/botswana-presidential-standard.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_President_of_Botswana.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_President_of_Botswana.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Zscout370; coat of arms vector by Sodacan and later Wikimedia Commons editors",
+      "license": "CC BY-SA 3.0 (coat of arms vectorization); flag composition marked public domain on file page",
+      "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "attributionText": "Zscout370; герб: Sodacan и редакторы Wikimedia Commons / CC BY-SA 3.0. Исходный SVG без изменений.",
+      "checkedAt": "2026-09-23"
+    },
+    {
+      "id": "emblem-botswana",
+      "kind": "emblem",
+      "localPath": "/media/emblems/botswana.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Botswana.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Coat_of_arms_of_Botswana.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Sodacan; later Wikimedia Commons editors",
+      "license": "CC BY-SA 3.0",
+      "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "attributionText": "Sodacan и редакторы Wikimedia Commons / CC BY-SA 3.0. Исходный SVG без изменений.",
+      "checkedAt": "2026-09-23"
+    }
+  ],
+  "entries": [
+    {
+      "id": "botswana-presidential-standard",
+      "kind": "flag",
+      "countryId": "botswana",
+      "nameRu": "Ботсвана",
+      "subtitleRu": "Президентский штандарт",
+      "variantType": "other_official",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-botswana-presidential-standard",
+      "summaryRu": "На голубом полотнище расположен белый круг с государственным гербом Ботсваны.",
+      "explanationRu": "У Ботсваны есть отдельный президентский штандарт. Его главное отличие от полосатого национального флага — герб с двумя зебрами в центре белого круга.",
+      "historyRu": "Правительственное издание относит штандарт к государственным символам, сохраняющимся со времени независимости.",
+      "symbols": [
+        {
+          "nameRu": "Государственный герб в белом круге",
+          "category": "coat_of_arms",
+          "meaningStatus": "unknown",
+          "sourceIds": ["bw-national-symbols-bopa"]
+        }
+      ],
+      "facts": [
+        { "labelRu": "Тип", "valueRu": "Официальный штандарт президента" },
+        { "labelRu": "Основной элемент", "valueRu": "Герб в белом круге" }
+      ],
+      "sourceIds": ["bw-national-symbols-bopa"],
+      "quizHints": { "similarityTags": ["coat_on_flag", "presidential_standard"] },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "botswana-coat-of-arms",
+      "kind": "emblem",
+      "countryId": "botswana",
+      "nameRu": "Ботсвана",
+      "subtitleRu": "Государственный герб",
+      "symbolType": "coat_of_arms",
+      "mediaId": "emblem-botswana",
+      "summaryRu": "Две зебры поддерживают щит с шестернями, волнами и головой быка; по сторонам показаны бивень и сорго, внизу — девиз «Pula».",
+      "explanationRu": "Для распознавания запомните пару зебр по сторонам щита. Правительственное издание связывает шестерни с промышленностью, волны и девиз «Pula» — с дождём, а голову быка — со скотоводством.",
+      "historyRu": "Правительственное издание указывает, что герб принят 25 января 1966 года.",
+      "symbols": [
+        {
+          "nameRu": "Две зебры",
+          "category": "animal",
+          "meaningRu": "Дикая природа страны и расовая гармония — по объяснению Botswana Press Agency.",
+          "meaningStatus": "well_sourced",
+          "sourceIds": ["bw-national-symbols-bopa"]
+        },
+        {
+          "nameRu": "Шестерни",
+          "category": "tool",
+          "meaningRu": "Промышленность — по объяснению Botswana Press Agency.",
+          "meaningStatus": "well_sourced",
+          "sourceIds": ["bw-national-symbols-bopa"]
+        },
+        {
+          "nameRu": "Волны и девиз «Pula»",
+          "category": "water",
+          "meaningRu": "Важность дождя для Ботсваны — по объяснению Botswana Press Agency.",
+          "meaningStatus": "well_sourced",
+          "sourceIds": ["bw-national-symbols-bopa"]
+        }
+      ],
+      "facts": [
+        { "labelRu": "Тип", "valueRu": "Государственный герб" },
+        { "labelRu": "Отличительная деталь", "valueRu": "Две зебры по сторонам щита" }
+      ],
+      "sourceIds": ["bw-national-symbols-bopa", "bw-national-emblems-government"],
+      "quizHints": { "similarityTags": ["animal_supporters", "shield", "zebra"] },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    }
+  ]
+}

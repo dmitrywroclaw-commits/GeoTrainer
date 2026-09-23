@@ -1,0 +1,68 @@
+{
+  "batch_id": "003b-m49-072-botswana",
+  "checked_at": "2026-09-23",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "bw-national-symbols-bopa",
+      "title": "National symbols stand test of time",
+      "publisher": "Botswana Press Agency / DailyNews",
+      "source_type": "government_publication",
+      "url": "https://dailynews.gov.bw/news-detail/31255",
+      "accessed_at": "2026-09-23",
+      "supports": "Правительственное издание описывает национальный флаг, президентский штандарт и герб Ботсваны, их видимые элементы и отдельные официально опубликованные толкования"
+    },
+    {
+      "source_id": "bw-national-emblems-government",
+      "title": "Use of National Emblems",
+      "publisher": "Government of Botswana — Office of the President",
+      "source_type": "government_publication",
+      "url": "https://www.gov.bw/sale-goods-and-services/use-national-emblems",
+      "accessed_at": "2026-09-23",
+      "supports": "Правительственный порядок отдельно называет флаг и герб Республики Ботсвана национальными эмблемами"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "botswana",
+      "audit_status": "complete",
+      "notes": "Правительственное издание различает национальный флаг, президентский штандарт и герб. Национальный флаг с полосами не соответствует графическому критерию; штандарт с гербом соответствует. Ведомственные и военные флаги не включены как общегосударственные учебные варианты.",
+      "flags": [
+        {
+          "variant_id": "botswana-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "false",
+          "official_status": "official",
+          "graphic_elements": "plain_horizontal_bands",
+          "decision": "excluded",
+          "decision_reason": "На голубом полотнище только чёрная полоса с белой окантовкой: нет отдельного графического символа сверх цветовых полей и полос.",
+          "source_ids": "bw-national-symbols-bopa",
+          "primary_source_urls": "https://dailynews.gov.bw/news-detail/31255"
+        },
+        {
+          "variant_id": "botswana-presidential-standard",
+          "variant_type": "other_official",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "coat_of_arms",
+          "decision": "eligible",
+          "decision_reason": "Правительственное издание подтверждает отдельный президентский штандарт: голубое поле, белый круг и государственный герб в центре.",
+          "source_ids": "bw-national-symbols-bopa",
+          "primary_source_urls": "https://dailynews.gov.bw/news-detail/31255"
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "botswana-coat-of-arms",
+          "symbol_type": "coat_of_arms",
+          "official_name_ru": "Государственный герб Ботсваны",
+          "elements": "shield|zebras|cogwheels|waves|bull|elephant_tusk|sorghum|motto",
+          "decision": "eligible",
+          "decision_reason": "Правительственные источники подтверждают действующий герб и описывают щит, двух зебр, шестерни, волны, голову быка, бивень, сорго и девиз Pula.",
+          "source_ids": "bw-national-symbols-bopa|bw-national-emblems-government",
+          "primary_source_urls": "https://dailynews.gov.bw/news-detail/31255|https://www.gov.bw/sale-goods-and-services/use-national-emblems"
+        }
+      ]
+    }
+  ]
+}

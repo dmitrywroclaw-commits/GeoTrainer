@@ -492,5 +492,31 @@
     "license": "Public domain — Bosnia and Herzegovina official symbol",
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Bosnia_and_Herzegovina.svg",
     "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "flag-botswana-presidential-standard",
+    "kind": "flag",
+    "localPath": "/media/flags/botswana-presidential-standard.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_President_of_Botswana.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_President_of_Botswana.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Zscout370; coat of arms vector by Sodacan and later Wikimedia Commons editors",
+    "license": "CC BY-SA 3.0 (coat of arms vectorization); flag composition marked public domain on file page",
+    "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attributionText": "Zscout370; герб: Sodacan и редакторы Wikimedia Commons / CC BY-SA 3.0. Исходный SVG без изменений.",
+    "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "emblem-botswana",
+    "kind": "emblem",
+    "localPath": "/media/emblems/botswana.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Botswana.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Coat_of_arms_of_Botswana.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Sodacan; later Wikimedia Commons editors",
+    "license": "CC BY-SA 3.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attributionText": "Sodacan и редакторы Wikimedia Commons / CC BY-SA 3.0. Исходный SVG без изменений.",
+    "checkedAt": "2026-09-23"
   }
 ]
