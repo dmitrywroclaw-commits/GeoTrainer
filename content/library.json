@@ -287,6 +287,14 @@
       "m49": "120",
       "iso2": "CM",
       "iso3": "CMR"
+    },
+    {
+      "id": "cabo-verde",
+      "nameRu": "Кабо-Верде",
+      "region": "Западная Африка",
+      "m49": "132",
+      "iso2": "CV",
+      "iso3": "CPV"
     }
   ],
   "sources": [
@@ -800,6 +808,30 @@
       "publisher": "UNESCO World Heritage Centre",
       "url": "https://whc.unesco.org/en/list/145",
       "sourceType": "unesco",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "cv-constitution-parliament",
+      "title": "Constituição da República de Cabo Verde, Artigo 8º",
+      "publisher": "Assembleia Nacional de Cabo Verde",
+      "url": "https://www.parlamento.cv/constituicao/pesquisa.php",
+      "sourceType": "law",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "cv-flag-government",
+      "title": "Bandeira",
+      "publisher": "Governo de Cabo Verde",
+      "url": "https://www.governo.cv/o-arquipelago/simbolos/bandeira/",
+      "sourceType": "government",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "cv-arms-government",
+      "title": "Armas da República",
+      "publisher": "Governo de Cabo Verde",
+      "url": "https://www.governo.cv/o-arquipelago/simbolos/armas-da-republica/",
+      "sourceType": "government",
       "accessedAt": "2026-09-23"
     }
   ],
@@ -3521,6 +3553,107 @@
           "glacier",
           "lake",
           "patagonia"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "cabo-verde-national-flag",
+      "kind": "flag",
+      "countryId": "cabo-verde",
+      "nameRu": "Кабо-Верде",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-cabo-verde",
+      "summaryRu": "Пять горизонтальных полей синего, белого и красного цветов; поверх них десять жёлтых пятиконечных звёзд, расположенных по кругу.",
+      "explanationRu": "Десять звёзд обозначают десять островов архипелага, а круг — их единство. По объяснению правительства синий цвет связан с небом и морем, белый — с миром, красный — с усилиями народа.",
+      "symbols": [
+        {
+          "nameRu": "Десять звёзд",
+          "category": "star",
+          "meaningRu": "Десять островов архипелага; расположение по кругу означает единство.",
+          "meaningStatus": "official",
+          "sourceIds": [
+            "cv-flag-government"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Регион",
+          "valueRu": "Западная Африка"
+        },
+        {
+          "labelRu": "Звёзды",
+          "valueRu": "Десять жёлтых пятиконечных"
+        }
+      ],
+      "sourceIds": [
+        "cv-constitution-parliament",
+        "cv-flag-government"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "ten_stars",
+          "star_circle",
+          "blue_white_red"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "cabo-verde-national-emblem",
+      "kind": "emblem",
+      "countryId": "cabo-verde",
+      "nameRu": "Кабо-Верде",
+      "subtitleRu": "Государственная эмблема",
+      "symbolType": "national_emblem",
+      "mediaId": "emblem-cabo-verde",
+      "summaryRu": "Радиальная композиция с синим треугольником и белым факелом в центре; вокруг надпись, отвес, цепь, пальмовые ветви и десять звёзд.",
+      "explanationRu": "По объяснению правительства отвес означает прямоту, треугольник — единство и равные гражданские права, факел — свободу, пальмовые ветви — победу в борьбе за независимость, а звёзды — десять островов.",
+      "symbols": [
+        {
+          "nameRu": "Факел",
+          "category": "torch",
+          "meaningRu": "Свобода, завоёванная после долгой борьбы.",
+          "meaningStatus": "official",
+          "sourceIds": [
+            "cv-arms-government"
+          ]
+        },
+        {
+          "nameRu": "Десять звёзд",
+          "category": "star",
+          "meaningRu": "Десять островов архипелага.",
+          "meaningStatus": "official",
+          "sourceIds": [
+            "cv-arms-government"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Государственная эмблема (Armas da República)"
+        },
+        {
+          "labelRu": "Композиция",
+          "valueRu": "Радиальная, без щита"
+        }
+      ],
+      "sourceIds": [
+        "cv-constitution-parliament",
+        "cv-arms-government"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "triangle",
+          "torch",
+          "ten_stars",
+          "palm_branches"
         ]
       },
       "status": "published",

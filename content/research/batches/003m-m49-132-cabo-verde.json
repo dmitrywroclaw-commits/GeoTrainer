@@ -1,0 +1,66 @@
+{
+  "batch_id": "003m-m49-132-cabo-verde",
+  "checked_at": "2026-09-23",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "cv-constitution-parliament",
+      "title": "Constituição da República de Cabo Verde, Artigo 8º",
+      "publisher": "Assembleia Nacional de Cabo Verde",
+      "source_type": "law",
+      "url": "https://www.parlamento.cv/constituicao/pesquisa.php",
+      "accessed_at": "2026-09-23",
+      "supports": "Конституционный статус и описание национального флага и Armas da República."
+    },
+    {
+      "source_id": "cv-flag-government",
+      "title": "Bandeira",
+      "publisher": "Governo de Cabo Verde",
+      "source_type": "government_publication",
+      "url": "https://www.governo.cv/o-arquipelago/simbolos/bandeira/",
+      "accessed_at": "2026-09-23",
+      "supports": "Описание флага и официальное значение цветов и звёзд."
+    },
+    {
+      "source_id": "cv-arms-government",
+      "title": "Armas da República",
+      "publisher": "Governo de Cabo Verde",
+      "source_type": "government_publication",
+      "url": "https://www.governo.cv/o-arquipelago/simbolos/armas-da-republica/",
+      "accessed_at": "2026-09-23",
+      "supports": "Официальное объяснение отвеса, треугольника, факела, моря, пальмовых ветвей и звёзд."
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "cabo-verde",
+      "audit_status": "complete",
+      "notes": "Конституция называет национальный флаг и Armas da República символами суверенитета и описывает их элементы. Правительство объясняет их значение. Оба SVG проверены по страницам файлов и сохранены локально. Отдельный официальный графический вариант флага или национальный символ в проверенных первичных источниках не обнаружен.",
+      "flags": [
+        {
+          "variant_id": "cabo-verde-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "ten_yellow_stars|five_horizontal_bands",
+          "decision": "eligible",
+          "decision_reason": "Статья 8 Конституции описывает десять жёлтых звёзд по кругу поверх пяти горизонтальных полей.",
+          "source_ids": "cv-constitution-parliament|cv-flag-government",
+          "primary_source_urls": "https://www.parlamento.cv/constituicao/pesquisa.php|https://www.governo.cv/o-arquipelago/simbolos/bandeira/"
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "cabo-verde-national-emblem",
+          "symbol_type": "national_emblem",
+          "official_name_ru": "Государственная эмблема Кабо-Верде (Armas da República)",
+          "elements": "triangle|torch|plumb_bob|chain_links|palm_branches|ten_stars",
+          "decision": "eligible",
+          "decision_reason": "Конституция описывает Armas da República как отдельную радиальную композицию с треугольником, факелом, отвесом, цепью, ветвями и звёздами.",
+          "source_ids": "cv-constitution-parliament|cv-arms-government",
+          "primary_source_urls": "https://www.parlamento.cv/constituicao/pesquisa.php|https://www.governo.cv/o-arquipelago/simbolos/armas-da-republica/"
+        }
+      ]
+    }
+  ]
+}
