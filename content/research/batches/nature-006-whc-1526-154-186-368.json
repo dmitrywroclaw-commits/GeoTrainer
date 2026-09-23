@@ -1,0 +1,221 @@
+{
+  "batch_id": "nature-006-whc-1526-154-186-368",
+  "checked_at": "2026-09-23",
+  "sources": [
+    {
+      "source_id": "los-alerces-unesco",
+      "title": "Los Alerces National Park",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_type": "unesco",
+      "url": "https://whc.unesco.org/en/list/1526",
+      "accessed_at": "2026-09-23",
+      "supports": "Раздел Outstanding Universal Value называет озеро Менендес и Millennial Alerce Forest у его северного рукава, описывает их расположение и ландшафт."
+    },
+    {
+      "source_id": "lord-howe-island-group-unesco",
+      "title": "Lord Howe Island Group",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_type": "unesco",
+      "url": "https://whc.unesco.org/en/list/186",
+      "accessed_at": "2026-09-23",
+      "supports": "Раздел Outstanding Universal Value называет остров Лорд-Хау, скалу Болс-Пирамид и коралловый риф острова; объясняет их вулканическое происхождение и экологическую значимость."
+    },
+    {
+      "source_id": "gondwana-rainforests-unesco",
+      "title": "Gondwana Rainforests of Australia",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_type": "unesco",
+      "url": "https://whc.unesco.org/en/list/368",
+      "accessed_at": "2026-09-23",
+      "supports": "Раздел Outstanding Universal Value выделяет эрозионную кальдеру Твид и центральный массив Wollumbin/Mt Warning как геологические особенности серийной территории."
+    }
+  ],
+  "landmarks": [
+    {
+      "landmark_id": "lake-menendez",
+      "name_original": "Lake Menéndez",
+      "name_ru": "Озеро Менендес",
+      "landmark_type": "lake",
+      "country_ids": "argentina",
+      "region": "Национальный парк Лос-Алерсес, северная Патагония",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО отдельно называет северный рукав озера как место Тысячелетнего алерсового леса.",
+      "source_catalog": "unesco_whc:1526",
+      "source_ids": "los-alerces-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/1526",
+      "decision": "eligible",
+      "decision_reason": "Именованное ледниковое озеро внутри территории ЮНЕСКО; отдельный физический объект, а не весь парк.",
+      "notes": "Медиа должно показывать само озеро; возраст деревьев не переносить на озеро."
+    },
+    {
+      "landmark_id": "millennial-alerce-forest",
+      "name_original": "Millennial Alerce Forest",
+      "name_ru": "Тысячелетний алерсовый лес",
+      "landmark_type": "other",
+      "country_ids": "argentina",
+      "region": "Северный рукав озера Менендес, национальный парк Лос-Алерсес",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО выделяет этот лес как узнаваемую часть ландшафта парка и описывает крупное старое дерево алерсе.",
+      "source_catalog": "unesco_whc:1526",
+      "source_ids": "los-alerces-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/1526",
+      "decision": "eligible",
+      "decision_reason": "Конкретно названный лесной участок у озера Менендес, не всё охраняемое пространство.",
+      "notes": "Не представлять возраст примерно 2600 лет одного дерева как возраст всего леса; перед публикацией проверить точную локализацию фотографии."
+    },
+    {
+      "landmark_id": "whitsunday-islands",
+      "name_original": "Whitsunday Islands",
+      "name_ru": "Острова Уитсанди",
+      "landmark_type": "island",
+      "country_ids": "australia",
+      "region": "Большой Барьерный риф, Квинсленд",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО отдельно выделяет группу зелёных островов и песчаных пляжей как узнаваемый вид рифовой системы.",
+      "source_catalog": "unesco_whc:154",
+      "source_ids": "great-barrier-reef-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/154",
+      "decision": "eligible",
+      "decision_reason": "Именованная группа физических островов внутри обширной рифовой территории.",
+      "notes": "Нужна фотография конкретного острова или группы с точной подписью места."
+    },
+    {
+      "landmark_id": "hinchinbrook-island",
+      "name_original": "Hinchinbrook Island",
+      "name_ru": "Остров Хинчинбрук",
+      "landmark_type": "island",
+      "country_ids": "australia",
+      "region": "Большой Барьерный риф, Квинсленд",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО выделяет гористый остров с лесистыми склонами и влажными ущельями.",
+      "source_catalog": "unesco_whc:154",
+      "source_ids": "great-barrier-reef-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/154",
+      "decision": "eligible",
+      "decision_reason": "Именованный остров с отличимым рельефом внутри рифовой системы.",
+      "notes": "Не смешивать с проливом Hinchinbrook Channel, который ЮНЕСКО упоминает отдельно."
+    },
+    {
+      "landmark_id": "raine-island",
+      "name_original": "Raine Island",
+      "name_ru": "Остров Рейн",
+      "landmark_type": "island",
+      "country_ids": "australia",
+      "region": "Большой Барьерный риф, Квинсленд",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО называет остров важным местом размножения зелёных морских черепах.",
+      "source_catalog": "unesco_whc:154",
+      "source_ids": "great-barrier-reef-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/154",
+      "decision": "eligible",
+      "decision_reason": "Именованный коралловый остров с отдельно описанной природной значимостью.",
+      "notes": "При публикации не повторять мировой рекорд без уточнения методики подсчёта гнездящихся черепах."
+    },
+    {
+      "landmark_id": "lord-howe-island",
+      "name_original": "Lord Howe Island",
+      "name_ru": "Остров Лорд-Хау",
+      "landmark_type": "island",
+      "country_ids": "australia",
+      "region": "Тасманово море, Новый Южный Уэльс",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО описывает вулканическое происхождение острова и его изолированную эндемичную биоту.",
+      "source_catalog": "unesco_whc:186",
+      "source_ids": "lord-howe-island-group-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/186",
+      "decision": "eligible",
+      "decision_reason": "Отдельный именованный остров внутри архипелага ЮНЕСКО.",
+      "notes": "Не отождествлять остров с полной территорией Lord Howe Island Group."
+    },
+    {
+      "landmark_id": "balls-pyramid",
+      "name_original": "Balls Pyramid",
+      "name_ru": "Болс-Пирамид",
+      "landmark_type": "geological_formation",
+      "country_ids": "australia",
+      "region": "Архипелаг Лорд-Хау, Тасманово море",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО отдельно выделяет поднимающуюся из океана скалу вулканического происхождения и место обитания лорд-хауского палочника.",
+      "source_catalog": "unesco_whc:186",
+      "source_ids": "lord-howe-island-group-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/186",
+      "decision": "eligible",
+      "decision_reason": "Именованная визуально отличимая скала, отдельная от острова Лорд-Хау.",
+      "notes": "Перед публикацией проверить, показывает ли фото именно Болс-Пирамид."
+    },
+    {
+      "landmark_id": "lord-howe-coral-reef",
+      "name_original": "Lord Howe Island coral reef",
+      "name_ru": "Коралловый риф острова Лорд-Хау",
+      "landmark_type": "natural_wonder",
+      "country_ids": "australia",
+      "region": "Морская зона острова Лорд-Хау, Тасманово море",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО отдельно описывает коралловый риф как часть природной территории острова.",
+      "source_catalog": "unesco_whc:186",
+      "source_ids": "lord-howe-island-group-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/186",
+      "decision": "eligible",
+      "decision_reason": "Конкретная рифовая система у острова, отличная от суши архипелага.",
+      "notes": "Формулировку о самом южном рифе проверить отдельно с критерием «true coral reef»; до этого не публиковать рекорд."
+    },
+    {
+      "landmark_id": "tweed-caldera",
+      "name_original": "Tweed Shield erosion caldera",
+      "name_ru": "Кальдера Твид",
+      "landmark_type": "geological_formation",
+      "country_ids": "australia",
+      "region": "Гондванские влажные леса, Новый Южный Уэльс и Квинсленд",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО описывает крупную эрозионную кальдеру древнего щитового вулкана Твид и центральный массив Волламбин.",
+      "source_catalog": "unesco_whc:368",
+      "source_ids": "gondwana-rainforests-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/368",
+      "decision": "eligible",
+      "decision_reason": "Именованная геологическая форма внутри составной территории ЮНЕСКО.",
+      "notes": "Не заявлять спорный рекорд «лучше всего сохранившаяся» без определения сравнения."
+    },
+    {
+      "landmark_id": "wollumbin-mount-warning",
+      "name_original": "Wollumbin / Mt Warning",
+      "name_ru": "Гора Волламбин (Маунт-Уорнинг)",
+      "landmark_type": "mountain",
+      "country_ids": "australia",
+      "region": "Кальдера Твид, Гондванские влажные леса",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО называет эту гору центральным массивом эрозионной кальдеры Твид.",
+      "source_catalog": "unesco_whc:368",
+      "source_ids": "gondwana-rainforests-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/368",
+      "decision": "eligible",
+      "decision_reason": "Конкретная именованная гора и различимый объект внутри крупной составной территории.",
+      "notes": "Использовать двойное название из источника ЮНЕСКО; фотографии должны показывать гору, а не весь парк."
+    }
+  ],
+  "catalog_updates": [
+    {
+      "catalog_record_id": "whc-1526",
+      "landmark_ids": ["lake-menendez", "millennial-alerce-forest"],
+      "candidate_decision": "eligible",
+      "decision_reason": "Выделены озеро Менендес и названный ЮНЕСКО Тысячелетний алерсовый лес у его северного рукава."
+    },
+    {
+      "catalog_record_id": "whc-154",
+      "landmark_ids": ["great-barrier-reef", "whitsunday-islands", "hinchinbrook-island", "raine-island"],
+      "candidate_decision": "eligible",
+      "decision_reason": "Уже опубликованный Большой Барьерный риф связан с исходной строкой; дополнительно выделены три отдельно названных островных объекта."
+    },
+    {
+      "catalog_record_id": "whc-186",
+      "landmark_ids": ["lord-howe-island", "balls-pyramid", "lord-howe-coral-reef"],
+      "candidate_decision": "eligible",
+      "decision_reason": "Из архипелага выделены сам остров Лорд-Хау, Болс-Пирамид и отдельный коралловый риф острова."
+    },
+    {
+      "catalog_record_id": "whc-368",
+      "landmark_ids": ["tweed-caldera", "wollumbin-mount-warning"],
+      "candidate_decision": "eligible",
+      "decision_reason": "Из составной природной территории выделены кальдера Твид и её центральная гора Волламбин."
+    }
+  ]
+}

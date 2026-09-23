@@ -1,0 +1,200 @@
+{
+  "batch_id": "publish-031-five-natural-landmarks",
+  "sources": [
+    {
+      "id": "los-alerces-unesco",
+      "title": "Los Alerces National Park",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1526",
+      "sourceType": "unesco",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "lord-howe-island-group-unesco",
+      "title": "Lord Howe Island Group",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/186",
+      "sourceType": "unesco",
+      "accessedAt": "2026-09-23"
+    }
+  ],
+  "media": [
+    {
+      "id": "photo-lake-menendez",
+      "kind": "photo",
+      "localPath": "/media/landmarks/lake-menendez.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Lago_Men%C3%A9ndez_-_Parque_Nacional_Los_Alerces_-_Chubut_-_Argentina_-_panoramio.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Lago_Men%C3%A9ndez_-_Parque_Nacional_Los_Alerces_-_Chubut_-_Argentina_-_panoramio.jpg",
+      "publisher": "Wikimedia Commons",
+      "author": "littletroll",
+      "rightsHolder": "littletroll",
+      "license": "CC BY-SA 3.0",
+      "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "attributionText": "littletroll / Wikimedia Commons, CC BY-SA 3.0; уменьшено до 1280 px.",
+      "checkedAt": "2026-09-23"
+    },
+    {
+      "id": "photo-whitsunday-islands",
+      "kind": "photo",
+      "localPath": "/media/landmarks/whitsunday-islands.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Whitehaven_Beach,_Whitsunday_Islands_National_Park.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Whitehaven_Beach%2C_Whitsunday_Islands_National_Park.jpg",
+      "publisher": "Wikimedia Commons",
+      "author": "Timothy Wakeham",
+      "rightsHolder": "Timothy Wakeham",
+      "license": "CC BY-SA 4.0",
+      "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attributionText": "Timothy Wakeham / Wikimedia Commons, CC BY-SA 4.0; уменьшено до 1280 px.",
+      "checkedAt": "2026-09-23"
+    },
+    {
+      "id": "photo-hinchinbrook-island",
+      "kind": "photo",
+      "localPath": "/media/landmarks/hinchinbrook-island.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_4306_Hinchinbrook_Island_as_seen_from_Cardwell_QLD.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/CSIRO_ScienceImage_4306_Hinchinbrook_Island_as_seen_from_Cardwell_QLD.jpg",
+      "publisher": "Wikimedia Commons",
+      "author": "Willem van Aken / CSIRO",
+      "rightsHolder": "CSIRO",
+      "license": "CC BY 3.0",
+      "rightsUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "attributionText": "Willem van Aken / CSIRO / Wikimedia Commons, CC BY 3.0; уменьшено до 1280 px.",
+      "checkedAt": "2026-09-23"
+    },
+    {
+      "id": "photo-lord-howe-island",
+      "kind": "photo",
+      "localPath": "/media/landmarks/lord-howe-island.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Lord_Howe_Island_view_to_Mount_Gower.JPG",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Lord_Howe_Island_view_to_Mount_Gower.JPG",
+      "publisher": "Wikimedia Commons",
+      "author": "Inas66",
+      "rightsHolder": "Inas66",
+      "license": "CC BY-SA 3.0",
+      "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "attributionText": "Inas66 / Wikimedia Commons, CC BY-SA 3.0; уменьшено до 1280 px.",
+      "checkedAt": "2026-09-23"
+    },
+    {
+      "id": "photo-balls-pyramid",
+      "kind": "photo",
+      "localPath": "/media/landmarks/balls-pyramid.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Balls_Pyramid_near_Lord_Howe_Island.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Balls_Pyramid_near_Lord_Howe_Island.jpg",
+      "publisher": "Wikimedia Commons",
+      "author": "JillBBruce",
+      "rightsHolder": "JillBBruce",
+      "license": "CC BY-SA 4.0",
+      "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attributionText": "JillBBruce / Wikimedia Commons, CC BY-SA 4.0; уменьшено до 1280 px.",
+      "checkedAt": "2026-09-23"
+    }
+  ],
+  "entries": [
+    {
+      "id": "lake-menendez",
+      "kind": "landmark",
+      "countryIds": ["argentina"],
+      "nameRu": "Озеро Менендес",
+      "subtitleRu": "Озеро в национальном парке Лос-Алерсес",
+      "landmarkType": "lake",
+      "regionRu": "Северная Патагония, Аргентина",
+      "mediaId": "photo-lake-menendez",
+      "summaryRu": "Прозрачное озеро среди лесистых склонов и Анд в национальном парке Лос-Алерсес.",
+      "explanationRu": "У северного рукава озера Менендес расположен Тысячелетний алерсовый лес, который ЮНЕСКО выделяет как характерную часть парка. На снимке узнаются вода, лесистые берега и горный ландшафт северной Патагонии.",
+      "whyNotableRu": "Озеро связывает заметный водный ландшафт парка с названным ЮНЕСКО участком древнего алерсового леса.",
+      "facts": [
+        { "labelRu": "Где находится", "valueRu": "Национальный парк Лос-Алерсес, Аргентина" },
+        { "labelRu": "Рядом", "valueRu": "Тысячелетний алерсовый лес у северного рукава" }
+      ],
+      "sourceIds": ["los-alerces-unesco"],
+      "quizHints": { "similarityTags": ["lake", "patagonia", "andes", "forest"] },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "whitsunday-islands",
+      "kind": "landmark",
+      "countryIds": ["australia"],
+      "nameRu": "Острова Уитсанди",
+      "subtitleRu": "Островная группа Большого Барьерного рифа",
+      "landmarkType": "island",
+      "regionRu": "Квинсленд, Австралия",
+      "mediaId": "photo-whitsunday-islands",
+      "summaryRu": "Зелёные острова, светлые песчаные пляжи и голубые воды в районе Большого Барьерного рифа; на фото — пляж Уайтхейвен.",
+      "explanationRu": "ЮНЕСКО отдельно выделяет острова Уитсанди среди пейзажей Большого Барьерного рифа. Белые пески и контраст зелёной суши с бирюзовой водой помогают запомнить эту островную группу.",
+      "whyNotableRu": "Один из отдельно названных ЮНЕСКО островных ландшафтов внутри обширной рифовой системы.",
+      "facts": [
+        { "labelRu": "Где находятся", "valueRu": "Большой Барьерный риф у побережья Квинсленда" },
+        { "labelRu": "На фото", "valueRu": "Пляж Уайтхейвен на одном из островов Уитсанди" }
+      ],
+      "sourceIds": ["great-barrier-reef-unesco"],
+      "quizHints": { "similarityTags": ["island", "coral_reef", "beach", "australia"] },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "hinchinbrook-island",
+      "kind": "landmark",
+      "countryIds": ["australia"],
+      "nameRu": "Остров Хинчинбрук",
+      "subtitleRu": "Гористый остров у побережья Квинсленда",
+      "landmarkType": "island",
+      "regionRu": "Большой Барьерный риф, Австралия",
+      "mediaId": "photo-hinchinbrook-island",
+      "summaryRu": "Гористый лесистый остров, видимый с побережья Квинсленда через воду.",
+      "explanationRu": "ЮНЕСКО выделяет Хинчинбрук среди контрастных ландшафтов Большого Барьерного рифа: остров поднимается крутыми лесистыми склонами, а пролив рядом окаймлён мангровыми зарослями.",
+      "whyNotableRu": "Именованный высокий остров внутри природной территории Большого Барьерного рифа.",
+      "facts": [
+        { "labelRu": "Где находится", "valueRu": "У побережья Квинсленда, Австралия" },
+        { "labelRu": "На фото", "valueRu": "Вид на остров со стороны Кардуэлла" }
+      ],
+      "sourceIds": ["great-barrier-reef-unesco"],
+      "quizHints": { "similarityTags": ["island", "mountain", "forest", "australia"] },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "lord-howe-island",
+      "kind": "landmark",
+      "countryIds": ["australia"],
+      "nameRu": "Остров Лорд-Хау",
+      "subtitleRu": "Вулканический остров в Тасмановом море",
+      "landmarkType": "island",
+      "regionRu": "Тасманово море, Австралия",
+      "mediaId": "photo-lord-howe-island",
+      "summaryRu": "Изолированный океанический остров с крутыми горными склонами и лагуной; на фото видна гора Гауэр.",
+      "explanationRu": "Остров Лорд-Хау — часть архипелага вулканического происхождения. ЮНЕСКО отмечает его резкий рельеф и множество местных видов, возникших в условиях изоляции.",
+      "whyNotableRu": "Именованный остров архипелага ЮНЕСКО с выразительным вулканическим рельефом и эндемичной природой.",
+      "facts": [
+        { "labelRu": "Где находится", "valueRu": "Тасманово море, к востоку от Австралии" },
+        { "labelRu": "На фото", "valueRu": "Лагуна и гора Гауэр на острове Лорд-Хау" }
+      ],
+      "sourceIds": ["lord-howe-island-group-unesco"],
+      "quizHints": { "similarityTags": ["island", "volcanic", "lagoon", "australia"] },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "balls-pyramid",
+      "kind": "landmark",
+      "countryIds": ["australia"],
+      "nameRu": "Болс-Пирамид",
+      "subtitleRu": "Вулканическая скала архипелага Лорд-Хау",
+      "landmarkType": "geological_formation",
+      "regionRu": "Тасманово море, Австралия",
+      "mediaId": "photo-balls-pyramid",
+      "summaryRu": "Узкая крутая скала, резко поднимающаяся из океана рядом с островом Лорд-Хау.",
+      "explanationRu": "Болс-Пирамид — отдельный скалистый остаток древней вулканической системы архипелага. ЮНЕСКО называет её характерной частью рельефа и местом, где сохранился лорд-хауский палочник.",
+      "whyNotableRu": "Один из наиболее узнаваемых отдельных объектов вулканического архипелага Лорд-Хау.",
+      "facts": [
+        { "labelRu": "Где находится", "valueRu": "Рядом с островом Лорд-Хау, Тасманово море" },
+        { "labelRu": "Происхождение", "valueRu": "Остаток древней вулканической системы" }
+      ],
+      "sourceIds": ["lord-howe-island-group-unesco"],
+      "quizHints": { "similarityTags": ["rock_formation", "volcanic", "island", "australia"] },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    }
+  ]
+}
