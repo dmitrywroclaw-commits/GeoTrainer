@@ -656,5 +656,30 @@
     "license": "Public domain — released by vector author",
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Burundi.svg",
     "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "flag-cambodia",
+    "kind": "flag",
+    "localPath": "/media/flags/cambodia.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Cambodia.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Unknown author; Open Clip Art Library contributor",
+    "license": "Public domain / CC0",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Cambodia.svg",
+    "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "emblem-cambodia",
+    "kind": "emblem",
+    "localPath": "/media/emblems/cambodia.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Royal_arms_of_Cambodia.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Royal_arms_of_Cambodia.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Sodacan; later resizing by NorthTension",
+    "license": "CC BY-SA 3.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attributionText": "Royal arms of Cambodia — Sodacan, Wikimedia Commons, CC BY-SA 3.0; later resizing by NorthTension; no changes made for this project.",
+    "checkedAt": "2026-09-23"
   }
 ]

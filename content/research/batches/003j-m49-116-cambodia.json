@@ -1,0 +1,86 @@
+{
+  "batch_id": "003j-m49-116-cambodia",
+  "checked_at": "2026-09-23",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "kh-constitution-ccc",
+      "title": "The Constitution of the Kingdom of Cambodia, Article 6 and Annexes 1 and 3",
+      "publisher": "Constitutional Council of Cambodia",
+      "source_type": "law",
+      "url": "https://constitution.ccc.gov.kh/index-en.php",
+      "accessed_at": "2026-09-23",
+      "supports": "Статья 6 и приложения 1 и 3 устанавливают национальный флаг и национальный герб."
+    },
+    {
+      "source_id": "kh-flag-francophonie-2026",
+      "title": "Information for Visitors — Flag",
+      "publisher": "Royal Government of Cambodia, Francophonie 2026",
+      "source_type": "government_publication",
+      "url": "https://www.francophonie2026.gov.kh/en/InformationForVisitor",
+      "accessed_at": "2026-09-23",
+      "supports": "Официальное объяснение синего, красного и белого храма на национальном флаге."
+    },
+    {
+      "source_id": "kh-national-symbols-nsdp",
+      "title": "National Strategic Development Plan 2019–2023 — National Emblem and Flag",
+      "publisher": "Royal Government of Cambodia",
+      "source_type": "government_publication",
+      "url": "https://cdc-crdb.gov.kh/en/strategy/documents/nsdp-2019-2023_en.pdf",
+      "accessed_at": "2026-09-23",
+      "supports": "Правительственное изображение национального герба и национального флага для сверки их внешнего вида."
+    },
+    {
+      "source_id": "kh-royal-standard-circular-2018",
+      "title": "Circular No. 01 SR on display of national, religious and royal flags, 6 March 2018",
+      "publisher": "Royal Government of Cambodia; National Committee for Sub-National Democratic Development library",
+      "source_type": "government_publication",
+      "url": "https://library.ncdd.gov.kh/detail/9809?lang=km",
+      "accessed_at": "2026-09-23",
+      "supports": "Официальный циркуляр отдельно упоминает флаг монарха; точный действующий рисунок по этому источнику не проверен."
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "cambodia",
+      "audit_status": "deferred",
+      "notes": "Конституция подтверждает национальный флаг с Ангкор-Ватом и национальный герб; оба изображения проверены и опубликованы. Правительственный циркуляр отдельно упоминает флаг монарха, но его действующий рисунок не подтверждён первичным образцом; Q-12 отложен. Ведомственные и военные флаги не приравнены к национальным вариантам.",
+      "flags": [
+        {
+          "variant_id": "cambodia-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "angkor_wat_temple",
+          "decision": "eligible",
+          "decision_reason": "Конституция и правительственный материал показывают белый храм Ангкор-Ват на красной центральной полосе.",
+          "source_ids": "kh-constitution-ccc|kh-flag-francophonie-2026|kh-national-symbols-nsdp",
+          "primary_source_urls": "https://constitution.ccc.gov.kh/index-en.php|https://www.francophonie2026.gov.kh/en/InformationForVisitor|https://cdc-crdb.gov.kh/en/strategy/documents/nsdp-2019-2023_en.pdf"
+        },
+        {
+          "variant_id": "cambodia-royal-standard",
+          "variant_type": "royal_standard",
+          "is_primary_study_variant": "false",
+          "official_status": "official",
+          "graphic_elements": "royal_arms_candidate",
+          "decision": "deferred",
+          "decision_reason": "Правительственный циркуляр подтверждает отдельный флаг монарха, но точный действующий рисунок ещё не сверен по первичному образцу.",
+          "source_ids": "kh-royal-standard-circular-2018",
+          "primary_source_urls": "https://library.ncdd.gov.kh/detail/9809?lang=km"
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "cambodia-coat-of-arms",
+          "symbol_type": "coat_of_arms",
+          "official_name_ru": "Национальный герб Камбоджи",
+          "elements": "royal_crown|sword|ceremonial_bowls|supporting_creatures|umbrellas|khmer_ribbon",
+          "decision": "eligible",
+          "decision_reason": "Статья 6 Конституции и приложение 3 устанавливают национальный герб; правительственное издание подтверждает его изображение.",
+          "source_ids": "kh-constitution-ccc|kh-national-symbols-nsdp",
+          "primary_source_urls": "https://constitution.ccc.gov.kh/index-en.php|https://cdc-crdb.gov.kh/en/strategy/documents/nsdp-2019-2023_en.pdf"
+        }
+      ]
+    }
+  ]
+}

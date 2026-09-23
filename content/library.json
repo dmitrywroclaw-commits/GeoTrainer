@@ -263,6 +263,14 @@
       "m49": "108",
       "iso2": "BI",
       "iso3": "BDI"
+    },
+    {
+      "id": "cambodia",
+      "nameRu": "Камбоджа",
+      "region": "Юго-Восточная Азия",
+      "m49": "116",
+      "iso2": "KH",
+      "iso3": "KHM"
     }
   ],
   "sources": [
@@ -719,6 +727,30 @@
       "title": "Les Armoiries",
       "publisher": "Présidence de la République du Burundi",
       "url": "https://presidence.gov.bi/les-armoiries/",
+      "sourceType": "government",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "kh-constitution-ccc",
+      "title": "The Constitution of the Kingdom of Cambodia, Article 6 and Annexes 1 and 3",
+      "publisher": "Constitutional Council of Cambodia",
+      "url": "https://constitution.ccc.gov.kh/index-en.php",
+      "sourceType": "law",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "kh-flag-francophonie-2026",
+      "title": "Information for Visitors — Flag",
+      "publisher": "Royal Government of Cambodia, Francophonie 2026",
+      "url": "https://www.francophonie2026.gov.kh/en/InformationForVisitor",
+      "sourceType": "government",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "kh-national-symbols-nsdp",
+      "title": "National Strategic Development Plan 2019–2023 — National Emblem and Flag",
+      "publisher": "Royal Government of Cambodia",
+      "url": "https://cdc-crdb.gov.kh/en/strategy/documents/nsdp-2019-2023_en.pdf",
       "sourceType": "government",
       "accessedAt": "2026-09-23"
     }
@@ -3112,6 +3144,107 @@
           "lion_symbol",
           "shield",
           "spears"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "cambodia-national-flag",
+      "kind": "flag",
+      "countryId": "cambodia",
+      "nameRu": "Камбоджа",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-cambodia",
+      "summaryRu": "Между двумя синими полосами проходит широкая красная полоса с белым изображением храма Ангкор-Ват.",
+      "explanationRu": "Главный ориентир — белый Ангкор-Ват в центре. По официальному объяснению, синий цвет связан с монархией, красный — с нацией, а изображение храма — с религией. Вместе они соотносятся с девизом «Нация, религия, король».",
+      "symbols": [
+        {
+          "nameRu": "Ангкор-Ват",
+          "category": "building",
+          "meaningRu": "Религия в государственном девизе.",
+          "meaningStatus": "official",
+          "sourceIds": [
+            "kh-flag-francophonie-2026"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Регион",
+          "valueRu": "Юго-Восточная Азия"
+        },
+        {
+          "labelRu": "Девиз",
+          "valueRu": "Нация, религия, король"
+        }
+      ],
+      "sourceIds": [
+        "kh-constitution-ccc",
+        "kh-flag-francophonie-2026",
+        "kh-national-symbols-nsdp"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "temple",
+          "building_on_flag",
+          "red_blue"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "cambodia-coat-of-arms",
+      "kind": "emblem",
+      "countryId": "cambodia",
+      "nameRu": "Камбоджа",
+      "subtitleRu": "Национальный герб",
+      "symbolType": "coat_of_arms",
+      "mediaId": "emblem-cambodia",
+      "summaryRu": "Под короной изображён меч над церемониальными чашами; по сторонам — два мифических существа с многоярусными зонтами, внизу — лента с надписью на кхмерском языке.",
+      "explanationRu": "Запомнить герб помогают высокая корона с расходящимися лучами и два держателя по бокам. Конституция закрепляет этот знак как национальный герб; значения его отдельных фигур здесь не приписываются без официального объяснения.",
+      "symbols": [
+        {
+          "nameRu": "Корона и лучи",
+          "category": "crown",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "kh-constitution-ccc",
+            "kh-national-symbols-nsdp"
+          ]
+        },
+        {
+          "nameRu": "Мифические существа по сторонам",
+          "category": "animal",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "kh-constitution-ccc",
+            "kh-national-symbols-nsdp"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Национальный герб"
+        },
+        {
+          "labelRu": "Надпись",
+          "valueRu": "На кхмерском языке"
+        }
+      ],
+      "sourceIds": [
+        "kh-constitution-ccc",
+        "kh-national-symbols-nsdp"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "royal_crown",
+          "supporters",
+          "sword"
         ]
       },
       "status": "published",
