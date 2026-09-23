@@ -945,6 +945,22 @@
       "url": "https://whc.unesco.org/en/list/186",
       "sourceType": "unesco",
       "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "shark-bay-unesco",
+      "title": "Shark Bay, Western Australia",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/578",
+      "sourceType": "unesco",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "shell-beach-dbca-wa",
+      "title": "Shell Beach Conservation Park",
+      "publisher": "Department of Biodiversity, Conservation and Attractions, Western Australia",
+      "url": "https://exploreparks.dbca.wa.gov.au/park/shell-beach-conservation-park",
+      "sourceType": "national_park",
+      "accessedAt": "2026-09-23"
     }
   ],
   "entries": [
@@ -4479,6 +4495,81 @@
           "rock_formation",
           "volcanic",
           "island",
+          "australia"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "hamelin-pool",
+      "kind": "landmark",
+      "countryIds": [
+        "australia"
+      ],
+      "nameRu": "Лагуна Хамелин-Пул",
+      "subtitleRu": "Лагуна со строматолитами в заливе Шарк",
+      "landmarkType": "other",
+      "regionRu": "Залив Шарк, Западная Австралия",
+      "mediaId": "photo-hamelin-pool",
+      "summaryRu": "В мелкой воде лагуны видны строматолиты — слоистые образования, созданные микробными сообществами.",
+      "explanationRu": "В лагуне Хамелин-Пул высокая солёность ограничивает число животных, которые обычно повреждают микробные маты. Благодаря этому здесь сохраняются живые строматолиты. На снимке видны их округлые поверхности под водой.",
+      "whyNotableRu": "ЮНЕСКО отдельно выделяет лагуну и её живые строматолиты среди природных особенностей залива Шарк.",
+      "facts": [
+        {
+          "labelRu": "Где находится",
+          "valueRu": "Залив Шарк, Западная Австралия"
+        },
+        {
+          "labelRu": "Что видно",
+          "valueRu": "Строматолиты в мелкой воде"
+        }
+      ],
+      "sourceIds": [
+        "shark-bay-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "lagoon",
+          "stromatolite",
+          "australia"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "shell-beach-shark-bay",
+      "kind": "landmark",
+      "countryIds": [
+        "australia"
+      ],
+      "nameRu": "Ракушечный пляж залива Шарк",
+      "subtitleRu": "Берег из белых раковин в Западной Австралии",
+      "landmarkType": "geological_formation",
+      "regionRu": "Залив Шарк, Западная Австралия",
+      "mediaId": "photo-shell-beach-shark-bay",
+      "summaryRu": "Светлый берег залива Шарк образован скоплениями мелких белых раковин.",
+      "explanationRu": "В отличие от обычного песчаного пляжа, поверхность Shell Beach сложена множеством раковин моллюсков. На снимке заметен резкий контраст белого берега и тёмной воды залива.",
+      "whyNotableRu": "Правительство Западной Австралии выделяет этот именованный ракушечный берег как отдельную природную достопримечательность залива Шарк.",
+      "facts": [
+        {
+          "labelRu": "Где находится",
+          "valueRu": "Залив Шарк, Западная Австралия"
+        },
+        {
+          "labelRu": "Поверхность",
+          "valueRu": "Скопления белых раковин"
+        }
+      ],
+      "sourceIds": [
+        "shark-bay-unesco",
+        "shell-beach-dbca-wa"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "beach",
+          "shells",
           "australia"
         ]
       },

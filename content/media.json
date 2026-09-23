@@ -979,5 +979,33 @@
     "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attributionText": "JillBBruce / Wikimedia Commons, CC BY-SA 4.0; уменьшено до 1280 px.",
     "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "photo-hamelin-pool",
+    "kind": "photo",
+    "localPath": "/media/landmarks/hamelin-pool.jpg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Hamelin_Pool_Stromatolites.jpg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Hamelin_Pool_Stromatolites.jpg",
+    "publisher": "Wikimedia Commons",
+    "author": "Allison Coleman",
+    "rightsHolder": "Allison Coleman",
+    "license": "CC BY-SA 4.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionText": "Allison Coleman / Wikimedia Commons, CC BY-SA 4.0; без изменений.",
+    "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "photo-shell-beach-shark-bay",
+    "kind": "photo",
+    "localPath": "/media/landmarks/shell-beach-shark-bay.jpg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Shell_Beach,_Shark_Bay,_July_2020_04.jpg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Shell_Beach%2C_Shark_Bay%2C_July_2020_04.jpg",
+    "publisher": "Wikimedia Commons",
+    "author": "Calistemon",
+    "rightsHolder": "Calistemon",
+    "license": "CC BY-SA 4.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionText": "Calistemon / Wikimedia Commons, CC BY-SA 4.0; уменьшено до 1280 px.",
+    "checkedAt": "2026-09-23"
   }
 ]

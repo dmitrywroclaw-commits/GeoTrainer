@@ -1,0 +1,166 @@
+{
+  "batch_id": "nature-007-whc-303-937-486-578",
+  "checked_at": "2026-09-23",
+  "sources": [
+    {
+      "source_id": "peninsula-valdes-unesco",
+      "title": "Península Valdés",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_type": "unesco",
+      "url": "https://whc.unesco.org/en/list/937",
+      "accessed_at": "2026-09-23",
+      "supports": "Раздел Outstanding Universal Value описывает полуостров Вальдес как физическую форму на побережье Патагонии и называет залив Нуэво к югу от него, важный для размножения южного гладкого кита."
+    },
+    {
+      "source_id": "wet-tropics-queensland-unesco",
+      "title": "Wet Tropics of Queensland",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_type": "unesco",
+      "url": "https://whc.unesco.org/en/list/486",
+      "accessed_at": "2026-09-23",
+      "supports": "Раздел Outstanding Universal Value отдельно называет извилистый пролив Хинчинбрук с обширными мангровыми зарослями."
+    },
+    {
+      "source_id": "shark-bay-unesco",
+      "title": "Shark Bay, Western Australia",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_type": "unesco",
+      "url": "https://whc.unesco.org/en/list/578",
+      "accessed_at": "2026-09-23",
+      "supports": "Раздел Outstanding Universal Value выделяет лагуну Хамелин-Пул со строматолитами и морскую травяную банку Вурамел; описывает гиперсолёные воды, микробные постройки и песчаные отложения."
+    },
+    {
+      "source_id": "shell-beach-dbca-wa",
+      "title": "Shell Beach Conservation Park",
+      "publisher": "Department of Biodiversity, Conservation and Attractions, Western Australia",
+      "source_type": "national_park",
+      "url": "https://exploreparks.dbca.wa.gov.au/park/shell-beach-conservation-park",
+      "accessed_at": "2026-09-23",
+      "supports": "Правительственная страница отдельно описывает Shell Beach как пляж территории Shark Bay, сложенный скоплениями белых раковин моллюсков."
+    }
+  ],
+  "landmarks": [
+    {
+      "landmark_id": "peninsula-valdes",
+      "name_original": "Península Valdés",
+      "name_ru": "Полуостров Вальдес",
+      "landmark_type": "geological_formation",
+      "country_ids": "argentina",
+      "region": "Провинция Чубут, Патагония, Аргентина",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО описывает физический полуостров, далеко выступающий в Атлантический океан; его защищённые заливы служат местами размножения морских млекопитающих.",
+      "source_catalog": "unesco_whc:937",
+      "source_ids": "peninsula-valdes-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/937",
+      "decision": "eligible",
+      "decision_reason": "Именованная и различимая форма суши, а не только название охраняемой территории.",
+      "notes": "Фотография должна позволять опознать именно полуостров или его берег; не заменять её одним снимком кита."
+    },
+    {
+      "landmark_id": "golfo-nuevo",
+      "name_original": "Golfo Nuevo",
+      "name_ru": "Залив Нуэво",
+      "landmark_type": "other",
+      "country_ids": "argentina",
+      "region": "Южный берег полуострова Вальдес, Аргентина",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО отдельно называет защищённый залив к югу от полуострова; прибрежные воды важны для южных гладких китов.",
+      "source_catalog": "unesco_whc:937",
+      "source_ids": "peninsula-valdes-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/937",
+      "decision": "eligible",
+      "decision_reason": "Конкретный именованный морской залив внутри территории ЮНЕСКО.",
+      "notes": "Для карточки нужна фотография самого залива и берега; не приписывать всем китам постоянное присутствие."
+    },
+    {
+      "landmark_id": "hinchinbrook-channel",
+      "name_original": "Hinchinbrook Channel",
+      "name_ru": "Пролив Хинчинбрук",
+      "landmark_type": "other",
+      "country_ids": "australia",
+      "region": "Влажные тропики Квинсленда, Австралия",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО выделяет извилистые протоки Хинчинбрука и обширные мангровые заросли как характерный пейзаж территории.",
+      "source_catalog": "unesco_whc:486",
+      "source_ids": "wet-tropics-queensland-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/486",
+      "decision": "eligible",
+      "decision_reason": "Названный пролив с самостоятельным водно-мангровым ландшафтом, отличный от острова Хинчинбрук.",
+      "notes": "Не использовать фотографию только острова без видимого пролива."
+    },
+    {
+      "landmark_id": "hamelin-pool",
+      "name_original": "Hamelin Pool",
+      "name_ru": "Лагуна Хамелин-Пул",
+      "landmark_type": "other",
+      "country_ids": "australia",
+      "region": "Залив Шарк, Западная Австралия",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО выделяет гиперсолёную лагуну и живые строматолиты, созданные микробными сообществами.",
+      "source_catalog": "unesco_whc:578",
+      "source_ids": "shark-bay-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/578",
+      "decision": "eligible",
+      "decision_reason": "Именованная лагуна с отличимыми природными образованиями строматолитов.",
+      "notes": "Не называть современные строматолиты древнейшими живыми организмами без оговорки об аналогии с древними формами."
+    },
+    {
+      "landmark_id": "wooramel-seagrass-bank",
+      "name_original": "Wooramel Seagrass Bank",
+      "name_ru": "Морская травяная банка Вурамел",
+      "landmark_type": "other",
+      "country_ids": "australia",
+      "region": "Залив Шарк, Западная Австралия",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО называет отдельную подводную банку морских трав и связанные с ней известковые песчаные отложения.",
+      "source_catalog": "unesco_whc:578",
+      "source_ids": "shark-bay-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/578",
+      "decision": "eligible",
+      "decision_reason": "Именованный физический морской объект, выделенный отдельно от всего залива Шарк.",
+      "notes": "До публикации требуется фото или карта, точно показывающие банку; не повторять рекорд без методики площади."
+    },
+    {
+      "landmark_id": "shell-beach-shark-bay",
+      "name_original": "Shell Beach",
+      "name_ru": "Ракушечный пляж залива Шарк",
+      "landmark_type": "geological_formation",
+      "country_ids": "australia",
+      "region": "Залив Шарк, Западная Австралия",
+      "coordinates": "",
+      "significance_basis": "Департамент парков Западной Австралии описывает именованный пляж, сложенный огромным количеством белых раковин, а не песком.",
+      "source_catalog": "unesco_whc:578",
+      "source_ids": "shark-bay-unesco|shell-beach-dbca-wa",
+      "source_urls": "https://whc.unesco.org/en/list/578|https://exploreparks.dbca.wa.gov.au/park/shell-beach-conservation-park",
+      "decision": "eligible",
+      "decision_reason": "Конкретный необычный пляж внутри природной территории залива Шарк подтверждён правительственным источником.",
+      "notes": "Не повторять длину пляжа из правительственной страницы: в разных её абзацах указаны 60 и 70 км."
+    }
+  ],
+  "catalog_updates": [
+    {
+      "catalog_record_id": "whc-303",
+      "landmark_ids": ["iguazu-falls"],
+      "candidate_decision": "eligible",
+      "decision_reason": "Опубликованные ранее водопады Игуасу связаны с исходной строкой аргентинского национального парка; других отдельно именованных физических объектов описание ЮНЕСКО не выделяет."
+    },
+    {
+      "catalog_record_id": "whc-937",
+      "landmark_ids": ["peninsula-valdes", "golfo-nuevo"],
+      "candidate_decision": "eligible",
+      "decision_reason": "Выделены физический полуостров Вальдес и отдельно названный залив Нуэво."
+    },
+    {
+      "catalog_record_id": "whc-486",
+      "landmark_ids": ["hinchinbrook-channel"],
+      "candidate_decision": "eligible",
+      "decision_reason": "Выделен названный ЮНЕСКО мангровый пролив Хинчинбрук; остальная большая территория без отдельного имени не стала одной карточкой."
+    },
+    {
+      "catalog_record_id": "whc-578",
+      "landmark_ids": ["hamelin-pool", "wooramel-seagrass-bank", "shell-beach-shark-bay"],
+      "candidate_decision": "eligible",
+      "decision_reason": "Выделены лагуна Хамелин-Пул, морская травяная банка Вурамел и отдельно подтверждённый государственным источником Ракушечный пляж."
+    }
+  ]
+}
