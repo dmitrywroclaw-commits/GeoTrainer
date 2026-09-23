@@ -1,0 +1,154 @@
+{
+  "batch_id": "002a-m49-050-052",
+  "checked_at": "2026-09-23",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "bd-constitution-art-4",
+      "title": "The Constitution of the People's Republic of Bangladesh, article 4",
+      "publisher": "Legislative and Parliamentary Affairs Division, Bangladesh",
+      "source_type": "law",
+      "url": "https://bdlaws.minlaw.gov.bd/act-print-367/section-print-24551.html",
+      "accessed_at": "2026-09-23",
+      "supports": "Официальное описание национального флага и национальной эмблемы Бангладеш"
+    },
+    {
+      "source_id": "bd-flag-rules-1972",
+      "title": "People's Republic of Bangladesh Flag Rules, 1972",
+      "publisher": "Cabinet Division, Government of Bangladesh",
+      "source_type": "law",
+      "url": "https://file.mofa.gov.bd/uploads/17a82527-2d2c-43fa-a913-76a534396210/667/28a/b0a/66728ab0a55a7907618245.pdf",
+      "accessed_at": "2026-09-23",
+      "supports": "Правовой статус, конструкция и пропорции национального флага Бангладеш"
+    },
+    {
+      "source_id": "bd-mofa-flag-meaning",
+      "title": "Official Flag",
+      "publisher": "Ministry of Foreign Affairs, Bangladesh",
+      "source_type": "government",
+      "url": "https://file.mofa.gov.bd/uploads/fc62c7e3-a682-44ed-bb28-99e741c6cd53/639/52a/fdd/63952afdd3fd6124877543.pdf",
+      "accessed_at": "2026-09-23",
+      "supports": "Официальное объяснение красного круга как восходящего солнца и памяти о жертвах борьбы за свободу"
+    },
+    {
+      "source_id": "am-president-state-symbols",
+      "title": "State symbols of the Republic of Armenia",
+      "publisher": "Office of the President of the Republic of Armenia",
+      "source_type": "government",
+      "url": "https://www.president.am/en/state-symbols/",
+      "accessed_at": "2026-09-23",
+      "supports": "Официальный вид и история флага и государственного герба Армении"
+    },
+    {
+      "source_id": "bb-national-emblems-regulations",
+      "title": "National Emblems and National Anthem of Barbados Regulations, CAP. 300A",
+      "publisher": "Laws of Barbados, Government Printer",
+      "source_type": "law",
+      "url": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/subsidiary_legislation_of_barbados/NationalEmblemsandNationalAnthemofBarbadosRegulations%2C1976Cap300A%27A.pdf",
+      "accessed_at": "2026-09-23",
+      "supports": "Юридическое описание национального флага с трезубцем и герба Барбадоса"
+    },
+    {
+      "source_id": "bb-government-coat-of-arms",
+      "title": "Coat of Arms",
+      "publisher": "Official Website of the Barbados Government",
+      "source_type": "government",
+      "url": "https://www.gov.bb/Visit-Barbados/coat-of-arms",
+      "accessed_at": "2026-09-23",
+      "supports": "Вид, происхождение и объяснение элементов герба Барбадоса"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "bangladesh",
+      "audit_status": "complete",
+      "notes": "Конституция описывает флаг и эмблему. МИД официально трактует красный круг как восходящее солнце, поэтому он проходит критерий изображённого символа, а не только геометрической фигуры. Иные военные и ведомственные полотнища не приравнены к национальным вариантам.",
+      "flags": [
+        {
+          "variant_id": "bangladesh-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "sun",
+          "decision": "eligible",
+          "decision_reason": "Национальный флаг содержит красный круг на зелёном поле; МИД Бангладеш прямо объясняет круг как восходящее солнце.",
+          "source_ids": "bd-constitution-art-4|bd-flag-rules-1972|bd-mofa-flag-meaning",
+          "primary_source_urls": "https://bdlaws.minlaw.gov.bd/act-print-367/section-print-24551.html|https://file.mofa.gov.bd/uploads/17a82527-2d2c-43fa-a913-76a534396210/667/28a/b0a/66728ab0a55a7907618245.pdf|https://file.mofa.gov.bd/uploads/fc62c7e3-a682-44ed-bb28-99e741c6cd53/639/52a/fdd/63952afdd3fd6124877543.pdf",
+          "notes": "Перед публикацией карточки повторно открыть PDF МИД: поисковый индекс показал текст, но прямое открытие во время проверки завершилось тайм-аутом."
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "bangladesh-national-emblem",
+          "symbol_type": "national_emblem",
+          "official_name_ru": "Национальная эмблема Бангладеш",
+          "elements": "water_lily|water|rice|jute|star",
+          "decision": "eligible",
+          "decision_reason": "Статья 4 Конституции закрепляет водяную лилию шапла на воде, колосья риса, три листа джута и по две звезды с каждой стороны.",
+          "source_ids": "bd-constitution-art-4",
+          "primary_source_urls": "https://bdlaws.minlaw.gov.bd/act-print-367/section-print-24551.html"
+        }
+      ]
+    },
+    {
+      "country_id": "armenia",
+      "audit_status": "complete",
+      "notes": "Президентская страница описывает трёхполосный флаг и государственный герб. Флаг не содержит отдельного графического знака, герб подходит.",
+      "flags": [
+        {
+          "variant_id": "armenia-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "false",
+          "official_status": "official",
+          "graphic_elements": "",
+          "decision": "excluded",
+          "decision_reason": "Государственный флаг состоит только из трёх равных красной, синей и оранжевой полос без отдельного графического символа.",
+          "source_ids": "am-president-state-symbols",
+          "primary_source_urls": "https://www.president.am/en/state-symbols/"
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "armenia-state-coat-of-arms",
+          "symbol_type": "coat_of_arms",
+          "official_name_ru": "Государственный герб Армении",
+          "elements": "mountain|ark|shield|eagle|lion|sword|plant|wheat|chain|ribbon",
+          "decision": "eligible",
+          "decision_reason": "Официальное описание содержит гору Арарат с Ноевым ковчегом, гербы четырёх исторических династий, орла, льва и предметы под щитом.",
+          "source_ids": "am-president-state-symbols",
+          "primary_source_urls": "https://www.president.am/en/state-symbols/"
+        }
+      ]
+    },
+    {
+      "country_id": "barbados",
+      "audit_status": "complete",
+      "notes": "Действующие правила Барбадоса описывают национальный флаг и герб; правительственный сайт дополняет историю и объяснение герба.",
+      "flags": [
+        {
+          "variant_id": "barbados-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "trident",
+          "decision": "eligible",
+          "decision_reason": "Национальный флаг имеет чёрный сломанный трезубец в центре золотой полосы; знак прямо описан в законе.",
+          "source_ids": "bb-national-emblems-regulations",
+          "primary_source_urls": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/subsidiary_legislation_of_barbados/NationalEmblemsandNationalAnthemofBarbadosRegulations%2C1976Cap300A%27A.pdf"
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "barbados-coat-of-arms",
+          "symbol_type": "coat_of_arms",
+          "official_name_ru": "Герб Барбадоса",
+          "elements": "fig_tree|flower|sugar_cane|dolphin|pelican|shield|inscription",
+          "decision": "eligible",
+          "decision_reason": "Официальные правила и правительственная страница описывают щит с фиговым деревом и цветами, дельфина, пеликана и руку с сахарным тростником.",
+          "source_ids": "bb-national-emblems-regulations|bb-government-coat-of-arms",
+          "primary_source_urls": "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/subsidiary_legislation_of_barbados/NationalEmblemsandNationalAnthemofBarbadosRegulations%2C1976Cap300A%27A.pdf|https://www.gov.bb/Visit-Barbados/coat-of-arms"
+        }
+      ]
+    }
+  ]
+}
