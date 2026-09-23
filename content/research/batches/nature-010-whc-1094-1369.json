@@ -1,0 +1,177 @@
+{
+  "batch_id": "nature-010-whc-1094-1369",
+  "checked_at": "2026-09-23",
+  "sources": [
+    {
+      "source_id": "purnululu-unesco",
+      "title": "Purnululu National Park",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_type": "unesco",
+      "url": "https://whc.unesco.org/en/list/1094",
+      "accessed_at": "2026-09-23",
+      "supports": "ЮНЕСКО отдельно называет хребет Бангл-Бангл, ущелья Эхидна, Пикканинни и Катедрал; описывает полосатые конусы из песчаника и узкие ущелья."
+    },
+    {
+      "source_id": "ningaloo-coast-unesco",
+      "title": "Ningaloo Coast",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_type": "unesco",
+      "url": "https://whc.unesco.org/en/list/1369",
+      "accessed_at": "2026-09-23",
+      "supports": "ЮНЕСКО выделяет прибрежный риф Нингалу, карстовую систему Кейп-Рейндж и карстовую воронку Бундера. Не повторять оценочные мировые рекорды без методики."
+    },
+    {
+      "source_id": "yardie-creek-dbca-wa",
+      "title": "Yardie Creek",
+      "publisher": "Department of Biodiversity, Conservation and Attractions, Western Australia",
+      "source_type": "national_park",
+      "url": "https://exploreparks.dbca.wa.gov.au/site/yardie-creek",
+      "accessed_at": "2026-09-23",
+      "supports": "Государственная страница отдельно описывает ущелье Ярди-Крик с красными известняковыми стенами и водным руслом внутри национального парка Кейп-Рейндж."
+    }
+  ],
+  "landmarks": [
+    {
+      "landmark_id": "bungle-bungle-range",
+      "name_original": "Bungle Bungle Range",
+      "name_ru": "Хребет Бангл-Бангл",
+      "landmark_type": "geological_formation",
+      "country_ids": "australia",
+      "region": "Пурнулулу, Западная Австралия",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО выделяет хребет с узнаваемыми полосатыми песчаниковыми конусами, образованными эрозией и поверхностными цианобактериальными корками.",
+      "source_catalog": "unesco_whc:1094",
+      "source_ids": "purnululu-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/1094",
+      "decision": "eligible",
+      "decision_reason": "Отдельный именованный массив с визуально узнаваемой формой и окраской.",
+      "notes": "Не утверждать конкретную высоту или скорость эрозии без метода измерения."
+    },
+    {
+      "landmark_id": "echidna-chasm",
+      "name_original": "Echidna Chasm",
+      "name_ru": "Ущелье Эхидна",
+      "landmark_type": "gorge",
+      "country_ids": "australia",
+      "region": "Пурнулулу, Западная Австралия",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО отдельно называет узкое ущелье среди главных природных мест парка Пурнулулу.",
+      "source_catalog": "unesco_whc:1094",
+      "source_ids": "purnululu-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/1094",
+      "decision": "eligible",
+      "decision_reason": "Конкретное именованное узкое ущелье, отличное от всего хребта.",
+      "notes": "Для публикации нужна фотография внутреннего прохода ущелья."
+    },
+    {
+      "landmark_id": "piccaninny-gorge",
+      "name_original": "Piccaninny Gorge",
+      "name_ru": "Ущелье Пикканинни",
+      "landmark_type": "gorge",
+      "country_ids": "australia",
+      "region": "Пурнулулу, Западная Австралия",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО отдельно называет ущелье Пикканинни среди крупных форм рельефа парка.",
+      "source_catalog": "unesco_whc:1094",
+      "source_ids": "purnululu-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/1094",
+      "decision": "eligible",
+      "decision_reason": "Конкретное именованное ущелье, отличное от соседних проходов массива.",
+      "notes": "Не подменять фотографией ручья Пикканинни без видимого ущелья."
+    },
+    {
+      "landmark_id": "cathedral-gorge-purnululu",
+      "name_original": "Cathedral Gorge",
+      "name_ru": "Ущелье Катедрал",
+      "landmark_type": "gorge",
+      "country_ids": "australia",
+      "region": "Пурнулулу, Западная Австралия",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО отдельно называет ущелье Катедрал среди туристических форм рельефа парка Пурнулулу.",
+      "source_catalog": "unesco_whc:1094",
+      "source_ids": "purnululu-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/1094",
+      "decision": "eligible",
+      "decision_reason": "Именованное ущелье с самостоятельными скальными стенами.",
+      "notes": "Не смешивать с другим Cathedral Gorge за пределами Пурнулулу."
+    },
+    {
+      "landmark_id": "ningaloo-reef",
+      "name_original": "Ningaloo Reef",
+      "name_ru": "Риф Нингалу",
+      "landmark_type": "other",
+      "country_ids": "australia",
+      "region": "Побережье Западной Австралии",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО выделяет именованную прибрежную рифовую систему как главную морскую часть территории Нингалу.",
+      "source_catalog": "unesco_whc:1369",
+      "source_ids": "ningaloo-coast-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/1369",
+      "decision": "eligible",
+      "decision_reason": "Самостоятельная именованная рифовая система с распознаваемым подводным ландшафтом.",
+      "notes": "Не использовать неподтверждённое превосходство по длине; на фото должен быть риф или лагуна, а не только китовая акула."
+    },
+    {
+      "landmark_id": "cape-range-karst",
+      "name_original": "Cape Range karst",
+      "name_ru": "Карст Кейп-Рейндж",
+      "landmark_type": "geological_formation",
+      "country_ids": "australia",
+      "region": "Полуостров Кейп-Рейндж, Западная Австралия",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО выделяет наземную карстовую систему Кейп-Рейндж с сетью пещер и подземных водотоков.",
+      "source_catalog": "unesco_whc:1369",
+      "source_ids": "ningaloo-coast-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/1369",
+      "decision": "eligible",
+      "decision_reason": "Названная геологическая система, контрастирующая с морским рифом Нингалу.",
+      "notes": "Для учебной карточки нужна точно привязанная пещера или схема карстовой системы; общий вид парка недостаточен."
+    },
+    {
+      "landmark_id": "bundera-sinkhole",
+      "name_original": "Bundera sinkhole",
+      "name_ru": "Карстовая воронка Бундера",
+      "landmark_type": "geological_formation",
+      "country_ids": "australia",
+      "region": "Кейп-Рейндж, Западная Австралия",
+      "coordinates": "",
+      "significance_basis": "ЮНЕСКО отдельно называет карстовую воронку Бундера среди особо уязвимых подземных форм территории.",
+      "source_catalog": "unesco_whc:1369",
+      "source_ids": "ningaloo-coast-unesco",
+      "source_urls": "https://whc.unesco.org/en/list/1369",
+      "decision": "eligible",
+      "decision_reason": "Конкретная именованная карстовая воронка внутри большой системы.",
+      "notes": "До публикации требуется точное изображение или корректная собственная схема; объект расположен на территории с ограниченным доступом."
+    },
+    {
+      "landmark_id": "yardie-creek-gorge",
+      "name_original": "Yardie Creek Gorge",
+      "name_ru": "Ущелье Ярди-Крик",
+      "landmark_type": "gorge",
+      "country_ids": "australia",
+      "region": "Кейп-Рейндж, Западная Австралия",
+      "coordinates": "",
+      "significance_basis": "Служба парков Западной Австралии выделяет ущелье с водой и красными известняковыми стенами в наземной части побережья Нингалу.",
+      "source_catalog": "unesco_whc:1369",
+      "source_ids": "ningaloo-coast-unesco|yardie-creek-dbca-wa",
+      "source_urls": "https://whc.unesco.org/en/list/1369|https://exploreparks.dbca.wa.gov.au/site/yardie-creek",
+      "decision": "eligible",
+      "decision_reason": "Именованное ущелье с самостоятельным ландшафтом, отдельно подтверждённое государственным источником.",
+      "notes": "Не смешивать русло Yardie Creek с более широкой карстовой системой Кейп-Рейндж."
+    }
+  ],
+  "catalog_updates": [
+    {
+      "catalog_record_id": "whc-1094",
+      "landmark_ids": ["bungle-bungle-range", "echidna-chasm", "piccaninny-gorge", "cathedral-gorge-purnululu"],
+      "candidate_decision": "eligible",
+      "decision_reason": "Выделены именованный полосатый хребет и три отдельно названных ЮНЕСКО ущелья."
+    },
+    {
+      "catalog_record_id": "whc-1369",
+      "landmark_ids": ["ningaloo-reef", "cape-range-karst", "bundera-sinkhole", "yardie-creek-gorge"],
+      "candidate_decision": "eligible",
+      "decision_reason": "Выделены морской риф, наземная карстовая система, конкретная воронка Бундера и подтверждённое государственным источником ущелье Ярди-Крик."
+    }
+  ]
+}

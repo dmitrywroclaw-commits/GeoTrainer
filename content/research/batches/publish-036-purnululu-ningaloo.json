@@ -1,0 +1,77 @@
+{
+  "batch_id": "publish-036-purnululu-ningaloo",
+  "sources": [
+    { "id": "purnululu-unesco", "title": "Purnululu National Park", "publisher": "UNESCO World Heritage Centre", "url": "https://whc.unesco.org/en/list/1094", "sourceType": "unesco", "accessedAt": "2026-09-23" },
+    { "id": "ningaloo-coast-unesco", "title": "Ningaloo Coast", "publisher": "UNESCO World Heritage Centre", "url": "https://whc.unesco.org/en/list/1369", "sourceType": "unesco", "accessedAt": "2026-09-23" }
+  ],
+  "media": [
+    {
+      "id": "photo-bungle-bungle-range", "kind": "photo", "localPath": "/media/landmarks/bungle-bungle-range.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Bungle_Bungles_range.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bungle_Bungles_range.jpg",
+      "publisher": "Wikimedia Commons", "author": "Nichollas Harrison", "rightsHolder": "Nichollas Harrison",
+      "license": "CC BY-SA 4.0", "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attributionText": "Nichollas Harrison / Wikimedia Commons, CC BY-SA 4.0; уменьшено до 960 px по ширине.", "checkedAt": "2026-09-23"
+    },
+    {
+      "id": "photo-echidna-chasm", "kind": "photo", "localPath": "/media/landmarks/echidna-chasm.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Echidna_chasm_WA.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Echidna_chasm_WA.jpg",
+      "publisher": "Wikimedia Commons", "author": "Graeme Churchard", "rightsHolder": "Graeme Churchard",
+      "license": "CC BY 2.0", "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "attributionText": "Graeme Churchard / Wikimedia Commons, CC BY 2.0; уменьшено до 960 px по ширине.", "checkedAt": "2026-09-23"
+    },
+    {
+      "id": "photo-ningaloo-reef", "kind": "photo", "localPath": "/media/landmarks/ningaloo-reef.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:00_1870_Ningaloo_Reef_-_Westaustralien.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/00_1870_Ningaloo_Reef_-_Westaustralien.jpg",
+      "publisher": "Wikimedia Commons", "author": "W. Bulach", "rightsHolder": "W. Bulach",
+      "license": "CC BY-SA 4.0", "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attributionText": "W. Bulach / Wikimedia Commons, CC BY-SA 4.0; уменьшено до 1280 px по ширине.", "checkedAt": "2026-09-23"
+    }
+  ],
+  "entries": [
+    {
+      "id": "bungle-bungle-range", "kind": "landmark", "countryIds": ["australia"], "nameRu": "Хребет Бангл-Бангл",
+      "subtitleRu": "Полосатые песчаниковые конусы Пурнулулу", "landmarkType": "geological_formation",
+      "regionRu": "Национальный парк Пурнулулу, Западная Австралия", "mediaId": "photo-bungle-bungle-range",
+      "summaryRu": "Конусообразные скалы с чередующимися тёмными и рыжими полосами образуют хребет Бангл-Бангл.",
+      "explanationRu": "ЮНЕСКО описывает Бангл-Бангл как хребет из песчаниковых конусов. Их полосы связаны с различиями в породе и покрывающих её цианобактериальных корках. На снимке сверху видны округлые вершины и узкие проходы между ними.",
+      "whyNotableRu": "Узнаваемые полосатые песчаниковые конусы — главная форма рельефа парка Пурнулулу.",
+      "facts": [
+        { "labelRu": "Где находится", "valueRu": "Пурнулулу, Западная Австралия" },
+        { "labelRu": "На фото", "valueRu": "Полосатые вершины хребта с воздуха" }
+      ],
+      "sourceIds": ["purnululu-unesco"], "quizHints": { "similarityTags": ["sandstone", "geological_formation", "australia"] },
+      "status": "published", "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "echidna-chasm", "kind": "landmark", "countryIds": ["australia"], "nameRu": "Ущелье Эхидна",
+      "subtitleRu": "Узкий проход между скалами Пурнулулу", "landmarkType": "gorge",
+      "regionRu": "Национальный парк Пурнулулу, Западная Австралия", "mediaId": "photo-echidna-chasm",
+      "summaryRu": "Высокие песчаниковые стены сужают проход в ущелье Эхидна.",
+      "explanationRu": "Эхидна — одно из отдельно названных ЮНЕСКО ущелий Пурнулулу. Скальные стены здесь стоят близко друг к другу; на снимке солнечный свет освещает внутренний проход и подчёркивает его узкую форму.",
+      "whyNotableRu": "Именованное узкое ущелье внутри массива Бангл-Бангл.",
+      "facts": [
+        { "labelRu": "Где находится", "valueRu": "Пурнулулу, Западная Австралия" },
+        { "labelRu": "Форма рельефа", "valueRu": "Узкое песчаниковое ущелье" }
+      ],
+      "sourceIds": ["purnululu-unesco"], "quizHints": { "similarityTags": ["gorge", "sandstone", "australia"] },
+      "status": "published", "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "ningaloo-reef", "kind": "landmark", "countryIds": ["australia"], "nameRu": "Риф Нингалу",
+      "subtitleRu": "Прибрежный риф Западной Австралии", "landmarkType": "other",
+      "regionRu": "Побережье Нингалу, Западная Австралия", "mediaId": "photo-ningaloo-reef",
+      "summaryRu": "Бирюзовая прибрежная лагуна отделена от открытого океана линией прибоя на рифе.",
+      "explanationRu": "Риф Нингалу расположен близко к берегу. ЮНЕСКО выделяет его как морскую часть природной территории «Побережье Нингалу». На снимке видны спокойная вода лагуны и линия волн, разбивающихся над внешним краем рифа.",
+      "whyNotableRu": "Именованная рифовая система, составляющая морскую часть территории Всемирного наследия Нингалу.",
+      "facts": [
+        { "labelRu": "Где находится", "valueRu": "Западная Австралия" },
+        { "labelRu": "На фото", "valueRu": "Лагуна и линия прибоя на внешнем крае рифа" }
+      ],
+      "sourceIds": ["ningaloo-coast-unesco"], "quizHints": { "similarityTags": ["reef", "lagoon", "coast", "australia"] },
+      "status": "published", "verifiedAt": "2026-09-23"
+    }
+  ]
+}

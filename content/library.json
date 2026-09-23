@@ -1033,6 +1033,22 @@
       "url": "https://www.nationalparks.nsw.gov.au/things-to-do/walking-tracks/wentworth-falls-track",
       "sourceType": "national_park",
       "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "purnululu-unesco",
+      "title": "Purnululu National Park",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1094",
+      "sourceType": "unesco",
+      "accessedAt": "2026-09-23"
+    },
+    {
+      "id": "ningaloo-coast-unesco",
+      "title": "Ningaloo Coast",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1369",
+      "sourceType": "unesco",
+      "accessedAt": "2026-09-23"
     }
   ],
   "entries": [
@@ -4872,6 +4888,155 @@
           "waterfall",
           "sandstone",
           "forest",
+          "australia"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "bungle-bungle-range",
+      "kind": "landmark",
+      "countryIds": [
+        "australia"
+      ],
+      "nameRu": "Хребет Бангл-Бангл",
+      "subtitleRu": "Полосатые песчаниковые конусы Пурнулулу",
+      "landmarkType": "geological_formation",
+      "regionRu": "Национальный парк Пурнулулу, Западная Австралия",
+      "mediaId": "photo-bungle-bungle-range",
+      "summaryRu": "Конусообразные скалы с чередующимися тёмными и рыжими полосами образуют хребет Бангл-Бангл.",
+      "explanationRu": "ЮНЕСКО описывает Бангл-Бангл как хребет из песчаниковых конусов. Их полосы связаны с различиями в породе и покрывающих её цианобактериальных корках. На снимке сверху видны округлые вершины и узкие проходы между ними.",
+      "whyNotableRu": "Узнаваемые полосатые песчаниковые конусы — главная форма рельефа парка Пурнулулу.",
+      "facts": [
+        {
+          "labelRu": "Где находится",
+          "valueRu": "Пурнулулу, Западная Австралия"
+        },
+        {
+          "labelRu": "На фото",
+          "valueRu": "Полосатые вершины хребта с воздуха"
+        }
+      ],
+      "sourceIds": [
+        "purnululu-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "sandstone",
+          "geological_formation",
+          "australia"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "echidna-chasm",
+      "kind": "landmark",
+      "countryIds": [
+        "australia"
+      ],
+      "nameRu": "Ущелье Эхидна",
+      "subtitleRu": "Узкий проход между скалами Пурнулулу",
+      "landmarkType": "gorge",
+      "regionRu": "Национальный парк Пурнулулу, Западная Австралия",
+      "mediaId": "photo-echidna-chasm",
+      "summaryRu": "Высокие песчаниковые стены сужают проход в ущелье Эхидна.",
+      "explanationRu": "Эхидна — одно из отдельно названных ЮНЕСКО ущелий Пурнулулу. Скальные стены здесь стоят близко друг к другу; на снимке солнечный свет освещает внутренний проход и подчёркивает его узкую форму.",
+      "whyNotableRu": "Именованное узкое ущелье внутри массива Бангл-Бангл.",
+      "facts": [
+        {
+          "labelRu": "Где находится",
+          "valueRu": "Пурнулулу, Западная Австралия"
+        },
+        {
+          "labelRu": "Форма рельефа",
+          "valueRu": "Узкое песчаниковое ущелье"
+        }
+      ],
+      "sourceIds": [
+        "purnululu-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "gorge",
+          "sandstone",
+          "australia"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "ningaloo-reef",
+      "kind": "landmark",
+      "countryIds": [
+        "australia"
+      ],
+      "nameRu": "Риф Нингалу",
+      "subtitleRu": "Прибрежный риф Западной Австралии",
+      "landmarkType": "other",
+      "regionRu": "Побережье Нингалу, Западная Австралия",
+      "mediaId": "photo-ningaloo-reef",
+      "summaryRu": "Бирюзовая прибрежная лагуна отделена от открытого океана линией прибоя на рифе.",
+      "explanationRu": "Риф Нингалу расположен близко к берегу. ЮНЕСКО выделяет его как морскую часть природной территории «Побережье Нингалу». На снимке видны спокойная вода лагуны и линия волн, разбивающихся над внешним краем рифа.",
+      "whyNotableRu": "Именованная рифовая система, составляющая морскую часть территории Всемирного наследия Нингалу.",
+      "facts": [
+        {
+          "labelRu": "Где находится",
+          "valueRu": "Западная Австралия"
+        },
+        {
+          "labelRu": "На фото",
+          "valueRu": "Лагуна и линия прибоя на внешнем крае рифа"
+        }
+      ],
+      "sourceIds": [
+        "ningaloo-coast-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "reef",
+          "lagoon",
+          "coast",
+          "australia"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-23"
+    },
+    {
+      "id": "cathedral-gorge-purnululu",
+      "kind": "landmark",
+      "countryIds": [
+        "australia"
+      ],
+      "nameRu": "Ущелье Катедрал",
+      "subtitleRu": "Скальная чаша с водоёмом в Пурнулулу",
+      "landmarkType": "gorge",
+      "regionRu": "Национальный парк Пурнулулу, Западная Австралия",
+      "mediaId": "photo-cathedral-gorge-purnululu",
+      "summaryRu": "Высокие стенки песчаникового ущелья окружают водоём у его дна.",
+      "explanationRu": "ЮНЕСКО отдельно называет Катедрал среди ущелий парка Пурнулулу. На снимке видна широкая скальная чаша с отвесными стенами и водой; это другой облик, чем у узкого прохода ущелья Эхидна.",
+      "whyNotableRu": "Отдельно названное песчаниковое ущелье массива Бангл-Бангл.",
+      "facts": [
+        {
+          "labelRu": "Где находится",
+          "valueRu": "Пурнулулу, Западная Австралия"
+        },
+        {
+          "labelRu": "На фото",
+          "valueRu": "Скальная чаша и водоём"
+        }
+      ],
+      "sourceIds": [
+        "purnululu-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "gorge",
+          "sandstone",
           "australia"
         ]
       },

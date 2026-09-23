@@ -1091,5 +1091,61 @@
     "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
     "attributionText": "Robert Linsdell / Wikimedia Commons, CC BY 2.0; уменьшено до 960 px по ширине.",
     "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "photo-bungle-bungle-range",
+    "kind": "photo",
+    "localPath": "/media/landmarks/bungle-bungle-range.jpg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Bungle_Bungles_range.jpg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bungle_Bungles_range.jpg",
+    "publisher": "Wikimedia Commons",
+    "author": "Nichollas Harrison",
+    "rightsHolder": "Nichollas Harrison",
+    "license": "CC BY-SA 4.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionText": "Nichollas Harrison / Wikimedia Commons, CC BY-SA 4.0; уменьшено до 960 px по ширине.",
+    "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "photo-echidna-chasm",
+    "kind": "photo",
+    "localPath": "/media/landmarks/echidna-chasm.jpg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Echidna_chasm_WA.jpg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Echidna_chasm_WA.jpg",
+    "publisher": "Wikimedia Commons",
+    "author": "Graeme Churchard",
+    "rightsHolder": "Graeme Churchard",
+    "license": "CC BY 2.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "attributionText": "Graeme Churchard / Wikimedia Commons, CC BY 2.0; уменьшено до 960 px по ширине.",
+    "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "photo-ningaloo-reef",
+    "kind": "photo",
+    "localPath": "/media/landmarks/ningaloo-reef.jpg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:00_1870_Ningaloo_Reef_-_Westaustralien.jpg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/00_1870_Ningaloo_Reef_-_Westaustralien.jpg",
+    "publisher": "Wikimedia Commons",
+    "author": "W. Bulach",
+    "rightsHolder": "W. Bulach",
+    "license": "CC BY-SA 4.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionText": "W. Bulach / Wikimedia Commons, CC BY-SA 4.0; уменьшено до 1280 px по ширине.",
+    "checkedAt": "2026-09-23"
+  },
+  {
+    "id": "photo-cathedral-gorge-purnululu",
+    "kind": "photo",
+    "localPath": "/media/landmarks/cathedral-gorge-purnululu.jpg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:00_2152_Purnululu_National_Park_-_Cathedrale_Gorge.jpg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/00_2152_Purnululu_National_Park_-_Cathedrale_Gorge.jpg",
+    "publisher": "Wikimedia Commons",
+    "author": "W. Bulach",
+    "rightsHolder": "W. Bulach",
+    "license": "CC BY-SA 4.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionText": "W. Bulach / Wikimedia Commons, CC BY-SA 4.0; уменьшено до 1280 px по ширине.",
+    "checkedAt": "2026-09-23"
   }
 ]
