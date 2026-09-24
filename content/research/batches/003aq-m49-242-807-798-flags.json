@@ -1,0 +1,93 @@
+{
+  "batch_id": "003aq-m49-242-807-798-flags",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "fj-parliament-national-flag-2015",
+      "title": "Parliamentary debate on the National Flag Protection Bill, 26 August 2015",
+      "publisher": "Parliament of the Republic of Fiji",
+      "source_type": "government",
+      "url": "https://www.parliament.gov.fj/wp-content/uploads/2017/03/Wednesday-26-August-2015.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Фиджи"
+    },
+    {
+      "source_id": "mk-diplomatic-protocol-flag",
+      "title": "Republic of North Macedonia: Flag of Republic of North Macedonia",
+      "publisher": "Government of the Republic of North Macedonia",
+      "source_type": "government",
+      "url": "https://portal.mdt.gov.mk/post-body-files/direktorat-za-diplomatski-protokol-file-hjTF.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Северная Македония"
+    },
+    {
+      "source_id": "tv-national-flag-act-schedule",
+      "title": "Tuvalu National Flag Act, Schedule 1 (2008 Revised Edition)",
+      "publisher": "Tuvalu Legislation",
+      "source_type": "law",
+      "url": "https://tuvalu-legislation.tv/cms/images/LEGISLATION/PRINCIPAL/1995/1995-0004/1995-0004_1.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Тувалу"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "fiji",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "fiji-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "голубое поле; британский флаг у древка; щит государственного герба",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "fj-parliament-national-flag-2015",
+          "primary_source_urls": "https://www.parliament.gov.fj/wp-content/uploads/2017/03/Wednesday-26-August-2015.pdf"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "north-macedonia",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "north-macedonia-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "красное поле; жёлтое солнце; восемь лучей",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "mk-diplomatic-protocol-flag",
+          "primary_source_urls": "https://portal.mdt.gov.mk/post-body-files/direktorat-za-diplomatski-protokol-file-hjTF.pdf"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "tuvalu",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "tuvalu-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "голубое поле; британский флаг у древка; девять жёлтых звёзд",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "tv-national-flag-act-schedule",
+          "primary_source_urls": "https://tuvalu-legislation.tv/cms/images/LEGISLATION/PRINCIPAL/1995/1995-0004/1995-0004_1.pdf"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}

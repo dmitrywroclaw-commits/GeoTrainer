@@ -2882,5 +2882,44 @@
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_South_Korea.svg",
     "attributionText": "Government of the Republic of Korea; vector by Great Brightstar and others / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
     "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-fiji-national",
+    "kind": "flag",
+    "localPath": "/media/flags/fiji.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Fiji.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Tessa Mackenzie; see Wikimedia Commons file history",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Fiji.svg",
+    "attributionText": "Tessa Mackenzie; see Wikimedia Commons file history / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-north-macedonia-national",
+    "kind": "flag",
+    "localPath": "/media/flags/north-macedonia.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_North_Macedonia.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Wikimedia Commons user SKopp; redrawn by user Gabbe",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_North_Macedonia.svg",
+    "attributionText": "Wikimedia Commons user SKopp; redrawn by user Gabbe / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-tuvalu-national",
+    "kind": "flag",
+    "localPath": "/media/flags/tuvalu.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Tuvalu.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tuvalu.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Unknown author; see Wikimedia Commons file history",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Tuvalu.svg",
+    "attributionText": "Unknown author; see Wikimedia Commons file history / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
   }
 ]

@@ -1223,6 +1223,30 @@
       "m49": "404",
       "iso2": "KE",
       "iso3": "KEN"
+    },
+    {
+      "id": "fiji",
+      "nameRu": "Фиджи",
+      "region": "Меланезия",
+      "m49": "242",
+      "iso2": "FJ",
+      "iso3": "FJI"
+    },
+    {
+      "id": "north-macedonia",
+      "nameRu": "Северная Македония",
+      "region": "Южная Европа",
+      "m49": "807",
+      "iso2": "MK",
+      "iso3": "MKD"
+    },
+    {
+      "id": "tuvalu",
+      "nameRu": "Тувалу",
+      "region": "Полинезия",
+      "m49": "798",
+      "iso2": "TV",
+      "iso3": "TUV"
     }
   ],
   "sources": [
@@ -3064,6 +3088,30 @@
       "publisher": "Korea.net, Government of the Republic of Korea",
       "sourceType": "government",
       "url": "https://russian.korea.net/AboutKorea/OverviewofKorea",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "fj-parliament-national-flag-2015",
+      "title": "Parliamentary debate on the National Flag Protection Bill, 26 August 2015",
+      "publisher": "Parliament of the Republic of Fiji",
+      "sourceType": "government",
+      "url": "https://www.parliament.gov.fj/wp-content/uploads/2017/03/Wednesday-26-August-2015.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "mk-diplomatic-protocol-flag",
+      "title": "Republic of North Macedonia: Flag of Republic of North Macedonia",
+      "publisher": "Government of the Republic of North Macedonia",
+      "sourceType": "government",
+      "url": "https://portal.mdt.gov.mk/post-body-files/direktorat-za-diplomatski-protokol-file-hjTF.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "tv-national-flag-act-schedule",
+      "title": "Tuvalu National Flag Act, Schedule 1 (2008 Revised Edition)",
+      "publisher": "Tuvalu Legislation",
+      "sourceType": "law",
+      "url": "https://tuvalu-legislation.tv/cms/images/LEGISLATION/PRINCIPAL/1995/1995-0004/1995-0004_1.pdf",
       "accessedAt": "2026-09-24"
     }
   ],
@@ -11854,6 +11902,111 @@
           "white_field",
           "central_emblem",
           "trigrams"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "fiji-national-flag",
+      "kind": "flag",
+      "countryId": "fiji",
+      "nameRu": "Фиджи",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-fiji-national",
+      "summaryRu": "Голубое полотнище с британским флагом в верхнем углу у древка и щитом герба справа.",
+      "explanationRu": "В материалах парламента Фиджи национальный флаг описан как голубое полотнище с британским флагом и щитом государственного герба. На щите расположены красный крест, лев, сахарный тростник, пальма, голубь и бананы.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "У древка",
+          "valueRu": "Британский флаг"
+        },
+        {
+          "labelRu": "Справа",
+          "valueRu": "Щит герба Фиджи"
+        }
+      ],
+      "sourceIds": [
+        "fj-parliament-national-flag-2015"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "blue_field",
+          "union_jack",
+          "coat_of_arms"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "north-macedonia-national-flag",
+      "kind": "flag",
+      "countryId": "north-macedonia",
+      "nameRu": "Северная Македония",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-north-macedonia-national",
+      "summaryRu": "Красное полотнище с жёлтым солнцем в центре и восемью лучами до краёв флага.",
+      "explanationRu": "Официальный дипломатический справочник Северной Македонии описывает красный фон, жёлтое солнце в центре и восемь лучей, доходящих до краёв полотнища.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "В центре",
+          "valueRu": "Жёлтое солнце"
+        },
+        {
+          "labelRu": "Лучи",
+          "valueRu": "Восемь жёлтых лучей"
+        }
+      ],
+      "sourceIds": [
+        "mk-diplomatic-protocol-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "red_field",
+          "sun",
+          "rays"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "tuvalu-national-flag",
+      "kind": "flag",
+      "countryId": "tuvalu",
+      "nameRu": "Тувалу",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-tuvalu-national",
+      "summaryRu": "Голубое полотнище с британским флагом в верхнем углу у древка и девятью жёлтыми звёздами справа.",
+      "explanationRu": "Приложение 1 к закону Тувалу о национальном флаге устанавливает голубое поле, девять жёлтых звёзд на правой половине и британский флаг в верхнем левом углу.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Верхний угол у древка",
+          "valueRu": "Британский флаг"
+        },
+        {
+          "labelRu": "Справа",
+          "valueRu": "Девять жёлтых звёзд"
+        }
+      ],
+      "sourceIds": [
+        "tv-national-flag-act-schedule"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "blue_field",
+          "union_jack",
+          "stars"
         ]
       },
       "status": "published",
