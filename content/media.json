@@ -3233,5 +3233,31 @@
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Palestine.svg",
     "attributionText": "Orionist and previous Wikimedia Commons contributors / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
     "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-nicaragua-national",
+    "kind": "flag",
+    "localPath": "/media/flags/nicaragua.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Nicaragua.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "C records",
+    "license": "Public domain",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Nicaragua.svg",
+    "attributionText": "C records / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-paraguay-national",
+    "kind": "flag",
+    "localPath": "/media/flags/paraguay.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Paraguay.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Republic of Paraguay; Wikimedia Commons vector contributors",
+    "license": "Public domain",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Paraguay.svg",
+    "attributionText": "Republic of Paraguay; Wikimedia Commons vector contributors / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
   }
 ]

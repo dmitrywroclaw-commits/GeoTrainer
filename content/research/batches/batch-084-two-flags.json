@@ -1,0 +1,65 @@
+{
+  "batch_id": "batch-084-two-flags",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "ni-assembly-national-symbols-flag",
+      "title": "Símbolos Patrios: Bandera Nacional",
+      "publisher": "Asamblea Nacional de Nicaragua",
+      "source_type": "government",
+      "url": "https://noticias.asamblea.gob.ni/simbolos-patrios/",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Никарагуа"
+    },
+    {
+      "source_id": "py-decree-11400-2013-flag",
+      "title": "Decreto N° 11400/2013: diseño y uso del Pabellón de la República",
+      "publisher": "Presidencia de la República del Paraguay",
+      "source_type": "law",
+      "url": "https://informacionpublica.paraguay.gov.py/public/5475046-59749pdf-59749.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Парагвай"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "nicaragua",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "nicaragua-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "три равные горизонтальные полосы: синяя, белая, синяя | государственный герб в центре белой полосы",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "ni-assembly-national-symbols-flag",
+          "primary_source_urls": "https://noticias.asamblea.gob.ni/simbolos-patrios/"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "paraguay",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "paraguay-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "три горизонтальные полосы: красная, белая, синяя | государственный герб в центре белой полосы лицевой стороны | отдельный знак на оборотной стороне",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "py-decree-11400-2013-flag",
+          "primary_source_urls": "https://informacionpublica.paraguay.gov.py/public/5475046-59749pdf-59749.pdf"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}

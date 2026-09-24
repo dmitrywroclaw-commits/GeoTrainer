@@ -1439,6 +1439,22 @@
       "m49": "275",
       "iso2": "PS",
       "iso3": "PSE"
+    },
+    {
+      "id": "nicaragua",
+      "nameRu": "Никарагуа",
+      "region": "Центральная Америка",
+      "m49": "558",
+      "iso2": "NI",
+      "iso3": "NIC"
+    },
+    {
+      "id": "paraguay",
+      "nameRu": "Парагвай",
+      "region": "Южная Америка",
+      "m49": "600",
+      "iso2": "PY",
+      "iso3": "PRY"
     }
   ],
   "sources": [
@@ -3513,6 +3529,22 @@
       "sourceType": "law",
       "url": "https://www.govern.ad/documents/d/guest/llei_se_versio_consolidada_2022-pdf?download=true",
       "accessedAt": "2026-09-22"
+    },
+    {
+      "id": "ni-assembly-national-symbols-flag",
+      "title": "Símbolos Patrios: Bandera Nacional",
+      "publisher": "Asamblea Nacional de Nicaragua",
+      "sourceType": "government",
+      "url": "https://noticias.asamblea.gob.ni/simbolos-patrios/",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "py-decree-11400-2013-flag",
+      "title": "Decreto N° 11400/2013: diseño y uso del Pabellón de la República",
+      "publisher": "Presidencia de la República del Paraguay",
+      "sourceType": "law",
+      "url": "https://informacionpublica.paraguay.gov.py/public/5475046-59749pdf-59749.pdf",
+      "accessedAt": "2026-09-24"
     }
   ],
   "entries": [
@@ -13285,6 +13317,85 @@
           "tricolor",
           "horizontal-stripes",
           "triangle"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "nicaragua-national-flag",
+      "kind": "flag",
+      "countryId": "nicaragua",
+      "nameRu": "Никарагуа",
+      "subtitleRu": "Национальный флаг с гербом",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-nicaragua-national",
+      "summaryRu": "Национальный флаг Никарагуа имеет две синие полосы, белую полосу между ними и герб в центре.",
+      "explanationRu": "Закон о национальных символах описывает три равные горизонтальные полосы и государственный герб в середине белой. Синий закон связывает со справедливостью и верностью, белый — с чистотой и цельностью.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы сверху вниз",
+          "valueRu": "Синяя, белая, синяя"
+        },
+        {
+          "labelRu": "Центр",
+          "valueRu": "Государственный герб"
+        },
+        {
+          "labelRu": "Официальное значение синего",
+          "valueRu": "Справедливость и верность"
+        }
+      ],
+      "sourceIds": [
+        "ni-assembly-national-symbols-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal-stripes",
+          "coat-of-arms",
+          "blue-white-blue"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "paraguay-national-flag",
+      "kind": "flag",
+      "countryId": "paraguay",
+      "nameRu": "Парагвай",
+      "subtitleRu": "Национальный флаг — лицевая сторона",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-paraguay-national",
+      "summaryRu": "Флаг Парагвая — красно-бело-синий триколор с государственным гербом на лицевой стороне.",
+      "explanationRu": "У флага Парагвая разные стороны: на лицевой расположен государственный герб со звездой, на оборотной — печать казначейства со львом и девизом «Мир и справедливость». В карточке показана лицевая сторона одного национального флага.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы сверху вниз",
+          "valueRu": "Красная, белая, синяя"
+        },
+        {
+          "labelRu": "Лицевая сторона",
+          "valueRu": "Государственный герб со звездой"
+        },
+        {
+          "labelRu": "Оборотная сторона",
+          "valueRu": "Печать казначейства со львом"
+        }
+      ],
+      "sourceIds": [
+        "py-decree-11400-2013-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "tricolor",
+          "horizontal-stripes",
+          "coat-of-arms",
+          "two-sided"
         ]
       },
       "status": "published",
