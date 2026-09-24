@@ -1,0 +1,212 @@
+{
+  "batch_id": "publish-053-bolivia-bahrain-chad-flags",
+  "countries": [
+    {
+      "id": "bolivia",
+      "nameRu": "Боливия",
+      "region": "Южная Америка",
+      "m49": "068",
+      "iso2": "BO",
+      "iso3": "BOL"
+    },
+    {
+      "id": "bahrain",
+      "nameRu": "Бахрейн",
+      "region": "Западная Азия",
+      "m49": "048",
+      "iso2": "BH",
+      "iso3": "BHR"
+    }
+  ],
+  "sources": [
+    {
+      "id": "bo-constitution-art-6",
+      "title": "Constitución Política del Estado Plurinacional de Bolivia, Artículo 6",
+      "publisher": "Servicio Nacional de Propiedad Intelectual, Bolivia",
+      "sourceType": "law",
+      "url": "https://www.senapi.gob.bo/normativas/constitucion-politica-del-estado/constitucion-politica-del-estado-plurinacional-de-bolivia",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "bo-decree-241-parliament-copy",
+      "title": "Decreto Supremo 241, text reproduced in parliamentary material",
+      "publisher": "Cámara de Diputados, Asamblea Legislativa Plurinacional de Bolivia",
+      "sourceType": "government",
+      "url": "https://diputados.gob.bo/wp-content/uploads/2023/02/PL-137-2022-2023.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "bh-constitution",
+      "title": "The Constitution of the Kingdom of Bahrain",
+      "publisher": "Legislation and Legal Opinion Commission, Bahrain",
+      "sourceType": "law",
+      "url": "https://www.legalaffairs.gov.bh/en/page/The%20Constitution%20of%20the%20Kingdom%20of%20Bahrain",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "bh-national-flag-guide",
+      "title": "The Kingdom of Bahrain Flag Guidelines",
+      "publisher": "Bahrainouna / Kingdom of Bahrain Ministry of Education",
+      "sourceType": "government",
+      "url": "https://www.edunet.bh/e_content/level_1/stage_1/subject_ID_4/Part_3/e_books/Flag--guide---English%281%29/Flag--guide---English%281%29.pdf",
+      "accessedAt": "2026-09-24"
+    }
+  ],
+  "media": [
+    {
+      "id": "flag-bolivia-state",
+      "kind": "flag",
+      "localPath": "/media/flags/bolivia-state.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Bolivia_(state).svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_Bolivia_%28state%29.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Denelson83, Huhsunqu and subsequent Wikimedia Commons editors",
+      "license": "Public domain (Bolivian flag and coat of arms artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Bolivia_(state).svg",
+      "attributionText": "Denelson83, Huhsunqu and subsequent Wikimedia Commons editors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-bahrain",
+      "kind": "flag",
+      "localPath": "/media/flags/bahrain.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Bahrain.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "SKopp; SVG revisions by Zscout370",
+      "license": "Public domain (simple geometry)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Bahrain.svg",
+      "attributionText": "SKopp; SVG revisions by Zscout370 / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-chad",
+      "kind": "flag",
+      "localPath": "/media/flags/chad.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Chad.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "SKopp and subsequent Wikimedia Commons editors",
+      "license": "Public domain (simple geometry)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Chad.svg",
+      "attributionText": "SKopp and subsequent Wikimedia Commons editors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    }
+  ],
+  "entries": [
+    {
+      "id": "bolivia-state-flag",
+      "kind": "flag",
+      "countryId": "bolivia",
+      "nameRu": "Боливия",
+      "subtitleRu": "Государственный флаг",
+      "variantType": "state",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-bolivia-state",
+      "summaryRu": "Государственный флаг Боливии: красная, жёлтая и зелёная горизонтальные полосы с гербом в центре жёлтой полосы.",
+      "explanationRu": "По статье 9 декрета № 241 государственные учреждения используют триколор с гербом на обеих сторонах. Герб в середине жёлтой полосы отличает этот вариант от национального триколора без герба.",
+      "symbols": [
+        {
+          "nameRu": "Государственный герб",
+          "category": "coat_of_arms",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "bo-decree-241-parliament-copy"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Красная, жёлтая, зелёная сверху вниз"
+        },
+        {
+          "labelRu": "Отличие варианта",
+          "valueRu": "Герб в центре жёлтой полосы"
+        }
+      ],
+      "sourceIds": [
+        "bo-constitution-art-6",
+        "bo-decree-241-parliament-copy"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_tricolor",
+          "coat_center"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "bahrain-national-flag",
+      "kind": "flag",
+      "countryId": "bahrain",
+      "nameRu": "Бахрейн",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-bahrain",
+      "summaryRu": "Национальный флаг Бахрейна — белая полоса у древка и красное поле, разделённые пятью зубцами.",
+      "explanationRu": "У границы белого и красного полей видны пять белых треугольных выступов. По ним флаг Бахрейна можно отличить от других красно-белых флагов региона.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Основные цвета",
+          "valueRu": "Белый и красный"
+        },
+        {
+          "labelRu": "Граница цветов",
+          "valueRu": "Пять белых треугольных зубцов"
+        }
+      ],
+      "sourceIds": [
+        "bh-constitution",
+        "bh-national-flag-guide"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "red_white",
+          "serrated_hoist"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "chad-national-flag",
+      "kind": "flag",
+      "countryId": "chad",
+      "nameRu": "Чад",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-chad",
+      "summaryRu": "Флаг Чада состоит из трёх вертикальных полос: синей, золотой и красной.",
+      "explanationRu": "Синяя полоса находится у древка, золотая — в центре, красная — у свободного края. Государственное руководство по графике отмечает, что этот флаг часто путают с флагом Румынии.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Порядок от древка",
+          "valueRu": "Синяя, золотая, красная"
+        },
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Три вертикальные"
+        }
+      ],
+      "sourceIds": [
+        "td-state-graphic-charter"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "vertical_tricolor",
+          "blue_yellow_red"
+        ],
+        "excludeFromQuiz": true
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    }
+  ]
+}

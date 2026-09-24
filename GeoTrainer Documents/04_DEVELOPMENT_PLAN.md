@@ -168,7 +168,7 @@ Exit criteria:
 
 Deliverables:
 
-- every eligible official flag variant and national symbol from the complete base and extended registries;
+- one selected national or state flag per country and every eligible national symbol from the complete base and extended registries;
 - every eligible concrete natural landmark from the completed source and thematic passes;
 - coverage reports linking every registry decision to a published card or a documented exclusion;
 - scalable catalog navigation, search, quiz selection, media loading, and PWA caching for an open-ended number of records.

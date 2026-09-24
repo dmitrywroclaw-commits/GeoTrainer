@@ -1,0 +1,318 @@
+{
+  "batch_id": "publish-055-five-national-flags",
+  "countries": [
+    {
+      "id": "greece",
+      "nameRu": "Греция",
+      "region": "Южная Европа",
+      "m49": "300",
+      "iso2": "GR",
+      "iso3": "GRC"
+    },
+    {
+      "id": "ireland",
+      "nameRu": "Ирландия",
+      "region": "Северная Европа",
+      "m49": "372",
+      "iso2": "IE",
+      "iso3": "IRL"
+    },
+    {
+      "id": "italy",
+      "nameRu": "Италия",
+      "region": "Южная Европа",
+      "m49": "380",
+      "iso2": "IT",
+      "iso3": "ITA"
+    },
+    {
+      "id": "latvia",
+      "nameRu": "Латвия",
+      "region": "Северная Европа",
+      "m49": "428",
+      "iso2": "LV",
+      "iso3": "LVA"
+    }
+  ],
+  "sources": [
+    {
+      "id": "gr-presidency-flag",
+      "title": "The Flag",
+      "publisher": "Presidency of the Hellenic Republic",
+      "sourceType": "government",
+      "url": "https://www.presidency.gr/en/presidency/the-flag/",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "ie-government-national-flag",
+      "title": "The National Flag",
+      "publisher": "Department of the Taoiseach, Ireland",
+      "sourceType": "government",
+      "url": "https://www.gov.ie/en/department-of-the-taoiseach/publications/the-national-flag/",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "it-presidency-tricolour",
+      "title": "Italian Tricolour Flag",
+      "publisher": "Presidency of the Italian Republic",
+      "sourceType": "government",
+      "url": "https://www.quirinale.it/it/pagine/italian-tricolour-flag",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "jp-cabinet-flag",
+      "title": "National Flag & National Anthem",
+      "publisher": "Cabinet Office, Government of Japan",
+      "sourceType": "government",
+      "url": "https://www.cao.go.jp/en/flag_anthem",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "lv-national-flag-law",
+      "title": "Law on the National Flag of Latvia",
+      "publisher": "State Language Centre / Latvijas Vēstnesis",
+      "sourceType": "law",
+      "url": "https://likumi.lv/ta/en/en/id/200642",
+      "accessedAt": "2026-09-24"
+    }
+  ],
+  "media": [
+    {
+      "id": "flag-greece-national",
+      "kind": "flag",
+      "localPath": "/media/flags/greece.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Greece.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Unknown original author",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Greece.svg",
+      "attributionText": "Unknown original author / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-ireland-national",
+      "kind": "flag",
+      "localPath": "/media/flags/ireland.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Ireland.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Éire",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Ireland.svg",
+      "attributionText": "Éire / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-italy-national",
+      "kind": "flag",
+      "localPath": "/media/flags/italy.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Unknown original author; Wikimedia Commons contributors",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
+      "attributionText": "Unknown original author; Wikimedia Commons contributors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-japan-national",
+      "kind": "flag",
+      "localPath": "/media/flags/japan.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Japan.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Various contributors",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Japan.svg",
+      "attributionText": "Various contributors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-latvia-national",
+      "kind": "flag",
+      "localPath": "/media/flags/latvia.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Latvia.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Ansis Cīrulis; SVG by SKopp",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Latvia.svg",
+      "attributionText": "Ansis Cīrulis; SVG by SKopp / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    }
+  ],
+  "entries": [
+    {
+      "id": "greece-national-flag",
+      "kind": "flag",
+      "countryId": "greece",
+      "nameRu": "Греция",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-greece-national",
+      "summaryRu": "Флаг Греции состоит из девяти чередующихся синих и белых полос; в синем крыже расположен белый крест.",
+      "explanationRu": "Президентский сайт описывает пять синих и четыре белые полосы. Синий крыж у древка занимает высоту пяти полос и содержит белый крест.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Девять горизонтальных: пять синих и четыре белые"
+        },
+        {
+          "labelRu": "Крыж",
+          "valueRu": "Белый крест на синем фоне"
+        }
+      ],
+      "sourceIds": [
+        "gr-presidency-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_stripes",
+          "cross_canton"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "ireland-national-flag",
+      "kind": "flag",
+      "countryId": "ireland",
+      "nameRu": "Ирландия",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-ireland-national",
+      "summaryRu": "Флаг Ирландии — зелёная, белая и оранжевая вертикальные полосы от древка.",
+      "explanationRu": "Правительство Ирландии уточняет, что три полосы равны по ширине, а зелёная располагается у древка. Белая полоса связана с надеждой на единство разных традиций острова.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Порядок от древка",
+          "valueRu": "Зелёный, белый, оранжевый"
+        },
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Три равные вертикальные"
+        }
+      ],
+      "sourceIds": [
+        "ie-government-national-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "vertical_tricolor",
+          "green_white_orange"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "italy-national-flag",
+      "kind": "flag",
+      "countryId": "italy",
+      "nameRu": "Италия",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-italy-national",
+      "summaryRu": "Флаг Италии — три равные вертикальные полосы: зелёная, белая и красная от древка.",
+      "explanationRu": "Конституционное описание, приведённое Президентом Италии, закрепляет зелёную, белую и красную вертикальные полосы равной ширины.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Порядок от древка",
+          "valueRu": "Зелёный, белый, красный"
+        },
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Три равные вертикальные"
+        }
+      ],
+      "sourceIds": [
+        "it-presidency-tricolour"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "vertical_tricolor",
+          "green_white_red"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "japan-national-flag",
+      "kind": "flag",
+      "countryId": "japan",
+      "nameRu": "Япония",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-japan-national",
+      "summaryRu": "Флаг Японии — белое поле с красным солнечным диском в центре.",
+      "explanationRu": "Японское правительство определяет белое поле и тёмно-красный круг по центру; диаметр круга составляет три пятых высоты флага.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Поле",
+          "valueRu": "Белое"
+        },
+        {
+          "labelRu": "В центре",
+          "valueRu": "Красный солнечный диск"
+        }
+      ],
+      "sourceIds": [
+        "jp-cabinet-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "sun_disc",
+          "red_white"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "latvia-national-flag",
+      "kind": "flag",
+      "countryId": "latvia",
+      "nameRu": "Латвия",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-latvia-national",
+      "summaryRu": "Флаг Латвии — карминово-красное полотнище с узкой белой горизонтальной полосой посередине.",
+      "explanationRu": "Латвийский закон задаёт карминовый цвет и белую полосу; ширины красной, белой и красной полос относятся как 2:1:2.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы сверху",
+          "valueRu": "Карминовая, белая, карминовая"
+        },
+        {
+          "labelRu": "Соотношение ширины полос",
+          "valueRu": "2:1:2"
+        }
+      ],
+      "sourceIds": [
+        "lv-national-flag-law"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_tricolor",
+          "carmine_white_carmine"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    }
+  ]
+}

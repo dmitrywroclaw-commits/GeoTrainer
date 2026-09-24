@@ -1,0 +1,263 @@
+{
+  "batch_id": "publish-051-four-national-flags",
+  "countries": [
+    {
+      "id": "armenia",
+      "nameRu": "Армения",
+      "region": "Западная Азия",
+      "m49": "051",
+      "iso2": "AM",
+      "iso3": "ARM"
+    },
+    {
+      "id": "belgium",
+      "nameRu": "Бельгия",
+      "region": "Западная Европа",
+      "m49": "056",
+      "iso2": "BE",
+      "iso3": "BEL"
+    },
+    {
+      "id": "bulgaria",
+      "nameRu": "Болгария",
+      "region": "Восточная Европа",
+      "m49": "100",
+      "iso2": "BG",
+      "iso3": "BGR"
+    },
+    {
+      "id": "bahamas",
+      "nameRu": "Багамские Острова",
+      "region": "Карибский бассейн",
+      "m49": "044",
+      "iso2": "BS",
+      "iso3": "BHS"
+    }
+  ],
+  "sources": [
+    {
+      "id": "am-president-state-symbols",
+      "title": "State symbols of the Republic of Armenia",
+      "publisher": "Office of the President of the Republic of Armenia",
+      "sourceType": "government",
+      "url": "https://www.president.am/en/state-symbols/",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "be-government-flags",
+      "title": "Belgian flags",
+      "publisher": "Belgium.be, Belgian federal government",
+      "sourceType": "government",
+      "url": "https://www.belgium.be/en/about_belgium/country/belgium_in_nutshell/symbols/flags",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "bg-flag-parliament",
+      "title": "National Flag of the Republic of Bulgaria — extract from the State Seal and National Flag Act",
+      "publisher": "National Assembly of the Republic of Bulgaria",
+      "sourceType": "law",
+      "url": "https://www.parliament.bg/bg/21",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "bs-symbols-law",
+      "title": "The Flags and Coat of Arms (Regulation) Act",
+      "publisher": "Laws of The Bahamas",
+      "sourceType": "law",
+      "url": "https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1973/1973-0020/1973-0020_1.pdf",
+      "accessedAt": "2026-09-24"
+    }
+  ],
+  "media": [
+    {
+      "id": "flag-armenia",
+      "kind": "flag",
+      "localPath": "/media/flags/armenia.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Armenia.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Stepan Malkhasyants; SVG by SKopp",
+      "license": "Public domain (simple geometry)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Armenia.svg",
+      "attributionText": "Stepan Malkhasyants; SVG by SKopp / Wikimedia Commons; общественное достояние, SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-belgium",
+      "kind": "flag",
+      "localPath": "/media/flags/belgium.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Belgium.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Dbenbenn and Wikimedia Commons contributors",
+      "license": "Public domain (simple geometry)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Belgium.svg",
+      "attributionText": "Dbenbenn and Wikimedia Commons contributors / Wikimedia Commons; общественное достояние, SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-bulgaria",
+      "kind": "flag",
+      "localPath": "/media/flags/bulgaria.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Bulgaria.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "SKopp",
+      "license": "Public domain (simple geometry)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Bulgaria.svg",
+      "attributionText": "SKopp / Wikimedia Commons; общественное достояние, SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-bahamas",
+      "kind": "flag",
+      "localPath": "/media/flags/bahamas.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Bahamas.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Government of The Bahamas; SVG by Wikimedia Commons contributors",
+      "license": "Public domain (simple geometry)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Bahamas.svg",
+      "attributionText": "Government of The Bahamas; SVG by Wikimedia Commons contributors / Wikimedia Commons; общественное достояние, SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    }
+  ],
+  "entries": [
+    {
+      "id": "armenia-national-flag",
+      "kind": "flag",
+      "countryId": "armenia",
+      "nameRu": "Армения",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-armenia",
+      "summaryRu": "Флаг Армении состоит из трёх равных горизонтальных полос: красной, синей и оранжевой.",
+      "explanationRu": "Чтобы узнать флаг Армении, запомните порядок полос сверху вниз: красная, синяя, оранжевая. Официальная страница Президента также приводит значения цветов; они не нужны для распознавания рисунка.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Порядок полос",
+          "valueRu": "Красная, синяя, оранжевая"
+        },
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Три равные горизонтальные"
+        }
+      ],
+      "sourceIds": [
+        "am-president-state-symbols"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_tricolor",
+          "red_blue_orange"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "belgium-national-flag",
+      "kind": "flag",
+      "countryId": "belgium",
+      "nameRu": "Бельгия",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-belgium",
+      "summaryRu": "Национальный флаг Бельгии — три вертикальные полосы: чёрная, жёлтая и красная.",
+      "explanationRu": "У флага Бельгии полосы расположены вертикально. Если смотреть от древка к свободному краю, порядок цветов — чёрный, жёлтый, красный.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Порядок от древка",
+          "valueRu": "Чёрная, жёлтая, красная"
+        },
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Три вертикальные"
+        }
+      ],
+      "sourceIds": [
+        "be-government-flags"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "vertical_tricolor",
+          "black_yellow_red"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "bulgaria-national-flag",
+      "kind": "flag",
+      "countryId": "bulgaria",
+      "nameRu": "Болгария",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-bulgaria",
+      "summaryRu": "Флаг Болгарии — три равные горизонтальные полосы: белая, зелёная и красная.",
+      "explanationRu": "Национальный флаг Болгарии легко узнать по зелёной полосе между белой верхней и красной нижней полосами. Порядок и равную ширину полос устанавливает закон о национальном флаге.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Порядок полос",
+          "valueRu": "Белая, зелёная, красная"
+        },
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Три равные горизонтальные"
+        }
+      ],
+      "sourceIds": [
+        "bg-flag-parliament"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_tricolor",
+          "white_green_red"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "bahamas-national-flag",
+      "kind": "flag",
+      "countryId": "bahamas",
+      "nameRu": "Багамские Острова",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-bahamas",
+      "summaryRu": "Флаг Багамских Островов: голубые верхняя и нижняя полосы, золотая средняя и чёрный треугольник у древка.",
+      "explanationRu": "Отличительная деталь флага Багамских Островов — чёрный треугольник, направленный от древка к центру золотой полосы. Официальный закон описывает голубое поле, золотую полосу и чёрный клин.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Средняя полоса",
+          "valueRu": "Золотая"
+        },
+        {
+          "labelRu": "У древка",
+          "valueRu": "Чёрный треугольник"
+        }
+      ],
+      "sourceIds": [
+        "bs-symbols-law"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "black_hoist_triangle",
+          "blue_gold_blue"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    }
+  ]
+}

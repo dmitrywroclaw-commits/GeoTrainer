@@ -1,0 +1,23 @@
+{
+  "batch_id": "publish-044-china-flag",
+  "countries": [
+    { "id": "china", "nameRu": "Китай", "region": "Восточная Азия", "m49": "156", "iso2": "CN", "iso3": "CHN" }
+  ],
+  "sources": [
+    { "id": "cn-national-flag-law-2020", "title": "Law of the People's Republic of China on the National Flag, as amended in 2020", "publisher": "National People's Congress of the People's Republic of China", "sourceType": "law", "url": "https://www.npc.gov.cn/englishnpc/c2759/c23934/202103/t20210301_384806.html", "accessedAt": "2026-09-24" },
+    { "id": "cn-constitution-symbols", "title": "Constitution of the People's Republic of China, articles 141–142", "publisher": "Ministry of Justice of the People's Republic of China", "sourceType": "law", "url": "https://en.moj.gov.cn/2021-06/22/c_634901.htm", "accessedAt": "2026-09-24" }
+  ],
+  "media": [
+    { "id": "flag-china", "kind": "flag", "localPath": "/media/flags/china.svg", "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_People%27s_Republic_of_China.svg", "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg", "publisher": "Wikimedia Commons", "author": "Zeng Liansong (design); Wikimedia Commons contributors (SVG)", "license": "Public domain (simple geometry and PRC official flag)", "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_People%27s_Republic_of_China.svg#Licensing", "attributionText": "Zeng Liansong / Wikimedia Commons; общественное достояние, без изменений.", "checkedAt": "2026-09-24" }
+  ],
+  "entries": [
+    {
+      "id": "china-national-flag", "kind": "flag", "countryId": "china", "nameRu": "Китай", "subtitleRu": "Национальный флаг", "variantType": "national", "isPrimaryStudyVariant": true, "mediaId": "flag-china",
+      "summaryRu": "Красное полотнище с одной большой и четырьмя малыми жёлтыми пятиконечными звёздами у древка.",
+      "explanationRu": "Официальное название — Пятизвёздный красный флаг. Запомните группу из пяти жёлтых звёзд в верхнем углу: четыре малые расположены дугой справа от большой. Закон о флаге закрепляет этот рисунок; смысл звёзд не выводится из их числа в этой карточке.",
+      "symbols": [{ "nameRu": "Одна большая и четыре малые жёлтые звезды", "category": "star", "meaningStatus": "unknown", "sourceIds": ["cn-national-flag-law-2020", "cn-constitution-symbols"] }],
+      "facts": [{ "labelRu": "Официальное название", "valueRu": "Пятизвёздный красный флаг" }, { "labelRu": "Число звёзд", "valueRu": "Пять" }],
+      "sourceIds": ["cn-national-flag-law-2020", "cn-constitution-symbols"], "quizHints": { "similarityTags": ["five_yellow_stars", "red_field"] }, "status": "published", "verifiedAt": "2026-09-24"
+    }
+  ]
+}

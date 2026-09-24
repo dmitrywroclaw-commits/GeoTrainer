@@ -62,9 +62,10 @@ Do not add large frameworks or infrastructure without a clear requirement.
 - Treat “official meaning” and “interpretation” as different states.
 - Every published content entry must have authoritative source metadata.
 - Every published image must have source and rights metadata.
+- Prefer an existing, suitable SVG for flags and coats of arms/emblems; record its file page, creator, license and required attribution, and verify the depicted version against an authoritative source.
 - “Official website” does not automatically mean an image can be redistributed.
 - Distinguish coat of arms, national emblem, state emblem, and state seal in structured data.
-- Support multiple official flag variants per country.
+- Publish one flag per country: the national or state flag with the more detailed design; choose the national flag if equally detailed. Simple designs are eligible.
 - For geographical superlatives, preserve measurement methodology and disputes where relevant.
 
 ## UI rules

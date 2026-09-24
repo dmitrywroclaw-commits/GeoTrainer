@@ -1,7 +1,8 @@
-import { readFile, writeFile } from 'node:fs/promises';
+import { readFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { parseCsv, stringifyCsv } from './csv.mjs';
+import { writeIfChanged } from './write-if-changed.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../..');
 const research = path.join(root, 'content/research');
@@ -80,7 +81,7 @@ for (const item of batch.countries ?? []) {
   }
 }
 
-await Promise.all(Object.entries(files).map(([key, file]) =>
-  writeFile(path.join(research, file), stringifyCsv(headers[key], tables[key]), 'utf8')));
+await Promise.all(Object.entries(files).map(([key, file], index) =>
+  writeIfChanged(path.join(research, file), stringifyCsv(headers[key], tables[key]), csvTexts[index])));
 
 console.log(`Применён пакет ${batch.batch_id}: ${batch.countries.length} стран.`);

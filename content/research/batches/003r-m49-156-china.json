@@ -1,0 +1,57 @@
+{
+  "batch_id": "003r-m49-156-china",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "cn-national-flag-law-2020",
+      "title": "Law of the People's Republic of China on the National Flag, as amended in 2020",
+      "publisher": "National People's Congress of the People's Republic of China",
+      "source_type": "law",
+      "url": "https://www.npc.gov.cn/englishnpc/c2759/c23934/202103/t20210301_384806.html",
+      "accessed_at": "2026-09-24",
+      "supports": "Статья 2 называет государственный флаг Пятизвёздным красным флагом и отсылает к официальной инструкции по изготовлению."
+    },
+    {
+      "source_id": "cn-constitution-symbols",
+      "title": "Constitution of the People's Republic of China, articles 141–142",
+      "publisher": "Ministry of Justice of the People's Republic of China",
+      "source_type": "law",
+      "url": "https://en.moj.gov.cn/2021-06/22/c_634901.htm",
+      "accessed_at": "2026-09-24",
+      "supports": "Статья 141 подтверждает красный флаг с пятью звёздами, статья 142 описывает государственный герб."
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "china",
+      "audit_status": "complete",
+      "notes": "Статья 2 действующего закона о флаге и статья 141 Конституции закрепляют национальный флаг с пятью звёздами; статья 142 Конституции описывает национальный герб. Отдельные ведомственные и военные полотнища не классифицированы как варианты национального флага.",
+      "flags": [
+        {
+          "variant_id": "china-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_field|five_yellow_stars",
+          "decision": "eligible",
+          "decision_reason": "Действующий закон и Конституция прямо определяют красный национальный флаг с пятью звёздами; звёзды проходят графический критерий.",
+          "source_ids": "cn-national-flag-law-2020|cn-constitution-symbols",
+          "primary_source_urls": "https://www.npc.gov.cn/englishnpc/c2759/c23934/202103/t20210301_384806.html|https://en.moj.gov.cn/2021-06/22/c_634901.htm"
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "china-national-emblem",
+          "symbol_type": "national_emblem",
+          "official_name_ru": "Государственный герб КНР",
+          "elements": "tiananmen_gate|five_stars|grain_ears|cogwheel",
+          "decision": "eligible",
+          "decision_reason": "Статья 142 Конституции описывает Тяньаньмэнь под пятью звёздами в обрамлении колосьев и зубчатого колеса; медиа для публикации требует отдельной проверки.",
+          "source_ids": "cn-constitution-symbols",
+          "primary_source_urls": "https://en.moj.gov.cn/2021-06/22/c_634901.htm"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "batch_id": "publish-047-drc-national-flag",
+  "countries": [
+    { "id": "democratic-republic-of-the-congo", "nameRu": "Демократическая Республика Конго", "region": "Центральная Африка", "m49": "180", "iso2": "CD", "iso3": "COD" }
+  ],
+  "sources": [
+    { "id": "cd-presidency-flag", "title": "Les symboles de la République: le drapeau", "publisher": "Présidence de la République démocratique du Congo", "sourceType": "government", "url": "https://www.presidence.cd/detail-symbole/1", "accessedAt": "2026-09-24" }
+  ],
+  "media": [
+    { "id": "flag-democratic-republic-of-the-congo", "kind": "flag", "localPath": "/media/flags/democratic-republic-of-the-congo.svg", "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Democratic_Republic_of_the_Congo.svg", "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg", "publisher": "Wikimedia Commons", "author": "Nightstallion; later SVG edits by Wikimedia Commons contributors", "license": "Public domain (simple geometry)", "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Democratic_Republic_of_the_Congo.svg#Licensing", "attributionText": "Nightstallion / Wikimedia Commons; простая геометрия, общественное достояние, без изменений.", "checkedAt": "2026-09-24" }
+  ],
+  "entries": [
+    {
+      "id": "democratic-republic-of-the-congo-national-flag", "kind": "flag", "countryId": "democratic-republic-of-the-congo", "nameRu": "Демократическая Республика Конго", "subtitleRu": "Национальный флаг", "variantType": "national", "isPrimaryStudyVariant": true, "mediaId": "flag-democratic-republic-of-the-congo",
+      "summaryRu": "Голубое полотнище с жёлтой звездой в верхнем углу у древка и красной диагональной полосой с жёлтой каймой.",
+      "explanationRu": "На официальной странице Президента ДР Конго флаг описан как голубое полотнище с жёлтой звездой и красной диагональю, окаймлённой жёлтым. Звезда обозначает единую страну и светлое будущее. Голубой связывают с миром и надеждой, красный — с кровью погибших, жёлтый — с богатством страны. Для узнавания запомните одну звезду над диагональной полосой.",
+      "symbols": [{ "nameRu": "Жёлтая звезда", "category": "star", "meaningStatus": "official", "meaningRu": "Единая страна и светлое будущее", "sourceIds": ["cd-presidency-flag"] }],
+      "facts": [{ "labelRu": "Расположение звезды", "valueRu": "В верхнем углу у древка" }, { "labelRu": "Полоса", "valueRu": "Красная диагональ с жёлтой каймой" }],
+      "sourceIds": ["cd-presidency-flag"], "quizHints": { "similarityTags": ["single_star", "yellow_star", "diagonal_stripe", "blue_field"] }, "status": "published", "verifiedAt": "2026-09-24"
+    }
+  ]
+}

@@ -16,7 +16,7 @@ export function PageHeader({ title, description, back }: { title: string; descri
 
 export function EntryCard({ entry }: { entry: Entry }) {
   const media = contentRepository.media(entry.mediaId)!;
-  const extra = entry.kind === 'landmark' ? entry.subtitleRu : entry.symbols.map(x => x.nameRu).slice(0, 2).join(' · ');
+  const extra = entry.kind === 'landmark' ? entry.subtitleRu : entry.symbols.map(x => x.nameRu).slice(0, 2).join(' · ') || entry.subtitleRu;
   return <Link className={`entry-card ${entry.kind === 'landmark' ? 'landmark-card' : ''}`} to={`/item/${entry.id}`}>
     <MediaFrame media={media} alt={entry.kind === 'landmark' ? `Вид: ${entry.nameRu}` : `${entry.subtitleRu}: ${entry.nameRu}`} />
     <div className="entry-card-text"><h2>{entry.nameRu}</h2><p>{extra}</p></div>

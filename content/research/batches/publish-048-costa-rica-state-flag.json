@@ -1,0 +1,22 @@
+{
+  "batch_id": "publish-048-costa-rica-state-flag",
+  "countries": [
+    { "id": "costa-rica", "nameRu": "Коста-Рика", "region": "Центральная Америка", "m49": "188", "iso2": "CR", "iso3": "CRI" }
+  ],
+  "sources": [
+    { "id": "cr-law-10178-2022", "title": "Ley n.º 10178: Ley que regula el uso del pabellón, la bandera y el escudo nacionales", "publisher": "Asamblea Legislativa de la República de Costa Rica; La Gaceta", "sourceType": "law", "url": "https://www.imprentanacional.go.cr/pub/2022/05/11/COMP_11_05_2022.html", "accessedAt": "2026-09-24" }
+  ],
+  "media": [
+    { "id": "flag-costa-rica-state", "kind": "flag", "localPath": "/media/flags/costa-rica-state.svg", "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Costa_Rica_(state).svg", "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Costa_Rica_%28state%29.svg", "publisher": "Wikimedia Commons", "author": "Wikimedia Commons contributors; see file history", "license": "Public domain (Costa Rican government design older than 25 years; Wikimedia Commons rights assessment)", "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Costa_Rica_(state).svg#Licensing", "attributionText": "Wikimedia Commons contributors; государственный рисунок Коста-Рики, общественное достояние по указанному на странице основанию, без изменений.", "checkedAt": "2026-09-24" }
+  ],
+  "entries": [
+    {
+      "id": "costa-rica-state-flag", "kind": "flag", "countryId": "costa-rica", "nameRu": "Коста-Рика", "subtitleRu": "Церемониальный государственный флаг", "variantType": "state", "isPrimaryStudyVariant": true, "mediaId": "flag-costa-rica-state",
+      "summaryRu": "Пять горизонтальных полос — синяя, белая, красная, белая, синяя; на широкой красной полосе у древка расположен государственный герб в белом овале.",
+      "explanationRu": "Закон Коста-Рики № 10178 различает обычный флаг без герба и церемониальный pabellón nacional. На последнем герб помещён в белый овал на красной полосе, ближе к древку. Это помогает отличать два официальных варианта: герб есть только на церемониальном. Закон описывает на гербе три вулкана, два океана с кораблями и семь звёзд.",
+      "symbols": [{ "nameRu": "Государственный герб в белом овале", "category": "coat_of_arms", "meaningStatus": "unknown", "sourceIds": ["cr-law-10178-2022"] }],
+      "facts": [{ "labelRu": "Тип", "valueRu": "Pabellón nacional — церемониальный флаг государства" }, { "labelRu": "Положение герба", "valueRu": "В белом овале на красной полосе у древка" }],
+      "sourceIds": ["cr-law-10178-2022"], "quizHints": { "similarityTags": ["coat_of_arms_on_flag", "five_horizontal_stripes", "blue_white_red"] }, "status": "published", "verifiedAt": "2026-09-24"
+    }
+  ]
+}

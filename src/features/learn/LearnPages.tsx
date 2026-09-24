@@ -63,7 +63,7 @@ export function CatalogPage() {
   }, [kind, search, filter]);
   if (!kind) return <EmptyState title="Раздел не найден" description="Проверьте адрес страницы." action={{ to: '/learn', label: 'К разделам' }} />;
   return <>
-    <PageHeader title={kindLabel[kind]} description={kind === 'flag' ? 'Изучайте символы на официальных флагах стран.' : kind === 'emblem' ? 'Смотрите, что изображено на государственных символах.' : 'Узнавайте природные места по фотографиям.'} back={{ to: '/learn', label: 'Изучать' }} />
+    <PageHeader title={kindLabel[kind]} description={kind === 'flag' ? 'Изучайте национальные и государственные флаги стран.' : kind === 'emblem' ? 'Смотрите, что изображено на государственных символах.' : 'Узнавайте природные места по фотографиям.'} back={{ to: '/learn', label: 'Изучать' }} />
     <div className="catalog-toolbar"><label className="search-field"><Icon name="search" size={20}/><span className="sr-only">Поиск по каталогу</span><input value={search} onChange={event => setSearch(event.target.value)} placeholder="Страна, символ или объект" /></label>
       <div className="chip-row" aria-label="Фильтр">{filters[kind].map(item => <button key={item.value} type="button" className={`chip ${filter === item.value ? 'selected' : ''}`} onClick={() => setFilter(item.value)} aria-pressed={filter === item.value}>{item.label}</button>)}</div>
     </div>
@@ -82,10 +82,10 @@ export function DetailPage() {
     <div className={`detail-hero detail-${entry.kind}`}>
       <div className="detail-media"><MediaFrame media={media} alt={entry.kind === 'landmark' ? `Фотография: ${entry.nameRu}` : `${entry.subtitleRu} ${entry.nameRu}`} expandable/><p className="media-hint">Нажмите на изображение, чтобы рассмотреть крупнее.</p></div>
       <div className="detail-main"><p className="lead">{entry.summaryRu}</p>
-        <section className="detail-section"><h2>{entry.kind === 'landmark' ? 'Ключевые факты' : 'Что изображено'}</h2>
-          {entry.kind === 'landmark' ? <dl className="facts">{entry.facts.map(fact => <div key={fact.labelRu}><dt>{fact.labelRu}</dt><dd>{fact.valueRu}</dd></div>)}</dl> : <ul className="symbol-list">{entry.symbols.map(symbol => <li key={symbol.nameRu}><strong>{symbol.nameRu}</strong>{symbol.meaningRu && <span>{symbol.meaningRu}</span>}</li>)}</ul>}
+        <section className="detail-section"><h2>{entry.kind === 'landmark' || (entry.kind === 'flag' && entry.symbols.length === 0) ? 'Ключевые факты' : 'Что изображено'}</h2>
+          {entry.kind === 'landmark' || (entry.kind === 'flag' && entry.symbols.length === 0) ? <dl className="facts">{entry.facts.map(fact => <div key={fact.labelRu}><dt>{fact.labelRu}</dt><dd>{fact.valueRu}</dd></div>)}</dl> : <ul className="symbol-list">{entry.symbols.map(symbol => <li key={symbol.nameRu}><strong>{symbol.nameRu}</strong>{symbol.meaningRu && <span>{symbol.meaningRu}</span>}</li>)}</ul>}
         </section>
-        <section className="detail-section"><h2>{entry.kind === 'landmark' ? 'Почему известно' : 'Что означает'}</h2><p>{entry.kind === 'landmark' ? entry.whyNotableRu : entry.explanationRu}</p></section>
+        <section className="detail-section"><h2>{entry.kind === 'landmark' ? 'Почему известно' : entry.kind === 'flag' && entry.symbols.length === 0 ? 'Как узнать' : 'Что означает'}</h2><p>{entry.kind === 'landmark' ? entry.whyNotableRu : entry.explanationRu}</p></section>
       </div>
     </div>
     <div className="detail-lower"><section className="detail-section"><h2>{entry.kind === 'landmark' ? 'Как образовалось' : 'История и контекст'}</h2><p>{entry.kind === 'landmark' ? entry.explanationRu : entry.historyRu ?? entry.explanationRu}</p></section>

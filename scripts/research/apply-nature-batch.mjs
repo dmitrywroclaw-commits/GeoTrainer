@@ -1,7 +1,8 @@
-import { readFile, writeFile } from 'node:fs/promises';
+import { readFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { parseCsv, stringifyCsv } from './csv.mjs';
+import { writeIfChanged } from './write-if-changed.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../..');
 const research = path.join(root, 'content/research');
@@ -54,6 +55,6 @@ const headers = {
   landmarks: ['landmark_id', 'content_entry_id', 'name_original', 'name_ru', 'landmark_type', 'country_ids', 'region', 'coordinates', 'significance_basis', 'source_catalog', 'source_ids', 'source_urls', 'decision', 'decision_reason', 'review_status', 'checked_at', 'notes'],
   catalog: ['catalog_record_id', 'catalog', 'official_name', 'country_ids', 'source_url', 'catalog_status', 'review_status', 'candidate_decision', 'decision_reason', 'checked_at', 'notes'],
 };
-await Promise.all(Object.entries(files).map(([key, file]) =>
-  writeFile(path.join(research, file), stringifyCsv(headers[key], tables[key]), 'utf8')));
+await Promise.all(Object.entries(files).map(([key, file], index) =>
+  writeIfChanged(path.join(research, file), stringifyCsv(headers[key], tables[key]), csvTexts[index])));
 console.log(`Применён природный пакет ${batch.batch_id}: ${batch.landmarks.length} конкретных объектов.`);

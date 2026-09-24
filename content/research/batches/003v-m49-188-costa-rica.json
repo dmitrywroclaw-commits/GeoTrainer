@@ -1,0 +1,20 @@
+{
+  "batch_id": "003v-m49-188-costa-rica",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    { "source_id": "cr-law-10178-2022", "title": "Ley n.º 10178: Ley que regula el uso del pabellón, la bandera y el escudo nacionales", "publisher": "Asamblea Legislativa de la República de Costa Rica; La Gaceta", "source_type": "law", "url": "https://www.imprentanacional.go.cr/pub/2022/05/11/COMP_11_05_2022.html", "accessed_at": "2026-09-24", "supports": "Статьи 1–2 определяют простой флаг; статья 9 — герб; статьи 12–15 — церемониальный флаг с гербом и его расположение. Статья 23 отменяет прежние законы." }
+  ],
+  "countries": [
+    {
+      "country_id": "costa-rica", "audit_status": "complete", "notes": "Действующий закон 10178/2022 отдельно определяет обычный флаг без герба и церемониальный государственный флаг (pabellón nacional) с гербом. Прежние законы отменены его статьёй 23. Другие общегосударственные официальные варианты в проверенном акте не установлены.",
+      "flags": [
+        { "variant_id": "costa-rica-national-flag", "variant_type": "national", "is_primary_study_variant": "false", "official_status": "official", "graphic_elements": "blue_white_red_white_blue_horizontal_stripes", "decision": "excluded", "decision_reason": "Статья 1 закона 10178/2022 описывает только пять цветных полос без отдельного графического символа.", "source_ids": "cr-law-10178-2022", "primary_source_urls": "https://www.imprentanacional.go.cr/pub/2022/05/11/COMP_11_05_2022.html" },
+        { "variant_id": "costa-rica-state-flag", "variant_type": "state", "is_primary_study_variant": "true", "official_status": "official", "graphic_elements": "blue_white_red_white_blue_horizontal_stripes|white_oval|national_coat_of_arms", "decision": "eligible", "decision_reason": "Статьи 12–15 закона 10178/2022 отдельно устанавливают церемониальный pabellón nacional с государственным гербом в белом овале на красной полосе.", "source_ids": "cr-law-10178-2022", "primary_source_urls": "https://www.imprentanacional.go.cr/pub/2022/05/11/COMP_11_05_2022.html" }
+      ],
+      "emblems": [
+        { "symbol_id": "costa-rica-coat-of-arms", "symbol_type": "coat_of_arms", "official_name_ru": "Государственный герб Коста-Рики", "elements": "three_volcanoes|valley|two_oceans|two_merchant_ships|rising_sun|seven_stars|myrtle|inscriptions", "decision": "eligible", "decision_reason": "Статья 9 закона 10178/2022 подробно определяет элементы национального герба; конкретное изображение и права требуют отдельной проверки.", "source_ids": "cr-law-10178-2022", "primary_source_urls": "https://www.imprentanacional.go.cr/pub/2022/05/11/COMP_11_05_2022.html" }
+      ]
+    }
+  ]
+}

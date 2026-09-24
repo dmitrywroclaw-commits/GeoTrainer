@@ -21,4 +21,9 @@ describe('quiz engine', () => {
       expect(questions.filter(question => question.entry.kind === kind).length).toBeGreaterThanOrEqual(6);
     }
   });
+
+  it('excludes ambiguous Chad flag questions', () => {
+    const questions = createSession(contentRepository.all(), 'flag', 100, [], () => 0.31);
+    expect(questions.some(question => question.entry.id === 'chad-national-flag')).toBe(false);
+  });
 });

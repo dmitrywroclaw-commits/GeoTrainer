@@ -24,8 +24,17 @@ test('new Bhutan flag card appears with its local illustration', async ({ page }
   await expect.poll(() => image.evaluate((element: HTMLImageElement) => element.naturalWidth)).toBeGreaterThan(0);
 });
 
+test('plain national flag shows facts and a local image', async ({ page }) => {
+  await page.goto('/item/botswana-national-flag');
+  await expect(page.getByRole('heading', { name: 'Ботсвана' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: 'Ключевые факты' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: 'Как узнать' })).toBeVisible();
+  const image = page.locator('.detail-media img').first();
+  await expect.poll(() => image.evaluate((element: HTMLImageElement) => element.naturalWidth)).toBeGreaterThan(0);
+});
+
 test('new flag and landmark cards load', async ({ page }) => {
-  for (const [id, title] of [['barbados-national-flag', 'Барбадос'], ['antigua-and-barbuda-national-flag', 'Антигуа и Барбуда'], ['bosnia-and-herzegovina-national-flag', 'Босния и Герцеговина'], ['bosnia-and-herzegovina-coat-of-arms', 'Босния и Герцеговина'], ['seongsan-ilchulbong', 'Сонсан-Ильчхульбон'], ['mount-halla', 'Халласан'], ['geomunoreum-lava-tubes', 'Лавовые трубки Гомунорым'], ['mount-kilimanjaro', 'Килиманджаро'], ['lake-baikal', 'Озеро Байкал'], ['namib-sand-sea', 'Намибское песчаное море'], ['sundarbans-bangladesh', 'Мангровые леса Сундарбан'], ['bialowieza-forest', 'Беловежская пуща']]) {
+  for (const [id, title] of [['greece-national-flag', 'Греция'], ['ireland-national-flag', 'Ирландия'], ['italy-national-flag', 'Италия'], ['japan-national-flag', 'Япония'], ['latvia-national-flag', 'Латвия'], ['cyprus-national-flag', 'Кипр'], ['czechia-national-flag', 'Чехия'], ['benin-national-flag', 'Бенин'], ['estonia-national-flag', 'Эстония'], ['finland-state-flag', 'Финляндия'], ['france-national-flag', 'Франция'], ['armenia-national-flag', 'Армения'], ['belgium-national-flag', 'Бельгия'], ['bulgaria-national-flag', 'Болгария'], ['bahamas-national-flag', 'Багамские Острова'], ['congo-national-flag', 'Конго'], ['bolivia-state-flag', 'Боливия'], ['bahrain-national-flag', 'Бахрейн'], ['chad-national-flag', 'Чад'], ['barbados-national-flag', 'Барбадос'], ['antigua-and-barbuda-national-flag', 'Антигуа и Барбуда'], ['bosnia-and-herzegovina-national-flag', 'Босния и Герцеговина'], ['bosnia-and-herzegovina-coat-of-arms', 'Босния и Герцеговина'], ['seongsan-ilchulbong', 'Сонсан-Ильчхульбон'], ['mount-halla', 'Халласан'], ['geomunoreum-lava-tubes', 'Лавовые трубки Гомунорым'], ['mount-kilimanjaro', 'Килиманджаро'], ['lake-baikal', 'Озеро Байкал'], ['namib-sand-sea', 'Намибское песчаное море'], ['sundarbans-bangladesh', 'Мангровые леса Сундарбан'], ['bialowieza-forest', 'Беловежская пуща']]) {
     await page.goto(`/item/${id}`);
     await expect(page.getByRole('heading', { name: title })).toBeVisible();
     await expect(page.getByRole('heading', { name: 'Источники и права' })).toBeVisible();

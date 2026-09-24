@@ -1,0 +1,74 @@
+{
+  "batch_id": "publish-052-congo-national-flag",
+  "countries": [
+    {
+      "id": "congo",
+      "nameRu": "Конго",
+      "region": "Центральная Африка",
+      "m49": "178",
+      "iso2": "CG",
+      "iso3": "COG"
+    }
+  ],
+  "sources": [
+    {
+      "id": "cg-constitution-2015-art3-4",
+      "title": "Constitution de la République du Congo, articles 3–4",
+      "publisher": "Secrétariat général du gouvernement de la République du Congo",
+      "sourceType": "law",
+      "url": "https://www.sgg.cg/fr/droit-congolais/constitution.html",
+      "accessedAt": "2026-09-24"
+    }
+  ],
+  "media": [
+    {
+      "id": "flag-congo",
+      "kind": "flag",
+      "localPath": "/media/flags/congo.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Republic_of_the_Congo.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_the_Republic_of_the_Congo.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Wikimedia Commons contributors (see file history)",
+      "license": "Public domain (simple geometry)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Republic_of_the_Congo.svg",
+      "attributionText": "Wikimedia Commons contributors; общественное достояние, SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    }
+  ],
+  "entries": [
+    {
+      "id": "congo-national-flag",
+      "kind": "flag",
+      "countryId": "congo",
+      "nameRu": "Конго",
+      "subtitleRu": "Национальный флаг Республики Конго",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-congo",
+      "summaryRu": "Флаг Республики Конго: зелёный и красный треугольники разделены широкой жёлтой полосой по диагонали.",
+      "explanationRu": "Зелёная часть находится у древка, красная — у свободного края; между ними идёт жёлтая диагональная полоса. Такое расположение прямо описано в статье 3 Конституции Республики Конго.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Расположение цветов",
+          "valueRu": "Зелёный у древка, красный у свободного края"
+        },
+        {
+          "labelRu": "Диагональная полоса",
+          "valueRu": "Жёлтая"
+        }
+      ],
+      "sourceIds": [
+        "cg-constitution-2015-art3-4"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "diagonal_band",
+          "green_yellow_red"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    }
+  ]
+}

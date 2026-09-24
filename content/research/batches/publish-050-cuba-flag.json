@@ -1,0 +1,22 @@
+{
+  "batch_id": "publish-050-cuba-flag",
+  "countries": [
+    { "id": "cuba", "nameRu": "Куба", "region": "Карибский бассейн", "m49": "192", "iso2": "CU", "iso3": "CUB" }
+  ],
+  "sources": [
+    { "id": "cu-symbols-law-128-2019", "title": "Ley n.º 128/2019 de los Símbolos Nacionales de la República de Cuba", "publisher": "Gaceta Oficial de la República de Cuba, Ministerio de Justicia", "sourceType": "law", "url": "https://www.gacetaoficial.gob.cu/sites/default/files/goc-2019-o71_0.pdf", "accessedAt": "2026-09-24" }
+  ],
+  "media": [
+    { "id": "flag-cuba", "kind": "flag", "localPath": "/media/flags/cuba.svg", "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Cuba.svg", "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg", "publisher": "Wikimedia Commons", "author": "Miguel Teurbe Tolón and Narciso López; SVG by Wikimedia Commons contributors", "license": "Public domain (expired term and simple geometry)", "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Cuba.svg#Licensing", "attributionText": "Miguel Teurbe Tolón, Narciso López / Wikimedia Commons; общественное достояние, без изменений.", "checkedAt": "2026-09-24" }
+  ],
+  "entries": [
+    {
+      "id": "cuba-national-flag", "kind": "flag", "countryId": "cuba", "nameRu": "Куба", "subtitleRu": "Национальный флаг", "variantType": "national", "isPrimaryStudyVariant": true, "mediaId": "flag-cuba",
+      "summaryRu": "Три синие и две белые горизонтальные полосы; у древка красный треугольник с белой пятиконечной звездой.",
+      "explanationRu": "Закон Кубы № 128/2019 называет этот флаг «флагом одинокой звезды» и описывает пять чередующихся полос, красный треугольник и белую звезду. По статье 6 звезда означает свободную, независимую и суверенную республику, а также единство кубинцев. Для узнавания ищите одну белую звезду внутри красного треугольника у древка.",
+      "symbols": [{ "nameRu": "Белая пятиконечная звезда", "category": "star", "meaningStatus": "official", "meaningRu": "Свободная, независимая и суверенная республика; единство кубинцев", "sourceIds": ["cu-symbols-law-128-2019"] }],
+      "facts": [{ "labelRu": "Число полос", "valueRu": "Пять: три синие и две белые" }, { "labelRu": "Звезда", "valueRu": "Белая, в красном треугольнике у древка" }],
+      "sourceIds": ["cu-symbols-law-128-2019"], "quizHints": { "similarityTags": ["single_white_star", "red_hoist_triangle", "five_horizontal_stripes"] }, "status": "published", "verifiedAt": "2026-09-24"
+    }
+  ]
+}

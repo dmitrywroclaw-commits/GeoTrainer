@@ -1,7 +1,8 @@
-import { access, readFile, writeFile } from 'node:fs/promises';
+import { access, readFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { parseCsv, stringifyCsv } from './csv.mjs';
+import { writeIfChanged } from './write-if-changed.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../..');
 const batchPath = process.argv[2] ? path.resolve(process.cwd(), process.argv[2]) : null;
@@ -22,6 +23,11 @@ const tables = {
   media: parseCsv(reviewText),
 };
 const registryId = { flag: 'variant_id', emblem: 'symbol_id', landmark: 'landmark_id' };
+const sourceTypes = new Set(['government', 'law', 'heraldic_authority', 'scientific_agency', 'unesco', 'national_park', 'other_authoritative']);
+for (const source of batch.sources ?? []) {
+  if (!sourceTypes.has(source.sourceType)) throw new Error(`Недопустимый тип источника ${source.id}: ${source.sourceType}`);
+}
+const flagCountries = new Set(library.entries.filter(item => item.kind === 'flag' && item.status === 'published').map(item => item.countryId));
 const addUnique = (target, incoming, label) => {
   const ids = new Set(target.map(item => item.id));
   for (const item of incoming ?? []) {
@@ -32,6 +38,13 @@ const addUnique = (target, incoming, label) => {
 };
 
 for (const item of batch.entries ?? []) {
+  if (item.kind === 'flag') {
+    if (!['national', 'state'].includes(item.variantType) || item.isPrimaryStudyVariant !== true) {
+      throw new Error(`Недопустимый вариант флага ${item.id}: нужен выбранный national или state`);
+    }
+    if (flagCountries.has(item.countryId)) throw new Error(`Флаг для ${item.countryId} уже опубликован`);
+    flagCountries.add(item.countryId);
+  }
   const rows = tables[item.kind];
   const row = rows?.find(candidate => candidate[registryId[item.kind]] === item.id);
   if (!row || row.decision !== 'eligible' || row.content_entry_id) {
@@ -71,11 +84,11 @@ for (const item of batch.entries ?? []) {
 const json = value => `${JSON.stringify(value, null, 2)}\n`;
 const csv = (headers, rows) => stringifyCsv(headers, rows);
 await Promise.all([
-  writeFile(path.join(root, 'content/library.json'), json(library)),
-  writeFile(path.join(root, 'content/media.json'), json(media)),
-  writeFile(path.join(research, 'flag-variants.csv'), csv(['country_id', 'variant_id', 'content_entry_id', 'variant_type', 'is_primary_study_variant', 'official_status', 'graphic_elements', 'decision', 'decision_reason', 'source_ids', 'primary_source_urls', 'review_status', 'checked_at', 'notes'], tables.flag)),
-  writeFile(path.join(research, 'emblems.csv'), csv(['country_id', 'symbol_id', 'content_entry_id', 'symbol_type', 'official_name_ru', 'elements', 'decision', 'decision_reason', 'source_ids', 'primary_source_urls', 'review_status', 'checked_at', 'notes'], tables.emblem)),
-  writeFile(path.join(research, 'landmark-candidates.csv'), csv(['landmark_id', 'content_entry_id', 'name_original', 'name_ru', 'landmark_type', 'country_ids', 'region', 'coordinates', 'significance_basis', 'source_catalog', 'source_ids', 'source_urls', 'decision', 'decision_reason', 'review_status', 'checked_at', 'notes'], tables.landmark)),
-  writeFile(path.join(research, 'media-review.csv'), csv(['media_id', 'content_entry_ids', 'source_page_url', 'original_asset_url', 'publisher', 'author', 'rights_holder', 'license', 'rights_url', 'attribution_text', 'checked_at', 'decision', 'decision_reason', 'notes'], tables.media)),
+  writeIfChanged(path.join(root, 'content/library.json'), json(library), libraryText),
+  writeIfChanged(path.join(root, 'content/media.json'), json(media), mediaText),
+  writeIfChanged(path.join(research, 'flag-variants.csv'), csv(['country_id', 'variant_id', 'content_entry_id', 'variant_type', 'is_primary_study_variant', 'official_status', 'graphic_elements', 'decision', 'decision_reason', 'source_ids', 'primary_source_urls', 'review_status', 'checked_at', 'notes'], tables.flag), flagText),
+  writeIfChanged(path.join(research, 'emblems.csv'), csv(['country_id', 'symbol_id', 'content_entry_id', 'symbol_type', 'official_name_ru', 'elements', 'decision', 'decision_reason', 'source_ids', 'primary_source_urls', 'review_status', 'checked_at', 'notes'], tables.emblem), emblemText),
+  writeIfChanged(path.join(research, 'landmark-candidates.csv'), csv(['landmark_id', 'content_entry_id', 'name_original', 'name_ru', 'landmark_type', 'country_ids', 'region', 'coordinates', 'significance_basis', 'source_catalog', 'source_ids', 'source_urls', 'decision', 'decision_reason', 'review_status', 'checked_at', 'notes'], tables.landmark), landmarkText),
+  writeIfChanged(path.join(research, 'media-review.csv'), csv(['media_id', 'content_entry_ids', 'source_page_url', 'original_asset_url', 'publisher', 'author', 'rights_holder', 'license', 'rights_url', 'attribution_text', 'checked_at', 'decision', 'decision_reason', 'notes'], tables.media), reviewText),
 ]);
 console.log(`Опубликован пакет ${batch.batch_id}: ${batch.entries.length} карточек.`);

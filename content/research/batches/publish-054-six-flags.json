@@ -1,0 +1,408 @@
+{
+  "batch_id": "publish-054-six-flags",
+  "countries": [
+    {
+      "id": "cyprus",
+      "nameRu": "Кипр",
+      "region": "Западная Азия",
+      "m49": "196",
+      "iso2": "CY",
+      "iso3": "CYP"
+    },
+    {
+      "id": "czechia",
+      "nameRu": "Чехия",
+      "region": "Восточная Европа",
+      "m49": "203",
+      "iso2": "CZ",
+      "iso3": "CZE"
+    },
+    {
+      "id": "benin",
+      "nameRu": "Бенин",
+      "region": "Западная Африка",
+      "m49": "204",
+      "iso2": "BJ",
+      "iso3": "BEN"
+    },
+    {
+      "id": "estonia",
+      "nameRu": "Эстония",
+      "region": "Северная Европа",
+      "m49": "233",
+      "iso2": "EE",
+      "iso3": "EST"
+    },
+    {
+      "id": "finland",
+      "nameRu": "Финляндия",
+      "region": "Северная Европа",
+      "m49": "246",
+      "iso2": "FI",
+      "iso3": "FIN"
+    },
+    {
+      "id": "france",
+      "nameRu": "Франция",
+      "region": "Западная Европа",
+      "m49": "250",
+      "iso2": "FR",
+      "iso3": "FRA"
+    }
+  ],
+  "sources": [
+    {
+      "id": "cy-government-flag-2024",
+      "title": "Did you know? The flag of Cyprus",
+      "publisher": "Press and Information Office, Republic of Cyprus",
+      "sourceType": "government",
+      "url": "https://publications.gov.cy/assets/user/publications/2024/2024_202/HTML/12/",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "cz-mfa-state-symbols",
+      "title": "State Symbols",
+      "publisher": "Ministry of Foreign Affairs of the Czech Republic",
+      "sourceType": "government",
+      "url": "https://mzv.gov.cz/chicago/en/other_useful_information/information_about_the_czech_republic/national_symbols/state_symbols.html?force_format=mobile",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "bj-flag-law-90-020",
+      "title": "Loi n° 90-020 définissant le drapeau de la République du Bénin",
+      "publisher": "Secrétariat général du Gouvernement du Bénin",
+      "sourceType": "law",
+      "url": "https://sgg.gouv.bj/doc/loi-90-020/download",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "ee-government-flag-day",
+      "title": "Estonian Flag Day – 4 June",
+      "publisher": "Government Office of Estonia (Riigikantselei)",
+      "sourceType": "government",
+      "url": "https://www.riigikantselei.ee/en/el140",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "fi-flag-act-380-1978",
+      "title": "Laki Suomen lipusta 380/1978, sections 1–3",
+      "publisher": "Finlex / Finnish Ministry of Justice",
+      "sourceType": "law",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/1978/380",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "fr-elysee-flag",
+      "title": "Le drapeau français",
+      "publisher": "Présidence de la République française",
+      "sourceType": "government",
+      "url": "https://www.elysee.fr/la-presidence/le-drapeau-francais",
+      "accessedAt": "2026-09-24"
+    }
+  ],
+  "media": [
+    {
+      "id": "flag-cyprus-national",
+      "kind": "flag",
+      "localPath": "/media/flags/cyprus.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Cyprus.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "İsmet Güney; SVG by Vzb83",
+      "license": "Public domain (official national flag artwork, as marked on Wikimedia Commons)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Cyprus.svg",
+      "attributionText": "İsmet Güney; SVG by Vzb83 / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-czechia-national",
+      "kind": "flag",
+      "localPath": "/media/flags/czechia.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Czech_Republic.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Jaroslav Kursa",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Czech_Republic.svg",
+      "attributionText": "Jaroslav Kursa / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-benin-national",
+      "kind": "flag",
+      "localPath": "/media/flags/benin.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Benin.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "SKopp; vector rewritten by Gabbe",
+      "license": "Public domain (simple geometry)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Benin.svg",
+      "attributionText": "SKopp; vector rewritten by Gabbe / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-estonia-national",
+      "kind": "flag",
+      "localPath": "/media/flags/estonia.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Estonia.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Unknown original author; SVG by SKopp, PeepP and others",
+      "license": "Public domain (simple geometry)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Estonia.svg",
+      "attributionText": "Unknown original author; SVG by SKopp, PeepP and others / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-finland-state",
+      "kind": "flag",
+      "localPath": "/media/flags/finland-state.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Finland_(state).svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Finland_%28state%29.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Axel Gallén-Kallela",
+      "license": "Public domain (historic national coat of arms artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Finland_(state).svg",
+      "attributionText": "Axel Gallén-Kallela / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-france-national",
+      "kind": "flag",
+      "localPath": "/media/flags/france.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_France.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Unknown original author; SVG by SKopp",
+      "license": "Public domain (simple geometry)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_France.svg",
+      "attributionText": "Unknown original author; SVG by SKopp / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    }
+  ],
+  "entries": [
+    {
+      "id": "cyprus-national-flag",
+      "kind": "flag",
+      "countryId": "cyprus",
+      "nameRu": "Кипр",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-cyprus-national",
+      "summaryRu": "На белом флаге Кипра изображены медный силуэт острова и две скрещённые оливковые ветви.",
+      "explanationRu": "Правительственное издание связывает медный цвет острова с месторождениями меди, а оливковые ветви — с миром.",
+      "symbols": [
+        {
+          "nameRu": "Оливковые ветви",
+          "category": "plant",
+          "meaningStatus": "official",
+          "meaningRu": "Мир",
+          "sourceIds": [
+            "cy-government-flag-2024"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Поле",
+          "valueRu": "Белое"
+        },
+        {
+          "labelRu": "Центр",
+          "valueRu": "Медный силуэт острова над двумя оливковыми ветвями"
+        }
+      ],
+      "sourceIds": [
+        "cy-government-flag-2024"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "map",
+          "plant"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "czechia-national-flag",
+      "kind": "flag",
+      "countryId": "czechia",
+      "nameRu": "Чехия",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-czechia-national",
+      "summaryRu": "Флаг Чехии состоит из белой и красной горизонтальных полос и синего треугольника у древка.",
+      "explanationRu": "Синий треугольник входит в бело-красное полотнище со стороны древка; этот порядок отличает флаг Чехии от похожих двухцветных флагов.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Белая над красной"
+        },
+        {
+          "labelRu": "У древка",
+          "valueRu": "Синий треугольник"
+        }
+      ],
+      "sourceIds": [
+        "cz-mfa-state-symbols"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_bicolor",
+          "triangle_hoist"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "benin-national-flag",
+      "kind": "flag",
+      "countryId": "benin",
+      "nameRu": "Бенин",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-benin-national",
+      "summaryRu": "У древка флага Бенина находится зелёная полоса; справа — жёлтая полоса над красной.",
+      "explanationRu": "Статьи 2–3 закона № 90-020 задают зелёную полосу на всю высоту и две равные горизонтальные полосы справа: жёлтую сверху, красную снизу.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "У древка",
+          "valueRu": "Вертикальная зелёная полоса"
+        },
+        {
+          "labelRu": "Справа",
+          "valueRu": "Жёлтая полоса над красной"
+        }
+      ],
+      "sourceIds": [
+        "bj-flag-law-90-020"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "green_yellow_red",
+          "vertical_and_horizontal"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "estonia-national-flag",
+      "kind": "flag",
+      "countryId": "estonia",
+      "nameRu": "Эстония",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-estonia-national",
+      "summaryRu": "Флаг Эстонии — три горизонтальные полосы: синяя, чёрная и белая сверху вниз.",
+      "explanationRu": "Правительственная канцелярия подтверждает, что национальный и государственный флаги Эстонии совпадают; в 2005 году они были объединены в единый флаг.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Порядок сверху",
+          "valueRu": "Синий, чёрный, белый"
+        },
+        {
+          "labelRu": "Варианты",
+          "valueRu": "Национальный и государственный совпадают"
+        }
+      ],
+      "sourceIds": [
+        "ee-government-flag-day"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_tricolor",
+          "blue_black_white"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "finland-state-flag",
+      "kind": "flag",
+      "countryId": "finland",
+      "nameRu": "Финляндия",
+      "subtitleRu": "Государственный флаг",
+      "variantType": "state",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-finland-state",
+      "summaryRu": "Государственный флаг Финляндии: синий крест на белом поле и герб в центре креста.",
+      "explanationRu": "Закон о флаге предусматривает национальный и государственный варианты. На государственном флаге в квадрате пересечения перекладин креста помещён герб Финляндии.",
+      "symbols": [
+        {
+          "nameRu": "Герб Финляндии",
+          "category": "coat_of_arms",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "fi-flag-act-380-1978"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Основа",
+          "valueRu": "Синий крест на белом поле"
+        },
+        {
+          "labelRu": "Отличие варианта",
+          "valueRu": "Герб в центре креста"
+        }
+      ],
+      "sourceIds": [
+        "fi-flag-act-380-1978"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "nordic_cross",
+          "coat_center"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "france-national-flag",
+      "kind": "flag",
+      "countryId": "france",
+      "nameRu": "Франция",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-france-national",
+      "summaryRu": "Флаг Франции — три вертикальные полосы: синяя у древка, белая в центре и красная у свободного края.",
+      "explanationRu": "Елисейский дворец описывает порядок цветов национального триколора: синий у древка, белый посередине, красный у свободного края.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Порядок от древка",
+          "valueRu": "Синий, белый, красный"
+        },
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Три вертикальные"
+        }
+      ],
+      "sourceIds": [
+        "fr-elysee-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "vertical_tricolor",
+          "blue_white_red"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    }
+  ]
+}

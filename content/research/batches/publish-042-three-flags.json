@@ -1,0 +1,50 @@
+{
+  "batch_id": "publish-042-three-flags",
+  "countries": [
+    { "id": "algeria", "nameRu": "Алжир", "region": "Северная Африка", "m49": "012", "iso2": "DZ", "iso3": "DZA" }
+  ],
+  "sources": [
+    { "id": "dz-flag-law-1963", "title": "Loi n° 63-145 du 25 avril 1963 portant caractéristiques de l'emblème national algérien", "publisher": "Journal officiel de la République algérienne", "sourceType": "law", "url": "https://www.joradp.dz/FTP/Jo-Francais/1963/F1963026.pdf", "accessedAt": "2026-09-24" },
+    { "id": "au-national-flag", "title": "Australian National Flag", "publisher": "Department of the Prime Minister and Cabinet, Australia", "sourceType": "government", "url": "https://www.pmc.gov.au/honours-and-symbols/australian-national-symbols/australian-national-flag", "accessedAt": "2026-09-24" },
+    { "id": "au-flags", "title": "Australian flags", "publisher": "Department of the Prime Minister and Cabinet, Australia", "sourceType": "government", "url": "https://www.pmc.gov.au/honours-and-symbols/australian-national-symbols/australian-flags", "accessedAt": "2026-09-24" }
+  ],
+  "media": [
+    { "id": "flag-algeria", "kind": "flag", "localPath": "/media/flags/algeria.svg", "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Algeria.svg", "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg", "publisher": "Wikimedia Commons", "author": "SKopp (vector); original design: National Liberation Front of Algeria", "license": "Public domain", "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Algeria.svg#Licensing", "attributionText": "SKopp / Wikimedia Commons; общественное достояние, без изменений.", "checkedAt": "2026-09-24" },
+    { "id": "flag-australia", "kind": "flag", "localPath": "/media/flags/australia.svg", "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Australia.svg", "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg", "publisher": "Wikimedia Commons", "author": "Ian Fieggen", "license": "Public domain", "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Australia.svg#Licensing", "attributionText": "Ian Fieggen / Wikimedia Commons; общественное достояние, без изменений.", "checkedAt": "2026-09-24" },
+    { "id": "flag-australia-red-ensign", "kind": "flag", "localPath": "/media/flags/australia-red-ensign.svg", "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Civil_Ensign_of_Australia.svg", "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Civil_Ensign_of_Australia.svg", "publisher": "Wikimedia Commons", "author": "David Newton", "license": "Public domain", "rightsUrl": "https://commons.wikimedia.org/wiki/File:Civil_Ensign_of_Australia.svg#Licensing", "attributionText": "David Newton / Wikimedia Commons; общественное достояние, без изменений.", "checkedAt": "2026-09-24" }
+  ],
+  "entries": [
+    {
+      "id": "algeria-national-flag", "kind": "flag", "countryId": "algeria", "nameRu": "Алжир", "subtitleRu": "Национальный флаг", "variantType": "national", "isPrimaryStudyVariant": true, "mediaId": "flag-algeria",
+      "summaryRu": "Зелёная и белая вертикальные половины с красными полумесяцем и пятиконечной звездой в центре.",
+      "explanationRu": "Запомните красный полумесяц со звездой на границе зелёной и белой половин. Закон 1963 года определяет рисунок флага; эта карточка не приписывает элементам значение, не подтверждённое текстом закона.",
+      "symbols": [
+        { "nameRu": "Красный полумесяц", "category": "moon", "meaningStatus": "unknown", "sourceIds": ["dz-flag-law-1963"] },
+        { "nameRu": "Красная пятиконечная звезда", "category": "star", "meaningStatus": "unknown", "sourceIds": ["dz-flag-law-1963"] }
+      ],
+      "facts": [{ "labelRu": "Основа рисунка", "valueRu": "Две вертикальные половины: зелёная у древка и белая справа" }],
+      "sourceIds": ["dz-flag-law-1963"], "quizHints": { "similarityTags": ["crescent", "red_star", "green_white"] }, "status": "published", "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "australia-national-flag", "kind": "flag", "countryId": "australia", "nameRu": "Австралия", "subtitleRu": "Национальный флаг", "variantType": "national", "isPrimaryStudyVariant": true, "mediaId": "flag-australia",
+      "summaryRu": "Синее полотнище с британским флагом в верхнем углу у древка, большой семиконечной звездой под ним и пятью звёздами Южного Креста справа.",
+      "explanationRu": "У австралийского национального флага синее поле. Его отличают большая семиконечная звезда под британским флагом и созвездие Южного Креста справа. Впервые флаг подняли 3 сентября 1901 года; позднее рисунок звёзд уточняли.",
+      "symbols": [
+        { "nameRu": "Большая семиконечная звезда", "category": "star", "meaningStatus": "unknown", "sourceIds": ["au-national-flag"] },
+        { "nameRu": "Пять звёзд Южного Креста", "category": "star", "meaningStatus": "official", "sourceIds": ["au-national-flag"] }
+      ],
+      "facts": [{ "labelRu": "Первое поднятие", "valueRu": "3 сентября 1901 года" }, { "labelRu": "Поле", "valueRu": "Синее" }],
+      "sourceIds": ["au-national-flag"], "quizHints": { "similarityTags": ["union_jack_canton", "southern_cross", "blue_ensign"] }, "status": "published", "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "australia-red-ensign", "kind": "flag", "countryId": "australia", "nameRu": "Австралия", "subtitleRu": "Красный торговый морской флаг", "variantType": "civil_ensign", "isPrimaryStudyVariant": false, "mediaId": "flag-australia-red-ensign",
+      "summaryRu": "Британский флаг в углу, большая звезда под ним и Южный Крест справа — на красном, а не синем поле.",
+      "explanationRu": "Красный торговый морской флаг повторяет композицию национального синего флага, но его поле красное. После принятия Flags Act 1953 он стал официальным флагом австралийских зарегистрированных торговых судов.",
+      "symbols": [
+        { "nameRu": "Большая звезда и Южный Крест", "category": "star", "meaningStatus": "unknown", "sourceIds": ["au-flags"] }
+      ],
+      "facts": [{ "labelRu": "Использование", "valueRu": "Австралийские зарегистрированные торговые суда" }, { "labelRu": "Отличие от национального флага", "valueRu": "Красное поле вместо синего" }],
+      "sourceIds": ["au-flags"], "quizHints": { "similarityTags": ["union_jack_canton", "southern_cross", "red_ensign"] }, "status": "published", "verifiedAt": "2026-09-24"
+    }
+  ]
+}

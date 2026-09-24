@@ -33,7 +33,7 @@ const base = z.object({
   status: z.enum(['draft', 'sources_checked', 'media_checked', 'reviewed', 'published']), verifiedAt: date,
 });
 const entry = z.discriminatedUnion('kind', [
-  base.extend({ kind: z.literal('flag'), countryId: id, variantType: z.enum(['national', 'state', 'civil', 'state_ensign', 'civil_ensign', 'other_official']), isPrimaryStudyVariant: z.boolean(), symbols: z.array(symbol).min(1) }),
+  base.extend({ kind: z.literal('flag'), countryId: id, variantType: z.enum(['national', 'state']), isPrimaryStudyVariant: z.literal(true), symbols: z.array(symbol) }),
   base.extend({ kind: z.literal('emblem'), countryId: id, symbolType: z.enum(['coat_of_arms', 'national_emblem', 'state_emblem', 'state_seal']), symbols: z.array(symbol).min(1) }),
   base.extend({
     kind: z.literal('landmark'), countryIds: z.array(id).min(1),
@@ -65,7 +65,12 @@ export function validateReferences(library: z.infer<typeof librarySchema>, asset
   const countries = new Set(library.countries.map(x => x.id));
   const sources = new Set(library.sources.map(x => x.id));
   const mediaIds = new Set(assets.map(x => x.id));
+  const flagCountries = new Set<string>();
   for (const item of library.entries) {
+    if (item.kind === 'flag' && item.status === 'published') {
+      if (flagCountries.has(item.countryId)) throw new Error(`Повторный флаг страны ${item.countryId}`);
+      flagCountries.add(item.countryId);
+    }
     const image = assets.find(x => x.id === item.mediaId);
     if (!image || !mediaIds.has(item.mediaId)) throw new Error(`Не найдено изображение для ${item.id}`);
     if (item.status === 'published' && image.license.startsWith('CC') && (!image.rightsUrl || !image.author)) throw new Error(`Недостаточно данных о правах для ${item.id}`);

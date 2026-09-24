@@ -1,0 +1,21 @@
+{
+  "batch_id": "publish-043-bangladesh-flag",
+  "countries": [],
+  "sources": [
+    { "id": "bd-constitution-art-4", "title": "The Constitution of the People's Republic of Bangladesh, article 4", "publisher": "Legislative and Parliamentary Affairs Division, Bangladesh", "sourceType": "law", "url": "https://bdlaws.minlaw.gov.bd/act-print-367/section-print-24551.html", "accessedAt": "2026-09-24" },
+    { "id": "bd-national-symbols-order-1972-schedule", "title": "The Bangladesh National Anthem, Flag and Emblem Order, 1972, Second Schedule", "publisher": "Ministry of Law, Justice and Parliamentary Affairs, Bangladesh", "sourceType": "law", "url": "https://bdlaws.minlaw.gov.bd/upload/act/418___Schedule.pdf", "accessedAt": "2026-09-24" }
+  ],
+  "media": [
+    { "id": "flag-bangladesh", "kind": "flag", "localPath": "/media/flags/bangladesh.svg", "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Bangladesh.svg", "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg", "publisher": "Wikimedia Commons", "author": "Wikimedia Commons contributors; see file history", "license": "Public domain (simple geometry)", "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Bangladesh.svg#Licensing", "attributionText": "Wikimedia Commons contributors; простая геометрия, общественное достояние, без изменений.", "checkedAt": "2026-09-24" }
+  ],
+  "entries": [
+    {
+      "id": "bangladesh-national-flag", "kind": "flag", "countryId": "bangladesh", "nameRu": "Бангладеш", "subtitleRu": "Национальный флаг", "variantType": "national", "isPrimaryStudyVariant": true, "mediaId": "flag-bangladesh",
+      "summaryRu": "Красный круг на зелёном прямоугольном полотнище; круг смещён немного ближе к древку.",
+      "explanationRu": "Конституция Бангладеш описывает красный круг на зелёном поле, а правила флага задают его размеры и положение. Для распознавания запомните круг без дополнительных фигур; официальное значение круга эти нормативные тексты не раскрывают.",
+      "symbols": [{ "nameRu": "Красный круг", "category": "other", "meaningStatus": "unknown", "sourceIds": ["bd-constitution-art-4", "bd-national-symbols-order-1972-schedule"] }],
+      "facts": [{ "labelRu": "Пропорции", "valueRu": "5:3" }, { "labelRu": "Положение круга", "valueRu": "Смещён к древку" }],
+      "sourceIds": ["bd-constitution-art-4", "bd-national-symbols-order-1972-schedule"], "quizHints": { "similarityTags": ["red_disc", "green_field"] }, "status": "published", "verifiedAt": "2026-09-24"
+    }
+  ]
+}

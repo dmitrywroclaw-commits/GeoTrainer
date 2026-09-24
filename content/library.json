@@ -351,6 +351,198 @@
       "m49": "084",
       "iso2": "BZ",
       "iso3": "BLZ"
+    },
+    {
+      "id": "algeria",
+      "nameRu": "Алжир",
+      "region": "Северная Африка",
+      "m49": "012",
+      "iso2": "DZ",
+      "iso3": "DZA"
+    },
+    {
+      "id": "china",
+      "nameRu": "Китай",
+      "region": "Восточная Азия",
+      "m49": "156",
+      "iso2": "CN",
+      "iso3": "CHN"
+    },
+    {
+      "id": "comoros",
+      "nameRu": "Коморские Острова",
+      "region": "Восточная Африка",
+      "m49": "174",
+      "iso2": "KM",
+      "iso3": "COM"
+    },
+    {
+      "id": "colombia",
+      "nameRu": "Колумбия",
+      "region": "Южная Америка",
+      "m49": "170",
+      "iso2": "CO",
+      "iso3": "COL"
+    },
+    {
+      "id": "democratic-republic-of-the-congo",
+      "nameRu": "Демократическая Республика Конго",
+      "region": "Центральная Африка",
+      "m49": "180",
+      "iso2": "CD",
+      "iso3": "COD"
+    },
+    {
+      "id": "costa-rica",
+      "nameRu": "Коста-Рика",
+      "region": "Центральная Америка",
+      "m49": "188",
+      "iso2": "CR",
+      "iso3": "CRI"
+    },
+    {
+      "id": "cuba",
+      "nameRu": "Куба",
+      "region": "Карибский бассейн",
+      "m49": "192",
+      "iso2": "CU",
+      "iso3": "CUB"
+    },
+    {
+      "id": "armenia",
+      "nameRu": "Армения",
+      "region": "Западная Азия",
+      "m49": "051",
+      "iso2": "AM",
+      "iso3": "ARM"
+    },
+    {
+      "id": "belgium",
+      "nameRu": "Бельгия",
+      "region": "Западная Европа",
+      "m49": "056",
+      "iso2": "BE",
+      "iso3": "BEL"
+    },
+    {
+      "id": "bulgaria",
+      "nameRu": "Болгария",
+      "region": "Восточная Европа",
+      "m49": "100",
+      "iso2": "BG",
+      "iso3": "BGR"
+    },
+    {
+      "id": "bahamas",
+      "nameRu": "Багамские Острова",
+      "region": "Карибский бассейн",
+      "m49": "044",
+      "iso2": "BS",
+      "iso3": "BHS"
+    },
+    {
+      "id": "congo",
+      "nameRu": "Конго",
+      "region": "Центральная Африка",
+      "m49": "178",
+      "iso2": "CG",
+      "iso3": "COG"
+    },
+    {
+      "id": "bolivia",
+      "nameRu": "Боливия",
+      "region": "Южная Америка",
+      "m49": "068",
+      "iso2": "BO",
+      "iso3": "BOL"
+    },
+    {
+      "id": "bahrain",
+      "nameRu": "Бахрейн",
+      "region": "Западная Азия",
+      "m49": "048",
+      "iso2": "BH",
+      "iso3": "BHR"
+    },
+    {
+      "id": "cyprus",
+      "nameRu": "Кипр",
+      "region": "Западная Азия",
+      "m49": "196",
+      "iso2": "CY",
+      "iso3": "CYP"
+    },
+    {
+      "id": "czechia",
+      "nameRu": "Чехия",
+      "region": "Восточная Европа",
+      "m49": "203",
+      "iso2": "CZ",
+      "iso3": "CZE"
+    },
+    {
+      "id": "benin",
+      "nameRu": "Бенин",
+      "region": "Западная Африка",
+      "m49": "204",
+      "iso2": "BJ",
+      "iso3": "BEN"
+    },
+    {
+      "id": "estonia",
+      "nameRu": "Эстония",
+      "region": "Северная Европа",
+      "m49": "233",
+      "iso2": "EE",
+      "iso3": "EST"
+    },
+    {
+      "id": "finland",
+      "nameRu": "Финляндия",
+      "region": "Северная Европа",
+      "m49": "246",
+      "iso2": "FI",
+      "iso3": "FIN"
+    },
+    {
+      "id": "france",
+      "nameRu": "Франция",
+      "region": "Западная Европа",
+      "m49": "250",
+      "iso2": "FR",
+      "iso3": "FRA"
+    },
+    {
+      "id": "greece",
+      "nameRu": "Греция",
+      "region": "Южная Европа",
+      "m49": "300",
+      "iso2": "GR",
+      "iso3": "GRC"
+    },
+    {
+      "id": "ireland",
+      "nameRu": "Ирландия",
+      "region": "Северная Европа",
+      "m49": "372",
+      "iso2": "IE",
+      "iso3": "IRL"
+    },
+    {
+      "id": "italy",
+      "nameRu": "Италия",
+      "region": "Южная Европа",
+      "m49": "380",
+      "iso2": "IT",
+      "iso3": "ITA"
+    },
+    {
+      "id": "latvia",
+      "nameRu": "Латвия",
+      "region": "Северная Европа",
+      "m49": "428",
+      "iso2": "LV",
+      "iso3": "LVA"
     }
   ],
   "sources": [
@@ -1136,6 +1328,286 @@
       "publisher": "UNESCO World Heritage Centre",
       "url": "https://whc.unesco.org/en/list/1000",
       "sourceType": "unesco",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "dz-flag-law-1963",
+      "title": "Loi n° 63-145 du 25 avril 1963 portant caractéristiques de l'emblème national algérien",
+      "publisher": "Journal officiel de la République algérienne",
+      "sourceType": "law",
+      "url": "https://www.joradp.dz/FTP/Jo-Francais/1963/F1963026.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "au-national-flag",
+      "title": "Australian National Flag",
+      "publisher": "Department of the Prime Minister and Cabinet, Australia",
+      "sourceType": "government",
+      "url": "https://www.pmc.gov.au/honours-and-symbols/australian-national-symbols/australian-national-flag",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "au-flags",
+      "title": "Australian flags",
+      "publisher": "Department of the Prime Minister and Cabinet, Australia",
+      "sourceType": "government",
+      "url": "https://www.pmc.gov.au/honours-and-symbols/australian-national-symbols/australian-flags",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "bd-constitution-art-4",
+      "title": "The Constitution of the People's Republic of Bangladesh, article 4",
+      "publisher": "Legislative and Parliamentary Affairs Division, Bangladesh",
+      "sourceType": "law",
+      "url": "https://bdlaws.minlaw.gov.bd/act-print-367/section-print-24551.html",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "bd-national-symbols-order-1972-schedule",
+      "title": "The Bangladesh National Anthem, Flag and Emblem Order, 1972, Second Schedule",
+      "publisher": "Ministry of Law, Justice and Parliamentary Affairs, Bangladesh",
+      "sourceType": "law",
+      "url": "https://bdlaws.minlaw.gov.bd/upload/act/418___Schedule.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "cn-national-flag-law-2020",
+      "title": "Law of the People's Republic of China on the National Flag, as amended in 2020",
+      "publisher": "National People's Congress of the People's Republic of China",
+      "sourceType": "law",
+      "url": "https://www.npc.gov.cn/englishnpc/c2759/c23934/202103/t20210301_384806.html",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "cn-constitution-symbols",
+      "title": "Constitution of the People's Republic of China, articles 141–142",
+      "publisher": "Ministry of Justice of the People's Republic of China",
+      "sourceType": "law",
+      "url": "https://en.moj.gov.cn/2021-06/22/c_634901.htm",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "km-constitution-2018-art9",
+      "title": "Constitution de l'Union des Comores, révisée en 2018, article 9",
+      "publisher": "Union des Comores; copie du texte consolidé: ILO NATLEX",
+      "sourceType": "law",
+      "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/72696/COM-72696%20%28CONSOLID%29.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "co-flags-decree-861-1924",
+      "title": "Decreto 861 de 1924, artículos 1–3",
+      "publisher": "República de Colombia, SUIN-Juriscol",
+      "sourceType": "law",
+      "url": "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1728068",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "co-flags-decree-1687-1986",
+      "title": "Decreto 1687 de 1986",
+      "publisher": "República de Colombia, SUIN-Juriscol",
+      "sourceType": "law",
+      "url": "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1331854",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "cd-presidency-flag",
+      "title": "Les symboles de la République: le drapeau",
+      "publisher": "Présidence de la République démocratique du Congo",
+      "sourceType": "government",
+      "url": "https://www.presidence.cd/detail-symbole/1",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "cr-law-10178-2022",
+      "title": "Ley n.º 10178: Ley que regula el uso del pabellón, la bandera y el escudo nacionales",
+      "publisher": "Asamblea Legislativa de la República de Costa Rica; La Gaceta",
+      "sourceType": "law",
+      "url": "https://www.imprentanacional.go.cr/pub/2022/05/11/COMP_11_05_2022.html",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "hr-symbols-law-1990",
+      "title": "Zakon o grbu, zastavi i himni Republike Hrvatske te zastavi i lenti predsjednika Republike Hrvatske",
+      "publisher": "Narodne novine, Republika Hrvatska",
+      "sourceType": "law",
+      "url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_12_55_1067.html",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "cu-symbols-law-128-2019",
+      "title": "Ley n.º 128/2019 de los Símbolos Nacionales de la República de Cuba",
+      "publisher": "Gaceta Oficial de la República de Cuba, Ministerio de Justicia",
+      "sourceType": "law",
+      "url": "https://www.gacetaoficial.gob.cu/sites/default/files/goc-2019-o71_0.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "co-national-symbols-law-1984",
+      "title": "Ley 12 de 1984, símbolos patrios de Colombia",
+      "publisher": "República de Colombia, SUIN-Juriscol",
+      "url": "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1568555",
+      "sourceType": "law",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "am-president-state-symbols",
+      "title": "State symbols of the Republic of Armenia",
+      "publisher": "Office of the President of the Republic of Armenia",
+      "sourceType": "government",
+      "url": "https://www.president.am/en/state-symbols/",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "be-government-flags",
+      "title": "Belgian flags",
+      "publisher": "Belgium.be, Belgian federal government",
+      "sourceType": "government",
+      "url": "https://www.belgium.be/en/about_belgium/country/belgium_in_nutshell/symbols/flags",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "bg-flag-parliament",
+      "title": "National Flag of the Republic of Bulgaria — extract from the State Seal and National Flag Act",
+      "publisher": "National Assembly of the Republic of Bulgaria",
+      "sourceType": "law",
+      "url": "https://www.parliament.bg/bg/21",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "bs-symbols-law",
+      "title": "The Flags and Coat of Arms (Regulation) Act",
+      "publisher": "Laws of The Bahamas",
+      "sourceType": "law",
+      "url": "https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1973/1973-0020/1973-0020_1.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "cg-constitution-2015-art3-4",
+      "title": "Constitution de la République du Congo, articles 3–4",
+      "publisher": "Secrétariat général du gouvernement de la République du Congo",
+      "sourceType": "law",
+      "url": "https://www.sgg.cg/fr/droit-congolais/constitution.html",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "bo-constitution-art-6",
+      "title": "Constitución Política del Estado Plurinacional de Bolivia, Artículo 6",
+      "publisher": "Servicio Nacional de Propiedad Intelectual, Bolivia",
+      "sourceType": "law",
+      "url": "https://www.senapi.gob.bo/normativas/constitucion-politica-del-estado/constitucion-politica-del-estado-plurinacional-de-bolivia",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "bo-decree-241-parliament-copy",
+      "title": "Decreto Supremo 241, text reproduced in parliamentary material",
+      "publisher": "Cámara de Diputados, Asamblea Legislativa Plurinacional de Bolivia",
+      "sourceType": "government",
+      "url": "https://diputados.gob.bo/wp-content/uploads/2023/02/PL-137-2022-2023.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "bh-constitution",
+      "title": "The Constitution of the Kingdom of Bahrain",
+      "publisher": "Legislation and Legal Opinion Commission, Bahrain",
+      "sourceType": "law",
+      "url": "https://www.legalaffairs.gov.bh/en/page/The%20Constitution%20of%20the%20Kingdom%20of%20Bahrain",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "bh-national-flag-guide",
+      "title": "The Kingdom of Bahrain Flag Guidelines",
+      "publisher": "Bahrainouna / Kingdom of Bahrain Ministry of Education",
+      "sourceType": "government",
+      "url": "https://www.edunet.bh/e_content/level_1/stage_1/subject_ID_4/Part_3/e_books/Flag--guide---English%281%29/Flag--guide---English%281%29.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "cy-government-flag-2024",
+      "title": "Did you know? The flag of Cyprus",
+      "publisher": "Press and Information Office, Republic of Cyprus",
+      "sourceType": "government",
+      "url": "https://publications.gov.cy/assets/user/publications/2024/2024_202/HTML/12/",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "cz-mfa-state-symbols",
+      "title": "State Symbols",
+      "publisher": "Ministry of Foreign Affairs of the Czech Republic",
+      "sourceType": "government",
+      "url": "https://mzv.gov.cz/chicago/en/other_useful_information/information_about_the_czech_republic/national_symbols/state_symbols.html?force_format=mobile",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "bj-flag-law-90-020",
+      "title": "Loi n° 90-020 définissant le drapeau de la République du Bénin",
+      "publisher": "Secrétariat général du Gouvernement du Bénin",
+      "sourceType": "law",
+      "url": "https://sgg.gouv.bj/doc/loi-90-020/download",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "ee-government-flag-day",
+      "title": "Estonian Flag Day – 4 June",
+      "publisher": "Government Office of Estonia (Riigikantselei)",
+      "sourceType": "government",
+      "url": "https://www.riigikantselei.ee/en/el140",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "fi-flag-act-380-1978",
+      "title": "Laki Suomen lipusta 380/1978, sections 1–3",
+      "publisher": "Finlex / Finnish Ministry of Justice",
+      "sourceType": "law",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/1978/380",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "fr-elysee-flag",
+      "title": "Le drapeau français",
+      "publisher": "Présidence de la République française",
+      "sourceType": "government",
+      "url": "https://www.elysee.fr/la-presidence/le-drapeau-francais",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "gr-presidency-flag",
+      "title": "The Flag",
+      "publisher": "Presidency of the Hellenic Republic",
+      "sourceType": "government",
+      "url": "https://www.presidency.gr/en/presidency/the-flag/",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "ie-government-national-flag",
+      "title": "The National Flag",
+      "publisher": "Department of the Taoiseach, Ireland",
+      "sourceType": "government",
+      "url": "https://www.gov.ie/en/department-of-the-taoiseach/publications/the-national-flag/",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "it-presidency-tricolour",
+      "title": "Italian Tricolour Flag",
+      "publisher": "Presidency of the Italian Republic",
+      "sourceType": "government",
+      "url": "https://www.quirinale.it/it/pagine/italian-tricolour-flag",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "jp-cabinet-flag",
+      "title": "National Flag & National Anthem",
+      "publisher": "Cabinet Office, Government of Japan",
+      "sourceType": "government",
+      "url": "https://www.cao.go.jp/en/flag_anthem",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "lv-national-flag-law",
+      "title": "Law on the National Flag of Latvia",
+      "publisher": "State Language Centre / Latvijas Vēstnesis",
+      "sourceType": "law",
+      "url": "https://likumi.lv/ta/en/en/id/200642",
       "accessedAt": "2026-09-24"
     }
   ],
@@ -2910,50 +3382,6 @@
       "verifiedAt": "2026-09-23"
     },
     {
-      "id": "botswana-presidential-standard",
-      "kind": "flag",
-      "countryId": "botswana",
-      "nameRu": "Ботсвана",
-      "subtitleRu": "Президентский штандарт",
-      "variantType": "other_official",
-      "isPrimaryStudyVariant": true,
-      "mediaId": "flag-botswana-presidential-standard",
-      "summaryRu": "На голубом полотнище расположен белый круг с государственным гербом Ботсваны.",
-      "explanationRu": "У Ботсваны есть отдельный президентский штандарт. Его главное отличие от полосатого национального флага — герб с двумя зебрами в центре белого круга.",
-      "historyRu": "Правительственное издание относит штандарт к государственным символам, сохраняющимся со времени независимости.",
-      "symbols": [
-        {
-          "nameRu": "Государственный герб в белом круге",
-          "category": "coat_of_arms",
-          "meaningStatus": "unknown",
-          "sourceIds": [
-            "bw-national-symbols-bopa"
-          ]
-        }
-      ],
-      "facts": [
-        {
-          "labelRu": "Тип",
-          "valueRu": "Официальный штандарт президента"
-        },
-        {
-          "labelRu": "Основной элемент",
-          "valueRu": "Герб в белом круге"
-        }
-      ],
-      "sourceIds": [
-        "bw-national-symbols-bopa"
-      ],
-      "quizHints": {
-        "similarityTags": [
-          "coat_on_flag",
-          "presidential_standard"
-        ]
-      },
-      "status": "published",
-      "verifiedAt": "2026-09-23"
-    },
-    {
       "id": "botswana-coat-of-arms",
       "kind": "emblem",
       "countryId": "botswana",
@@ -4349,50 +4777,6 @@
       "verifiedAt": "2026-09-23"
     },
     {
-      "id": "chile-presidential-standard",
-      "kind": "flag",
-      "countryId": "chile",
-      "nameRu": "Чили",
-      "subtitleRu": "Президентский штандарт",
-      "variantType": "other_official",
-      "isPrimaryStudyVariant": false,
-      "mediaId": "flag-chile-presidential-standard",
-      "summaryRu": "Национальный флаг Чили с государственным гербом в центре полотнища.",
-      "explanationRu": "Декрет 1534/1967 выделяет президентский штандарт как отдельную национальную эмблему и предписывает поместить герб поверх цветов флага по центру. Его применение связано с присутствием президента.",
-      "symbols": [
-        {
-          "nameRu": "Герб поверх флага",
-          "category": "coat_of_arms",
-          "meaningStatus": "unknown",
-          "sourceIds": [
-            "cl-national-emblems-decree-1534"
-          ]
-        }
-      ],
-      "facts": [
-        {
-          "labelRu": "Тип",
-          "valueRu": "Официальный президентский вариант флага"
-        },
-        {
-          "labelRu": "Отличие",
-          "valueRu": "Государственный герб в центре"
-        }
-      ],
-      "sourceIds": [
-        "cl-national-emblems-decree-1534"
-      ],
-      "quizHints": {
-        "similarityTags": [
-          "single_white_star",
-          "coat_on_flag",
-          "presidential"
-        ]
-      },
-      "status": "published",
-      "verifiedAt": "2026-09-23"
-    },
-    {
       "id": "chile-coat-of-arms",
       "kind": "emblem",
       "countryId": "chile",
@@ -5428,6 +5812,1179 @@
           "reef",
           "brazil",
           "atlantic"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "algeria-national-flag",
+      "kind": "flag",
+      "countryId": "algeria",
+      "nameRu": "Алжир",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-algeria",
+      "summaryRu": "Зелёная и белая вертикальные половины с красными полумесяцем и пятиконечной звездой в центре.",
+      "explanationRu": "Запомните красный полумесяц со звездой на границе зелёной и белой половин. Закон 1963 года определяет рисунок флага; эта карточка не приписывает элементам значение, не подтверждённое текстом закона.",
+      "symbols": [
+        {
+          "nameRu": "Красный полумесяц",
+          "category": "moon",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "dz-flag-law-1963"
+          ]
+        },
+        {
+          "nameRu": "Красная пятиконечная звезда",
+          "category": "star",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "dz-flag-law-1963"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Основа рисунка",
+          "valueRu": "Две вертикальные половины: зелёная у древка и белая справа"
+        }
+      ],
+      "sourceIds": [
+        "dz-flag-law-1963"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "crescent",
+          "red_star",
+          "green_white"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "australia-national-flag",
+      "kind": "flag",
+      "countryId": "australia",
+      "nameRu": "Австралия",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-australia",
+      "summaryRu": "Синее полотнище с британским флагом в верхнем углу у древка, большой семиконечной звездой под ним и пятью звёздами Южного Креста справа.",
+      "explanationRu": "У австралийского национального флага синее поле. Его отличают большая семиконечная звезда под британским флагом и созвездие Южного Креста справа. Впервые флаг подняли 3 сентября 1901 года; позднее рисунок звёзд уточняли.",
+      "symbols": [
+        {
+          "nameRu": "Большая семиконечная звезда",
+          "category": "star",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "au-national-flag"
+          ]
+        },
+        {
+          "nameRu": "Пять звёзд Южного Креста",
+          "category": "star",
+          "meaningStatus": "official",
+          "sourceIds": [
+            "au-national-flag"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Первое поднятие",
+          "valueRu": "3 сентября 1901 года"
+        },
+        {
+          "labelRu": "Поле",
+          "valueRu": "Синее"
+        }
+      ],
+      "sourceIds": [
+        "au-national-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "union_jack_canton",
+          "southern_cross",
+          "blue_ensign"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "bangladesh-national-flag",
+      "kind": "flag",
+      "countryId": "bangladesh",
+      "nameRu": "Бангладеш",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-bangladesh",
+      "summaryRu": "Красный круг на зелёном прямоугольном полотнище; круг смещён немного ближе к древку.",
+      "explanationRu": "Конституция Бангладеш описывает красный круг на зелёном поле, а правила флага задают его размеры и положение. Для распознавания запомните круг без дополнительных фигур; официальное значение круга эти нормативные тексты не раскрывают.",
+      "symbols": [
+        {
+          "nameRu": "Красный круг",
+          "category": "other",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "bd-constitution-art-4",
+            "bd-national-symbols-order-1972-schedule"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Пропорции",
+          "valueRu": "5:3"
+        },
+        {
+          "labelRu": "Положение круга",
+          "valueRu": "Смещён к древку"
+        }
+      ],
+      "sourceIds": [
+        "bd-constitution-art-4",
+        "bd-national-symbols-order-1972-schedule"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "red_disc",
+          "green_field"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "china-national-flag",
+      "kind": "flag",
+      "countryId": "china",
+      "nameRu": "Китай",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-china",
+      "summaryRu": "Красное полотнище с одной большой и четырьмя малыми жёлтыми пятиконечными звёздами у древка.",
+      "explanationRu": "Официальное название — Пятизвёздный красный флаг. Запомните группу из пяти жёлтых звёзд в верхнем углу: четыре малые расположены дугой справа от большой. Закон о флаге закрепляет этот рисунок; смысл звёзд не выводится из их числа в этой карточке.",
+      "symbols": [
+        {
+          "nameRu": "Одна большая и четыре малые жёлтые звезды",
+          "category": "star",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "cn-national-flag-law-2020",
+            "cn-constitution-symbols"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Официальное название",
+          "valueRu": "Пятизвёздный красный флаг"
+        },
+        {
+          "labelRu": "Число звёзд",
+          "valueRu": "Пять"
+        }
+      ],
+      "sourceIds": [
+        "cn-national-flag-law-2020",
+        "cn-constitution-symbols"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "five_yellow_stars",
+          "red_field"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "comoros-national-flag",
+      "kind": "flag",
+      "countryId": "comoros",
+      "nameRu": "Коморские Острова",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-comoros",
+      "summaryRu": "Четыре равные горизонтальные полосы — жёлтая, белая, красная и синяя; у древка зелёный треугольник с белыми полумесяцем и четырьмя звёздами.",
+      "explanationRu": "Статья 9 Конституции перечисляет полосы сверху вниз и отдельно описывает полумесяц с четырьмя звёздами в зелёном треугольнике у древка. Для узнавания запомните сочетание четырёх полос и четырёх звёзд; значение отдельных цветов этот источник не раскрывает.",
+      "symbols": [
+        {
+          "nameRu": "Белый полумесяц",
+          "category": "moon",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "km-constitution-2018-art9"
+          ]
+        },
+        {
+          "nameRu": "Четыре белые звезды",
+          "category": "star",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "km-constitution-2018-art9"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Порядок полос",
+          "valueRu": "Жёлтая, белая, красная, синяя"
+        },
+        {
+          "labelRu": "Звёзды",
+          "valueRu": "Четыре в зелёном треугольнике"
+        }
+      ],
+      "sourceIds": [
+        "km-constitution-2018-art9"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "crescent",
+          "four_stars",
+          "four_horizontal_stripes"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "democratic-republic-of-the-congo-national-flag",
+      "kind": "flag",
+      "countryId": "democratic-republic-of-the-congo",
+      "nameRu": "Демократическая Республика Конго",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-democratic-republic-of-the-congo",
+      "summaryRu": "Голубое полотнище с жёлтой звездой в верхнем углу у древка и красной диагональной полосой с жёлтой каймой.",
+      "explanationRu": "На официальной странице Президента ДР Конго флаг описан как голубое полотнище с жёлтой звездой и красной диагональю, окаймлённой жёлтым. Звезда обозначает единую страну и светлое будущее. Голубой связывают с миром и надеждой, красный — с кровью погибших, жёлтый — с богатством страны. Для узнавания запомните одну звезду над диагональной полосой.",
+      "symbols": [
+        {
+          "nameRu": "Жёлтая звезда",
+          "category": "star",
+          "meaningStatus": "official",
+          "meaningRu": "Единая страна и светлое будущее",
+          "sourceIds": [
+            "cd-presidency-flag"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Расположение звезды",
+          "valueRu": "В верхнем углу у древка"
+        },
+        {
+          "labelRu": "Полоса",
+          "valueRu": "Красная диагональ с жёлтой каймой"
+        }
+      ],
+      "sourceIds": [
+        "cd-presidency-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "single_star",
+          "yellow_star",
+          "diagonal_stripe",
+          "blue_field"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "costa-rica-state-flag",
+      "kind": "flag",
+      "countryId": "costa-rica",
+      "nameRu": "Коста-Рика",
+      "subtitleRu": "Церемониальный государственный флаг",
+      "variantType": "state",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-costa-rica-state",
+      "summaryRu": "Пять горизонтальных полос — синяя, белая, красная, белая, синяя; на широкой красной полосе у древка расположен государственный герб в белом овале.",
+      "explanationRu": "Закон Коста-Рики № 10178 различает обычный флаг без герба и церемониальный pabellón nacional. На последнем герб помещён в белый овал на красной полосе, ближе к древку. Это помогает отличать два официальных варианта: герб есть только на церемониальном. Закон описывает на гербе три вулкана, два океана с кораблями и семь звёзд.",
+      "symbols": [
+        {
+          "nameRu": "Государственный герб в белом овале",
+          "category": "coat_of_arms",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "cr-law-10178-2022"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Pabellón nacional — церемониальный флаг государства"
+        },
+        {
+          "labelRu": "Положение герба",
+          "valueRu": "В белом овале на красной полосе у древка"
+        }
+      ],
+      "sourceIds": [
+        "cr-law-10178-2022"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "coat_of_arms_on_flag",
+          "five_horizontal_stripes",
+          "blue_white_red"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "croatia-national-flag",
+      "kind": "flag",
+      "countryId": "croatia",
+      "nameRu": "Хорватия",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-croatia",
+      "summaryRu": "Красная, белая и синяя горизонтальные полосы с хорватским шахматным гербом в центре и короной из пяти исторических щитов.",
+      "explanationRu": "Статья 10 закона о государственных символах Хорватии помещает герб в центр красно-бело-синего флага. На главном щите 25 красных и белых клеток; над ним видны пять малых исторических гербов. Для ответа в викторине ищите шахматный щит и пять щитов над ним.",
+      "symbols": [
+        {
+          "nameRu": "Шахматный герб с пятью малыми щитами",
+          "category": "coat_of_arms",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "hr-symbols-law-1990"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Порядок полос",
+          "valueRu": "Красная, белая, синяя"
+        },
+        {
+          "labelRu": "Главный щит",
+          "valueRu": "25 красных и белых полей"
+        }
+      ],
+      "sourceIds": [
+        "hr-symbols-law-1990"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "coat_of_arms_on_flag",
+          "checkerboard_shield",
+          "red_white_blue"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "cuba-national-flag",
+      "kind": "flag",
+      "countryId": "cuba",
+      "nameRu": "Куба",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-cuba",
+      "summaryRu": "Три синие и две белые горизонтальные полосы; у древка красный треугольник с белой пятиконечной звездой.",
+      "explanationRu": "Закон Кубы № 128/2019 называет этот флаг «флагом одинокой звезды» и описывает пять чередующихся полос, красный треугольник и белую звезду. По статье 6 звезда означает свободную, независимую и суверенную республику, а также единство кубинцев. Для узнавания ищите одну белую звезду внутри красного треугольника у древка.",
+      "symbols": [
+        {
+          "nameRu": "Белая пятиконечная звезда",
+          "category": "star",
+          "meaningStatus": "official",
+          "meaningRu": "Свободная, независимая и суверенная республика; единство кубинцев",
+          "sourceIds": [
+            "cu-symbols-law-128-2019"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Число полос",
+          "valueRu": "Пять: три синие и две белые"
+        },
+        {
+          "labelRu": "Звезда",
+          "valueRu": "Белая, в красном треугольнике у древка"
+        }
+      ],
+      "sourceIds": [
+        "cu-symbols-law-128-2019"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "single_white_star",
+          "red_hoist_triangle",
+          "five_horizontal_stripes"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "botswana-national-flag",
+      "kind": "flag",
+      "countryId": "botswana",
+      "nameRu": "Ботсвана",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-botswana",
+      "summaryRu": "Национальный флаг Ботсваны: голубое полотнище с чёрной горизонтальной полосой, отделённой белыми полосками.",
+      "explanationRu": "Чёрная полоса с белыми краями проходит через центр голубого полотнища. Такое сочетание полос помогает отличать флаг Ботсваны от других голубых флагов.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Регион",
+          "valueRu": "Южная Африка"
+        },
+        {
+          "labelRu": "Вариант",
+          "valueRu": "Национальный флаг"
+        },
+        {
+          "labelRu": "Рисунок",
+          "valueRu": "Чёрная полоса с белыми краями на голубом поле"
+        }
+      ],
+      "sourceIds": [
+        "bw-national-symbols-bopa"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal-stripes"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "colombia-national-flag",
+      "kind": "flag",
+      "countryId": "colombia",
+      "nameRu": "Колумбия",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-colombia",
+      "summaryRu": "Национальный флаг Колумбии состоит из жёлтой, синей и красной горизонтальных полос.",
+      "explanationRu": "Жёлтая полоса занимает верхнюю половину полотнища. Синяя и красная занимают по четверти высоты; герба на национальном флаге нет.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Регион",
+          "valueRu": "Южная Америка"
+        },
+        {
+          "labelRu": "Вариант",
+          "valueRu": "Национальный флаг"
+        },
+        {
+          "labelRu": "Пропорции полос",
+          "valueRu": "Жёлтая — половина высоты; синяя и красная — по четверти"
+        }
+      ],
+      "sourceIds": [
+        "co-national-symbols-law-1984",
+        "co-flags-decree-1687-1986"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal-stripes"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "armenia-national-flag",
+      "kind": "flag",
+      "countryId": "armenia",
+      "nameRu": "Армения",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-armenia",
+      "summaryRu": "Флаг Армении состоит из трёх равных горизонтальных полос: красной, синей и оранжевой.",
+      "explanationRu": "Чтобы узнать флаг Армении, запомните порядок полос сверху вниз: красная, синяя, оранжевая. Официальная страница Президента также приводит значения цветов; они не нужны для распознавания рисунка.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Порядок полос",
+          "valueRu": "Красная, синяя, оранжевая"
+        },
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Три равные горизонтальные"
+        }
+      ],
+      "sourceIds": [
+        "am-president-state-symbols"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_tricolor",
+          "red_blue_orange"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "belgium-national-flag",
+      "kind": "flag",
+      "countryId": "belgium",
+      "nameRu": "Бельгия",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-belgium",
+      "summaryRu": "Национальный флаг Бельгии — три вертикальные полосы: чёрная, жёлтая и красная.",
+      "explanationRu": "У флага Бельгии полосы расположены вертикально. Если смотреть от древка к свободному краю, порядок цветов — чёрный, жёлтый, красный.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Порядок от древка",
+          "valueRu": "Чёрная, жёлтая, красная"
+        },
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Три вертикальные"
+        }
+      ],
+      "sourceIds": [
+        "be-government-flags"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "vertical_tricolor",
+          "black_yellow_red"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "bulgaria-national-flag",
+      "kind": "flag",
+      "countryId": "bulgaria",
+      "nameRu": "Болгария",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-bulgaria",
+      "summaryRu": "Флаг Болгарии — три равные горизонтальные полосы: белая, зелёная и красная.",
+      "explanationRu": "Национальный флаг Болгарии легко узнать по зелёной полосе между белой верхней и красной нижней полосами. Порядок и равную ширину полос устанавливает закон о национальном флаге.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Порядок полос",
+          "valueRu": "Белая, зелёная, красная"
+        },
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Три равные горизонтальные"
+        }
+      ],
+      "sourceIds": [
+        "bg-flag-parliament"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_tricolor",
+          "white_green_red"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "bahamas-national-flag",
+      "kind": "flag",
+      "countryId": "bahamas",
+      "nameRu": "Багамские Острова",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-bahamas",
+      "summaryRu": "Флаг Багамских Островов: голубые верхняя и нижняя полосы, золотая средняя и чёрный треугольник у древка.",
+      "explanationRu": "Отличительная деталь флага Багамских Островов — чёрный треугольник, направленный от древка к центру золотой полосы. Официальный закон описывает голубое поле, золотую полосу и чёрный клин.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Средняя полоса",
+          "valueRu": "Золотая"
+        },
+        {
+          "labelRu": "У древка",
+          "valueRu": "Чёрный треугольник"
+        }
+      ],
+      "sourceIds": [
+        "bs-symbols-law"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "black_hoist_triangle",
+          "blue_gold_blue"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "congo-national-flag",
+      "kind": "flag",
+      "countryId": "congo",
+      "nameRu": "Конго",
+      "subtitleRu": "Национальный флаг Республики Конго",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-congo",
+      "summaryRu": "Флаг Республики Конго: зелёный и красный треугольники разделены широкой жёлтой полосой по диагонали.",
+      "explanationRu": "Зелёная часть находится у древка, красная — у свободного края; между ними идёт жёлтая диагональная полоса. Такое расположение прямо описано в статье 3 Конституции Республики Конго.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Расположение цветов",
+          "valueRu": "Зелёный у древка, красный у свободного края"
+        },
+        {
+          "labelRu": "Диагональная полоса",
+          "valueRu": "Жёлтая"
+        }
+      ],
+      "sourceIds": [
+        "cg-constitution-2015-art3-4"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "diagonal_band",
+          "green_yellow_red"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "bolivia-state-flag",
+      "kind": "flag",
+      "countryId": "bolivia",
+      "nameRu": "Боливия",
+      "subtitleRu": "Государственный флаг",
+      "variantType": "state",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-bolivia-state",
+      "summaryRu": "Государственный флаг Боливии: красная, жёлтая и зелёная горизонтальные полосы с гербом в центре жёлтой полосы.",
+      "explanationRu": "По статье 9 декрета № 241 государственные учреждения используют триколор с гербом на обеих сторонах. Герб в середине жёлтой полосы отличает этот вариант от национального триколора без герба.",
+      "symbols": [
+        {
+          "nameRu": "Государственный герб",
+          "category": "coat_of_arms",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "bo-decree-241-parliament-copy"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Красная, жёлтая, зелёная сверху вниз"
+        },
+        {
+          "labelRu": "Отличие варианта",
+          "valueRu": "Герб в центре жёлтой полосы"
+        }
+      ],
+      "sourceIds": [
+        "bo-constitution-art-6",
+        "bo-decree-241-parliament-copy"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_tricolor",
+          "coat_center"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "bahrain-national-flag",
+      "kind": "flag",
+      "countryId": "bahrain",
+      "nameRu": "Бахрейн",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-bahrain",
+      "summaryRu": "Национальный флаг Бахрейна — белая полоса у древка и красное поле, разделённые пятью зубцами.",
+      "explanationRu": "У границы белого и красного полей видны пять белых треугольных выступов. По ним флаг Бахрейна можно отличить от других красно-белых флагов региона.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Основные цвета",
+          "valueRu": "Белый и красный"
+        },
+        {
+          "labelRu": "Граница цветов",
+          "valueRu": "Пять белых треугольных зубцов"
+        }
+      ],
+      "sourceIds": [
+        "bh-constitution",
+        "bh-national-flag-guide"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "red_white",
+          "serrated_hoist"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "chad-national-flag",
+      "kind": "flag",
+      "countryId": "chad",
+      "nameRu": "Чад",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-chad",
+      "summaryRu": "Флаг Чада состоит из трёх вертикальных полос: синей, золотой и красной.",
+      "explanationRu": "Синяя полоса находится у древка, золотая — в центре, красная — у свободного края. Государственное руководство по графике отмечает, что этот флаг часто путают с флагом Румынии.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Порядок от древка",
+          "valueRu": "Синяя, золотая, красная"
+        },
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Три вертикальные"
+        }
+      ],
+      "sourceIds": [
+        "td-state-graphic-charter"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "vertical_tricolor",
+          "blue_yellow_red"
+        ],
+        "excludeFromQuiz": true
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "cyprus-national-flag",
+      "kind": "flag",
+      "countryId": "cyprus",
+      "nameRu": "Кипр",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-cyprus-national",
+      "summaryRu": "На белом флаге Кипра изображены медный силуэт острова и две скрещённые оливковые ветви.",
+      "explanationRu": "Правительственное издание связывает медный цвет острова с месторождениями меди, а оливковые ветви — с миром.",
+      "symbols": [
+        {
+          "nameRu": "Оливковые ветви",
+          "category": "plant",
+          "meaningStatus": "official",
+          "meaningRu": "Мир",
+          "sourceIds": [
+            "cy-government-flag-2024"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Поле",
+          "valueRu": "Белое"
+        },
+        {
+          "labelRu": "Центр",
+          "valueRu": "Медный силуэт острова над двумя оливковыми ветвями"
+        }
+      ],
+      "sourceIds": [
+        "cy-government-flag-2024"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "map",
+          "plant"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "czechia-national-flag",
+      "kind": "flag",
+      "countryId": "czechia",
+      "nameRu": "Чехия",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-czechia-national",
+      "summaryRu": "Флаг Чехии состоит из белой и красной горизонтальных полос и синего треугольника у древка.",
+      "explanationRu": "Синий треугольник входит в бело-красное полотнище со стороны древка; этот порядок отличает флаг Чехии от похожих двухцветных флагов.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Белая над красной"
+        },
+        {
+          "labelRu": "У древка",
+          "valueRu": "Синий треугольник"
+        }
+      ],
+      "sourceIds": [
+        "cz-mfa-state-symbols"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_bicolor",
+          "triangle_hoist"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "benin-national-flag",
+      "kind": "flag",
+      "countryId": "benin",
+      "nameRu": "Бенин",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-benin-national",
+      "summaryRu": "У древка флага Бенина находится зелёная полоса; справа — жёлтая полоса над красной.",
+      "explanationRu": "Статьи 2–3 закона № 90-020 задают зелёную полосу на всю высоту и две равные горизонтальные полосы справа: жёлтую сверху, красную снизу.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "У древка",
+          "valueRu": "Вертикальная зелёная полоса"
+        },
+        {
+          "labelRu": "Справа",
+          "valueRu": "Жёлтая полоса над красной"
+        }
+      ],
+      "sourceIds": [
+        "bj-flag-law-90-020"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "green_yellow_red",
+          "vertical_and_horizontal"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "estonia-national-flag",
+      "kind": "flag",
+      "countryId": "estonia",
+      "nameRu": "Эстония",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-estonia-national",
+      "summaryRu": "Флаг Эстонии — три горизонтальные полосы: синяя, чёрная и белая сверху вниз.",
+      "explanationRu": "Правительственная канцелярия подтверждает, что национальный и государственный флаги Эстонии совпадают; в 2005 году они были объединены в единый флаг.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Порядок сверху",
+          "valueRu": "Синий, чёрный, белый"
+        },
+        {
+          "labelRu": "Варианты",
+          "valueRu": "Национальный и государственный совпадают"
+        }
+      ],
+      "sourceIds": [
+        "ee-government-flag-day"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_tricolor",
+          "blue_black_white"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "finland-state-flag",
+      "kind": "flag",
+      "countryId": "finland",
+      "nameRu": "Финляндия",
+      "subtitleRu": "Государственный флаг",
+      "variantType": "state",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-finland-state",
+      "summaryRu": "Государственный флаг Финляндии: синий крест на белом поле и герб в центре креста.",
+      "explanationRu": "Закон о флаге предусматривает национальный и государственный варианты. На государственном флаге в квадрате пересечения перекладин креста помещён герб Финляндии.",
+      "symbols": [
+        {
+          "nameRu": "Герб Финляндии",
+          "category": "coat_of_arms",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "fi-flag-act-380-1978"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Основа",
+          "valueRu": "Синий крест на белом поле"
+        },
+        {
+          "labelRu": "Отличие варианта",
+          "valueRu": "Герб в центре креста"
+        }
+      ],
+      "sourceIds": [
+        "fi-flag-act-380-1978"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "nordic_cross",
+          "coat_center"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "france-national-flag",
+      "kind": "flag",
+      "countryId": "france",
+      "nameRu": "Франция",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-france-national",
+      "summaryRu": "Флаг Франции — три вертикальные полосы: синяя у древка, белая в центре и красная у свободного края.",
+      "explanationRu": "Елисейский дворец описывает порядок цветов национального триколора: синий у древка, белый посередине, красный у свободного края.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Порядок от древка",
+          "valueRu": "Синий, белый, красный"
+        },
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Три вертикальные"
+        }
+      ],
+      "sourceIds": [
+        "fr-elysee-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "vertical_tricolor",
+          "blue_white_red"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "greece-national-flag",
+      "kind": "flag",
+      "countryId": "greece",
+      "nameRu": "Греция",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-greece-national",
+      "summaryRu": "Флаг Греции состоит из девяти чередующихся синих и белых полос; в синем крыже расположен белый крест.",
+      "explanationRu": "Президентский сайт описывает пять синих и четыре белые полосы. Синий крыж у древка занимает высоту пяти полос и содержит белый крест.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Девять горизонтальных: пять синих и четыре белые"
+        },
+        {
+          "labelRu": "Крыж",
+          "valueRu": "Белый крест на синем фоне"
+        }
+      ],
+      "sourceIds": [
+        "gr-presidency-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_stripes",
+          "cross_canton"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "ireland-national-flag",
+      "kind": "flag",
+      "countryId": "ireland",
+      "nameRu": "Ирландия",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-ireland-national",
+      "summaryRu": "Флаг Ирландии — зелёная, белая и оранжевая вертикальные полосы от древка.",
+      "explanationRu": "Правительство Ирландии уточняет, что три полосы равны по ширине, а зелёная располагается у древка. Белая полоса связана с надеждой на единство разных традиций острова.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Порядок от древка",
+          "valueRu": "Зелёный, белый, оранжевый"
+        },
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Три равные вертикальные"
+        }
+      ],
+      "sourceIds": [
+        "ie-government-national-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "vertical_tricolor",
+          "green_white_orange"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "italy-national-flag",
+      "kind": "flag",
+      "countryId": "italy",
+      "nameRu": "Италия",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-italy-national",
+      "summaryRu": "Флаг Италии — три равные вертикальные полосы: зелёная, белая и красная от древка.",
+      "explanationRu": "Конституционное описание, приведённое Президентом Италии, закрепляет зелёную, белую и красную вертикальные полосы равной ширины.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Порядок от древка",
+          "valueRu": "Зелёный, белый, красный"
+        },
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Три равные вертикальные"
+        }
+      ],
+      "sourceIds": [
+        "it-presidency-tricolour"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "vertical_tricolor",
+          "green_white_red"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "japan-national-flag",
+      "kind": "flag",
+      "countryId": "japan",
+      "nameRu": "Япония",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-japan-national",
+      "summaryRu": "Флаг Японии — белое поле с красным солнечным диском в центре.",
+      "explanationRu": "Японское правительство определяет белое поле и тёмно-красный круг по центру; диаметр круга составляет три пятых высоты флага.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Поле",
+          "valueRu": "Белое"
+        },
+        {
+          "labelRu": "В центре",
+          "valueRu": "Красный солнечный диск"
+        }
+      ],
+      "sourceIds": [
+        "jp-cabinet-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "sun_disc",
+          "red_white"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "latvia-national-flag",
+      "kind": "flag",
+      "countryId": "latvia",
+      "nameRu": "Латвия",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-latvia-national",
+      "summaryRu": "Флаг Латвии — карминово-красное полотнище с узкой белой горизонтальной полосой посередине.",
+      "explanationRu": "Латвийский закон задаёт карминовый цвет и белую полосу; ширины красной, белой и красной полос относятся как 2:1:2.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы сверху",
+          "valueRu": "Карминовая, белая, карминовая"
+        },
+        {
+          "labelRu": "Соотношение ширины полос",
+          "valueRu": "2:1:2"
+        }
+      ],
+      "sourceIds": [
+        "lv-national-flag-law"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_tricolor",
+          "carmine_white_carmine"
         ]
       },
       "status": "published",

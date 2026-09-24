@@ -6,7 +6,7 @@
 
 The product focuses on three content domains:
 
-1. Country flags with meaningful graphic symbols.
+1. One national or state flag per country, including simple color designs.
 2. National coats of arms, state emblems, and seals.
 3. Major natural and geographical landmarks.
 
@@ -75,7 +75,7 @@ The shell and previously used content should work offline. The initial prototype
 
 ### 5.1 Flags
 
-Include flags only when an official flag variant contains meaningful graphical elements beyond simple color fields or stripes.
+Include one official national or state flag per country. When both exist, select the one with more visual detail; if equal, select the national flag. Simple stripes are eligible.
 
 Relevant elements include, but are not limited to:
 
@@ -92,7 +92,7 @@ Relevant elements include, but are not limited to:
 - inscriptions;
 - religious or historical symbols.
 
-The data model must support multiple official flag variants per country, because civil, state, national, and other official variants may differ.
+The published catalog uses one selected national or state flag per country. Research may record other variants as excluded from this catalog.
 
 ### 5.2 Coats of arms and state emblems
 
@@ -251,7 +251,7 @@ The prototype must support:
 
 The full product should publish every eligible record from the completed content registries:
 
-- all qualifying official flag variants and national symbols for the 195 UN member and observer states;
+- one selected national or state flag and the national symbols for each of the 195 UN member and observer states;
 - qualifying records from a separately classified extended registry of partially recognized states, dependencies, and territories with distinct official symbols;
 - all eligible concrete natural landmarks found through the complete authoritative catalog and thematic passes defined in `06_CONTENT_PRODUCTION_PLAN.md`.
 

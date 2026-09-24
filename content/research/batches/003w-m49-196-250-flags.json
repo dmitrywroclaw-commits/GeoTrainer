@@ -1,0 +1,188 @@
+{
+  "batch_id": "003w-m49-196-250-flags",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "cy-government-flag-2024",
+      "title": "Did you know? The flag of Cyprus",
+      "publisher": "Press and Information Office, Republic of Cyprus",
+      "source_type": "government",
+      "url": "https://publications.gov.cy/assets/user/publications/2024/2024_202/HTML/12/",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага Кипр."
+    },
+    {
+      "source_id": "cz-mfa-state-symbols",
+      "title": "State Symbols",
+      "publisher": "Ministry of Foreign Affairs of the Czech Republic",
+      "source_type": "government",
+      "url": "https://mzv.gov.cz/chicago/en/other_useful_information/information_about_the_czech_republic/national_symbols/state_symbols.html?force_format=mobile",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага Чехия."
+    },
+    {
+      "source_id": "bj-flag-law-90-020",
+      "title": "Loi n° 90-020 définissant le drapeau de la République du Bénin",
+      "publisher": "Secrétariat général du Gouvernement du Bénin",
+      "source_type": "law",
+      "url": "https://sgg.gouv.bj/doc/loi-90-020/download",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага Бенин."
+    },
+    {
+      "source_id": "ee-government-flag-day",
+      "title": "Estonian Flag Day – 4 June",
+      "publisher": "Government Office of Estonia (Riigikantselei)",
+      "source_type": "government",
+      "url": "https://www.riigikantselei.ee/en/el140",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага Эстония."
+    },
+    {
+      "source_id": "fi-flag-act-380-1978",
+      "title": "Laki Suomen lipusta 380/1978, sections 1–3",
+      "publisher": "Finlex / Finnish Ministry of Justice",
+      "source_type": "law",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/1978/380",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага Финляндия."
+    },
+    {
+      "source_id": "fr-elysee-flag",
+      "title": "Le drapeau français",
+      "publisher": "Présidence de la République française",
+      "source_type": "government",
+      "url": "https://www.elysee.fr/la-presidence/le-drapeau-francais",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага Франция."
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "cyprus",
+      "audit_status": "in_progress",
+      "notes": "Проверен и опубликован флаг; проверка герба/эмблемы продолжается.",
+      "flags": [
+        {
+          "variant_id": "cyprus-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "island_map|olive_branches",
+          "decision": "eligible",
+          "decision_reason": "Официальный национальный флаг выбран как основной учебный вариант.",
+          "source_ids": "cy-government-flag-2024",
+          "primary_source_urls": "https://publications.gov.cy/assets/user/publications/2024/2024_202/HTML/12/"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "czechia",
+      "audit_status": "in_progress",
+      "notes": "Проверен и опубликован флаг; проверка герба/эмблемы продолжается.",
+      "flags": [
+        {
+          "variant_id": "czechia-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "white_red_horizontal|blue_triangle",
+          "decision": "eligible",
+          "decision_reason": "Официальный национальный флаг выбран как основной учебный вариант.",
+          "source_ids": "cz-mfa-state-symbols",
+          "primary_source_urls": "https://mzv.gov.cz/chicago/en/other_useful_information/information_about_the_czech_republic/national_symbols/state_symbols.html?force_format=mobile"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "benin",
+      "audit_status": "in_progress",
+      "notes": "Проверен и опубликован флаг; проверка герба/эмблемы продолжается.",
+      "flags": [
+        {
+          "variant_id": "benin-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "green_hoist|yellow_red_horizontal",
+          "decision": "eligible",
+          "decision_reason": "Официальный национальный флаг выбран как основной учебный вариант.",
+          "source_ids": "bj-flag-law-90-020",
+          "primary_source_urls": "https://sgg.gouv.bj/doc/loi-90-020/download"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "estonia",
+      "audit_status": "in_progress",
+      "notes": "Проверен и опубликован флаг; проверка герба/эмблемы продолжается.",
+      "flags": [
+        {
+          "variant_id": "estonia-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "blue_black_white_horizontal",
+          "decision": "eligible",
+          "decision_reason": "Официальный национальный флаг выбран как основной учебный вариант.",
+          "source_ids": "ee-government-flag-day",
+          "primary_source_urls": "https://www.riigikantselei.ee/en/el140"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "finland",
+      "audit_status": "in_progress",
+      "notes": "Проверен и опубликован флаг; проверка герба/эмблемы продолжается.",
+      "flags": [
+        {
+          "variant_id": "finland-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "false",
+          "official_status": "official",
+          "graphic_elements": "blue_cross",
+          "decision": "excluded",
+          "decision_reason": "Национальный вариант проще государственного флага с гербом.",
+          "source_ids": "fi-flag-act-380-1978",
+          "primary_source_urls": "https://www.finlex.fi/fi/lainsaadanto/1978/380"
+        },
+        {
+          "variant_id": "finland-state-flag",
+          "variant_type": "state",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "blue_cross|coat_of_arms",
+          "decision": "eligible",
+          "decision_reason": "Государственный флаг с гербом содержит больше графических деталей, чем национальный.",
+          "source_ids": "fi-flag-act-380-1978",
+          "primary_source_urls": "https://www.finlex.fi/fi/lainsaadanto/1978/380"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "france",
+      "audit_status": "in_progress",
+      "notes": "Проверен и опубликован флаг; проверка герба/эмблемы продолжается.",
+      "flags": [
+        {
+          "variant_id": "france-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "blue_white_red_vertical",
+          "decision": "eligible",
+          "decision_reason": "Официальный национальный флаг выбран как основной учебный вариант.",
+          "source_ids": "fr-elysee-flag",
+          "primary_source_urls": "https://www.elysee.fr/la-presidence/le-drapeau-francais"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}

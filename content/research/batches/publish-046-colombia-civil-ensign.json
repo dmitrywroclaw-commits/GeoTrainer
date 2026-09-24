@@ -1,0 +1,23 @@
+{
+  "batch_id": "publish-046-colombia-civil-ensign",
+  "countries": [
+    { "id": "colombia", "nameRu": "Колумбия", "region": "Южная Америка", "m49": "170", "iso2": "CO", "iso3": "COL" }
+  ],
+  "sources": [
+    { "id": "co-flags-decree-861-1924", "title": "Decreto 861 de 1924, artículos 1–3", "publisher": "República de Colombia, SUIN-Juriscol", "sourceType": "law", "url": "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1728068", "accessedAt": "2026-09-24" },
+    { "id": "co-flags-decree-1687-1986", "title": "Decreto 1687 de 1986", "publisher": "República de Colombia, SUIN-Juriscol", "sourceType": "law", "url": "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1331854", "accessedAt": "2026-09-24" }
+  ],
+  "media": [
+    { "id": "flag-colombia-civil-ensign", "kind": "flag", "localPath": "/media/flags/colombia-civil-ensign.svg", "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Civil_Ensign_of_Colombia.svg", "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Civil_Ensign_of_Colombia.svg", "publisher": "Wikimedia Commons", "author": "David Newton; later SVG edits by Commons contributors", "license": "Public domain (author dedication and simple geometry)", "rightsUrl": "https://commons.wikimedia.org/wiki/File:Civil_Ensign_of_Colombia.svg#Licensing", "attributionText": "David Newton / Wikimedia Commons; общественное достояние, без изменений.", "checkedAt": "2026-09-24" }
+  ],
+  "entries": [
+    {
+      "id": "colombia-civil-ensign", "kind": "flag", "countryId": "colombia", "nameRu": "Колумбия", "subtitleRu": "Торговый морской флаг", "variantType": "civil_ensign", "isPrimaryStudyVariant": true, "mediaId": "flag-colombia-civil-ensign",
+      "summaryRu": "Жёлто-сине-красный триколор с овальным знаком посередине: синее поле, красная кайма и белая восьмилучевая звезда.",
+      "explanationRu": "Обычный национальный флаг Колумбии состоит только из полос; у торгового морского варианта в центре добавлена белая восьмилучевая звезда в синем овале с красной каймой. Этот знак описан в статье 2 декрета 861/1924. Декрет 1687/1986 отменил прежнее предписание вывешивать этот вариант в зарубежных государственных учреждениях, но не описание торгового флага.",
+      "symbols": [{ "nameRu": "Белая восьмилучевая звезда", "category": "star", "meaningStatus": "unknown", "sourceIds": ["co-flags-decree-861-1924"] }],
+      "facts": [{ "labelRu": "Отличие", "valueRu": "Белая звезда в синем овале с красной каймой" }, { "labelRu": "Назначение", "valueRu": "Торговый морской флаг" }],
+      "sourceIds": ["co-flags-decree-861-1924", "co-flags-decree-1687-1986"], "quizHints": { "similarityTags": ["merchant_ensign", "eight_pointed_star", "yellow_blue_red"] }, "status": "published", "verifiedAt": "2026-09-24"
+    }
+  ]
+}

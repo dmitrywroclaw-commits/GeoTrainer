@@ -1,0 +1,149 @@
+{
+  "batch_id": "003x-m49-300-428-flags",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "gr-presidency-flag",
+      "title": "The Flag",
+      "publisher": "Presidency of the Hellenic Republic",
+      "source_type": "government",
+      "url": "https://www.presidency.gr/en/presidency/the-flag/",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Греция"
+    },
+    {
+      "source_id": "ie-government-national-flag",
+      "title": "The National Flag",
+      "publisher": "Department of the Taoiseach, Ireland",
+      "source_type": "government",
+      "url": "https://www.gov.ie/en/department-of-the-taoiseach/publications/the-national-flag/",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Ирландия"
+    },
+    {
+      "source_id": "it-presidency-tricolour",
+      "title": "Italian Tricolour Flag",
+      "publisher": "Presidency of the Italian Republic",
+      "source_type": "government",
+      "url": "https://www.quirinale.it/it/pagine/italian-tricolour-flag",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Италия"
+    },
+    {
+      "source_id": "jp-cabinet-flag",
+      "title": "National Flag & National Anthem",
+      "publisher": "Cabinet Office, Government of Japan",
+      "source_type": "government",
+      "url": "https://www.cao.go.jp/en/flag_anthem",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Япония"
+    },
+    {
+      "source_id": "lv-national-flag-law",
+      "title": "Law on the National Flag of Latvia",
+      "publisher": "State Language Centre / Latvijas Vēstnesis",
+      "source_type": "law",
+      "url": "https://likumi.lv/ta/en/en/id/200642",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Латвия"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "greece",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "greece-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "blue_white_stripes|white_cross",
+          "decision": "eligible",
+          "decision_reason": "Национальный флаг выбран как основной учебный вариант.",
+          "source_ids": "gr-presidency-flag",
+          "primary_source_urls": "https://www.presidency.gr/en/presidency/the-flag/"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "ireland",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "ireland-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "green_white_orange_vertical",
+          "decision": "eligible",
+          "decision_reason": "Национальный флаг выбран как основной учебный вариант.",
+          "source_ids": "ie-government-national-flag",
+          "primary_source_urls": "https://www.gov.ie/en/department-of-the-taoiseach/publications/the-national-flag/"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "italy",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "italy-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "green_white_red_vertical",
+          "decision": "eligible",
+          "decision_reason": "Национальный флаг выбран как основной учебный вариант.",
+          "source_ids": "it-presidency-tricolour",
+          "primary_source_urls": "https://www.quirinale.it/it/pagine/italian-tricolour-flag"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "japan",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "japan-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "white_field|red_sun_disc",
+          "decision": "eligible",
+          "decision_reason": "Национальный флаг выбран как основной учебный вариант.",
+          "source_ids": "jp-cabinet-flag",
+          "primary_source_urls": "https://www.cao.go.jp/en/flag_anthem"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "latvia",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "latvia-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "carmine_white_carmine_horizontal",
+          "decision": "eligible",
+          "decision_reason": "Национальный флаг выбран как основной учебный вариант.",
+          "source_ids": "lv-national-flag-law",
+          "primary_source_urls": "https://likumi.lv/ta/en/en/id/200642"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}

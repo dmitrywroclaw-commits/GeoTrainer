@@ -97,13 +97,7 @@ interface Country {
 ## 6. Flag model
 
 ```ts
-type FlagVariantType =
-  | 'national'
-  | 'state'
-  | 'civil'
-  | 'state_ensign'
-  | 'civil_ensign'
-  | 'other_official';
+type FlagVariantType = 'national' | 'state';
 
 type SymbolCategory =
   | 'coat_of_arms'
@@ -155,7 +149,7 @@ interface FlagEntry {
 
 ### Inclusion rule
 
-A flag is eligible for the initial learning catalog when its selected official variant contains at least one meaningful graphic element beyond simple geometric color fields.
+Publish exactly one national or state flag per country. Choose the more detailed official design; choose the national flag when equally detailed. Simple geometric designs are eligible and may have an empty `symbols` array.
 
 ## 7. Emblem model
 
@@ -319,7 +313,7 @@ At minimum validate:
 - media rights fields are present;
 - dates use a consistent format;
 - no quiz-eligible entry is missing display text;
-- no published flag uses an empty symbol list in the initial curated catalog.
+- each published country has exactly one national or state flag; simple flags may have an empty symbol list.
 
 Prefer a runtime/build schema tool such as Zod or JSON Schema, but keep content format implementation-independent.
 

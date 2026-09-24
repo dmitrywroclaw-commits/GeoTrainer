@@ -48,6 +48,14 @@ for (const row of countries) {
 
 const decisions = new Set(['eligible', 'excluded', 'deferred']);
 const reviews = new Set(['needs_revalidation', 'sources_checked', 'media_checked', 'reviewed']);
+const selectedFlagCountries = new Set();
+for (const row of flags) {
+  if (row.decision !== 'eligible') continue;
+  assert(['national', 'state'].includes(row.variant_type), `flag-variants.csv: ${row.variant_id} вне допустимых типов`);
+  assert(row.is_primary_study_variant === 'true', `flag-variants.csv: ${row.variant_id} не отмечен основным`);
+  assert(!selectedFlagCountries.has(row.country_id), `flag-variants.csv: несколько выбранных флагов для ${row.country_id}`);
+  selectedFlagCountries.add(row.country_id);
+}
 for (const [name, rows, idField] of [['flag-variants.csv', flags, 'variant_id'], ['emblems.csv', emblems, 'symbol_id']]) {
   for (const row of rows) {
     assert(countryIds.has(row.country_id), `${name}: неизвестная страна ${row.country_id}`);
@@ -85,7 +93,14 @@ for (const row of media) {
 
 const registryByKind = { flag: flags, emblem: emblems, landmark: landmarks };
 const published = library.entries.filter(entry => entry.status === 'published');
+const publishedFlagCountries = new Set();
 for (const entry of published) {
+  if (entry.kind === 'flag') {
+    assert(['national', 'state'].includes(entry.variantType), `Опубликован недопустимый вариант флага ${entry.id}`);
+    assert(entry.isPrimaryStudyVariant === true, `Флаг ${entry.id} не отмечен основным`);
+    assert(!publishedFlagCountries.has(entry.countryId), `Опубликовано несколько флагов для ${entry.countryId}`);
+    publishedFlagCountries.add(entry.countryId);
+  }
   const matches = registryByKind[entry.kind].filter(row => row.content_entry_id === entry.id);
   assert(matches.length === 1, `Опубликованная карточка ${entry.id} должна иметь ровно одну строку реестра`);
   if (matches.length === 1) assert(matches[0].decision === 'eligible', `Опубликованная карточка ${entry.id} не eligible в реестре`);

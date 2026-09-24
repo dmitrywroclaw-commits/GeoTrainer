@@ -1,0 +1,29 @@
+{
+  "batch_id": "publish-049-croatia-flags",
+  "countries": [],
+  "sources": [
+    { "id": "hr-symbols-law-1990", "title": "Zakon o grbu, zastavi i himni Republike Hrvatske te zastavi i lenti predsjednika Republike Hrvatske", "publisher": "Narodne novine, Republika Hrvatska", "sourceType": "law", "url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1990_12_55_1067.html", "accessedAt": "2026-09-24" }
+  ],
+  "media": [
+    { "id": "flag-croatia", "kind": "flag", "localPath": "/media/flags/croatia.svg", "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Croatia.svg", "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg", "publisher": "Wikimedia Commons", "author": "Nightstallion, Elephantus, Neoneo13, Denelson83, Rainman, R-41, Minestrone, Lupo, Zscout370, MaGa and later Commons contributors", "license": "Public domain (official Croatian flag design)", "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Croatia.svg#Licensing", "attributionText": "Wikimedia Commons contributors; официальный рисунок флага Хорватии, общественное достояние, без изменений.", "checkedAt": "2026-09-24" },
+    { "id": "flag-croatia-presidential", "kind": "flag", "localPath": "/media/flags/croatia-presidential.svg", "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_President_of_Croatia.svg", "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_the_President_of_Croatia.svg", "publisher": "Wikimedia Commons", "author": "Suradnik13; MaGa", "license": "CC BY-SA 4.0", "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/", "attributionText": "Suradnik13 и MaGa / Wikimedia Commons, CC BY-SA 4.0; исходный SVG без изменений.", "checkedAt": "2026-09-24" }
+  ],
+  "entries": [
+    {
+      "id": "croatia-national-flag", "kind": "flag", "countryId": "croatia", "nameRu": "Хорватия", "subtitleRu": "Национальный флаг", "variantType": "national", "isPrimaryStudyVariant": true, "mediaId": "flag-croatia",
+      "summaryRu": "Красная, белая и синяя горизонтальные полосы с хорватским шахматным гербом в центре и короной из пяти исторических щитов.",
+      "explanationRu": "Статья 10 закона о государственных символах Хорватии помещает герб в центр красно-бело-синего флага. На главном щите 25 красных и белых клеток; над ним видны пять малых исторических гербов. Для ответа в викторине ищите шахматный щит и пять щитов над ним.",
+      "symbols": [{ "nameRu": "Шахматный герб с пятью малыми щитами", "category": "coat_of_arms", "meaningStatus": "unknown", "sourceIds": ["hr-symbols-law-1990"] }],
+      "facts": [{ "labelRu": "Порядок полос", "valueRu": "Красная, белая, синяя" }, { "labelRu": "Главный щит", "valueRu": "25 красных и белых полей" }],
+      "sourceIds": ["hr-symbols-law-1990"], "quizHints": { "similarityTags": ["coat_of_arms_on_flag", "checkerboard_shield", "red_white_blue"] }, "status": "published", "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "croatia-presidential-flag", "kind": "flag", "countryId": "croatia", "nameRu": "Хорватия", "subtitleRu": "Флаг Президента", "variantType": "other_official", "isPrimaryStudyVariant": false, "mediaId": "flag-croatia-presidential",
+      "summaryRu": "Квадратное тёмно-синее полотнище с шахматной каймой, историческим гербом в центре и лентой с буквами RH над ним.",
+      "explanationRu": "Статья 23 закона отдельно описывает флаг Президента Хорватии. Его квадратное поле обрамлено чередующимися красными и белыми клетками. В центре находится щит с 25 полями, окружённый пятью историческими гербами; над щитом лента с буквами RH — сокращением названия страны на хорватском языке. Это отдельный официальный вариант, отличающийся от прямоугольного национального флага.",
+      "symbols": [{ "nameRu": "Шахматный щит и пять исторических гербов", "category": "coat_of_arms", "meaningStatus": "unknown", "sourceIds": ["hr-symbols-law-1990"] }, { "nameRu": "Буквы RH", "category": "inscription", "meaningStatus": "official", "meaningRu": "Republika Hrvatska — Республика Хорватия", "sourceIds": ["hr-symbols-law-1990"] }],
+      "facts": [{ "labelRu": "Форма", "valueRu": "Квадрат" }, { "labelRu": "Буквы на ленте", "valueRu": "RH" }],
+      "sourceIds": ["hr-symbols-law-1990"], "quizHints": { "similarityTags": ["presidential_standard", "checkerboard_border", "coat_of_arms_on_flag"] }, "status": "published", "verifiedAt": "2026-09-24"
+    }
+  ]
+}

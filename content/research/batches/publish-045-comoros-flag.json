@@ -1,0 +1,25 @@
+{
+  "batch_id": "publish-045-comoros-flag",
+  "countries": [
+    { "id": "comoros", "nameRu": "Коморские Острова", "region": "Восточная Африка", "m49": "174", "iso2": "KM", "iso3": "COM" }
+  ],
+  "sources": [
+    { "id": "km-constitution-2018-art9", "title": "Constitution de l'Union des Comores, révisée en 2018, article 9", "publisher": "Union des Comores; copie du texte consolidé: ILO NATLEX", "sourceType": "law", "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/72696/COM-72696%20%28CONSOLID%29.pdf", "accessedAt": "2026-09-24" }
+  ],
+  "media": [
+    { "id": "flag-comoros", "kind": "flag", "localPath": "/media/flags/comoros.svg", "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Comoros.svg", "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg", "publisher": "Wikimedia Commons", "author": "Wikimedia Commons contributors; see file history", "license": "Public domain (simple geometry)", "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Comoros.svg#Licensing", "attributionText": "Wikimedia Commons contributors; простая геометрия, общественное достояние, без изменений.", "checkedAt": "2026-09-24" }
+  ],
+  "entries": [
+    {
+      "id": "comoros-national-flag", "kind": "flag", "countryId": "comoros", "nameRu": "Коморские Острова", "subtitleRu": "Национальный флаг", "variantType": "national", "isPrimaryStudyVariant": true, "mediaId": "flag-comoros",
+      "summaryRu": "Четыре равные горизонтальные полосы — жёлтая, белая, красная и синяя; у древка зелёный треугольник с белыми полумесяцем и четырьмя звёздами.",
+      "explanationRu": "Статья 9 Конституции перечисляет полосы сверху вниз и отдельно описывает полумесяц с четырьмя звёздами в зелёном треугольнике у древка. Для узнавания запомните сочетание четырёх полос и четырёх звёзд; значение отдельных цветов этот источник не раскрывает.",
+      "symbols": [
+        { "nameRu": "Белый полумесяц", "category": "moon", "meaningStatus": "unknown", "sourceIds": ["km-constitution-2018-art9"] },
+        { "nameRu": "Четыре белые звезды", "category": "star", "meaningStatus": "unknown", "sourceIds": ["km-constitution-2018-art9"] }
+      ],
+      "facts": [{ "labelRu": "Порядок полос", "valueRu": "Жёлтая, белая, красная, синяя" }, { "labelRu": "Звёзды", "valueRu": "Четыре в зелёном треугольнике" }],
+      "sourceIds": ["km-constitution-2018-art9"], "quizHints": { "similarityTags": ["crescent", "four_stars", "four_horizontal_stripes"] }, "status": "published", "verifiedAt": "2026-09-24"
+    }
+  ]
+}

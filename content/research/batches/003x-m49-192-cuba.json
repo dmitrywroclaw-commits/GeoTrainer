@@ -1,0 +1,22 @@
+{
+  "batch_id": "003x-m49-192-cuba",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    { "source_id": "cu-symbols-law-128-2019", "title": "Ley n.º 128/2019 de los Símbolos Nacionales de la República de Cuba", "publisher": "Gaceta Oficial de la República de Cuba, Ministerio de Justicia", "source_type": "law", "url": "https://www.gacetaoficial.gob.cu/sites/default/files/goc-2019-o71_0.pdf", "accessed_at": "2026-09-24", "supports": "Статьи 5–7 точно описывают национальный флаг и значение звезды; статья 59 — национальный герб; специальное положение сохраняет флаг Карлоса Мануэля де Сеспедеса как исторический символ." },
+    { "source_id": "cu-presidential-flag-commons-candidate", "title": "File:Flag of the President of Cuba.svg", "publisher": "Wikimedia Commons", "source_type": "media_catalog", "url": "https://commons.wikimedia.org/wiki/File:Flag_of_the_President_of_Cuba.svg", "accessed_at": "2026-09-24", "supports": "Показывает предполагаемый президентский штандарт, но не подтверждает его действующий официальный статус." }
+  ],
+  "countries": [
+    {
+      "country_id": "cuba", "audit_status": "deferred", "notes": "Закон 128/2019 устанавливает действующий национальный флаг со звездой и герб пальмы. Флаг Сеспедеса закреплён как исторически значимый, но не назван вариантом национального флага. Возможный президентский штандарт встречается на Wikimedia Commons, но первичный действующий акт не найден.",
+      "flags": [
+        { "variant_id": "cuba-national-flag", "variant_type": "national", "is_primary_study_variant": "true", "official_status": "official", "graphic_elements": "three_blue_two_white_stripes|red_hoist_triangle|white_five_pointed_star", "decision": "eligible", "decision_reason": "Статьи 5–7 закона 128/2019 точно описывают белую пятиконечную звезду в красном треугольнике у древка.", "source_ids": "cu-symbols-law-128-2019", "primary_source_urls": "https://www.gacetaoficial.gob.cu/sites/default/files/goc-2019-o71_0.pdf" },
+        { "variant_id": "cuba-cespedes-historical-flag", "variant_type": "other_official", "is_primary_study_variant": "false", "official_status": "historical", "graphic_elements": "red_white_blue_fields|white_star", "decision": "excluded", "decision_reason": "Специальное положение закона 128/2019 признаёт флаг Карлоса Мануэля де Сеспедеса исторически значимым символом, но не устанавливает его как действующий национальный вариант.", "source_ids": "cu-symbols-law-128-2019", "primary_source_urls": "https://www.gacetaoficial.gob.cu/sites/default/files/goc-2019-o71_0.pdf" },
+        { "variant_id": "cuba-presidential-standard-candidate", "variant_type": "other_official", "is_primary_study_variant": "false", "official_status": "unverified", "graphic_elements": "coat_of_arms|stars|blue_field_unverified", "decision": "deferred", "decision_reason": "Сторонняя страница содержит изображение президентского штандарта, но действующий официальный акт и образец не найдены.", "source_ids": "cu-presidential-flag-commons-candidate|cu-symbols-law-128-2019", "primary_source_urls": "https://www.gacetaoficial.gob.cu/sites/default/files/goc-2019-o71_0.pdf" }
+      ],
+      "emblems": [
+        { "symbol_id": "cuba-coat-of-arms", "symbol_type": "coat_of_arms", "official_name_ru": "Государственный герб пальмы Кубы", "elements": "palm|sea|golden_key|rising_sun|blue_white_stripes|phrygian_cap|white_star|fasces|laurel|oak", "decision": "eligible", "decision_reason": "Статья 59 и приложение закона 128/2019 описывают элементы и геометрию действующего государственного герба; конкретный файл и права пока не проверены.", "source_ids": "cu-symbols-law-128-2019", "primary_source_urls": "https://www.gacetaoficial.gob.cu/sites/default/files/goc-2019-o71_0.pdf" }
+      ]
+    }
+  ]
+}

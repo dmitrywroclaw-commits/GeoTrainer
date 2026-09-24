@@ -1,0 +1,32 @@
+{
+  "batch_id": "003u-m49-178-180-congos",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    { "source_id": "cg-constitution-2015-art3-4", "title": "Constitution de la République du Congo, articles 3–4", "publisher": "Secrétariat général du gouvernement de la République du Congo", "source_type": "constitution", "url": "https://www.sgg.cg/fr/droit-congolais/constitution.html", "accessed_at": "2026-09-24", "supports": "Статья 3 описывает флаг как два цветных треугольника с диагональной жёлтой полосой; статья 4 относит печать и герб к закону." },
+    { "source_id": "cg-presidency-symbols", "title": "Les Symboles: armoiries et drapeau", "publisher": "Présidence de la République du Congo", "source_type": "government", "url": "https://presidence.cg/les-symboles/", "accessed_at": "2026-09-24", "supports": "Президентский сайт показывает действующий герб и национальный флаг, приводит историю принятия герба." },
+    { "source_id": "cd-presidency-flag", "title": "Les symboles de la République: le drapeau", "publisher": "Présidence de la République démocratique du Congo", "source_type": "government", "url": "https://www.presidence.cd/detail-symbole/1", "accessed_at": "2026-09-24", "supports": "Официальное описание звезды, диагональной полосы и значений цветов и звезды." },
+    { "source_id": "cd-presidency-emblem", "title": "Les symboles de la République: les armoiries", "publisher": "Présidence de la République démocratique du Congo", "source_type": "government", "url": "https://www.presidence.cd/detail-symbole/2", "accessed_at": "2026-09-24", "supports": "Официальное описание действующей эмблемы ДР Конго." }
+  ],
+  "countries": [
+    {
+      "country_id": "congo", "audit_status": "deferred", "notes": "Конституция исключает обычный трёхцветный флаг по графическому критерию: только цветные геометрические поля. Президентский сайт подтверждает отдельный национальный герб. Действующий закон и точный образец государственной печати требуют проверки; поиск особых официальных флагов также не завершён.",
+      "flags": [
+        { "variant_id": "congo-national-flag", "variant_type": "national", "is_primary_study_variant": "false", "official_status": "official", "graphic_elements": "green_red_triangles|yellow_diagonal_band", "decision": "excluded", "decision_reason": "Статья 3 Конституции описывает только цветные геометрические поля; отдельного графического символа на национальном флаге нет.", "source_ids": "cg-constitution-2015-art3-4|cg-presidency-symbols", "primary_source_urls": "https://www.sgg.cg/fr/droit-congolais/constitution.html|https://presidence.cg/les-symboles/" }
+      ],
+      "emblems": [
+        { "symbol_id": "congo-coat-of-arms", "symbol_type": "coat_of_arms", "official_name_ru": "Государственный герб Республики Конго", "elements": "shield|lion|elephant_supporters|crown|motto", "decision": "eligible", "decision_reason": "Президентский сайт показывает отдельный действующий герб и историю его утверждения; права и точный файл изображения нужно проверить перед публикацией.", "source_ids": "cg-presidency-symbols|cg-constitution-2015-art3-4", "primary_source_urls": "https://presidence.cg/les-symboles/|https://www.sgg.cg/fr/droit-congolais/constitution.html" },
+        { "symbol_id": "congo-state-seal-unresolved", "symbol_type": "state_seal", "official_name_ru": "Государственная печать Республики Конго", "elements": "unverified", "decision": "deferred", "decision_reason": "Статья 4 Конституции относит определение печати к отдельному закону; действующий акт и образец ещё не сверены.", "source_ids": "cg-constitution-2015-art3-4", "primary_source_urls": "https://www.sgg.cg/fr/droit-congolais/constitution.html" }
+      ]
+    },
+    {
+      "country_id": "democratic-republic-of-the-congo", "audit_status": "deferred", "notes": "Национальный флаг со звездой подтверждён Президентским сайтом и опубликован. Национальная эмблема описана на официальном сайте, но её изображение ещё требует проверки. Возможные специальные официальные варианты флага требуют отдельного подтверждения актом и образцом.",
+      "flags": [
+        { "variant_id": "democratic-republic-of-the-congo-national-flag", "variant_type": "national", "is_primary_study_variant": "true", "official_status": "official", "graphic_elements": "sky_blue_field|yellow_five_pointed_star|red_diagonal_band|yellow_fimbriation", "decision": "eligible", "decision_reason": "Официальный сайт Президента описывает жёлтую звезду в верхнем углу и красную диагональную полосу с жёлтой каймой.", "source_ids": "cd-presidency-flag", "primary_source_urls": "https://www.presidence.cd/detail-symbole/1" }
+      ],
+      "emblems": [
+        { "symbol_id": "democratic-republic-of-the-congo-national-emblem", "symbol_type": "national_emblem", "official_name_ru": "Государственная эмблема Демократической Республики Конго", "elements": "leopard_head|elephant_tusk|spear|motto", "decision": "eligible", "decision_reason": "Президентский сайт приводит действующую национальную эмблему; конкретный файл и права надо проверить перед публикацией.", "source_ids": "cd-presidency-emblem", "primary_source_urls": "https://www.presidence.cd/detail-symbole/2" }
+      ]
+    }
+  ]
+}

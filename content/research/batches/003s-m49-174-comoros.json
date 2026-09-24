@@ -1,0 +1,48 @@
+{
+  "batch_id": "003s-m49-174-comoros",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "km-constitution-2018-art9",
+      "title": "Constitution de l'Union des Comores, révisée en 2018, article 9",
+      "publisher": "Union des Comores; copie du texte consolidé: ILO NATLEX",
+      "source_type": "law",
+      "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/72696/COM-72696%20%28CONSOLID%29.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Статья 9 описывает четыре полосы, зелёный треугольник у древка, белый полумесяц и четыре белые звезды. Указывает, что государственная печать определяется законом."
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "comoros",
+      "audit_status": "deferred",
+      "notes": "Флаг точно описан статьёй 9 Конституции 2018 года; отдельный действующий рисунок государственной печати и закон, определяющий её, ещё требуется проверить. Упоминание печати в Конституции само по себе не подтверждает точное изображение.",
+      "flags": [
+        {
+          "variant_id": "comoros-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "four_horizontal_stripes|green_hoist_triangle|white_crescent|four_white_stars",
+          "decision": "eligible",
+          "decision_reason": "Статья 9 Конституции прямо описывает полумесяц и четыре звезды на зелёном треугольнике у древка.",
+          "source_ids": "km-constitution-2018-art9",
+          "primary_source_urls": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/72696/COM-72696%20%28CONSOLID%29.pdf"
+        }
+      ],
+      "emblems": [
+        {
+          "symbol_id": "comoros-state-seal-unresolved",
+          "symbol_type": "state_seal",
+          "official_name_ru": "Государственная печать Коморских Островов",
+          "elements": "unverified",
+          "decision": "deferred",
+          "decision_reason": "Статья 9 Конституции упоминает государственные печати, но относит определение государственной печати к отдельному закону; его действующий текст и точный рисунок пока не сверены.",
+          "source_ids": "km-constitution-2018-art9",
+          "primary_source_urls": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/72696/COM-72696%20%28CONSOLID%29.pdf"
+        }
+      ]
+    }
+  ]
+}

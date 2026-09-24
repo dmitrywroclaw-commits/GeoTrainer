@@ -28,4 +28,15 @@ describe('content validation', () => {
       : asset);
     expect(() => validateReferences(parsed, assets)).toThrow(/атрибуция/);
   });
+
+  it('accepts a plain national flag and rejects a second flag for the same country', () => {
+    const parsed = librarySchema.parse(library);
+    const assets = mediaSchema.parse(media);
+    const plain = parsed.entries.find(entry => entry.id === 'botswana-national-flag');
+    expect(plain?.kind).toBe('flag');
+    if (plain?.kind !== 'flag') return;
+    expect(plain.symbols).toEqual([]);
+    const duplicate = { ...plain, id: 'botswana-second-flag' };
+    expect(() => validateReferences({ ...parsed, entries: [...parsed.entries, duplicate] }, assets)).toThrow(/Повторный флаг/);
+  });
 });
