@@ -1319,6 +1319,38 @@
       "m49": "262",
       "iso2": "DJ",
       "iso3": "DJI"
+    },
+    {
+      "id": "laos",
+      "nameRu": "Лаос",
+      "region": "Юго-Восточная Азия",
+      "m49": "418",
+      "iso2": "LA",
+      "iso3": "LAO"
+    },
+    {
+      "id": "mongolia",
+      "nameRu": "Монголия",
+      "region": "Восточная Азия",
+      "m49": "496",
+      "iso2": "MN",
+      "iso3": "MNG"
+    },
+    {
+      "id": "tajikistan",
+      "nameRu": "Таджикистан",
+      "region": "Центральная Азия",
+      "m49": "762",
+      "iso2": "TJ",
+      "iso3": "TJK"
+    },
+    {
+      "id": "kyrgyzstan",
+      "nameRu": "Кыргызстан",
+      "region": "Центральная Азия",
+      "m49": "417",
+      "iso2": "KG",
+      "iso3": "KGZ"
     }
   ],
   "sources": [
@@ -3256,6 +3288,38 @@
       "publisher": "Embassy of the Republic of Djibouti",
       "sourceType": "government",
       "url": "https://www.djibouti.ch/ambassade/index.php/LaRepublique/EmblemesEtDrapeaux",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "la-national-assembly-flag",
+      "title": "About the Lao PDR: National Flag",
+      "publisher": "National Assembly of the Lao PDR",
+      "sourceType": "government",
+      "url": "https://na.gov.la/about-the-lao-pdr/?lang=en",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "mn-constitution-state-flag",
+      "title": "Constitution of Mongolia: State Flag",
+      "publisher": "Constitutional Court of Mongolia",
+      "sourceType": "law",
+      "url": "https://www.conscourt.gov.mn/?lang=en&page_id=842",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "tj-mfa-state-symbols",
+      "title": "Государственные символы Республики Таджикистан",
+      "publisher": "Ministry of Foreign Affairs of Tajikistan",
+      "sourceType": "government",
+      "url": "https://mfa.tj/ru/main/tadzhikistan/gosudarstvennye-simvoly",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "kg-penitentiary-service-flag-2023",
+      "title": "В учреждении №53 СИН состоялась церемония поднятия государственного флага",
+      "publisher": "State Penitentiary Service of the Kyrgyz Republic",
+      "sourceType": "government",
+      "url": "https://www.gsin.gov.kg/public/news/1718",
       "accessedAt": "2026-09-24"
     }
   ],
@@ -12468,6 +12532,147 @@
           "horizontal_bicolor",
           "white_triangle",
           "red_star"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "laos-national-flag",
+      "kind": "flag",
+      "countryId": "laos",
+      "nameRu": "Лаос",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-laos-national",
+      "summaryRu": "Красные крайние полосы, широкая синяя полоса посередине и белый круг в её центре.",
+      "explanationRu": "Национальное собрание Лаоса описывает тёмно-синюю центральную полосу, красные края и белый круг в середине. Синяя полоса вдвое шире каждой красной.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Средняя полоса",
+          "valueRu": "Тёмно-синяя с белым кругом"
+        },
+        {
+          "labelRu": "Крайние полосы",
+          "valueRu": "Красные"
+        }
+      ],
+      "sourceIds": [
+        "la-national-assembly-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_stripes",
+          "blue_center",
+          "white_disc"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "mongolia-national-flag",
+      "kind": "flag",
+      "countryId": "mongolia",
+      "nameRu": "Монголия",
+      "subtitleRu": "Государственный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-mongolia-national",
+      "summaryRu": "Три вертикальные полосы — красная, синяя, красная; на красной полосе у древка золотой знак соёмбо.",
+      "explanationRu": "Конституция Монголии определяет сочетание красной, синей и красной полос и золотой соёмбо в центре красной полосы у древка.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Красная, синяя, красная"
+        },
+        {
+          "labelRu": "У древка",
+          "valueRu": "Золотой знак соёмбо"
+        }
+      ],
+      "sourceIds": [
+        "mn-constitution-state-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "vertical_tricolor",
+          "soyombo",
+          "red_blue"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "tajikistan-national-flag",
+      "kind": "flag",
+      "countryId": "tajikistan",
+      "nameRu": "Таджикистан",
+      "subtitleRu": "Государственный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-tajikistan-national",
+      "summaryRu": "Красная, белая и зелёная горизонтальные полосы; на белой полосе золотые корона и семь звёзд.",
+      "explanationRu": "Министерство иностранных дел Таджикистана описывает на белой полосе золотую стилизованную корону и полукруг из семи звёзд над ней.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Красная, белая и зелёная"
+        },
+        {
+          "labelRu": "На белой полосе",
+          "valueRu": "Корона и семь золотых звёзд"
+        }
+      ],
+      "sourceIds": [
+        "tj-mfa-state-symbols"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_tricolor",
+          "crown",
+          "seven_stars"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "kyrgyzstan-national-flag",
+      "kind": "flag",
+      "countryId": "kyrgyzstan",
+      "nameRu": "Кыргызстан",
+      "subtitleRu": "Государственный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-kyrgyzstan-national",
+      "summaryRu": "Красное полотнище с золотым солнцем: сорок прямых лучей окружают изображение түндүка в центре.",
+      "explanationRu": "Государственное ведомство Кыргызстана подтверждает красное поле, солнце с сорока лучами и түндүк в центре. Закон 2023 года изменил форму лучей с волнистых на прямые; в карточке показан действующий вариант.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Солнце",
+          "valueRu": "Сорок прямых лучей"
+        },
+        {
+          "labelRu": "В центре",
+          "valueRu": "Түндүк — верхняя часть юрты"
+        }
+      ],
+      "sourceIds": [
+        "kg-penitentiary-service-flag-2023"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "red_field",
+          "sun",
+          "forty_rays",
+          "tunduk"
         ]
       },
       "status": "published",

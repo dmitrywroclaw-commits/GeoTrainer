@@ -3038,5 +3038,57 @@
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Djibouti.svg",
     "attributionText": "Unknown author; see Wikimedia Commons file history / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
     "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-laos-national",
+    "kind": "flag",
+    "localPath": "/media/flags/laos.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Laos.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Wikimedia Commons user SKopp",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Laos.svg",
+    "attributionText": "Wikimedia Commons user SKopp / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-mongolia-national",
+    "kind": "flag",
+    "localPath": "/media/flags/mongolia.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Mongolia.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "See Wikimedia Commons file history",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Mongolia.svg",
+    "attributionText": "See Wikimedia Commons file history / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-tajikistan-national",
+    "kind": "flag",
+    "localPath": "/media/flags/tajikistan.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Tajikistan.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Tajikistan.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Unknown author; see Wikimedia Commons file history",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Tajikistan.svg",
+    "attributionText": "Unknown author; see Wikimedia Commons file history / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-kyrgyzstan-national",
+    "kind": "flag",
+    "localPath": "/media/flags/kyrgyzstan.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Kyrgyzstan.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Kyrgyzstan.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Shakiev N.T., Primov U.B.",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Kyrgyzstan.svg",
+    "attributionText": "Shakiev N.T., Primov U.B. / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
   }
 ]

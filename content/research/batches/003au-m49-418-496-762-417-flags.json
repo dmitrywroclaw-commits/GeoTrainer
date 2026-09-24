@@ -1,0 +1,121 @@
+{
+  "batch_id": "003au-m49-418-496-762-417-flags",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "la-national-assembly-flag",
+      "title": "About the Lao PDR: National Flag",
+      "publisher": "National Assembly of the Lao PDR",
+      "source_type": "government",
+      "url": "https://na.gov.la/about-the-lao-pdr/?lang=en",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Лаос"
+    },
+    {
+      "source_id": "mn-constitution-state-flag",
+      "title": "Constitution of Mongolia: State Flag",
+      "publisher": "Constitutional Court of Mongolia",
+      "source_type": "law",
+      "url": "https://www.conscourt.gov.mn/?lang=en&page_id=842",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Монголия"
+    },
+    {
+      "source_id": "tj-mfa-state-symbols",
+      "title": "Государственные символы Республики Таджикистан",
+      "publisher": "Ministry of Foreign Affairs of Tajikistan",
+      "source_type": "government",
+      "url": "https://mfa.tj/ru/main/tadzhikistan/gosudarstvennye-simvoly",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Таджикистан"
+    },
+    {
+      "source_id": "kg-penitentiary-service-flag-2023",
+      "title": "В учреждении №53 СИН состоялась церемония поднятия государственного флага",
+      "publisher": "State Penitentiary Service of the Kyrgyz Republic",
+      "source_type": "government",
+      "url": "https://www.gsin.gov.kg/public/news/1718",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Кыргызстан"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "laos",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "laos-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "красные крайние полосы; широкая синяя полоса; белый круг",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "la-national-assembly-flag",
+          "primary_source_urls": "https://na.gov.la/about-the-lao-pdr/?lang=en"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "mongolia",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "mongolia-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "красная, синяя и красная вертикальные полосы; золотой соёмбо у древка",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "mn-constitution-state-flag",
+          "primary_source_urls": "https://www.conscourt.gov.mn/?lang=en&page_id=842"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "tajikistan",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "tajikistan-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "красная, белая и зелёная горизонтальные полосы; золотая корона; семь звёзд",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "tj-mfa-state-symbols",
+          "primary_source_urls": "https://mfa.tj/ru/main/tadzhikistan/gosudarstvennye-simvoly"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "kyrgyzstan",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "kyrgyzstan-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "красное поле; золотое солнце с сорока прямыми лучами; түндүк в центре",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "kg-penitentiary-service-flag-2023",
+          "primary_source_urls": "https://www.gsin.gov.kg/public/news/1718"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}
