@@ -2466,5 +2466,70 @@
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Uzbekistan.svg",
     "attributionText": "Farhod Yoʻldoshev / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
     "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-vietnam-national",
+    "kind": "flag",
+    "localPath": "/media/flags/vietnam.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Vietnam.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "See Wikimedia Commons file history",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Vietnam.svg",
+    "attributionText": "See Wikimedia Commons file history / Wikimedia Commons; общественное достояние, исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-zambia-national",
+    "kind": "flag",
+    "localPath": "/media/flags/zambia.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Zambia.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Gabriel Ellison",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Zambia.svg",
+    "attributionText": "Gabriel Ellison / Wikimedia Commons; общественное достояние, исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-zimbabwe-national",
+    "kind": "flag",
+    "localPath": "/media/flags/zimbabwe.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Zimbabwe.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "See Wikimedia Commons file history",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Zimbabwe.svg",
+    "attributionText": "See Wikimedia Commons file history / Wikimedia Commons; общественное достояние, исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-yemen-national",
+    "kind": "flag",
+    "localPath": "/media/flags/yemen.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Yemen.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Nightstallion and others; see Wikimedia Commons file history",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Yemen.svg",
+    "attributionText": "Nightstallion and others; see Wikimedia Commons file history / Wikimedia Commons; общественное достояние, исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-tanzania-national",
+    "kind": "flag",
+    "localPath": "/media/flags/tanzania.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Tanzania.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Not specified on Wikimedia Commons",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Tanzania.svg",
+    "attributionText": "Not specified on Wikimedia Commons / Wikimedia Commons; общественное достояние, исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
   }
 ]

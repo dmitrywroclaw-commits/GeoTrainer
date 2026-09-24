@@ -1,0 +1,149 @@
+{
+  "batch_id": "003ai-m49-704-894-flags",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "vn-government-national-flag",
+      "title": "National flag, emblem, anthem, declaration of independence",
+      "publisher": "Government of Vietnam",
+      "source_type": "government",
+      "url": "https://vietnam.gov.vn/default.aspx?catname=national-flag-emblem-anthem-declaration-of-independence-68960",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Вьетнам"
+    },
+    {
+      "source_id": "zm-state-house-national-symbols",
+      "title": "National Symbols: The National Flag",
+      "publisher": "State House of Zambia",
+      "source_type": "government",
+      "url": "https://www.sh.gov.zm/national-symbols/",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Замбия"
+    },
+    {
+      "source_id": "zw-embassy-country-profile",
+      "title": "Country Profile: Zimbabwe Flag",
+      "publisher": "Embassy of Zimbabwe in Botswana",
+      "source_type": "government",
+      "url": "https://www.zimgaborone.gov.zw/?page_id=5851",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Зимбабве"
+    },
+    {
+      "source_id": "ye-flag-law-1990",
+      "title": "قرار مجلس الرئاسة بالقانون رقم (1) لسنة 1990م بشأن العلم الوطني",
+      "publisher": "Public Prosecution of Yemen",
+      "source_type": "law",
+      "url": "https://agoye.gov.ye/page.php?id=333&lng=arabic",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Йемен"
+    },
+    {
+      "source_id": "tz-national-emblems-act-2023",
+      "title": "The National Emblems Act, Chapter 10 R.E. 2023",
+      "publisher": "Office of the Solicitor General of Tanzania",
+      "source_type": "law",
+      "url": "https://elibrary.osg.go.tz/items/778cd5d7-0edb-4aae-8c88-c67f2bd70748",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Танзания"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "vietnam",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "vietnam-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_field|gold_five_pointed_star",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "vn-government-national-flag",
+          "primary_source_urls": "https://vietnam.gov.vn/default.aspx?catname=national-flag-emblem-anthem-declaration-of-independence-68960"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "zambia",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "zambia-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "green_field|red_black_orange_fly_stripes|orange_fish_eagle",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "zm-state-house-national-symbols",
+          "primary_source_urls": "https://www.sh.gov.zm/national-symbols/"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "zimbabwe",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "zimbabwe-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "seven_horizontal_stripes|white_hoist_triangle|red_star|zimbabwe_bird",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "zw-embassy-country-profile",
+          "primary_source_urls": "https://www.zimgaborone.gov.zw/?page_id=5851"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "yemen",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "yemen-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_white_black_horizontal",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "ye-flag-law-1990",
+          "primary_source_urls": "https://agoye.gov.ye/page.php?id=333&lng=arabic"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "tanzania",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "tanzania-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "green_blue_diagonal|black_band|gold_fimbriation",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "tz-national-emblems-act-2023",
+          "primary_source_urls": "https://elibrary.osg.go.tz/items/778cd5d7-0edb-4aae-8c88-c67f2bd70748"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}

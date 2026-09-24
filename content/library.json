@@ -1023,6 +1023,14 @@
       "m49": "860",
       "iso2": "UZ",
       "iso3": "UZB"
+    },
+    {
+      "id": "vietnam",
+      "nameRu": "Вьетнам",
+      "region": "Юго-Восточная Азия",
+      "m49": "704",
+      "iso2": "VN",
+      "iso3": "VNM"
     }
   ],
   "sources": [
@@ -2608,6 +2616,46 @@
       "publisher": "Ministry of Foreign Affairs of Uzbekistan",
       "sourceType": "government",
       "url": "https://gov.uz/en/mfa/sections/view/14473",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "vn-government-national-flag",
+      "title": "National flag, emblem, anthem, declaration of independence",
+      "publisher": "Government of Vietnam",
+      "sourceType": "government",
+      "url": "https://vietnam.gov.vn/default.aspx?catname=national-flag-emblem-anthem-declaration-of-independence-68960",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "zm-state-house-national-symbols",
+      "title": "National Symbols: The National Flag",
+      "publisher": "State House of Zambia",
+      "sourceType": "government",
+      "url": "https://www.sh.gov.zm/national-symbols/",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "zw-embassy-country-profile",
+      "title": "Country Profile: Zimbabwe Flag",
+      "publisher": "Embassy of Zimbabwe in Botswana",
+      "sourceType": "government",
+      "url": "https://www.zimgaborone.gov.zw/?page_id=5851",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "ye-flag-law-1990",
+      "title": "قرار مجلس الرئاسة بالقانون رقم (1) لسنة 1990م بشأن العلم الوطني",
+      "publisher": "Public Prosecution of Yemen",
+      "sourceType": "law",
+      "url": "https://agoye.gov.ye/page.php?id=333&lng=arabic",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "tz-national-emblems-act-2023",
+      "title": "The National Emblems Act, Chapter 10 R.E. 2023",
+      "publisher": "Office of the Solicitor General of Tanzania",
+      "sourceType": "law",
+      "url": "https://elibrary.osg.go.tz/items/778cd5d7-0edb-4aae-8c88-c67f2bd70748",
       "accessedAt": "2026-09-24"
     }
   ],
@@ -10298,6 +10346,178 @@
         "similarityTags": [
           "blue_white_green",
           "crescent_stars"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "vietnam-national-flag",
+      "kind": "flag",
+      "countryId": "vietnam",
+      "nameRu": "Вьетнам",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-vietnam-national",
+      "summaryRu": "Красное полотнище с крупной золотой пятиконечной звездой в центре.",
+      "explanationRu": "Государственный портал Вьетнама описывает красное прямоугольное полотнище, в центре которого размещена золотая пятиконечная звезда. Ширина флага составляет две трети его длины.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Фон",
+          "valueRu": "Красный"
+        },
+        {
+          "labelRu": "В центре",
+          "valueRu": "Золотая пятиконечная звезда"
+        }
+      ],
+      "sourceIds": [
+        "vn-government-national-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "red_field",
+          "central_star"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "zambia-national-flag",
+      "kind": "flag",
+      "countryId": "zambia",
+      "nameRu": "Замбия",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-zambia-national",
+      "summaryRu": "Зелёное полотнище с красной, чёрной и оранжевой полосами у свободного края и орлом над ними.",
+      "explanationRu": "На официальной странице государственных символов Замбии флаг описан как зелёное поле с тремя вертикальными полосами у свободного края: красной, чёрной и оранжевой. Над полосами помещён оранжевый орлан-крикун.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "У свободного края",
+          "valueRu": "Красная, чёрная и оранжевая полосы"
+        },
+        {
+          "labelRu": "Над полосами",
+          "valueRu": "Оранжевый орлан-крикун"
+        }
+      ],
+      "sourceIds": [
+        "zm-state-house-national-symbols"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "green_field",
+          "eagle",
+          "vertical_stripes"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "zimbabwe-national-flag",
+      "kind": "flag",
+      "countryId": "zimbabwe",
+      "nameRu": "Зимбабве",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-zimbabwe-national",
+      "summaryRu": "Семь горизонтальных полос; у древка белый треугольник с красной звездой и птицей Зимбабве.",
+      "explanationRu": "Посольство Зимбабве описывает семь горизонтальных полос одинаковой ширины. На белом треугольнике у древка расположена красная пятиконечная звезда, поверх которой изображена птица Зимбабве.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Семь горизонтальных"
+        },
+        {
+          "labelRu": "У древка",
+          "valueRu": "Белый треугольник со звездой и птицей"
+        }
+      ],
+      "sourceIds": [
+        "zw-embassy-country-profile"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_stripes",
+          "triangle",
+          "bird"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "yemen-national-flag",
+      "kind": "flag",
+      "countryId": "yemen",
+      "nameRu": "Йемен",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-yemen-national",
+      "summaryRu": "Три равные горизонтальные полосы: красная, белая и чёрная.",
+      "explanationRu": "Закон Йемена о национальном флаге 1990 года устанавливает прямоугольное полотнище с тремя равными горизонтальными полосами. Их порядок сверху вниз: красная, белая и чёрная.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Сверху вниз",
+          "valueRu": "Красный, белый, чёрный"
+        },
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Три равные горизонтальные"
+        }
+      ],
+      "sourceIds": [
+        "ye-flag-law-1990"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_tricolor",
+          "red_white_black"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "tanzania-national-flag",
+      "kind": "flag",
+      "countryId": "tanzania",
+      "nameRu": "Танзания",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-tanzania-national",
+      "summaryRu": "Зелёное и синее поля разделены широкой чёрной диагональной полосой с золотой каймой.",
+      "explanationRu": "Закон Танзании о национальных эмблемах закрепляет диагональное деление флага. Зелёная область находится у верхнего края со стороны древка, синяя — у нижнего свободного края; между ними проходит чёрная полоса с золотой каймой.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Диагональ",
+          "valueRu": "Чёрная полоса с золотой каймой"
+        },
+        {
+          "labelRu": "Поля",
+          "valueRu": "Зелёное и синее"
+        }
+      ],
+      "sourceIds": [
+        "tz-national-emblems-act-2023"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "diagonal_band",
+          "green_blue"
         ]
       },
       "status": "published",
