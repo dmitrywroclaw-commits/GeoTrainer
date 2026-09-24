@@ -1,0 +1,409 @@
+{
+  "batch_id": "publish-056-six-national-flags",
+  "countries": [
+    {
+      "id": "gabon",
+      "nameRu": "Габон",
+      "region": "Центральная Африка",
+      "m49": "266",
+      "iso2": "GA",
+      "iso3": "GAB"
+    },
+    {
+      "id": "georgia",
+      "nameRu": "Грузия",
+      "region": "Западная Азия",
+      "m49": "268",
+      "iso2": "GE",
+      "iso3": "GEO"
+    },
+    {
+      "id": "gambia",
+      "nameRu": "Гамбия",
+      "region": "Западная Африка",
+      "m49": "270",
+      "iso2": "GM",
+      "iso3": "GMB"
+    },
+    {
+      "id": "ghana",
+      "nameRu": "Гана",
+      "region": "Западная Африка",
+      "m49": "288",
+      "iso2": "GH",
+      "iso3": "GHA"
+    },
+    {
+      "id": "grenada",
+      "nameRu": "Гренада",
+      "region": "Карибский бассейн",
+      "m49": "308",
+      "iso2": "GD",
+      "iso3": "GRD"
+    },
+    {
+      "id": "guinea",
+      "nameRu": "Гвинея",
+      "region": "Западная Африка",
+      "m49": "324",
+      "iso2": "GN",
+      "iso3": "GIN"
+    }
+  ],
+  "sources": [
+    {
+      "id": "ga-constitution-2024",
+      "title": "Constitution de la République Gabonaise, 19 décembre 2024",
+      "publisher": "Gouvernement de la République Gabonaise",
+      "sourceType": "law",
+      "url": "https://gouvernement.ga/wp-content/uploads/2025/11/Constitution-du-19-decembre-2024-de-la-Republique-Gabonaise_BON.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "ge-state-symbols-law",
+      "title": "Organic Law of Georgia on State Symbols of Georgia, Article 2",
+      "publisher": "Legislative Herald of Georgia",
+      "sourceType": "law",
+      "url": "https://www.matsne.gov.ge/ka/document/view/4368486?impose=translateEn",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "gm-un-mission-country-facts",
+      "title": "Country Facts | Gambia",
+      "publisher": "Permanent Mission of the Gambia to the United Nations",
+      "sourceType": "government",
+      "url": "https://www.un.int/gambia/gambia/country-facts",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "gh-immigration-national-flag",
+      "title": "Facts about Ghana: The National Flag",
+      "publisher": "Ghana Immigration Service",
+      "sourceType": "government",
+      "url": "https://gis.gov.gh/wp-content/uploads/2024/02/FACTS-ABOUT-GHANA.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "gd-government-national-symbols",
+      "title": "National Symbols",
+      "publisher": "Government of Grenada",
+      "sourceType": "government",
+      "url": "https://www.gov.gd/national-symbols",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "gn-constitution-2025",
+      "title": "Constitution de la République de Guinée, Article 4",
+      "publisher": "Secrétariat général du Gouvernement de Guinée",
+      "sourceType": "law",
+      "url": "https://sgg.gov.gn/document/downloadfile/546",
+      "accessedAt": "2026-09-24"
+    }
+  ],
+  "media": [
+    {
+      "id": "flag-gabon-national",
+      "kind": "flag",
+      "localPath": "/media/flags/gabon.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Gabon.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Léon Augé and Pierre Claver Eyeghe",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Gabon.svg",
+      "attributionText": "Léon Augé and Pierre Claver Eyeghe / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-georgia-national",
+      "kind": "flag",
+      "localPath": "/media/flags/georgia.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Georgia.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "SKopp; updated by MapGrid",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Georgia.svg",
+      "attributionText": "SKopp; updated by MapGrid / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-gambia-national",
+      "kind": "flag",
+      "localPath": "/media/flags/gambia.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Gambia.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Vzb83 and Wikimedia Commons editors",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Gambia.svg",
+      "attributionText": "Vzb83 and Wikimedia Commons editors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-ghana-national",
+      "kind": "flag",
+      "localPath": "/media/flags/ghana.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Ghana.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Theodosia Okoh",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Ghana.svg",
+      "attributionText": "Theodosia Okoh / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-grenada-national",
+      "kind": "flag",
+      "localPath": "/media/flags/grenada.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Grenada.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Grenada.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Anthony C. George; Wikimedia Commons vector contributors",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Grenada.svg",
+      "attributionText": "Anthony C. George; Wikimedia Commons vector contributors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-guinea-national",
+      "kind": "flag",
+      "localPath": "/media/flags/guinea.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Guinea.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_Guinea.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Unknown author; Wikimedia Commons vector contributors",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Guinea.svg",
+      "attributionText": "Unknown author; Wikimedia Commons vector contributors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    }
+  ],
+  "entries": [
+    {
+      "id": "gabon-national-flag",
+      "kind": "flag",
+      "countryId": "gabon",
+      "nameRu": "Габон",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-gabon-national",
+      "summaryRu": "Флаг Габона состоит из трёх равных горизонтальных полос: зелёной, жёлтой и синей.",
+      "explanationRu": "Конституция Габона 2024 года закрепляет три равные горизонтальные полосы в порядке зелёный, жёлтый, синий.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Порядок сверху",
+          "valueRu": "Зелёная, жёлтая, синяя"
+        },
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Три равные горизонтальные"
+        }
+      ],
+      "sourceIds": [
+        "ga-constitution-2024"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_tricolor",
+          "green_yellow_blue"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "georgia-national-flag",
+      "kind": "flag",
+      "countryId": "georgia",
+      "nameRu": "Грузия",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-georgia-national",
+      "summaryRu": "На белом флаге Грузии размещены большой красный крест и четыре малых красных креста.",
+      "explanationRu": "Закон о государственных символах Грузии описывает большой прямой крест, доходящий до краёв полотнища, и по одному малому кресту в каждом из четырёх полей.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Поле",
+          "valueRu": "Белое"
+        },
+        {
+          "labelRu": "Кресты",
+          "valueRu": "Один большой и четыре малых красных"
+        }
+      ],
+      "sourceIds": [
+        "ge-state-symbols-law"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "cross",
+          "five_crosses"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "gambia-national-flag",
+      "kind": "flag",
+      "countryId": "gambia",
+      "nameRu": "Гамбия",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-gambia-national",
+      "summaryRu": "Флаг Гамбии: красная, синяя и зелёная горизонтальные полосы, разделённые узкими белыми полосами.",
+      "explanationRu": "Постоянное представительство Гамбии при ООН перечисляет полосы сверху вниз: красная, белая, синяя, белая и зелёная.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Порядок сверху",
+          "valueRu": "Красная, белая, синяя, белая, зелёная"
+        },
+        {
+          "labelRu": "Белые полосы",
+          "valueRu": "Две узкие разделительные"
+        }
+      ],
+      "sourceIds": [
+        "gm-un-mission-country-facts"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_stripes",
+          "red_blue_green"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "ghana-national-flag",
+      "kind": "flag",
+      "countryId": "ghana",
+      "nameRu": "Гана",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-ghana-national",
+      "summaryRu": "Флаг Ганы — красная, золотая и зелёная горизонтальные полосы с чёрной звездой в центре.",
+      "explanationRu": "Служба иммиграции Ганы указывает чёрную пятиконечную звезду в центре золотой полосы. В её официальном описании звезда связана с единством и освобождением Африки.",
+      "symbols": [
+        {
+          "nameRu": "Чёрная звезда",
+          "category": "star",
+          "meaningRu": "Африканское единство и освобождение",
+          "meaningStatus": "official",
+          "sourceIds": [
+            "gh-immigration-national-flag"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Порядок сверху",
+          "valueRu": "Красная, золотая, зелёная"
+        },
+        {
+          "labelRu": "В центре",
+          "valueRu": "Чёрная пятиконечная звезда"
+        }
+      ],
+      "sourceIds": [
+        "gh-immigration-national-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_tricolor",
+          "black_star"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "grenada-national-flag",
+      "kind": "flag",
+      "countryId": "grenada",
+      "nameRu": "Гренада",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-grenada-national",
+      "summaryRu": "Флаг Гренады сочетает красную кайму с золотыми звёздами, зелёные и жёлтые поля и изображение мускатного ореха.",
+      "explanationRu": "Правительство Гренады перечисляет семь золотых звёзд и мускатный орех как элементы национального флага. Орех напоминает о связи страны с торговлей пряностями.",
+      "symbols": [
+        {
+          "nameRu": "Мускатный орех",
+          "category": "plant",
+          "meaningRu": "Связь страны с пряностями",
+          "meaningStatus": "official",
+          "sourceIds": [
+            "gd-government-national-symbols"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Звёзды",
+          "valueRu": "Семь золотых"
+        },
+        {
+          "labelRu": "У древка",
+          "valueRu": "Мускатный орех"
+        }
+      ],
+      "sourceIds": [
+        "gd-government-national-symbols"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "stars",
+          "nutmeg"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "guinea-national-flag",
+      "kind": "flag",
+      "countryId": "guinea",
+      "nameRu": "Гвинея",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-guinea-national",
+      "summaryRu": "Флаг Гвинеи — три равные вертикальные полосы: красная, жёлтая и зелёная от древка.",
+      "explanationRu": "Статья 4 Конституции Гвинеи определяет равные вертикальные полосы в порядке красный, жёлтый, зелёный.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Порядок от древка",
+          "valueRu": "Красная, жёлтая, зелёная"
+        },
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Три равные вертикальные"
+        }
+      ],
+      "sourceIds": [
+        "gn-constitution-2025"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "vertical_tricolor",
+          "red_yellow_green"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    }
+  ]
+}

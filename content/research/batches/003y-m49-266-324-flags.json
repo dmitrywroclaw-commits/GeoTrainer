@@ -1,0 +1,177 @@
+{
+  "batch_id": "003y-m49-266-324-flags",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "ga-constitution-2024",
+      "title": "Constitution de la République Gabonaise, 19 décembre 2024",
+      "publisher": "Gouvernement de la République Gabonaise",
+      "source_type": "law",
+      "url": "https://gouvernement.ga/wp-content/uploads/2025/11/Constitution-du-19-decembre-2024-de-la-Republique-Gabonaise_BON.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Габон"
+    },
+    {
+      "source_id": "ge-state-symbols-law",
+      "title": "Organic Law of Georgia on State Symbols of Georgia, Article 2",
+      "publisher": "Legislative Herald of Georgia",
+      "source_type": "law",
+      "url": "https://www.matsne.gov.ge/ka/document/view/4368486?impose=translateEn",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Грузия"
+    },
+    {
+      "source_id": "gm-un-mission-country-facts",
+      "title": "Country Facts | Gambia",
+      "publisher": "Permanent Mission of the Gambia to the United Nations",
+      "source_type": "government",
+      "url": "https://www.un.int/gambia/gambia/country-facts",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Гамбия"
+    },
+    {
+      "source_id": "gh-immigration-national-flag",
+      "title": "Facts about Ghana: The National Flag",
+      "publisher": "Ghana Immigration Service",
+      "source_type": "government",
+      "url": "https://gis.gov.gh/wp-content/uploads/2024/02/FACTS-ABOUT-GHANA.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Гана"
+    },
+    {
+      "source_id": "gd-government-national-symbols",
+      "title": "National Symbols",
+      "publisher": "Government of Grenada",
+      "source_type": "government",
+      "url": "https://www.gov.gd/national-symbols",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Гренада"
+    },
+    {
+      "source_id": "gn-constitution-2025",
+      "title": "Constitution de la République de Guinée, Article 4",
+      "publisher": "Secrétariat général du Gouvernement de Guinée",
+      "source_type": "law",
+      "url": "https://sgg.gov.gn/document/downloadfile/546",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Гвинея"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "gabon",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "gabon-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "green_yellow_blue_horizontal",
+          "decision": "eligible",
+          "decision_reason": "Национальный флаг выбран как основной учебный вариант.",
+          "source_ids": "ga-constitution-2024",
+          "primary_source_urls": "https://gouvernement.ga/wp-content/uploads/2025/11/Constitution-du-19-decembre-2024-de-la-Republique-Gabonaise_BON.pdf"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "georgia",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "georgia-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "large_red_cross|four_small_red_crosses",
+          "decision": "eligible",
+          "decision_reason": "Национальный флаг выбран как основной учебный вариант.",
+          "source_ids": "ge-state-symbols-law",
+          "primary_source_urls": "https://www.matsne.gov.ge/ka/document/view/4368486?impose=translateEn"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "gambia",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "gambia-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_white_blue_white_green_horizontal",
+          "decision": "eligible",
+          "decision_reason": "Национальный флаг выбран как основной учебный вариант.",
+          "source_ids": "gm-un-mission-country-facts",
+          "primary_source_urls": "https://www.un.int/gambia/gambia/country-facts"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "ghana",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "ghana-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_yellow_green_horizontal|black_star",
+          "decision": "eligible",
+          "decision_reason": "Национальный флаг выбран как основной учебный вариант.",
+          "source_ids": "gh-immigration-national-flag",
+          "primary_source_urls": "https://gis.gov.gh/wp-content/uploads/2024/02/FACTS-ABOUT-GHANA.pdf"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "grenada",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "grenada-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_border|seven_stars|nutmeg|green_yellow_triangles",
+          "decision": "eligible",
+          "decision_reason": "Национальный флаг выбран как основной учебный вариант.",
+          "source_ids": "gd-government-national-symbols",
+          "primary_source_urls": "https://www.gov.gd/national-symbols"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "guinea",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "guinea-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_yellow_green_vertical",
+          "decision": "eligible",
+          "decision_reason": "Национальный флаг выбран как основной учебный вариант.",
+          "source_ids": "gn-constitution-2025",
+          "primary_source_urls": "https://sgg.gov.gn/document/downloadfile/546"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}

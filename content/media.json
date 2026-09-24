@@ -1621,5 +1621,83 @@
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Latvia.svg",
     "attributionText": "Ansis Cīrulis; SVG by SKopp / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
     "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-gabon-national",
+    "kind": "flag",
+    "localPath": "/media/flags/gabon.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Gabon.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Léon Augé and Pierre Claver Eyeghe",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Gabon.svg",
+    "attributionText": "Léon Augé and Pierre Claver Eyeghe / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-georgia-national",
+    "kind": "flag",
+    "localPath": "/media/flags/georgia.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Georgia.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "SKopp; updated by MapGrid",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Georgia.svg",
+    "attributionText": "SKopp; updated by MapGrid / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-gambia-national",
+    "kind": "flag",
+    "localPath": "/media/flags/gambia.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Gambia.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Vzb83 and Wikimedia Commons editors",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Gambia.svg",
+    "attributionText": "Vzb83 and Wikimedia Commons editors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-ghana-national",
+    "kind": "flag",
+    "localPath": "/media/flags/ghana.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Ghana.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Theodosia Okoh",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Ghana.svg",
+    "attributionText": "Theodosia Okoh / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-grenada-national",
+    "kind": "flag",
+    "localPath": "/media/flags/grenada.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Grenada.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Grenada.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Anthony C. George; Wikimedia Commons vector contributors",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Grenada.svg",
+    "attributionText": "Anthony C. George; Wikimedia Commons vector contributors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-guinea-national",
+    "kind": "flag",
+    "localPath": "/media/flags/guinea.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Guinea.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_Guinea.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Unknown author; Wikimedia Commons vector contributors",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Guinea.svg",
+    "attributionText": "Unknown author; Wikimedia Commons vector contributors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+    "checkedAt": "2026-09-24"
   }
 ]
