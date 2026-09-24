@@ -1,0 +1,205 @@
+{
+  "batch_id": "003ag-m49-626-795-flags",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "th-portal-flag",
+      "title": "The flag of Thailand",
+      "publisher": "Government of Thailand",
+      "source_type": "government",
+      "url": "https://thailand.go.th/page/flag",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Таиланд"
+    },
+    {
+      "source_id": "tl-government-national-symbols",
+      "title": "National Symbols: Flag",
+      "publisher": "Government of Timor-Leste",
+      "source_type": "government",
+      "url": "https://timor-leste.gov.tl/?lang=en&p=34",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Тимор-Лешти"
+    },
+    {
+      "source_id": "tg-flag-law-1960",
+      "title": "Loi n° 60-11 définissant l’Emblème National",
+      "publisher": "Journal Officiel de la République Togolaise",
+      "source_type": "law",
+      "url": "https://legitogo.gouv.tg/be/wp-content/uploads/2017/03/Pages-from-jo_1960-121-3.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Того"
+    },
+    {
+      "source_id": "tt-national-identity-guidelines",
+      "title": "National Identity Guidelines: National Flag",
+      "publisher": "National Archives of Trinidad and Tobago",
+      "source_type": "government",
+      "url": "https://natt.gov.tt/sites/default/files/pdfs/National%20Identity%20Guidelines_FINALReduced%20Size.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Тринидад и Тобаго"
+    },
+    {
+      "source_id": "tn-constitution-2022-art8",
+      "title": "Constitution of Tunisia 2022, Article 8",
+      "publisher": "Presidency of the Government of Tunisia",
+      "source_type": "law",
+      "url": "https://pm.gov.tn/fr/node/1515",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Тунис"
+    },
+    {
+      "source_id": "tr-flag-law-1983",
+      "title": "Türk Bayrağı ve İstiklal Marşı",
+      "publisher": "Ministry of Culture and Tourism of Türkiye",
+      "source_type": "law",
+      "url": "https://dosim.ktb.gov.tr/TR-317147/turk-bayragi-ve-istiklal-marsi.html",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Турция"
+    },
+    {
+      "source_id": "tm-government-state-flag",
+      "title": "Constitution and National Flag Day",
+      "publisher": "Government of Turkmenistan",
+      "source_type": "government",
+      "url": "https://turkmenistan.gov.tm/en/post/106044/turkmenistan-will-widely-celebrate-constitution-and-national-flag-day",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Туркменистан"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "thailand",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "thailand-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_white_blue_white_red",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "th-portal-flag",
+          "primary_source_urls": "https://thailand.go.th/page/flag"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "timor-leste",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "timor-leste-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_field|yellow_black_triangles|white_star",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "tl-government-national-symbols",
+          "primary_source_urls": "https://timor-leste.gov.tl/?lang=en&p=34"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "togo",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "togo-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "green_yellow_five_stripes|red_canton_white_star",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "tg-flag-law-1960",
+          "primary_source_urls": "https://legitogo.gouv.tg/be/wp-content/uploads/2017/03/Pages-from-jo_1960-121-3.pdf"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "trinidad-and-tobago",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "trinidad-and-tobago-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_field|black_diagonal|white_borders",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "tt-national-identity-guidelines",
+          "primary_source_urls": "https://natt.gov.tt/sites/default/files/pdfs/National%20Identity%20Guidelines_FINALReduced%20Size.pdf"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "tunisia",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "tunisia-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_field|white_disc|red_crescent_star",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "tn-constitution-2022-art8",
+          "primary_source_urls": "https://pm.gov.tn/fr/node/1515"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "turkiye",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "turkiye-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_field|white_crescent_star",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "tr-flag-law-1983",
+          "primary_source_urls": "https://dosim.ktb.gov.tr/TR-317147/turk-bayragi-ve-istiklal-marsi.html"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "turkmenistan",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "turkmenistan-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "green_field|carpet_ornaments|crescent_five_stars",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "tm-government-state-flag",
+          "primary_source_urls": "https://turkmenistan.gov.tm/en/post/106044/turkmenistan-will-widely-celebrate-constitution-and-national-flag-day"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}

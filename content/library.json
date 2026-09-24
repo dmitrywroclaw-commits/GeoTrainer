@@ -927,6 +927,62 @@
       "m49": "752",
       "iso2": "SE",
       "iso3": "SWE"
+    },
+    {
+      "id": "thailand",
+      "nameRu": "Таиланд",
+      "region": "Юго-Восточная Азия",
+      "m49": "764",
+      "iso2": "TH",
+      "iso3": "THA"
+    },
+    {
+      "id": "timor-leste",
+      "nameRu": "Тимор-Лешти",
+      "region": "Юго-Восточная Азия",
+      "m49": "626",
+      "iso2": "TL",
+      "iso3": "TLS"
+    },
+    {
+      "id": "togo",
+      "nameRu": "Того",
+      "region": "Западная Африка",
+      "m49": "768",
+      "iso2": "TG",
+      "iso3": "TGO"
+    },
+    {
+      "id": "trinidad-and-tobago",
+      "nameRu": "Тринидад и Тобаго",
+      "region": "Карибский бассейн",
+      "m49": "780",
+      "iso2": "TT",
+      "iso3": "TTO"
+    },
+    {
+      "id": "tunisia",
+      "nameRu": "Тунис",
+      "region": "Северная Африка",
+      "m49": "788",
+      "iso2": "TN",
+      "iso3": "TUN"
+    },
+    {
+      "id": "turkiye",
+      "nameRu": "Турция",
+      "region": "Западная Азия",
+      "m49": "792",
+      "iso2": "TR",
+      "iso3": "TUR"
+    },
+    {
+      "id": "turkmenistan",
+      "nameRu": "Туркменистан",
+      "region": "Центральная Азия",
+      "m49": "795",
+      "iso2": "TM",
+      "iso3": "TKM"
     }
   ],
   "sources": [
@@ -2400,6 +2456,62 @@
       "publisher": "Government Offices of Sweden",
       "sourceType": "law",
       "url": "https://rkrattsbaser.gov.se/sfst?bet=1982%3A269",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "th-portal-flag",
+      "title": "The flag of Thailand",
+      "publisher": "Government of Thailand",
+      "sourceType": "government",
+      "url": "https://thailand.go.th/page/flag",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "tl-government-national-symbols",
+      "title": "National Symbols: Flag",
+      "publisher": "Government of Timor-Leste",
+      "sourceType": "government",
+      "url": "https://timor-leste.gov.tl/?lang=en&p=34",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "tg-flag-law-1960",
+      "title": "Loi n° 60-11 définissant l’Emblème National",
+      "publisher": "Journal Officiel de la République Togolaise",
+      "sourceType": "law",
+      "url": "https://legitogo.gouv.tg/be/wp-content/uploads/2017/03/Pages-from-jo_1960-121-3.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "tt-national-identity-guidelines",
+      "title": "National Identity Guidelines: National Flag",
+      "publisher": "National Archives of Trinidad and Tobago",
+      "sourceType": "government",
+      "url": "https://natt.gov.tt/sites/default/files/pdfs/National%20Identity%20Guidelines_FINALReduced%20Size.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "tn-constitution-2022-art8",
+      "title": "Constitution of Tunisia 2022, Article 8",
+      "publisher": "Presidency of the Government of Tunisia",
+      "sourceType": "law",
+      "url": "https://pm.gov.tn/fr/node/1515",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "tr-flag-law-1983",
+      "title": "Türk Bayrağı ve İstiklal Marşı",
+      "publisher": "Ministry of Culture and Tourism of Türkiye",
+      "sourceType": "law",
+      "url": "https://dosim.ktb.gov.tr/TR-317147/turk-bayragi-ve-istiklal-marsi.html",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "tm-government-state-flag",
+      "title": "Constitution and National Flag Day",
+      "publisher": "Government of Turkmenistan",
+      "sourceType": "government",
+      "url": "https://turkmenistan.gov.tm/en/post/106044/turkmenistan-will-widely-celebrate-constitution-and-national-flag-day",
       "accessedAt": "2026-09-24"
     }
   ],
@@ -9614,6 +9726,244 @@
         "similarityTags": [
           "blue_field",
           "yellow_cross"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "thailand-national-flag",
+      "kind": "flag",
+      "countryId": "thailand",
+      "nameRu": "Таиланд",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-thailand-national",
+      "summaryRu": "Флаг Таиланда состоит из пяти горизонтальных полос: красной, белой, широкой синей, белой и красной.",
+      "explanationRu": "Государственный портал Таиланда описывает пять горизонтальных полос. В центре — синяя полоса двойной ширины, по её краям белые, затем красные.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Порядок полос",
+          "valueRu": "Красная, белая, синяя, белая, красная"
+        },
+        {
+          "labelRu": "Центральная полоса",
+          "valueRu": "Синяя, двойной ширины"
+        }
+      ],
+      "sourceIds": [
+        "th-portal-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "red_white_blue",
+          "five_stripes"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "timor-leste-national-flag",
+      "kind": "flag",
+      "countryId": "timor-leste",
+      "nameRu": "Тимор-Лешти",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-timor-leste-national",
+      "summaryRu": "Красный флаг Тимора-Лешти: у древка жёлтый и чёрный треугольники, в чёрном — белая звезда.",
+      "explanationRu": "Правительство Тимора-Лешти описывает красное полотнище с жёлтым треугольником у древка, поверх которого наложен чёрный. В центре чёрного треугольника — белая пятиконечная звезда.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "У древка",
+          "valueRu": "Жёлтый и чёрный треугольники"
+        },
+        {
+          "labelRu": "В чёрном треугольнике",
+          "valueRu": "Белая звезда"
+        }
+      ],
+      "sourceIds": [
+        "tl-government-national-symbols"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "red_field",
+          "triangle_star"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "togo-national-flag",
+      "kind": "flag",
+      "countryId": "togo",
+      "nameRu": "Того",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-togo-national",
+      "summaryRu": "Флаг Того: пять чередующихся зелёных и жёлтых полос; в красном крыже — белая звезда.",
+      "explanationRu": "Закон Того устанавливает три зелёные и две жёлтые горизонтальные полосы равной ширины. В красном квадрате у древка находится белая пятиконечная звезда.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Три зелёные и две жёлтые"
+        },
+        {
+          "labelRu": "В красном крыже",
+          "valueRu": "Белая пятиконечная звезда"
+        }
+      ],
+      "sourceIds": [
+        "tg-flag-law-1960"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "green_yellow_stripes",
+          "white_star"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "trinidad-and-tobago-national-flag",
+      "kind": "flag",
+      "countryId": "trinidad-and-tobago",
+      "nameRu": "Тринидад и Тобаго",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-trinidad-and-tobago-national",
+      "summaryRu": "Флаг Тринидада и Тобаго: чёрная диагональная полоса с белыми краями пересекает красное поле.",
+      "explanationRu": "Государственные рекомендации по национальным символам описывают красное поле и чёрную диагональную полосу с белой окантовкой.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Поле",
+          "valueRu": "Красное"
+        },
+        {
+          "labelRu": "Диагональ",
+          "valueRu": "Чёрная полоса с белыми краями"
+        }
+      ],
+      "sourceIds": [
+        "tt-national-identity-guidelines"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "red_field",
+          "black_diagonal"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "tunisia-national-flag",
+      "kind": "flag",
+      "countryId": "tunisia",
+      "nameRu": "Тунис",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-tunisia-national",
+      "summaryRu": "Флаг Туниса: в центре красного поля — белый круг с красными полумесяцем и пятиконечной звездой.",
+      "explanationRu": "Статья 8 Конституции Туниса 2022 года описывает красный флаг с белым кругом посередине. В круге находится красная пятиконечная звезда, окружённая красным полумесяцем.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Поле",
+          "valueRu": "Красное"
+        },
+        {
+          "labelRu": "В белом круге",
+          "valueRu": "Красные полумесяц и звезда"
+        }
+      ],
+      "sourceIds": [
+        "tn-constitution-2022-art8"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "red_field",
+          "crescent_star"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "turkiye-national-flag",
+      "kind": "flag",
+      "countryId": "turkiye",
+      "nameRu": "Турция",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-turkiye-national",
+      "summaryRu": "Флаг Турции — красное полотнище с белыми полумесяцем и пятиконечной звездой.",
+      "explanationRu": "Министерство культуры Турции приводит закон о флаге: он представляет собой красное полотнище с белыми полумесяцем и звездой.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Поле",
+          "valueRu": "Красное"
+        },
+        {
+          "labelRu": "Символы",
+          "valueRu": "Белые полумесяц и звезда"
+        }
+      ],
+      "sourceIds": [
+        "tr-flag-law-1983"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "red_field",
+          "crescent_star"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "turkmenistan-national-flag",
+      "kind": "flag",
+      "countryId": "turkmenistan",
+      "nameRu": "Туркменистан",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-turkmenistan-national",
+      "summaryRu": "Зелёный флаг Туркменистана: у древка красная полоса с ковровыми узорами; справа — белые полумесяц и пять звёзд.",
+      "explanationRu": "Правительство Туркменистана описывает на зелёном полотнище ковровые орнаменты, полумесяц, пять звёзд и оливковые ветви.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "У древка",
+          "valueRu": "Красная полоса с ковровыми узорами"
+        },
+        {
+          "labelRu": "На зелёном поле",
+          "valueRu": "Полумесяц и пять звёзд"
+        }
+      ],
+      "sourceIds": [
+        "tm-government-state-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "green_field",
+          "carpet_patterns"
         ]
       },
       "status": "published",
