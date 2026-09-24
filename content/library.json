@@ -1295,6 +1295,30 @@
       "m49": "584",
       "iso2": "MH",
       "iso3": "MHL"
+    },
+    {
+      "id": "dominica",
+      "nameRu": "Доминика",
+      "region": "Карибский бассейн",
+      "m49": "212",
+      "iso2": "DM",
+      "iso3": "DMA"
+    },
+    {
+      "id": "guyana",
+      "nameRu": "Гайана",
+      "region": "Южная Америка",
+      "m49": "328",
+      "iso2": "GY",
+      "iso3": "GUY"
+    },
+    {
+      "id": "djibouti",
+      "nameRu": "Джибути",
+      "region": "Восточная Африка",
+      "m49": "262",
+      "iso2": "DJ",
+      "iso3": "DJI"
     }
   ],
   "sources": [
@@ -3208,6 +3232,30 @@
       "publisher": "Nitijela, Parliament of the Marshall Islands",
       "sourceType": "law",
       "url": "https://rmiparliament.org/cms/images/LEGISLATION/PRINCIPAL/1979/1979-0001/1979-0001_1.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "dm-government-national-flag",
+      "title": "National Flag",
+      "publisher": "Government of Dominica",
+      "sourceType": "government",
+      "url": "https://dominica.gov.dm/about-dominica/national-symbols/national-flag",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "gy-constitution-national-flag",
+      "title": "Constitution of Guyana, Second Schedule: The National Flag",
+      "publisher": "Government of Guyana",
+      "sourceType": "law",
+      "url": "https://mlgrd.gov.gy/wp-content/uploads/2014/05/cap101.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "dj-embassy-constitutional-flag",
+      "title": "Emblèmes et drapeaux: Constitution de la République de Djibouti",
+      "publisher": "Embassy of the Republic of Djibouti",
+      "sourceType": "government",
+      "url": "https://www.djibouti.ch/ambassade/index.php/LaRepublique/EmblemesEtDrapeaux",
       "accessedAt": "2026-09-24"
     }
   ],
@@ -12314,6 +12362,112 @@
           "blue_field",
           "diagonal_stripes",
           "white_star"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "dominica-national-flag",
+      "kind": "flag",
+      "countryId": "dominica",
+      "nameRu": "Доминика",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-dominica-national",
+      "summaryRu": "Зелёное полотнище с жёлто-чёрно-белым крестом; в красном круге — попугай, окружённый десятью звёздами.",
+      "explanationRu": "Правительство Доминики описывает зелёное поле, крест из жёлтых, чёрных и белых полос, красный круг с попугаем сиссеру и десятью зелёными звёздами вокруг него. Звёзды обозначают десять приходов страны.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "В центре",
+          "valueRu": "Попугай сиссеру в красном круге"
+        },
+        {
+          "labelRu": "Вокруг круга",
+          "valueRu": "Десять зелёных звёзд"
+        }
+      ],
+      "sourceIds": [
+        "dm-government-national-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "green_field",
+          "cross",
+          "parrot",
+          "ten_stars"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "guyana-national-flag",
+      "kind": "flag",
+      "countryId": "guyana",
+      "nameRu": "Гайана",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-guyana-national",
+      "summaryRu": "Зелёное полотнище с золотым наконечником стрелы в белой кайме и красным треугольником в чёрной кайме у древка.",
+      "explanationRu": "Конституция Гайаны описывает национальный флаг «Золотой наконечник стрелы»: на зелёном фоне расположен золотой клин с белой каймой, а у древка — красный треугольник с чёрной каймой.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Основная фигура",
+          "valueRu": "Золотой наконечник стрелы"
+        },
+        {
+          "labelRu": "У древка",
+          "valueRu": "Красный треугольник с чёрной каймой"
+        }
+      ],
+      "sourceIds": [
+        "gy-constitution-national-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "green_field",
+          "golden_arrowhead",
+          "red_triangle"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "djibouti-national-flag",
+      "kind": "flag",
+      "countryId": "djibouti",
+      "nameRu": "Джибути",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-djibouti-national",
+      "summaryRu": "Голубая и зелёная горизонтальные полосы; у древка — белый треугольник с красной пятиконечной звездой.",
+      "explanationRu": "Конституционная формулировка, опубликованная посольством Джибути, называет синий, зелёный и белый цвета флага и красную пятиконечную звезду. На изображении белый треугольник расположен у древка между голубой и зелёной полосами.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Голубая и зелёная"
+        },
+        {
+          "labelRu": "У древка",
+          "valueRu": "Белый треугольник с красной звездой"
+        }
+      ],
+      "sourceIds": [
+        "dj-embassy-constitutional-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_bicolor",
+          "white_triangle",
+          "red_star"
         ]
       },
       "status": "published",

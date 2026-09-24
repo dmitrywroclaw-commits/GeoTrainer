@@ -2999,5 +2999,44 @@
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Marshall_Islands.svg",
     "attributionText": "Wikimedia Commons user SKopp (attribution uncertain; see file history) / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
     "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-dominica-national",
+    "kind": "flag",
+    "localPath": "/media/flags/dominica.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Dominica.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Dominica.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Alwin Bully",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Dominica.svg",
+    "attributionText": "Alwin Bully / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-guyana-national",
+    "kind": "flag",
+    "localPath": "/media/flags/guyana.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Guyana.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_Guyana.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Whitney Smith",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Guyana.svg",
+    "attributionText": "Whitney Smith / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-djibouti-national",
+    "kind": "flag",
+    "localPath": "/media/flags/djibouti.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Djibouti.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_Djibouti.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Unknown author; see Wikimedia Commons file history",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Djibouti.svg",
+    "attributionText": "Unknown author; see Wikimedia Commons file history / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
   }
 ]

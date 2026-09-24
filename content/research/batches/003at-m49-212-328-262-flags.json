@@ -1,0 +1,93 @@
+{
+  "batch_id": "003at-m49-212-328-262-flags",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "dm-government-national-flag",
+      "title": "National Flag",
+      "publisher": "Government of Dominica",
+      "source_type": "government",
+      "url": "https://dominica.gov.dm/about-dominica/national-symbols/national-flag",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Доминика"
+    },
+    {
+      "source_id": "gy-constitution-national-flag",
+      "title": "Constitution of Guyana, Second Schedule: The National Flag",
+      "publisher": "Government of Guyana",
+      "source_type": "law",
+      "url": "https://mlgrd.gov.gy/wp-content/uploads/2014/05/cap101.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Гайана"
+    },
+    {
+      "source_id": "dj-embassy-constitutional-flag",
+      "title": "Emblèmes et drapeaux: Constitution de la République de Djibouti",
+      "publisher": "Embassy of the Republic of Djibouti",
+      "source_type": "government",
+      "url": "https://www.djibouti.ch/ambassade/index.php/LaRepublique/EmblemesEtDrapeaux",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Джибути"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "dominica",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "dominica-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "зелёное поле; трёхцветный крест; красный круг; попугай; десять звёзд",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "dm-government-national-flag",
+          "primary_source_urls": "https://dominica.gov.dm/about-dominica/national-symbols/national-flag"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "guyana",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "guyana-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "зелёное поле; золотой наконечник стрелы; белая кайма; красный треугольник; чёрная кайма",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "gy-constitution-national-flag",
+          "primary_source_urls": "https://mlgrd.gov.gy/wp-content/uploads/2014/05/cap101.pdf"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "djibouti",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "djibouti-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "голубая и зелёная полосы; белый треугольник; красная пятиконечная звезда",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "dj-embassy-constitutional-flag",
+          "primary_source_urls": "https://www.djibouti.ch/ambassade/index.php/LaRepublique/EmblemesEtDrapeaux"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}
