@@ -1699,5 +1699,83 @@
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Guinea.svg",
     "attributionText": "Unknown author; Wikimedia Commons vector contributors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
     "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-dominican-republic-national",
+    "kind": "flag",
+    "localPath": "/media/flags/dominican-republic.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Dominican_Republic.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Juan Pablo Duarte; Wikimedia Commons vector contributors",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Dominican_Republic.svg",
+    "attributionText": "Juan Pablo Duarte; Wikimedia Commons vector contributors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-ecuador-state",
+    "kind": "flag",
+    "localPath": "/media/flags/ecuador.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Ecuador.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "President of Ecuador; SVG by Denelson83, Husunqu and Zscout370",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Ecuador.svg",
+    "attributionText": "President of Ecuador; SVG by Denelson83, Husunqu and Zscout370 / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-el-salvador-state",
+    "kind": "flag",
+    "localPath": "/media/flags/el-salvador.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_El_Salvador.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Wikimedia Commons vector contributors",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_El_Salvador.svg",
+    "attributionText": "Wikimedia Commons vector contributors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-equatorial-guinea-national",
+    "kind": "flag",
+    "localPath": "/media/flags/equatorial-guinea.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Equatorial_Guinea.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Wikimedia Commons vector contributors",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Equatorial_Guinea.svg",
+    "attributionText": "Wikimedia Commons vector contributors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-ethiopia-national",
+    "kind": "flag",
+    "localPath": "/media/flags/ethiopia.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Ethiopia.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "SKopp",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Ethiopia.svg",
+    "attributionText": "SKopp / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-eritrea-national",
+    "kind": "flag",
+    "localPath": "/media/flags/eritrea.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Eritrea.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Eritrea.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Unknown original author; Wikimedia Commons vector contributors",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Eritrea.svg",
+    "attributionText": "Unknown original author; Wikimedia Commons vector contributors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+    "checkedAt": "2026-09-24"
   }
 ]

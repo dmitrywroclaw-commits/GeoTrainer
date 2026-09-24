@@ -1,0 +1,199 @@
+{
+  "batch_id": "003z-m49-214-232-flags",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "do-presidency-national-symbols",
+      "title": "Símbolos patrios",
+      "publisher": "Presidencia de la República Dominicana",
+      "source_type": "government",
+      "url": "https://www.presidencia.gob.do/acerca-de-rd/simbolos-patrios",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Доминиканская Республика"
+    },
+    {
+      "source_id": "ec-foreign-ministry-protocol-2024",
+      "title": "Manual para la realización de actos protocolarios, sección 3.6",
+      "publisher": "Ministerio de Relaciones Exteriores y Movilidad Humana del Ecuador",
+      "source_type": "government",
+      "url": "https://www.cancilleria.gob.ec/wp-content/uploads/2024/08/Manual-Protocolo-2024.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Эквадор"
+    },
+    {
+      "source_id": "sv-national-symbols-law",
+      "title": "Ley de Símbolos Patrios, artículos 5–7",
+      "publisher": "Asamblea Legislativa de la República de El Salvador",
+      "source_type": "law",
+      "url": "https://www.asamblea.gob.sv/sites/default/files/documents/decretos/0718B3F4-7075-4296-B6ED-2530A9B36F52.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Сальвадор"
+    },
+    {
+      "source_id": "gq-embassy-national-symbols",
+      "title": "Símbolos Patrios",
+      "publisher": "Embajada de Guinea Ecuatorial en Venezuela",
+      "source_type": "government",
+      "url": "https://embajada-guineaecuatorial.com.ve/simbolos-patrios/",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Экваториальная Гвинея"
+    },
+    {
+      "source_id": "et-flag-law-2025",
+      "title": "Flag and Emblem Proclamation, colors and shape of the flag",
+      "publisher": "Ministry of Justice, Ethiopia",
+      "source_type": "law",
+      "url": "https://laws.moj.gov.et/index.php/registries/view/2072/am",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Эфиопия"
+    },
+    {
+      "source_id": "er-ministry-information-flag",
+      "title": "Eritrea at a Glance: National Flag",
+      "publisher": "Eritrea Ministry of Information",
+      "source_type": "government",
+      "url": "https://shabait.com/2009/10/01/eritrea-at-a-glance/",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Эритрея"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "dominican-republic",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "dominican-republic-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "white_cross|blue_red_quarters|coat_of_arms",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный вариант с наиболее подробным рисунком.",
+          "source_ids": "do-presidency-national-symbols",
+          "primary_source_urls": "https://www.presidencia.gob.do/acerca-de-rd/simbolos-patrios"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "ecuador",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "ecuador-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "false",
+          "official_status": "official",
+          "graphic_elements": "plain_tricolor",
+          "decision": "excluded",
+          "decision_reason": "Вариант без герба менее подробный.",
+          "source_ids": "ec-foreign-ministry-protocol-2024",
+          "primary_source_urls": "https://www.cancilleria.gob.ec/wp-content/uploads/2024/08/Manual-Protocolo-2024.pdf"
+        },
+        {
+          "variant_id": "ecuador-state-flag",
+          "variant_type": "state",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "yellow_blue_red_horizontal|coat_of_arms",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный вариант с наиболее подробным рисунком.",
+          "source_ids": "ec-foreign-ministry-protocol-2024",
+          "primary_source_urls": "https://www.cancilleria.gob.ec/wp-content/uploads/2024/08/Manual-Protocolo-2024.pdf"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "el-salvador",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "el-salvador-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "false",
+          "official_status": "official",
+          "graphic_elements": "plain_tricolor",
+          "decision": "excluded",
+          "decision_reason": "Вариант без герба менее подробный.",
+          "source_ids": "sv-national-symbols-law",
+          "primary_source_urls": "https://www.asamblea.gob.sv/sites/default/files/documents/decretos/0718B3F4-7075-4296-B6ED-2530A9B36F52.pdf"
+        },
+        {
+          "variant_id": "el-salvador-state-flag",
+          "variant_type": "state",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "blue_white_blue_horizontal|coat_of_arms",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный вариант с наиболее подробным рисунком.",
+          "source_ids": "sv-national-symbols-law",
+          "primary_source_urls": "https://www.asamblea.gob.sv/sites/default/files/documents/decretos/0718B3F4-7075-4296-B6ED-2530A9B36F52.pdf"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "equatorial-guinea",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "equatorial-guinea-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "green_white_red_horizontal|blue_triangle|coat_of_arms",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный вариант с наиболее подробным рисунком.",
+          "source_ids": "gq-embassy-national-symbols",
+          "primary_source_urls": "https://embajada-guineaecuatorial.com.ve/simbolos-patrios/"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "ethiopia",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "ethiopia-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "green_yellow_red_horizontal|blue_disc|yellow_star",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный вариант с наиболее подробным рисунком.",
+          "source_ids": "et-flag-law-2025",
+          "primary_source_urls": "https://laws.moj.gov.et/index.php/registries/view/2072/am"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "eritrea",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "eritrea-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_green_blue_triangles|gold_olive_wreath",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный вариант с наиболее подробным рисунком.",
+          "source_ids": "er-ministry-information-flag",
+          "primary_source_urls": "https://shabait.com/2009/10/01/eritrea-at-a-glance/"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}

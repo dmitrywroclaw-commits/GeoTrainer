@@ -591,6 +591,54 @@
       "m49": "324",
       "iso2": "GN",
       "iso3": "GIN"
+    },
+    {
+      "id": "dominican-republic",
+      "nameRu": "Доминиканская Республика",
+      "region": "Карибский бассейн",
+      "m49": "214",
+      "iso2": "DO",
+      "iso3": "DOM"
+    },
+    {
+      "id": "ecuador",
+      "nameRu": "Эквадор",
+      "region": "Южная Америка",
+      "m49": "218",
+      "iso2": "EC",
+      "iso3": "ECU"
+    },
+    {
+      "id": "el-salvador",
+      "nameRu": "Сальвадор",
+      "region": "Центральная Америка",
+      "m49": "222",
+      "iso2": "SV",
+      "iso3": "SLV"
+    },
+    {
+      "id": "equatorial-guinea",
+      "nameRu": "Экваториальная Гвинея",
+      "region": "Центральная Африка",
+      "m49": "226",
+      "iso2": "GQ",
+      "iso3": "GNQ"
+    },
+    {
+      "id": "ethiopia",
+      "nameRu": "Эфиопия",
+      "region": "Восточная Африка",
+      "m49": "231",
+      "iso2": "ET",
+      "iso3": "ETH"
+    },
+    {
+      "id": "eritrea",
+      "nameRu": "Эритрея",
+      "region": "Восточная Африка",
+      "m49": "232",
+      "iso2": "ER",
+      "iso3": "ERI"
     }
   ],
   "sources": [
@@ -1704,6 +1752,54 @@
       "publisher": "Secrétariat général du Gouvernement de Guinée",
       "sourceType": "law",
       "url": "https://sgg.gov.gn/document/downloadfile/546",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "do-presidency-national-symbols",
+      "title": "Símbolos patrios",
+      "publisher": "Presidencia de la República Dominicana",
+      "sourceType": "government",
+      "url": "https://www.presidencia.gob.do/acerca-de-rd/simbolos-patrios",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "ec-foreign-ministry-protocol-2024",
+      "title": "Manual para la realización de actos protocolarios, sección 3.6",
+      "publisher": "Ministerio de Relaciones Exteriores y Movilidad Humana del Ecuador",
+      "sourceType": "government",
+      "url": "https://www.cancilleria.gob.ec/wp-content/uploads/2024/08/Manual-Protocolo-2024.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "sv-national-symbols-law",
+      "title": "Ley de Símbolos Patrios, artículos 5–7",
+      "publisher": "Asamblea Legislativa de la República de El Salvador",
+      "sourceType": "law",
+      "url": "https://www.asamblea.gob.sv/sites/default/files/documents/decretos/0718B3F4-7075-4296-B6ED-2530A9B36F52.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "gq-embassy-national-symbols",
+      "title": "Símbolos Patrios",
+      "publisher": "Embajada de Guinea Ecuatorial en Venezuela",
+      "sourceType": "government",
+      "url": "https://embajada-guineaecuatorial.com.ve/simbolos-patrios/",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "et-flag-law-2025",
+      "title": "Flag and Emblem Proclamation, colors and shape of the flag",
+      "publisher": "Ministry of Justice, Ethiopia",
+      "sourceType": "law",
+      "url": "https://laws.moj.gov.et/index.php/registries/view/2072/am",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "er-ministry-information-flag",
+      "title": "Eritrea at a Glance: National Flag",
+      "publisher": "Eritrea Ministry of Information",
+      "sourceType": "government",
+      "url": "https://shabait.com/2009/10/01/eritrea-at-a-glance/",
       "accessedAt": "2026-09-24"
     }
   ],
@@ -7305,6 +7401,265 @@
         "similarityTags": [
           "vertical_tricolor",
           "red_yellow_green"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "dominican-republic-national-flag",
+      "kind": "flag",
+      "countryId": "dominican-republic",
+      "nameRu": "Доминиканская Республика",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-dominican-republic-national",
+      "summaryRu": "Флаг Доминиканской Республики разделён белым крестом на синие и красные четверти; в центре расположен герб.",
+      "explanationRu": "Президентская страница описывает белый крест до краёв полотнища, чередующиеся синие и красные четверти и государственный герб на пересечении перекладин.",
+      "symbols": [
+        {
+          "nameRu": "Государственный герб",
+          "category": "coat_of_arms",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "do-presidency-national-symbols"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "В центре",
+          "valueRu": "Государственный герб на белом кресте"
+        },
+        {
+          "labelRu": "Верхняя четверть у древка",
+          "valueRu": "Синяя"
+        }
+      ],
+      "sourceIds": [
+        "do-presidency-national-symbols"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "cross",
+          "coat_center"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "ecuador-state-flag",
+      "kind": "flag",
+      "countryId": "ecuador",
+      "nameRu": "Эквадор",
+      "subtitleRu": "Государственный флаг",
+      "variantType": "state",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-ecuador-state",
+      "summaryRu": "Государственный флаг Эквадора — жёлтая, синяя и красная горизонтальные полосы с гербом по центру.",
+      "explanationRu": "В протокольном руководстве МИД Эквадора показан флаг с гербом. Жёлтая полоса вдвое шире синей и красной; этот вариант подробнее простого триколора.",
+      "symbols": [
+        {
+          "nameRu": "Государственный герб",
+          "category": "coat_of_arms",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "ec-foreign-ministry-protocol-2024"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Порядок сверху",
+          "valueRu": "Жёлтая, синяя, красная"
+        },
+        {
+          "labelRu": "Отличие варианта",
+          "valueRu": "Герб по центру"
+        }
+      ],
+      "sourceIds": [
+        "ec-foreign-ministry-protocol-2024"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_tricolor",
+          "coat_center"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "el-salvador-state-flag",
+      "kind": "flag",
+      "countryId": "el-salvador",
+      "nameRu": "Сальвадор",
+      "subtitleRu": "Государственный флаг",
+      "variantType": "state",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-el-salvador-state",
+      "summaryRu": "Государственный флаг Сальвадора — сине-бело-синее полотнище с гербом в центре.",
+      "explanationRu": "Закон о национальных символах предусматривает три официальных вида флага. На подробном парадном полотнище (bandera magna) в белом поле изображён государственный герб.",
+      "symbols": [
+        {
+          "nameRu": "Государственный герб",
+          "category": "coat_of_arms",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "sv-national-symbols-law"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Полосы сверху",
+          "valueRu": "Синяя, белая, синяя"
+        },
+        {
+          "labelRu": "Отличие варианта",
+          "valueRu": "Герб в центре белой полосы"
+        }
+      ],
+      "sourceIds": [
+        "sv-national-symbols-law"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_tricolor",
+          "coat_center"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "equatorial-guinea-national-flag",
+      "kind": "flag",
+      "countryId": "equatorial-guinea",
+      "nameRu": "Экваториальная Гвинея",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-equatorial-guinea-national",
+      "summaryRu": "Флаг Экваториальной Гвинеи: зелёная, белая и красная полосы, синий треугольник у древка и герб в центре.",
+      "explanationRu": "Посольство Экваториальной Гвинеи описывает три равные горизонтальные полосы, синий треугольник у древка и государственный герб в центре.",
+      "symbols": [
+        {
+          "nameRu": "Государственный герб",
+          "category": "coat_of_arms",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "gq-embassy-national-symbols"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Полосы сверху",
+          "valueRu": "Зелёная, белая, красная"
+        },
+        {
+          "labelRu": "У древка",
+          "valueRu": "Синий треугольник"
+        }
+      ],
+      "sourceIds": [
+        "gq-embassy-national-symbols"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_tricolor",
+          "blue_triangle",
+          "coat_center"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "ethiopia-national-flag",
+      "kind": "flag",
+      "countryId": "ethiopia",
+      "nameRu": "Эфиопия",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-ethiopia-national",
+      "summaryRu": "Флаг Эфиопии — зелёная, жёлтая и красная полосы с синим кругом и жёлтой звездой в центре.",
+      "explanationRu": "Эфиопское законодательство описывает три полосы и национальную эмблему: жёлтую звезду с лучами на круглом синем фоне.",
+      "symbols": [
+        {
+          "nameRu": "Звезда на синем круге",
+          "category": "star",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "et-flag-law-2025"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Полосы сверху",
+          "valueRu": "Зелёная, жёлтая, красная"
+        },
+        {
+          "labelRu": "В центре",
+          "valueRu": "Синий круг с жёлтой звездой"
+        }
+      ],
+      "sourceIds": [
+        "et-flag-law-2025"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_tricolor",
+          "star_center"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "eritrea-national-flag",
+      "kind": "flag",
+      "countryId": "eritrea",
+      "nameRu": "Эритрея",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-eritrea-national",
+      "summaryRu": "Флаг Эритреи состоит из красного, зелёного и синего треугольных полей с золотой оливковой ветвью и венком.",
+      "explanationRu": "Министерство информации Эритреи описывает красный треугольник, начинающийся у древка, зелёное поле сверху, синее снизу и золотую оливковую композицию.",
+      "symbols": [
+        {
+          "nameRu": "Оливковая ветвь и венок",
+          "category": "plant",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "er-ministry-information-flag"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Форма полей",
+          "valueRu": "Красный, зелёный и синий треугольники"
+        },
+        {
+          "labelRu": "У древка",
+          "valueRu": "Золотая оливковая композиция"
+        }
+      ],
+      "sourceIds": [
+        "er-ministry-information-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "triangles",
+          "olive_wreath"
         ]
       },
       "status": "published",
