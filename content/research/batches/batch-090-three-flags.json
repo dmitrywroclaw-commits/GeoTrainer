@@ -1,0 +1,93 @@
+{
+  "batch_id": "batch-090-three-flags",
+  "checked_at": "2026-09-25",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "af-moj-white-emirate-flags-2026",
+      "title": "Сообщение о поднятии белых флагов Исламского Эмирата в Министерстве юстиции, 2026",
+      "publisher": "Министерство юстиции Афганистана",
+      "source_type": "government",
+      "url": "https://moj.gov.af/en/node/4911",
+      "accessed_at": "2026-09-25",
+      "supports": "Официальное описание флага: Афганистан"
+    },
+    {
+      "source_id": "kp-constitution-2026-art166",
+      "title": "Конституция КНДР, редакция от 23 марта 2026 года, статья 166",
+      "publisher": "Верховное народное собрание КНДР; текст в Центре информации о законодательстве КНДР",
+      "source_type": "law",
+      "url": "https://www.nk-law.kr/law/%EC%A1%B0%EC%84%A0%EB%AF%BC%EC%A3%BC%EC%A3%BC%EC%9D%98%EC%9D%B8%EB%AF%BC%EA%B3%B5%ED%99%94%EA%B5%AD%20%ED%97%8C%EB%B2%95?version=2026-03-23",
+      "accessed_at": "2026-09-25",
+      "supports": "Официальное описание флага: Корейская Народно-Демократическая Республика"
+    },
+    {
+      "source_id": "om-state-portal-national-flag",
+      "title": "Государственный портал Омана: национальный флаг и его описание",
+      "publisher": "Государственный информационный портал Султаната Оман",
+      "source_type": "government",
+      "url": "https://omaninfo.om/pages/161/show/1077",
+      "accessed_at": "2026-09-25",
+      "supports": "Официальное описание флага: Оман"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "afghanistan",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "afghanistan-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "white_field | black_shahada_inscription",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "af-moj-white-emirate-flags-2026",
+          "primary_source_urls": "https://moj.gov.af/en/node/4911"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "north-korea",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "north-korea-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_central_band | white_narrow_bands | blue_outer_bands | white_disc | red_star",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "kp-constitution-2026-art166",
+          "primary_source_urls": "https://www.nk-law.kr/law/%EC%A1%B0%EC%84%A0%EB%AF%BC%EC%A3%BC%EC%A3%BC%EC%9D%98%EC%9D%B8%EB%AF%BC%EA%B3%B5%ED%99%94%EA%B5%AD%20%ED%97%8C%EB%B2%95?version=2026-03-23"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "oman",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "oman-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "white_red_green_horizontal | red_hoist_band | white_national_emblem",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "om-state-portal-national-flag",
+          "primary_source_urls": "https://omaninfo.om/pages/161/show/1077"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}

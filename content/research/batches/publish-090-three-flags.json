@@ -1,0 +1,215 @@
+{
+  "batch_id": "publish-090-three-flags",
+  "countries": [
+    {
+      "id": "afghanistan",
+      "nameRu": "Афганистан",
+      "region": "Южная Азия",
+      "m49": "004",
+      "iso2": "AF",
+      "iso3": "AFG"
+    },
+    {
+      "id": "north-korea",
+      "nameRu": "Корейская Народно-Демократическая Республика",
+      "region": "Восточная Азия",
+      "m49": "408",
+      "iso2": "KP",
+      "iso3": "PRK"
+    },
+    {
+      "id": "oman",
+      "nameRu": "Оман",
+      "region": "Западная Азия",
+      "m49": "512",
+      "iso2": "OM",
+      "iso3": "OMN"
+    }
+  ],
+  "sources": [
+    {
+      "id": "af-moj-white-emirate-flags-2026",
+      "title": "Сообщение о поднятии белых флагов Исламского Эмирата в Министерстве юстиции, 2026",
+      "publisher": "Министерство юстиции Афганистана",
+      "sourceType": "government",
+      "url": "https://moj.gov.af/en/node/4911",
+      "accessedAt": "2026-09-25"
+    },
+    {
+      "id": "kp-constitution-2026-art166",
+      "title": "Конституция КНДР, редакция от 23 марта 2026 года, статья 166",
+      "publisher": "Верховное народное собрание КНДР; текст в Центре информации о законодательстве КНДР",
+      "sourceType": "law",
+      "url": "https://www.nk-law.kr/law/%EC%A1%B0%EC%84%A0%EB%AF%BC%EC%A3%BC%EC%A3%BC%EC%9D%98%EC%9D%B8%EB%AF%BC%EA%B3%B5%ED%99%94%EA%B5%AD%20%ED%97%8C%EB%B2%95?version=2026-03-23",
+      "accessedAt": "2026-09-25"
+    },
+    {
+      "id": "om-state-portal-national-flag",
+      "title": "Государственный портал Омана: национальный флаг и его описание",
+      "publisher": "Государственный информационный портал Султаната Оман",
+      "sourceType": "government",
+      "url": "https://omaninfo.om/pages/161/show/1077",
+      "accessedAt": "2026-09-25"
+    }
+  ],
+  "media": [
+    {
+      "id": "flag-afghanistan-national",
+      "kind": "flag",
+      "localPath": "/media/flags/afghanistan.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Taliban.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Original: Taliban; vector: Lexicon",
+      "license": "Public domain",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Taliban.svg",
+      "attributionText": "Original: Taliban; vector: Lexicon / Wikimedia Commons; Public domain. Один из используемых вариантов начертания шахады; исходный SVG без изменений. Ограничения для государственной и политической символики зависят от юрисдикции.",
+      "checkedAt": "2026-09-25"
+    },
+    {
+      "id": "flag-north-korea-national",
+      "kind": "flag",
+      "localPath": "/media/flags/north-korea.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_North_Korea_(March_2026–present).svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Flag_of_North_Korea_%28March_2026%E2%80%93present%29.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Original: Government of the DPRK; vector: Wikimedia Commons contributors",
+      "license": "Public domain",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_North_Korea_(March_2026–present).svg",
+      "attributionText": "Government of the DPRK; Wikimedia Commons contributors / Wikimedia Commons; Public domain; исходный SVG без изменений. На странице файла оспаривается точность рисунка; конституция подтверждает состав элементов и пропорцию.",
+      "checkedAt": "2026-09-25"
+    },
+    {
+      "id": "flag-oman-national",
+      "kind": "flag",
+      "localPath": "/media/flags/oman.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Oman.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Wikimedia Commons contributors (see file history), vectorized from Omani legal reference",
+      "license": "OGL-om 1.0; official emblem excluded from licence",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Oman.svg",
+      "attributionText": "Wikimedia Commons contributors / Wikimedia Commons; файл помечен OGL-om 1.0, но эта лицензия не охватывает официальную государственную эмблему. SVG без изменений; ограничения на использование символики и коммерческие товары определяются законодательством Омана.",
+      "checkedAt": "2026-09-25"
+    }
+  ],
+  "entries": [
+    {
+      "id": "afghanistan-national-flag",
+      "kind": "flag",
+      "countryId": "afghanistan",
+      "nameRu": "Афганистан",
+      "subtitleRu": "Белый флаг, используемый действующими властями",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-afghanistan-national",
+      "summaryRu": "Действующие де-факто власти Афганистана используют белый флаг с чёрной арабской надписью — шахадой.",
+      "explanationRu": "Министерство юстиции Афганистана в 2026 году сообщает о поднятии белых флагов Исламского Эмирата. На распространённом варианте в центре белого полотнища находится чёрная шахада. Начертание надписи может различаться; изображение на карточке показывает один из используемых вариантов. Прежний чёрно-красно-зелёный флаг описан в конституции 2004 года, но не используется нынешними де-факто властями.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Поле",
+          "valueRu": "Белое"
+        },
+        {
+          "labelRu": "Центральный элемент",
+          "valueRu": "Чёрная арабская надпись — шахада"
+        },
+        {
+          "labelRu": "Статус",
+          "valueRu": "Используется действующими де-факто властями; международный статус власти оспаривается"
+        }
+      ],
+      "sourceIds": [
+        "af-moj-white-emirate-flags-2026"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "white-field",
+          "inscription",
+          "shahada"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "north-korea-national-flag",
+      "kind": "flag",
+      "countryId": "north-korea",
+      "nameRu": "Корейская Народно-Демократическая Республика",
+      "subtitleRu": "Государственный флаг по Конституции 2026 года",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-north-korea-national",
+      "summaryRu": "Флаг КНДР узнаётся по широкой красной полосе, узким белым и синим полосам и красной звезде в белом круге у древка.",
+      "explanationRu": "Статья 166 Конституции КНДР в редакции марта 2026 года описывает красную центральную полосу, тонкие белые полосы над и под ней, синие внешние полосы и белый круг с красной пятиконечной звездой ближе к древку. Соотношение высоты и длины указано как 1:1,65. Использованный SVG соответствует этому описанию и пропорции, но точные оттенки и толщина отдельных полос в найденном тексте не заданы; конкретный рисунок SVG обсуждается на странице файла.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Центральная полоса",
+          "valueRu": "Широкая красная"
+        },
+        {
+          "labelRu": "У древка",
+          "valueRu": "Белый круг с красной пятиконечной звездой"
+        },
+        {
+          "labelRu": "Соотношение сторон",
+          "valueRu": "1:1,65 (высота к длине)"
+        }
+      ],
+      "sourceIds": [
+        "kp-constitution-2026-art166"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal-stripes",
+          "red-star",
+          "white-disc"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "oman-national-flag",
+      "kind": "flag",
+      "countryId": "oman",
+      "nameRu": "Оман",
+      "subtitleRu": "Национальный флаг с белой государственной эмблемой",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-oman-national",
+      "summaryRu": "Флаг Омана состоит из белой, красной и зелёной горизонтальных полос и красной полосы у древка с белой государственной эмблемой.",
+      "explanationRu": "Государственный портал Омана описывает белую верхнюю, красную среднюю и зелёную нижнюю полосы, красную вертикальную полосу у древка и белую эмблему: скрещённые мечи и ханжар. Министерство иностранных дел указывает, что флаг обновлён в 2004 году. В государственной интерпретации белый связан с миром, красный — с прежним красным флагом и борьбой против захватчиков, зелёный — с плодородием страны.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы сверху вниз",
+          "valueRu": "Белая, красная, зелёная"
+        },
+        {
+          "labelRu": "У древка",
+          "valueRu": "Красная вертикальная полоса с белой государственной эмблемой"
+        },
+        {
+          "labelRu": "Эмблема",
+          "valueRu": "Скрещённые мечи и традиционный ханжар"
+        }
+      ],
+      "sourceIds": [
+        "om-state-portal-national-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal-stripes",
+          "red-hoist",
+          "national-emblem"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    }
+  ]
+}

@@ -3402,5 +3402,44 @@
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Venezuela_(state).svg",
     "attributionText": "Bolivarian Government of Venezuela; Wikimedia Commons contributors (see file history) / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
     "checkedAt": "2026-09-25"
+  },
+  {
+    "id": "flag-afghanistan-national",
+    "kind": "flag",
+    "localPath": "/media/flags/afghanistan.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Taliban.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Original: Taliban; vector: Lexicon",
+    "license": "Public domain",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Taliban.svg",
+    "attributionText": "Original: Taliban; vector: Lexicon / Wikimedia Commons; Public domain. Один из используемых вариантов начертания шахады; исходный SVG без изменений. Ограничения для государственной и политической символики зависят от юрисдикции.",
+    "checkedAt": "2026-09-25"
+  },
+  {
+    "id": "flag-north-korea-national",
+    "kind": "flag",
+    "localPath": "/media/flags/north-korea.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_North_Korea_(March_2026–present).svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Flag_of_North_Korea_%28March_2026%E2%80%93present%29.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Original: Government of the DPRK; vector: Wikimedia Commons contributors",
+    "license": "Public domain",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_North_Korea_(March_2026–present).svg",
+    "attributionText": "Government of the DPRK; Wikimedia Commons contributors / Wikimedia Commons; Public domain; исходный SVG без изменений. На странице файла оспаривается точность рисунка; конституция подтверждает состав элементов и пропорцию.",
+    "checkedAt": "2026-09-25"
+  },
+  {
+    "id": "flag-oman-national",
+    "kind": "flag",
+    "localPath": "/media/flags/oman.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Oman.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Wikimedia Commons contributors (see file history), vectorized from Omani legal reference",
+    "license": "OGL-om 1.0; official emblem excluded from licence",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Oman.svg",
+    "attributionText": "Wikimedia Commons contributors / Wikimedia Commons; файл помечен OGL-om 1.0, но эта лицензия не охватывает официальную государственную эмблему. SVG без изменений; ограничения на использование символики и коммерческие товары определяются законодательством Омана.",
+    "checkedAt": "2026-09-25"
   }
 ]
