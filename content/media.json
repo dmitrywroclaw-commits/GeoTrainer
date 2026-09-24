@@ -3363,5 +3363,44 @@
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Saudi_Arabia.svg",
     "attributionText": "The Shura Council / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
     "checkedAt": "2026-09-25"
+  },
+  {
+    "id": "flag-honduras-national",
+    "kind": "flag",
+    "localPath": "/media/flags/honduras.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Honduras_(1949–2022,_2026–present).svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Honduras_%281949%E2%80%932022%2C_2026%E2%80%93present%29.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Kes47",
+    "license": "Public domain",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Honduras_(1949–2022,_2026–present).svg",
+    "attributionText": "Kes47 / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-25"
+  },
+  {
+    "id": "flag-kiribati-national",
+    "kind": "flag",
+    "localPath": "/media/flags/kiribati.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Kiribati_(WFB_2004).svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Kiribati_%28WFB_2004%29.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "US Central Intelligence Agency, The World Factbook",
+    "license": "Public domain (US government work)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Kiribati_(WFB_2004).svg",
+    "attributionText": "US Central Intelligence Agency, The World Factbook / Wikimedia Commons; Public domain (US government work); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-25"
+  },
+  {
+    "id": "flag-venezuela-state",
+    "kind": "flag",
+    "localPath": "/media/flags/venezuela.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Venezuela_(state).svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Flag_of_Venezuela_%28state%29.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Bolivarian Government of Venezuela; Wikimedia Commons contributors (see file history)",
+    "license": "Public domain",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Venezuela_(state).svg",
+    "attributionText": "Bolivarian Government of Venezuela; Wikimedia Commons contributors (see file history) / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-25"
   }
 ]

@@ -1,0 +1,217 @@
+{
+  "batch_id": "publish-089-three-flags",
+  "countries": [
+    {
+      "id": "honduras",
+      "nameRu": "Гондурас",
+      "region": "Центральная Америка",
+      "m49": "340",
+      "iso2": "HN",
+      "iso3": "HND"
+    },
+    {
+      "id": "kiribati",
+      "nameRu": "Кирибати",
+      "region": "Микронезия",
+      "m49": "296",
+      "iso2": "KI",
+      "iso3": "KIR"
+    },
+    {
+      "id": "venezuela",
+      "nameRu": "Венесуэла (Боливарианская Республика)",
+      "region": "Южная Америка",
+      "m49": "862",
+      "iso2": "VE",
+      "iso3": "VEN"
+    }
+  ],
+  "sources": [
+    {
+      "id": "hn-gaceta-1971-flag-regulation",
+      "title": "La Gaceta, 28 de abril de 1971: reglamento sobre la Bandera Nacional, artículos 1, 3 y 5",
+      "publisher": "La Gaceta de la República de Honduras, archivo digital UNAH",
+      "sourceType": "law",
+      "url": "https://tzibalnaah.unah.edu.hn/bitstream/handle/123456789/2723/19710428.pdf?isAllowed=y&sequence=2",
+      "accessedAt": "2026-09-25"
+    },
+    {
+      "id": "ki-national-identity-act-1989-flag",
+      "title": "National Identity Act 1989, section 3 and Schedule 1: Kiribati National Flag",
+      "publisher": "Republic of Kiribati, PacLII scan",
+      "sourceType": "law",
+      "url": "https://www.paclii.org/ki/legis/num_act/nia1989197.pdf",
+      "accessedAt": "2026-09-25"
+    },
+    {
+      "id": "ve-gaceta-38394-2006-flags",
+      "title": "Ley de Bandera Nacional, Himno Nacional y Escudo de Armas, Gaceta Oficial 38.394, artículos 3 y 4",
+      "publisher": "Gaceta Oficial de la República Bolivariana de Venezuela; scan del Tribunal Supremo de Justicia",
+      "sourceType": "law",
+      "url": "https://www.venciclopedia.org/index.php?title=Archivo:Ley_de_Bandera_Escudo_Himno_GO_38394_2006.pdf",
+      "accessedAt": "2026-09-25"
+    }
+  ],
+  "media": [
+    {
+      "id": "flag-honduras-national",
+      "kind": "flag",
+      "localPath": "/media/flags/honduras.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Honduras_(1949–2022,_2026–present).svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Honduras_%281949%E2%80%932022%2C_2026%E2%80%93present%29.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Kes47",
+      "license": "Public domain",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Honduras_(1949–2022,_2026–present).svg",
+      "attributionText": "Kes47 / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
+      "checkedAt": "2026-09-25"
+    },
+    {
+      "id": "flag-kiribati-national",
+      "kind": "flag",
+      "localPath": "/media/flags/kiribati.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Kiribati_(WFB_2004).svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Kiribati_%28WFB_2004%29.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "US Central Intelligence Agency, The World Factbook",
+      "license": "Public domain (US government work)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Kiribati_(WFB_2004).svg",
+      "attributionText": "US Central Intelligence Agency, The World Factbook / Wikimedia Commons; Public domain (US government work); исходный SVG без изменений; ограничения для государственной символики.",
+      "checkedAt": "2026-09-25"
+    },
+    {
+      "id": "flag-venezuela-state",
+      "kind": "flag",
+      "localPath": "/media/flags/venezuela.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Venezuela_(state).svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Flag_of_Venezuela_%28state%29.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Bolivarian Government of Venezuela; Wikimedia Commons contributors (see file history)",
+      "license": "Public domain",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Venezuela_(state).svg",
+      "attributionText": "Bolivarian Government of Venezuela; Wikimedia Commons contributors (see file history) / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
+      "checkedAt": "2026-09-25"
+    }
+  ],
+  "entries": [
+    {
+      "id": "honduras-national-flag",
+      "kind": "flag",
+      "countryId": "honduras",
+      "nameRu": "Гондурас",
+      "subtitleRu": "Национальный флаг с пятью звёздами",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-honduras-national",
+      "summaryRu": "Флаг Гондураса — сине-бело-синий триколор с пятью синими звёздами посередине.",
+      "explanationRu": "Официальная газета описывает три равные горизонтальные полосы и пять звёзд: четыре образуют вытянутый прямоугольник, пятая расположена в центре. В правилах 1971 года тёмно-синий назван одним из допустимых оттенков бирюзово-синего; оттенок на изображениях флага в разные годы различался.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы сверху вниз",
+          "valueRu": "Синяя, белая, синяя"
+        },
+        {
+          "labelRu": "Центральная полоса",
+          "valueRu": "Пять синих пятиконечных звёзд"
+        },
+        {
+          "labelRu": "Расположение звёзд",
+          "valueRu": "Четыре по углам вытянутого прямоугольника и одна в центре"
+        }
+      ],
+      "sourceIds": [
+        "hn-gaceta-1971-flag-regulation"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "tricolor",
+          "horizontal-stripes",
+          "five-stars"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "kiribati-national-flag",
+      "kind": "flag",
+      "countryId": "kiribati",
+      "nameRu": "Кирибати",
+      "subtitleRu": "Национальный флаг с птицей, солнцем и волнами",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-kiribati-national",
+      "summaryRu": "На флаге Кирибати золотистая птица-фрегат летит над восходящим солнцем; нижнюю часть занимают синие и белые волны.",
+      "explanationRu": "Закон Кирибати о национальной идентичности закрепляет национальный флаг и его рисунок. На красном фоне показаны птица-фрегат и восходящее солнце, под ними — синее море с тремя белыми волнистыми полосами. Для карточки взят архивный SVG Всемирного справочника ЦРУ, отмеченный на странице файла как воспроизведение по закону 1989 года.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Верхняя часть",
+          "valueRu": "Красное поле, птица-фрегат и восходящее солнце"
+        },
+        {
+          "labelRu": "Нижняя часть",
+          "valueRu": "Синее море и три белые волнистые полосы"
+        },
+        {
+          "labelRu": "Соотношение сторон",
+          "valueRu": "1:2"
+        }
+      ],
+      "sourceIds": [
+        "ki-national-identity-act-1989-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "bird",
+          "sun",
+          "waves",
+          "blue-red"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "venezuela-state-flag",
+      "kind": "flag",
+      "countryId": "venezuela",
+      "nameRu": "Венесуэла (Боливарианская Республика)",
+      "subtitleRu": "Государственный флаг с гербом",
+      "variantType": "state",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-venezuela-state",
+      "summaryRu": "Государственный флаг Венесуэлы — жёлто-сине-красный триколор с восемью звёздами и гербом у древка.",
+      "explanationRu": "Закон 2006 года устанавливает восемь белых пятиконечных звёзд дугой на синей полосе. Флаг, который используют президент, вооружённые силы и государственные здания, также несёт герб у древка на жёлтой полосе. Этот более подробный государственный вариант выбран для карточки.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы сверху вниз",
+          "valueRu": "Жёлтая, синяя, красная"
+        },
+        {
+          "labelRu": "Синяя полоса",
+          "valueRu": "Восемь белых звёзд дугой"
+        },
+        {
+          "labelRu": "У древка на жёлтой полосе",
+          "valueRu": "Герб Венесуэлы"
+        }
+      ],
+      "sourceIds": [
+        "ve-gaceta-38394-2006-flags"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "tricolor",
+          "horizontal-stripes",
+          "eight-stars",
+          "coat-of-arms"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    }
+  ]
+}
