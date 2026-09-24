@@ -1,0 +1,156 @@
+{
+  "batch_id": "publish-080-two-flags",
+  "countries": [
+    {
+      "id": "holy-see",
+      "nameRu": "Святой Престол",
+      "region": "Южная Европа",
+      "m49": "336",
+      "iso2": "VA",
+      "iso3": "VAT"
+    },
+    {
+      "id": "tonga",
+      "nameRu": "Тонга",
+      "region": "Полинезия",
+      "m49": "776",
+      "iso2": "TO",
+      "iso3": "TON"
+    }
+  ],
+  "sources": [
+    {
+      "id": "va-fundamental-law-2023-flag",
+      "title": "Legge fondamentale dello Stato della Città del Vaticano, articolo 23",
+      "publisher": "Holy See Press Office",
+      "sourceType": "law",
+      "url": "https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2023/05/13/0365/00791.html",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "to-finance-mdg-flag",
+      "title": "Tonga Millennium Development Goals Report: The Tongan Flag",
+      "publisher": "Ministry of Finance of Tonga",
+      "sourceType": "government",
+      "url": "https://www.finance.gov.to/sites/default/files/2020-09/Tonga%20MDG.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "to-constitution-flag-article-47",
+      "title": "Constitution of Tonga, clause 47: National flag",
+      "publisher": "Attorney General’s Office, Kingdom of Tonga",
+      "sourceType": "law",
+      "url": "https://ago.gov.to/cms/images/LEGISLATION/PRINCIPAL/1988/1988-0002/ConstitutionofTonga.pdf_3.pdf",
+      "accessedAt": "2026-09-24"
+    }
+  ],
+  "media": [
+    {
+      "id": "flag-holy-see-state",
+      "kind": "flag",
+      "localPath": "/media/flags/holy-see.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Vatican_City_(2023–present).svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Flag_of_Vatican_City_%282023%E2%80%93present%29.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Goran_tek-en",
+      "license": "Public domain",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Vatican_City_(2023–present).svg",
+      "attributionText": "Goran_tek-en / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-tonga-national",
+      "kind": "flag",
+      "localPath": "/media/flags/tonga.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Tonga.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Tonga.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Uelingatoni Ngu Tupoumalohi",
+      "license": "Public domain",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Tonga.svg",
+      "attributionText": "Uelingatoni Ngu Tupoumalohi / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
+      "checkedAt": "2026-09-24"
+    }
+  ],
+  "entries": [
+    {
+      "id": "holy-see-state-flag",
+      "kind": "flag",
+      "countryId": "holy-see",
+      "nameRu": "Святой Престол",
+      "subtitleRu": "Государственный флаг Ватикана",
+      "variantType": "state",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-holy-see-state",
+      "summaryRu": "Флаг Ватикана состоит из жёлтого и белого вертикальных полей; на белом размещены тиара и скрещённые ключи.",
+      "explanationRu": "Статья 23 Основного закона Государства-града Ватикан 2023 года описывает две вертикальные части: жёлтую у древка и белую с тиарой и ключами. Это государственный флаг Ватикана, обеспечивающего независимость Святого Престола.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Расположение цветов",
+          "valueRu": "Жёлтое поле у древка, белое — справа"
+        },
+        {
+          "labelRu": "Знак на белом поле",
+          "valueRu": "Тиара и скрещённые ключи"
+        },
+        {
+          "labelRu": "Правовой источник",
+          "valueRu": "Статья 23 Основного закона 2023 года"
+        }
+      ],
+      "sourceIds": [
+        "va-fundamental-law-2023-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "bicolor",
+          "vertical-stripes",
+          "emblem"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "tonga-national-flag",
+      "kind": "flag",
+      "countryId": "tonga",
+      "nameRu": "Тонга",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-tonga-national",
+      "summaryRu": "Красный флаг Тонга имеет белый прямоугольник у древка с красным крестом.",
+      "explanationRu": "Национальный флаг Тонга показан в правительственном издании как красное полотнище с белым прямоугольником и красным крестом. Статья 47 Конституции закрепляет его неизменность.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Основной цвет",
+          "valueRu": "Красный"
+        },
+        {
+          "labelRu": "Верхний угол у древка",
+          "valueRu": "Белый прямоугольник с красным крестом"
+        },
+        {
+          "labelRu": "Правовой статус",
+          "valueRu": "Национальный флаг закреплён статьёй 47 Конституции"
+        }
+      ],
+      "sourceIds": [
+        "to-finance-mdg-flag",
+        "to-constitution-flag-article-47"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "cross",
+          "canton",
+          "red-field"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    }
+  ]
+}

@@ -3129,5 +3129,31 @@
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_South_Sudan.svg",
     "attributionText": "Wikimedia Commons user Achim1999 / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
     "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-holy-see-state",
+    "kind": "flag",
+    "localPath": "/media/flags/holy-see.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Vatican_City_(2023–present).svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Flag_of_Vatican_City_%282023%E2%80%93present%29.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Goran_tek-en",
+    "license": "Public domain",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Vatican_City_(2023–present).svg",
+    "attributionText": "Goran_tek-en / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-tonga-national",
+    "kind": "flag",
+    "localPath": "/media/flags/tonga.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Tonga.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Tonga.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Uelingatoni Ngu Tupoumalohi",
+    "license": "Public domain",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Tonga.svg",
+    "attributionText": "Uelingatoni Ngu Tupoumalohi / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
   }
 ]

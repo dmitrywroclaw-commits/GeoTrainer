@@ -1,0 +1,74 @@
+{
+  "batch_id": "batch-080-two-flags",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "va-fundamental-law-2023-flag",
+      "title": "Legge fondamentale dello Stato della Città del Vaticano, articolo 23",
+      "publisher": "Holy See Press Office",
+      "source_type": "law",
+      "url": "https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2023/05/13/0365/00791.html",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Святой Престол"
+    },
+    {
+      "source_id": "to-finance-mdg-flag",
+      "title": "Tonga Millennium Development Goals Report: The Tongan Flag",
+      "publisher": "Ministry of Finance of Tonga",
+      "source_type": "government",
+      "url": "https://www.finance.gov.to/sites/default/files/2020-09/Tonga%20MDG.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Тонга"
+    },
+    {
+      "source_id": "to-constitution-flag-article-47",
+      "title": "Constitution of Tonga, clause 47: National flag",
+      "publisher": "Attorney General’s Office, Kingdom of Tonga",
+      "source_type": "law",
+      "url": "https://ago.gov.to/cms/images/LEGISLATION/PRINCIPAL/1988/1988-0002/ConstitutionofTonga.pdf_3.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Правовой статус национального флага Тонга"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "holy-see",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "holy-see-state-flag",
+          "variant_type": "state",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "вертикальные жёлтая и белая половины | тиара и скрещённые ключи на белой половине",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "va-fundamental-law-2023-flag",
+          "primary_source_urls": "https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2023/05/13/0365/00791.html"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "tonga",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "tonga-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "красное поле | белый прямоугольник в верхнем углу у древка | красный крест в белом прямоугольнике",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "to-finance-mdg-flag|to-constitution-flag-article-47",
+          "primary_source_urls": "https://www.finance.gov.to/sites/default/files/2020-09/Tonga%20MDG.pdf|https://ago.gov.to/cms/images/LEGISLATION/PRINCIPAL/1988/1988-0002/ConstitutionofTonga.pdf_3.pdf"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}
