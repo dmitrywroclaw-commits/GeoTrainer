@@ -1,0 +1,177 @@
+{
+  "batch_id": "003af-m49-144-752-flags",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "es-flag-law-39-1981",
+      "title": "Ley 39/1981, artículos segundo y tercero",
+      "publisher": "Boletín Oficial del Estado, Spain",
+      "source_type": "law",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1981-26082&p=19811112&tn=1",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Испания"
+    },
+    {
+      "source_id": "rs-government-state-flag",
+      "title": "Parliament adopts national symbols of Serbia",
+      "publisher": "Government of Serbia",
+      "source_type": "government",
+      "url": "https://www.srbija.gov.rs/vest/en/4440/parliament-adopts-national-symbols-of-serbia.php",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Сербия"
+    },
+    {
+      "source_id": "so-presidency-state-symbols",
+      "title": "State Symbols: National Flag",
+      "publisher": "Office of the President of Somalia",
+      "source_type": "government",
+      "url": "https://villasomalia.gov.so/state-symbols/",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Сомали"
+    },
+    {
+      "source_id": "sd-embassy-flag",
+      "title": "علم السودان",
+      "publisher": "Embassy of Sudan in Qatar",
+      "source_type": "government",
+      "url": "https://www.embassy-qatar.gov.sd/sections/aboutSudan2",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Судан"
+    },
+    {
+      "source_id": "sr-government-flag",
+      "title": "Suriname: nationale vlag",
+      "publisher": "Government of Suriname",
+      "source_type": "government",
+      "url": "https://gov.sr/suriname/",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Суринам"
+    },
+    {
+      "source_id": "se-flag-law-1982",
+      "title": "Lag (1982:269) om Sveriges flagga",
+      "publisher": "Government Offices of Sweden",
+      "source_type": "law",
+      "url": "https://rkrattsbaser.gov.se/sfst?bet=1982%3A269",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Швеция"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "spain",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "spain-state-flag",
+          "variant_type": "state",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_yellow_red|coat_of_arms",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "es-flag-law-39-1981",
+          "primary_source_urls": "https://www.boe.es/buscar/act.php?id=BOE-A-1981-26082&p=19811112&tn=1"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "serbia",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "serbia-state-flag",
+          "variant_type": "state",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_blue_white|coat_of_arms",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "rs-government-state-flag",
+          "primary_source_urls": "https://www.srbija.gov.rs/vest/en/4440/parliament-adopts-national-symbols-of-serbia.php"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "somalia",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "somalia-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "light_blue_field|white_star",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "so-presidency-state-symbols",
+          "primary_source_urls": "https://villasomalia.gov.so/state-symbols/"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "sudan",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "sudan-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_white_black_horizontal|green_triangle",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "sd-embassy-flag",
+          "primary_source_urls": "https://www.embassy-qatar.gov.sd/sections/aboutSudan2"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "suriname",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "suriname-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "green_white_red_white_green|yellow_star",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "sr-government-flag",
+          "primary_source_urls": "https://gov.sr/suriname/"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "sweden",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "sweden-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "blue_field|yellow_nordic_cross",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "se-flag-law-1982",
+          "primary_source_urls": "https://rkrattsbaser.gov.se/sfst?bet=1982%3A269"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}

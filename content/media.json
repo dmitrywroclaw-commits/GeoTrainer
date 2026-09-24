@@ -2206,5 +2206,83 @@
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_South_Africa.svg",
     "attributionText": "Frederick Brownell; Wikimedia Commons vector contributors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
     "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-spain-state",
+    "kind": "flag",
+    "localPath": "/media/flags/spain.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Spain.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "RelShot 263 and Echando una mano; earlier version: Pedro A. Gracia Fajardo",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Spain.svg",
+    "attributionText": "RelShot 263 and Echando una mano; earlier version: Pedro A. Gracia Fajardo / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-serbia-state",
+    "kind": "flag",
+    "localPath": "/media/flags/serbia.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Serbia.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Wikimedia Commons file contributors",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Serbia.svg",
+    "attributionText": "Wikimedia Commons file contributors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-somalia-national",
+    "kind": "flag",
+    "localPath": "/media/flags/somalia.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Somalia.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Wikimedia Commons file contributors",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Somalia.svg",
+    "attributionText": "Wikimedia Commons file contributors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-sudan-national",
+    "kind": "flag",
+    "localPath": "/media/flags/sudan.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Sudan.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Wikimedia Commons file contributors",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Sudan.svg",
+    "attributionText": "Wikimedia Commons file contributors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-suriname-national",
+    "kind": "flag",
+    "localPath": "/media/flags/suriname.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Suriname.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Suriname.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Wikimedia Commons file contributors",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Suriname.svg",
+    "attributionText": "Wikimedia Commons file contributors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-sweden-national",
+    "kind": "flag",
+    "localPath": "/media/flags/sweden.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Sweden.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Jon Harald Søby and others",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Sweden.svg",
+    "attributionText": "Jon Harald Søby and others / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+    "checkedAt": "2026-09-24"
   }
 ]

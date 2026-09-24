@@ -1,0 +1,381 @@
+{
+  "batch_id": "publish-063-six-flags",
+  "countries": [
+    {
+      "id": "serbia",
+      "nameRu": "Сербия",
+      "region": "Южная Европа",
+      "m49": "688",
+      "iso2": "RS",
+      "iso3": "SRB"
+    },
+    {
+      "id": "somalia",
+      "nameRu": "Сомали",
+      "region": "Восточная Африка",
+      "m49": "706",
+      "iso2": "SO",
+      "iso3": "SOM"
+    },
+    {
+      "id": "sudan",
+      "nameRu": "Судан",
+      "region": "Северная Африка",
+      "m49": "729",
+      "iso2": "SD",
+      "iso3": "SDN"
+    },
+    {
+      "id": "suriname",
+      "nameRu": "Суринам",
+      "region": "Южная Америка",
+      "m49": "740",
+      "iso2": "SR",
+      "iso3": "SUR"
+    },
+    {
+      "id": "sweden",
+      "nameRu": "Швеция",
+      "region": "Северная Европа",
+      "m49": "752",
+      "iso2": "SE",
+      "iso3": "SWE"
+    }
+  ],
+  "sources": [
+    {
+      "id": "es-flag-law-39-1981",
+      "title": "Ley 39/1981, artículos segundo y tercero",
+      "publisher": "Boletín Oficial del Estado, Spain",
+      "sourceType": "law",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1981-26082&p=19811112&tn=1",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "rs-government-state-flag",
+      "title": "Parliament adopts national symbols of Serbia",
+      "publisher": "Government of Serbia",
+      "sourceType": "government",
+      "url": "https://www.srbija.gov.rs/vest/en/4440/parliament-adopts-national-symbols-of-serbia.php",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "so-presidency-state-symbols",
+      "title": "State Symbols: National Flag",
+      "publisher": "Office of the President of Somalia",
+      "sourceType": "government",
+      "url": "https://villasomalia.gov.so/state-symbols/",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "sd-embassy-flag",
+      "title": "علم السودان",
+      "publisher": "Embassy of Sudan in Qatar",
+      "sourceType": "government",
+      "url": "https://www.embassy-qatar.gov.sd/sections/aboutSudan2",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "sr-government-flag",
+      "title": "Suriname: nationale vlag",
+      "publisher": "Government of Suriname",
+      "sourceType": "government",
+      "url": "https://gov.sr/suriname/",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "se-flag-law-1982",
+      "title": "Lag (1982:269) om Sveriges flagga",
+      "publisher": "Government Offices of Sweden",
+      "sourceType": "law",
+      "url": "https://rkrattsbaser.gov.se/sfst?bet=1982%3A269",
+      "accessedAt": "2026-09-24"
+    }
+  ],
+  "media": [
+    {
+      "id": "flag-spain-state",
+      "kind": "flag",
+      "localPath": "/media/flags/spain.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Spain.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "RelShot 263 and Echando una mano; earlier version: Pedro A. Gracia Fajardo",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Spain.svg",
+      "attributionText": "RelShot 263 and Echando una mano; earlier version: Pedro A. Gracia Fajardo / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-serbia-state",
+      "kind": "flag",
+      "localPath": "/media/flags/serbia.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Serbia.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Wikimedia Commons file contributors",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Serbia.svg",
+      "attributionText": "Wikimedia Commons file contributors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-somalia-national",
+      "kind": "flag",
+      "localPath": "/media/flags/somalia.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Somalia.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Wikimedia Commons file contributors",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Somalia.svg",
+      "attributionText": "Wikimedia Commons file contributors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-sudan-national",
+      "kind": "flag",
+      "localPath": "/media/flags/sudan.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Sudan.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Wikimedia Commons file contributors",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Sudan.svg",
+      "attributionText": "Wikimedia Commons file contributors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-suriname-national",
+      "kind": "flag",
+      "localPath": "/media/flags/suriname.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Suriname.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Suriname.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Wikimedia Commons file contributors",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Suriname.svg",
+      "attributionText": "Wikimedia Commons file contributors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-sweden-national",
+      "kind": "flag",
+      "localPath": "/media/flags/sweden.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Sweden.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Jon Harald Søby and others",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Sweden.svg",
+      "attributionText": "Jon Harald Søby and others / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    }
+  ],
+  "entries": [
+    {
+      "id": "spain-state-flag",
+      "kind": "flag",
+      "countryId": "spain",
+      "nameRu": "Испания",
+      "subtitleRu": "Государственный флаг",
+      "variantType": "state",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-spain-state",
+      "summaryRu": "Флаг Испании: широкая жёлтая полоса между двумя красными; ближе к древку на жёлтой полосе — герб.",
+      "explanationRu": "Закон Испании описывает красную, жёлтую и красную полосы, причём жёлтая вдвое шире каждой красной. Для флагов государственных зданий предписано изображение герба.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Красная, широкая жёлтая, красная"
+        },
+        {
+          "labelRu": "На жёлтой полосе",
+          "valueRu": "Герб Испании"
+        }
+      ],
+      "sourceIds": [
+        "es-flag-law-39-1981"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "red_yellow_red",
+          "coat_of_arms"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "serbia-state-flag",
+      "kind": "flag",
+      "countryId": "serbia",
+      "nameRu": "Сербия",
+      "subtitleRu": "Государственный флаг",
+      "variantType": "state",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-serbia-state",
+      "summaryRu": "Государственный флаг Сербии: красная, синяя и белая полосы с малым гербом ближе к древку.",
+      "explanationRu": "Правительство Сербии различает народный триколор и государственный флаг. На государственном варианте поверх красной, синей и белой полос изображён малый герб.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Красная, синяя, белая"
+        },
+        {
+          "labelRu": "Отличие государственного флага",
+          "valueRu": "Малый герб"
+        }
+      ],
+      "sourceIds": [
+        "rs-government-state-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "red_blue_white",
+          "coat_of_arms"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "somalia-national-flag",
+      "kind": "flag",
+      "countryId": "somalia",
+      "nameRu": "Сомали",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-somalia-national",
+      "summaryRu": "Флаг Сомали — светло-голубое полотнище с белой пятиконечной звездой в центре.",
+      "explanationRu": "Официальный сайт президента Сомали описывает светло-голубой прямоугольный флаг с белой звездой из пяти равных лучей посередине.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Поле",
+          "valueRu": "Светло-голубое"
+        },
+        {
+          "labelRu": "В центре",
+          "valueRu": "Белая пятиконечная звезда"
+        }
+      ],
+      "sourceIds": [
+        "so-presidency-state-symbols"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "light_blue",
+          "white_star"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "sudan-national-flag",
+      "kind": "flag",
+      "countryId": "sudan",
+      "nameRu": "Судан",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-sudan-national",
+      "summaryRu": "Флаг Судана: красная, белая и чёрная горизонтальные полосы; у древка — зелёный треугольник.",
+      "explanationRu": "Посольство Судана описывает красную, белую и чёрную полосы, соединённые у древка зелёным треугольником.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Красная, белая, чёрная"
+        },
+        {
+          "labelRu": "У древка",
+          "valueRu": "Зелёный треугольник"
+        }
+      ],
+      "sourceIds": [
+        "sd-embassy-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "red_white_black",
+          "green_triangle"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "suriname-national-flag",
+      "kind": "flag",
+      "countryId": "suriname",
+      "nameRu": "Суринам",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-suriname-national",
+      "summaryRu": "Флаг Суринама: пять горизонтальных полос — зелёная, белая, красная, белая, зелёная; на красной полосе — жёлтая звезда.",
+      "explanationRu": "Правительство Суринама описывает пять полос и пятиконечную звезду. Центральная красная полоса шире остальных; звезда размещена в её середине.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Порядок полос",
+          "valueRu": "Зелёная, белая, красная, белая, зелёная"
+        },
+        {
+          "labelRu": "В центре",
+          "valueRu": "Жёлтая пятиконечная звезда"
+        }
+      ],
+      "sourceIds": [
+        "sr-government-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "five_stripes",
+          "yellow_star"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "sweden-national-flag",
+      "kind": "flag",
+      "countryId": "sweden",
+      "nameRu": "Швеция",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-sweden-national",
+      "summaryRu": "Флаг Швеции — синее полотнище с жёлтым скандинавским крестом, смещённым к древку.",
+      "explanationRu": "Закон Швеции определяет синий флаг с жёлтым прямым крестом. Перекладина и вертикальная часть креста расположены под прямым углом.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Поле",
+          "valueRu": "Синее"
+        },
+        {
+          "labelRu": "Крест",
+          "valueRu": "Жёлтый, смещён к древку"
+        }
+      ],
+      "sourceIds": [
+        "se-flag-law-1982"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "blue_field",
+          "yellow_cross"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    }
+  ]
+}
