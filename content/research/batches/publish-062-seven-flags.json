@@ -1,0 +1,444 @@
+{
+  "batch_id": "publish-062-seven-flags",
+  "countries": [
+    {
+      "id": "senegal",
+      "nameRu": "Сенегал",
+      "region": "Западная Африка",
+      "m49": "686",
+      "iso2": "SN",
+      "iso3": "SEN"
+    },
+    {
+      "id": "seychelles",
+      "nameRu": "Сейшельские Острова",
+      "region": "Восточная Африка",
+      "m49": "690",
+      "iso2": "SC",
+      "iso3": "SYC"
+    },
+    {
+      "id": "singapore",
+      "nameRu": "Сингапур",
+      "region": "Юго-Восточная Азия",
+      "m49": "702",
+      "iso2": "SG",
+      "iso3": "SGP"
+    },
+    {
+      "id": "sierra-leone",
+      "nameRu": "Сьерра-Леоне",
+      "region": "Западная Африка",
+      "m49": "694",
+      "iso2": "SL",
+      "iso3": "SLE"
+    },
+    {
+      "id": "slovakia",
+      "nameRu": "Словакия",
+      "region": "Восточная Европа",
+      "m49": "703",
+      "iso2": "SK",
+      "iso3": "SVK"
+    },
+    {
+      "id": "slovenia",
+      "nameRu": "Словения",
+      "region": "Южная Европа",
+      "m49": "705",
+      "iso2": "SI",
+      "iso3": "SVN"
+    }
+  ],
+  "sources": [
+    {
+      "id": "sn-presidency-flag",
+      "title": "Le drapeau et la devise du Sénégal",
+      "publisher": "Presidency of Senegal",
+      "sourceType": "government",
+      "url": "https://www.presidence.sn/fr/presidence/le-drapeau-et-la-devise-du-senegal/",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "sc-mfa-flag-guidance",
+      "title": "Guidance on Proper Display of the Seychelles National Flag",
+      "publisher": "Ministry of Foreign Affairs of Seychelles",
+      "sourceType": "government",
+      "url": "https://mfa.gov.sc/wp-content/uploads/2023/04/Guidance-on-Proper-Display-of-the-Seychelles-National-Flag.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "sg-national-heritage-flag",
+      "title": "National Flag",
+      "publisher": "National Heritage Board of Singapore",
+      "sourceType": "government",
+      "url": "https://www.nhb.gov.sg/what-we-do/our-work/community-engagement/education/resources/national-symbols/national-flag",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "sl-constitution-flag",
+      "title": "Constitution of Sierra Leone, Section 3",
+      "publisher": "Parliament of Sierra Leone",
+      "sourceType": "law",
+      "url": "https://parliament.gov.sl/constitution-of-sierra-leone.html",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "sk-government-state-flag",
+      "title": "Štátna vlajka",
+      "publisher": "Government Office of the Slovak Republic",
+      "sourceType": "government",
+      "url": "https://www.vlada.gov.sk/slovensko/statna-vlajka/",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "si-government-national-symbols",
+      "title": "National symbols",
+      "publisher": "Government of Slovenia",
+      "sourceType": "government",
+      "url": "https://www.gov.si/en/topics/national-symbols/",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "za-government-national-flag",
+      "title": "National flag",
+      "publisher": "Government of South Africa",
+      "sourceType": "government",
+      "url": "https://www.gov.za/about-sa/national-flag-0",
+      "accessedAt": "2026-09-24"
+    }
+  ],
+  "media": [
+    {
+      "id": "flag-senegal-national",
+      "kind": "flag",
+      "localPath": "/media/flags/senegal.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Senegal.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Nightstallion",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Senegal.svg",
+      "attributionText": "Nightstallion / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-seychelles-national",
+      "kind": "flag",
+      "localPath": "/media/flags/seychelles.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Seychelles.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Seychelles.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Vxb83",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Seychelles.svg",
+      "attributionText": "Vxb83 / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-singapore-national",
+      "kind": "flag",
+      "localPath": "/media/flags/singapore.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Singapore.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Government of Singapore; vector: Zscout370",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Singapore.svg",
+      "attributionText": "Government of Singapore; vector: Zscout370 / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-sierra-leone-national",
+      "kind": "flag",
+      "localPath": "/media/flags/sierra-leone.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Sierra_Leone.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Zscout370",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Sierra_Leone.svg",
+      "attributionText": "Zscout370 / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-slovakia-state",
+      "kind": "flag",
+      "localPath": "/media/flags/slovakia.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Slovakia.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Ladislav Čisárik and Ladislav Vrtel; vector: SKopp",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Slovakia.svg",
+      "attributionText": "Ladislav Čisárik and Ladislav Vrtel; vector: SKopp / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-slovenia-national",
+      "kind": "flag",
+      "localPath": "/media/flags/slovenia.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Slovenia.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Marko Pogačnik; vector: Achim1999",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Slovenia.svg",
+      "attributionText": "Marko Pogačnik; vector: Achim1999 / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-south-africa-national",
+      "kind": "flag",
+      "localPath": "/media/flags/south-africa.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_South_Africa.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Frederick Brownell; Wikimedia Commons vector contributors",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_South_Africa.svg",
+      "attributionText": "Frederick Brownell; Wikimedia Commons vector contributors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    }
+  ],
+  "entries": [
+    {
+      "id": "senegal-national-flag",
+      "kind": "flag",
+      "countryId": "senegal",
+      "nameRu": "Сенегал",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-senegal-national",
+      "summaryRu": "Флаг Сенегала: зелёная, золотая и красная вертикальные полосы; в центре — зелёная пятиконечная звезда.",
+      "explanationRu": "Президентский сайт Сенегала описывает три равные вертикальные полосы. Зелёная звезда находится посередине золотой полосы.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "От древка",
+          "valueRu": "Зелёная, золотая, красная"
+        },
+        {
+          "labelRu": "В центре",
+          "valueRu": "Зелёная пятиконечная звезда"
+        }
+      ],
+      "sourceIds": [
+        "sn-presidency-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "green_gold_red",
+          "green_star"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "seychelles-national-flag",
+      "kind": "flag",
+      "countryId": "seychelles",
+      "nameRu": "Сейшельские Острова",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-seychelles-national",
+      "summaryRu": "Флаг Сейшельских Островов состоит из пяти косых полос: синей, жёлтой, красной, белой и зелёной.",
+      "explanationRu": "МИД Сейшельских Островов описывает пять косых полос, расходящихся от нижнего угла у древка: синюю, жёлтую, красную, белую и зелёную.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Пять косых цветных полос"
+        },
+        {
+          "labelRu": "Их начало",
+          "valueRu": "Нижний угол у древка"
+        }
+      ],
+      "sourceIds": [
+        "sc-mfa-flag-guidance"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "five_oblique_bands",
+          "five_colors"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "singapore-national-flag",
+      "kind": "flag",
+      "countryId": "singapore",
+      "nameRu": "Сингапур",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-singapore-national",
+      "summaryRu": "Флаг Сингапура: красная полоса над белой; в верхнем углу у древка — белые полумесяц и пять звёзд.",
+      "explanationRu": "Национальный совет по наследию Сингапура описывает две равные полосы. Белый полумесяц и пять звёзд расположены в красной верхней части у древка.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Красная над белой"
+        },
+        {
+          "labelRu": "В верхнем углу",
+          "valueRu": "Полумесяц и пять звёзд"
+        }
+      ],
+      "sourceIds": [
+        "sg-national-heritage-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "red_white_horizontal",
+          "crescent_stars"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "sierra-leone-national-flag",
+      "kind": "flag",
+      "countryId": "sierra-leone",
+      "nameRu": "Сьерра-Леоне",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-sierra-leone-national",
+      "summaryRu": "Флаг Сьерра-Леоне имеет три горизонтальные полосы: зелёную, белую и синюю.",
+      "explanationRu": "Конституция Сьерра-Леоне устанавливает порядок трёх горизонтальных полос сверху вниз: зелёная, белая, синяя.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Верхняя полоса",
+          "valueRu": "Зелёная"
+        },
+        {
+          "labelRu": "Нижняя полоса",
+          "valueRu": "Синяя"
+        }
+      ],
+      "sourceIds": [
+        "sl-constitution-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "green_white_blue",
+          "horizontal_tricolor"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "slovakia-state-flag",
+      "kind": "flag",
+      "countryId": "slovakia",
+      "nameRu": "Словакия",
+      "subtitleRu": "Государственный флаг",
+      "variantType": "state",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-slovakia-state",
+      "summaryRu": "Флаг Словакии: белая, синяя и красная полосы; ближе к древку размещён государственный герб.",
+      "explanationRu": "Правительство Словакии описывает три равные горизонтальные полосы. На ближней к древку половине флага находится герб со щитом и двойным крестом.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Белая, синяя, красная"
+        },
+        {
+          "labelRu": "У древка",
+          "valueRu": "Герб с двойным крестом"
+        }
+      ],
+      "sourceIds": [
+        "sk-government-state-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "white_blue_red",
+          "coat_of_arms"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "slovenia-national-flag",
+      "kind": "flag",
+      "countryId": "slovenia",
+      "nameRu": "Словения",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-slovenia-national",
+      "summaryRu": "Флаг Словении: белая, синяя и красная полосы; у древка расположен герб с горой Триглав.",
+      "explanationRu": "Правительство Словении описывает бело-сине-красный флаг с национальным гербом. На гербе изображены гора Триглав, волнистые линии и три звезды.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Белая, синяя, красная"
+        },
+        {
+          "labelRu": "У древка",
+          "valueRu": "Герб с горой Триглав"
+        }
+      ],
+      "sourceIds": [
+        "si-government-national-symbols"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "white_blue_red",
+          "coat_of_arms"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "south-africa-national-flag",
+      "kind": "flag",
+      "countryId": "south-africa",
+      "nameRu": "Южная Африка",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-south-africa-national",
+      "summaryRu": "Флаг Южной Африки: у древка чёрный треугольник; зелёная полоса в форме буквы Y разделяет красное и синее поля.",
+      "explanationRu": "Правительство Южной Африки описывает центральный рисунок, который от древка в форме буквы V переходит в одну горизонтальную полосу к свободному краю. Над ней находится красное поле, под ней — синее.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "У древка",
+          "valueRu": "Чёрный треугольник"
+        },
+        {
+          "labelRu": "В центре",
+          "valueRu": "Зелёная полоса в форме Y"
+        }
+      ],
+      "sourceIds": [
+        "za-government-national-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "green_y",
+          "six_colors"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    }
+  ]
+}

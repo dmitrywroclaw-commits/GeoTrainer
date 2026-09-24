@@ -1,0 +1,205 @@
+{
+  "batch_id": "003ae-m49-686-710-flags",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "sn-presidency-flag",
+      "title": "Le drapeau et la devise du Sénégal",
+      "publisher": "Presidency of Senegal",
+      "source_type": "government",
+      "url": "https://www.presidence.sn/fr/presidence/le-drapeau-et-la-devise-du-senegal/",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Сенегал"
+    },
+    {
+      "source_id": "sc-mfa-flag-guidance",
+      "title": "Guidance on Proper Display of the Seychelles National Flag",
+      "publisher": "Ministry of Foreign Affairs of Seychelles",
+      "source_type": "government",
+      "url": "https://mfa.gov.sc/wp-content/uploads/2023/04/Guidance-on-Proper-Display-of-the-Seychelles-National-Flag.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Сейшельские Острова"
+    },
+    {
+      "source_id": "sg-national-heritage-flag",
+      "title": "National Flag",
+      "publisher": "National Heritage Board of Singapore",
+      "source_type": "government",
+      "url": "https://www.nhb.gov.sg/what-we-do/our-work/community-engagement/education/resources/national-symbols/national-flag",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Сингапур"
+    },
+    {
+      "source_id": "sl-constitution-flag",
+      "title": "Constitution of Sierra Leone, Section 3",
+      "publisher": "Parliament of Sierra Leone",
+      "source_type": "law",
+      "url": "https://parliament.gov.sl/constitution-of-sierra-leone.html",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Сьерра-Леоне"
+    },
+    {
+      "source_id": "sk-government-state-flag",
+      "title": "Štátna vlajka",
+      "publisher": "Government Office of the Slovak Republic",
+      "source_type": "government",
+      "url": "https://www.vlada.gov.sk/slovensko/statna-vlajka/",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Словакия"
+    },
+    {
+      "source_id": "si-government-national-symbols",
+      "title": "National symbols",
+      "publisher": "Government of Slovenia",
+      "source_type": "government",
+      "url": "https://www.gov.si/en/topics/national-symbols/",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Словения"
+    },
+    {
+      "source_id": "za-government-national-flag",
+      "title": "National flag",
+      "publisher": "Government of South Africa",
+      "source_type": "government",
+      "url": "https://www.gov.za/about-sa/national-flag-0",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Южная Африка"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "senegal",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "senegal-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "green_gold_red_vertical|green_star",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "sn-presidency-flag",
+          "primary_source_urls": "https://www.presidence.sn/fr/presidence/le-drapeau-et-la-devise-du-senegal/"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "seychelles",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "seychelles-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "five_oblique_bands|blue_yellow_red_white_green",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "sc-mfa-flag-guidance",
+          "primary_source_urls": "https://mfa.gov.sc/wp-content/uploads/2023/04/Guidance-on-Proper-Display-of-the-Seychelles-National-Flag.pdf"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "singapore",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "singapore-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_white_horizontal|crescent|five_stars",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "sg-national-heritage-flag",
+          "primary_source_urls": "https://www.nhb.gov.sg/what-we-do/our-work/community-engagement/education/resources/national-symbols/national-flag"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "sierra-leone",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "sierra-leone-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "green_white_blue_horizontal",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "sl-constitution-flag",
+          "primary_source_urls": "https://parliament.gov.sl/constitution-of-sierra-leone.html"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "slovakia",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "slovakia-state-flag",
+          "variant_type": "state",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "white_blue_red_horizontal|coat_of_arms",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "sk-government-state-flag",
+          "primary_source_urls": "https://www.vlada.gov.sk/slovensko/statna-vlajka/"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "slovenia",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "slovenia-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "white_blue_red_horizontal|coat_of_arms",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "si-government-national-symbols",
+          "primary_source_urls": "https://www.gov.si/en/topics/national-symbols/"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "south-africa",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "south-africa-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "black_triangle|green_y|red_blue_fields",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "za-government-national-flag",
+          "primary_source_urls": "https://www.gov.za/about-sa/national-flag-0"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}
