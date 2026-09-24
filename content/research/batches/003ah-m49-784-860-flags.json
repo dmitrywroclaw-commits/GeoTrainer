@@ -1,0 +1,205 @@
+{
+  "batch_id": "003ah-m49-784-860-flags",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "ug-vice-president-national-symbols",
+      "title": "National Symbols: Uganda Flag",
+      "publisher": "Office of the Vice President of Uganda",
+      "source_type": "government",
+      "url": "https://www.vicepresident.go.ug/national-symbols/",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Уганда"
+    },
+    {
+      "source_id": "ua-constitution-art20",
+      "title": "Конституція України, стаття 20",
+      "publisher": "Офіційне інтернет-представництво Президента України",
+      "source_type": "law",
+      "url": "https://www.president.gov.ua/ua/documents/constitution/konstituciya-ukrayini-rozdil-i",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Украина"
+    },
+    {
+      "source_id": "ae-government-fact-sheet",
+      "title": "Fact sheet: UAE flag",
+      "publisher": "Government of the United Arab Emirates",
+      "source_type": "government",
+      "url": "https://u.ae/en/about-the-uae/fact-sheet",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Объединённые Арабские Эмираты"
+    },
+    {
+      "source_id": "gb-parliament-union-flag",
+      "title": "Flags Toolkit: United Kingdom Flag",
+      "publisher": "UK Parliament",
+      "source_type": "government",
+      "url": "https://www.parliament.uk/documents/education/docs/2015-Flag-Project/Flags-Toolkit-amended-version.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Соединённое Королевство"
+    },
+    {
+      "source_id": "usagov-flag",
+      "title": "The American flag and other national symbols",
+      "publisher": "USAGov",
+      "source_type": "government",
+      "url": "https://www.usa.gov/flag",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: США"
+    },
+    {
+      "source_id": "uy-parliament-flag-standards",
+      "title": "Símbolos patrios: Pabellón Nacional",
+      "publisher": "Parliament of Uruguay",
+      "source_type": "law",
+      "url": "https://pmb.parlamento.gub.uy/pmb/opac_css/doc_num.php?explnum_id=582",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Уругвай"
+    },
+    {
+      "source_id": "uz-mfa-state-symbols",
+      "title": "The State Symbols: National Flag",
+      "publisher": "Ministry of Foreign Affairs of Uzbekistan",
+      "source_type": "government",
+      "url": "https://gov.uz/en/mfa/sections/view/14473",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Узбекистан"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "uganda",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "uganda-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "black_yellow_red_six_stripes|crane_disc",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "ug-vice-president-national-symbols",
+          "primary_source_urls": "https://www.vicepresident.go.ug/national-symbols/"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "ukraine",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "ukraine-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "blue_yellow_horizontal",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "ua-constitution-art20",
+          "primary_source_urls": "https://www.president.gov.ua/ua/documents/constitution/konstituciya-ukrayini-rozdil-i"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "united-arab-emirates",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "united-arab-emirates-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_hoist|green_white_black_horizontal",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "ae-government-fact-sheet",
+          "primary_source_urls": "https://u.ae/en/about-the-uae/fact-sheet"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "united-kingdom",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "united-kingdom-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "blue_field|red_white_crosses",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "gb-parliament-union-flag",
+          "primary_source_urls": "https://www.parliament.uk/documents/education/docs/2015-Flag-Project/Flags-Toolkit-amended-version.pdf"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "united-states",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "united-states-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "thirteen_stripes|fifty_stars",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "usagov-flag",
+          "primary_source_urls": "https://www.usa.gov/flag"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "uruguay",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "uruguay-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "white_blue_nine_stripes|sun_of_may",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "uy-parliament-flag-standards",
+          "primary_source_urls": "https://pmb.parlamento.gub.uy/pmb/opac_css/doc_num.php?explnum_id=582"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "uzbekistan",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "uzbekistan-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "blue_white_green|red_dividers|crescent_twelve_stars",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "uz-mfa-state-symbols",
+          "primary_source_urls": "https://gov.uz/en/mfa/sections/view/14473"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}

@@ -1,0 +1,436 @@
+{
+  "batch_id": "publish-065-seven-flags",
+  "countries": [
+    {
+      "id": "uganda",
+      "nameRu": "Уганда",
+      "region": "Восточная Африка",
+      "m49": "800",
+      "iso2": "UG",
+      "iso3": "UGA"
+    },
+    {
+      "id": "ukraine",
+      "nameRu": "Украина",
+      "region": "Восточная Европа",
+      "m49": "804",
+      "iso2": "UA",
+      "iso3": "UKR"
+    },
+    {
+      "id": "united-arab-emirates",
+      "nameRu": "Объединённые Арабские Эмираты",
+      "region": "Западная Азия",
+      "m49": "784",
+      "iso2": "AE",
+      "iso3": "ARE"
+    },
+    {
+      "id": "uruguay",
+      "nameRu": "Уругвай",
+      "region": "Южная Америка",
+      "m49": "858",
+      "iso2": "UY",
+      "iso3": "URY"
+    },
+    {
+      "id": "uzbekistan",
+      "nameRu": "Узбекистан",
+      "region": "Центральная Азия",
+      "m49": "860",
+      "iso2": "UZ",
+      "iso3": "UZB"
+    }
+  ],
+  "sources": [
+    {
+      "id": "ug-vice-president-national-symbols",
+      "title": "National Symbols: Uganda Flag",
+      "publisher": "Office of the Vice President of Uganda",
+      "sourceType": "government",
+      "url": "https://www.vicepresident.go.ug/national-symbols/",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "ua-constitution-art20",
+      "title": "Конституція України, стаття 20",
+      "publisher": "Офіційне інтернет-представництво Президента України",
+      "sourceType": "law",
+      "url": "https://www.president.gov.ua/ua/documents/constitution/konstituciya-ukrayini-rozdil-i",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "ae-government-fact-sheet",
+      "title": "Fact sheet: UAE flag",
+      "publisher": "Government of the United Arab Emirates",
+      "sourceType": "government",
+      "url": "https://u.ae/en/about-the-uae/fact-sheet",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "gb-parliament-union-flag",
+      "title": "Flags Toolkit: United Kingdom Flag",
+      "publisher": "UK Parliament",
+      "sourceType": "government",
+      "url": "https://www.parliament.uk/documents/education/docs/2015-Flag-Project/Flags-Toolkit-amended-version.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "usagov-flag",
+      "title": "The American flag and other national symbols",
+      "publisher": "USAGov",
+      "sourceType": "government",
+      "url": "https://www.usa.gov/flag",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "uy-parliament-flag-standards",
+      "title": "Símbolos patrios: Pabellón Nacional",
+      "publisher": "Parliament of Uruguay",
+      "sourceType": "law",
+      "url": "https://pmb.parlamento.gub.uy/pmb/opac_css/doc_num.php?explnum_id=582",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "uz-mfa-state-symbols",
+      "title": "The State Symbols: National Flag",
+      "publisher": "Ministry of Foreign Affairs of Uzbekistan",
+      "sourceType": "government",
+      "url": "https://gov.uz/en/mfa/sections/view/14473",
+      "accessedAt": "2026-09-24"
+    }
+  ],
+  "media": [
+    {
+      "id": "flag-uganda-national",
+      "kind": "flag",
+      "localPath": "/media/flags/uganda.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Uganda.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "tobias",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Uganda.svg",
+      "attributionText": "tobias / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-ukraine-national",
+      "kind": "flag",
+      "localPath": "/media/flags/ukraine.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Ukraine.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Government of Ukraine",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Ukraine.svg",
+      "attributionText": "Government of Ukraine / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-united-arab-emirates-national",
+      "kind": "flag",
+      "localPath": "/media/flags/united-arab-emirates.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Arab_Emirates.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Abdulla Mohammed Al Maainah",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Arab_Emirates.svg",
+      "attributionText": "Abdulla Mohammed Al Maainah / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-united-kingdom-national",
+      "kind": "flag",
+      "localPath": "/media/flags/united-kingdom.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Kingdom_(3-5).svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Acts of Union 1800; vector: Yaddah",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Kingdom_(3-5).svg",
+      "attributionText": "Acts of Union 1800; vector: Yaddah / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-united-states-national",
+      "kind": "flag",
+      "localPath": "/media/flags/united-states.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Dbenbenn and Wikimedia Commons vector contributors",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States.svg",
+      "attributionText": "Dbenbenn and Wikimedia Commons vector contributors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-uruguay-national",
+      "kind": "flag",
+      "localPath": "/media/flags/uruguay.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Uruguay.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Wikimedia Commons file contributors",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Uruguay.svg",
+      "attributionText": "Wikimedia Commons file contributors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-uzbekistan-national",
+      "kind": "flag",
+      "localPath": "/media/flags/uzbekistan.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Uzbekistan.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Farhod Yoʻldoshev",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Uzbekistan.svg",
+      "attributionText": "Farhod Yoʻldoshev / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    }
+  ],
+  "entries": [
+    {
+      "id": "uganda-national-flag",
+      "kind": "flag",
+      "countryId": "uganda",
+      "nameRu": "Уганда",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-uganda-national",
+      "summaryRu": "Флаг Уганды: шесть полос чёрного, жёлтого и красного цветов; в белом круге посередине — венценосный журавль.",
+      "explanationRu": "Канцелярия вице-президента Уганды описывает последовательность из шести равных полос: чёрная, жёлтая, красная и снова та же тройка. В центре помещён серый венценосный журавль на белом круге.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Чёрная, жёлтая, красная — дважды"
+        },
+        {
+          "labelRu": "В центре",
+          "valueRu": "Венценосный журавль"
+        }
+      ],
+      "sourceIds": [
+        "ug-vice-president-national-symbols"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "six_stripes",
+          "crane"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "ukraine-national-flag",
+      "kind": "flag",
+      "countryId": "ukraine",
+      "nameRu": "Украина",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-ukraine-national",
+      "summaryRu": "Флаг Украины состоит из двух равных горизонтальных полос: синей сверху и жёлтой снизу.",
+      "explanationRu": "Статья 20 Конституции Украины определяет государственный флаг как полотнище из двух равновеликих горизонтальных полос синего и жёлтого цветов.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Верхняя полоса",
+          "valueRu": "Синяя"
+        },
+        {
+          "labelRu": "Нижняя полоса",
+          "valueRu": "Жёлтая"
+        }
+      ],
+      "sourceIds": [
+        "ua-constitution-art20"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "blue_yellow",
+          "horizontal_bicolor"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "united-arab-emirates-national-flag",
+      "kind": "flag",
+      "countryId": "united-arab-emirates",
+      "nameRu": "Объединённые Арабские Эмираты",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-united-arab-emirates-national",
+      "summaryRu": "Флаг ОАЭ: красная вертикальная полоса у древка, справа зелёная, белая и чёрная горизонтальные полосы.",
+      "explanationRu": "Официальный портал ОАЭ описывает зелёную, белую и чёрную равные горизонтальные полосы. У древка их пересекает широкая красная вертикальная полоса.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "У древка",
+          "valueRu": "Красная вертикальная полоса"
+        },
+        {
+          "labelRu": "Справа сверху вниз",
+          "valueRu": "Зелёная, белая, чёрная"
+        }
+      ],
+      "sourceIds": [
+        "ae-government-fact-sheet"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "red_hoist",
+          "green_white_black"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "united-kingdom-national-flag",
+      "kind": "flag",
+      "countryId": "united-kingdom",
+      "nameRu": "Соединённое Королевство",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-united-kingdom-national",
+      "summaryRu": "Флаг Соединённого Королевства соединяет красные и белые прямые и диагональные кресты на синем поле.",
+      "explanationRu": "Учебный материал парламента Соединённого Королевства объясняет, что Union Flag объединяет кресты святого Георгия, святого Андрея и святого Патрика.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Фон",
+          "valueRu": "Синий"
+        },
+        {
+          "labelRu": "Рисунок",
+          "valueRu": "Прямые и диагональные красно-белые кресты"
+        }
+      ],
+      "sourceIds": [
+        "gb-parliament-union-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "union_crosses",
+          "blue_field"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "united-states-national-flag",
+      "kind": "flag",
+      "countryId": "united-states",
+      "nameRu": "США",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-united-states-national",
+      "summaryRu": "Флаг США имеет тринадцать чередующихся красных и белых полос и пятьдесят белых звёзд на синем крыже.",
+      "explanationRu": "Официальный портал USAGov указывает, что тринадцать полос связаны с первоначальными колониями, а пятьдесят звёзд соответствуют штатам.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы",
+          "valueRu": "13 красных и белых"
+        },
+        {
+          "labelRu": "В синем крыже",
+          "valueRu": "50 белых звёзд"
+        }
+      ],
+      "sourceIds": [
+        "usagov-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "red_white_stripes",
+          "white_stars"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "uruguay-national-flag",
+      "kind": "flag",
+      "countryId": "uruguay",
+      "nameRu": "Уругвай",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-uruguay-national",
+      "summaryRu": "Флаг Уругвая: пять белых и четыре голубые полосы; в белом крыже находится золотое Солнце Мая.",
+      "explanationRu": "Парламентское описание национального флага устанавливает девять чередующихся полос и белый квадрат у древка с изображением солнца.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Пять белых и четыре голубые"
+        },
+        {
+          "labelRu": "В крыже",
+          "valueRu": "Золотое солнце"
+        }
+      ],
+      "sourceIds": [
+        "uy-parliament-flag-standards"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "white_blue_stripes",
+          "sun"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "uzbekistan-national-flag",
+      "kind": "flag",
+      "countryId": "uzbekistan",
+      "nameRu": "Узбекистан",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-uzbekistan-national",
+      "summaryRu": "Флаг Узбекистана: синяя, белая и зелёная полосы с тонкими красными разделителями; вверху — полумесяц и 12 звёзд.",
+      "explanationRu": "МИД Узбекистана описывает три горизонтальные полосы — синюю, белую и зелёную — и две узкие красные полоски между ними. На синем поле находятся белые полумесяц и двенадцать звёзд.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Синяя, белая, зелёная"
+        },
+        {
+          "labelRu": "В синем поле",
+          "valueRu": "Полумесяц и 12 звёзд"
+        }
+      ],
+      "sourceIds": [
+        "uz-mfa-state-symbols"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "blue_white_green",
+          "crescent_stars"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    }
+  ]
+}
