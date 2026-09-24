@@ -1,0 +1,121 @@
+{
+  "batch_id": "003an-m49-466-591-flags",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "ml-constitution-2023-flag",
+      "title": "Constitution de la République du Mali (2023)",
+      "publisher": "Official Journal of Mali",
+      "source_type": "law",
+      "url": "https://matd.gouv.ml/uploads/topics/17162945979231.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Мали"
+    },
+    {
+      "source_id": "pw-government-flag",
+      "title": "Flag of Palau",
+      "publisher": "Government of Palau",
+      "source_type": "government",
+      "url": "https://www.palaugov.pw/about-palau/flag/",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Палау"
+    },
+    {
+      "source_id": "pa-government-national-flag",
+      "title": "Bandera Nacional",
+      "publisher": "Ministry of Government of Panama",
+      "source_type": "government",
+      "url": "https://www.mingob.gob.pa/simbolosdelanacion/bandera-nacional/",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Панама"
+    },
+    {
+      "source_id": "fm-code-flag-design",
+      "title": "FSM Code, Title 1, Chapter 5, Section 501",
+      "publisher": "Federated States of Micronesia Legal Information System",
+      "source_type": "law",
+      "url": "https://www.fsmlaw.org/fsm/code/title01/t1ch5_2014.html",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Федеративные Штаты Микронезии"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "mali",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "mali-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "green_gold_red_vertical",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "ml-constitution-2023-flag",
+          "primary_source_urls": "https://matd.gouv.ml/uploads/topics/17162945979231.pdf"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "palau",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "palau-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "light_blue_field|offset_yellow_disc",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "pw-government-flag",
+          "primary_source_urls": "https://www.palaugov.pw/about-palau/flag/"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "panama",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "panama-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "four_quarters|white_blue_star|red|blue|white_red_star",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "pa-government-national-flag",
+          "primary_source_urls": "https://www.mingob.gob.pa/simbolosdelanacion/bandera-nacional/"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "micronesia",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "micronesia-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "blue_field|four_white_stars",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "fm-code-flag-design",
+          "primary_source_urls": "https://www.fsmlaw.org/fsm/code/title01/t1ch5_2014.html"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}

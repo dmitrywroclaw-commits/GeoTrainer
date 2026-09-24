@@ -2726,5 +2726,57 @@
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Malta.svg",
     "attributionText": "See Wikimedia Commons file history / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
     "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-mali-national",
+    "kind": "flag",
+    "localPath": "/media/flags/mali.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Mali.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "SKopp",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Mali.svg",
+    "attributionText": "SKopp / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-palau-national",
+    "kind": "flag",
+    "localPath": "/media/flags/palau.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Palau.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "John Blau Skebong; vector by Nightstallion",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Palau.svg",
+    "attributionText": "John Blau Skebong; vector by Nightstallion / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-panama-national",
+    "kind": "flag",
+    "localPath": "/media/flags/panama.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Panama.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Zscout370 and others",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Panama.svg",
+    "attributionText": "Zscout370 and others / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-micronesia-national",
+    "kind": "flag",
+    "localPath": "/media/flags/micronesia.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Federated_States_of_Micronesia.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Not specified on Wikimedia Commons",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Federated_States_of_Micronesia.svg",
+    "attributionText": "Not specified on Wikimedia Commons / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
   }
 ]

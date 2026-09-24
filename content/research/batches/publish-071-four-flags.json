@@ -1,0 +1,263 @@
+{
+  "batch_id": "publish-071-four-flags",
+  "countries": [
+    {
+      "id": "mali",
+      "nameRu": "Мали",
+      "region": "Западная Африка",
+      "m49": "466",
+      "iso2": "ML",
+      "iso3": "MLI"
+    },
+    {
+      "id": "palau",
+      "nameRu": "Палау",
+      "region": "Микронезия",
+      "m49": "585",
+      "iso2": "PW",
+      "iso3": "PLW"
+    },
+    {
+      "id": "panama",
+      "nameRu": "Панама",
+      "region": "Центральная Америка",
+      "m49": "591",
+      "iso2": "PA",
+      "iso3": "PAN"
+    },
+    {
+      "id": "micronesia",
+      "nameRu": "Федеративные Штаты Микронезии",
+      "region": "Микронезия",
+      "m49": "583",
+      "iso2": "FM",
+      "iso3": "FSM"
+    }
+  ],
+  "sources": [
+    {
+      "id": "ml-constitution-2023-flag",
+      "title": "Constitution de la République du Mali (2023)",
+      "publisher": "Official Journal of Mali",
+      "sourceType": "law",
+      "url": "https://matd.gouv.ml/uploads/topics/17162945979231.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "pw-government-flag",
+      "title": "Flag of Palau",
+      "publisher": "Government of Palau",
+      "sourceType": "government",
+      "url": "https://www.palaugov.pw/about-palau/flag/",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "pa-government-national-flag",
+      "title": "Bandera Nacional",
+      "publisher": "Ministry of Government of Panama",
+      "sourceType": "government",
+      "url": "https://www.mingob.gob.pa/simbolosdelanacion/bandera-nacional/",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "fm-code-flag-design",
+      "title": "FSM Code, Title 1, Chapter 5, Section 501",
+      "publisher": "Federated States of Micronesia Legal Information System",
+      "sourceType": "law",
+      "url": "https://www.fsmlaw.org/fsm/code/title01/t1ch5_2014.html",
+      "accessedAt": "2026-09-24"
+    }
+  ],
+  "media": [
+    {
+      "id": "flag-mali-national",
+      "kind": "flag",
+      "localPath": "/media/flags/mali.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Mali.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "SKopp",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Mali.svg",
+      "attributionText": "SKopp / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-palau-national",
+      "kind": "flag",
+      "localPath": "/media/flags/palau.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Palau.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "John Blau Skebong; vector by Nightstallion",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Palau.svg",
+      "attributionText": "John Blau Skebong; vector by Nightstallion / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-panama-national",
+      "kind": "flag",
+      "localPath": "/media/flags/panama.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Panama.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Zscout370 and others",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Panama.svg",
+      "attributionText": "Zscout370 and others / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-micronesia-national",
+      "kind": "flag",
+      "localPath": "/media/flags/micronesia.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Federated_States_of_Micronesia.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Not specified on Wikimedia Commons",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Federated_States_of_Micronesia.svg",
+      "attributionText": "Not specified on Wikimedia Commons / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+      "checkedAt": "2026-09-24"
+    }
+  ],
+  "entries": [
+    {
+      "id": "mali-national-flag",
+      "kind": "flag",
+      "countryId": "mali",
+      "nameRu": "Мали",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-mali-national",
+      "summaryRu": "Три равные вертикальные полосы: зелёная, золотая и красная.",
+      "explanationRu": "Конституция Мали описывает государственный флаг как три равные вертикальные полосы. От древка к свободному краю следуют зелёная, золотая и красная полосы.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "От древка",
+          "valueRu": "Зелёный, золотой, красный"
+        },
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Три равные вертикальные"
+        }
+      ],
+      "sourceIds": [
+        "ml-constitution-2023-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "vertical_tricolor",
+          "green_yellow_red"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "palau-national-flag",
+      "kind": "flag",
+      "countryId": "palau",
+      "nameRu": "Палау",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-palau-national",
+      "summaryRu": "Светло-голубое полотнище с жёлтым диском, смещённым к древку.",
+      "explanationRu": "Государственный портал Палау описывает светло-голубой флаг с жёлтым кругом, расположенным немного левее середины. Круг напоминает полную луну.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Фон",
+          "valueRu": "Светло-голубой"
+        },
+        {
+          "labelRu": "Круг",
+          "valueRu": "Жёлтый, смещён к древку"
+        }
+      ],
+      "sourceIds": [
+        "pw-government-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "blue_field",
+          "offset_disc"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "panama-national-flag",
+      "kind": "flag",
+      "countryId": "panama",
+      "nameRu": "Панама",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-panama-national",
+      "summaryRu": "Четыре прямоугольника: два белых со звёздами, один красный и один синий.",
+      "explanationRu": "Министерство управления Панамы описывает четыре части флага. У древка сверху — белое поле с синей звездой, под ним синее; справа сверху — красное поле, под ним белое с красной звездой.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Слева сверху",
+          "valueRu": "Синяя звезда на белом"
+        },
+        {
+          "labelRu": "Справа снизу",
+          "valueRu": "Красная звезда на белом"
+        }
+      ],
+      "sourceIds": [
+        "pa-government-national-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "quartered",
+          "two_stars"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "micronesia-national-flag",
+      "kind": "flag",
+      "countryId": "micronesia",
+      "nameRu": "Федеративные Штаты Микронезии",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-micronesia-national",
+      "summaryRu": "Голубое полотнище с четырьмя белыми звёздами, расположенными по кругу.",
+      "explanationRu": "Кодекс Федеративных Штатов Микронезии устанавливает синее поле с кругом из четырёх белых звёзд в центре.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Фон",
+          "valueRu": "Голубой"
+        },
+        {
+          "labelRu": "Звёзды",
+          "valueRu": "Четыре белые по кругу"
+        }
+      ],
+      "sourceIds": [
+        "fm-code-flag-design"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "blue_field",
+          "four_stars"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    }
+  ]
+}
