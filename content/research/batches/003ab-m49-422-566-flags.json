@@ -1,0 +1,149 @@
+{
+  "batch_id": "003ab-m49-422-566-flags",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "lb-constitution-art5",
+      "title": "Constitution of Lebanon, Article 5",
+      "publisher": "Constitutional Council of Lebanon",
+      "source_type": "law",
+      "url": "https://www.cc.gov.lb/en/constitution-and-laws/constitution/fundamental-provisions/",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Ливан"
+    },
+    {
+      "source_id": "lr-mofa-flag-day",
+      "title": "President Weah Declares Friday As National Flag Day",
+      "publisher": "Ministry of Foreign Affairs of Liberia",
+      "source_type": "government",
+      "url": "https://www.mofa.gov.lr/node/5778",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Либерия"
+    },
+    {
+      "source_id": "li-government-national-identity",
+      "title": "National Identity: Coats of arms and colours",
+      "publisher": "Government of Liechtenstein",
+      "source_type": "government",
+      "url": "https://www.regierung.li/files/attachments/20251125-broschuere-begegnung-mit-einem-kleinstaat-639080401433496309.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Лихтенштейн"
+    },
+    {
+      "source_id": "lu-government-national-symbols",
+      "title": "Symboles nationaux: Drapeau luxembourgeois",
+      "publisher": "Government of Luxembourg",
+      "source_type": "government",
+      "url": "https://luxembourg.public.lu/fr/societe-et-culture/systeme-politique/symboles-nationaux.html",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Люксембург"
+    },
+    {
+      "source_id": "ng-tourism-national-flag",
+      "title": "Nigerian Tourism Development Authority: National symbols",
+      "publisher": "Nigerian Tourism Development Authority",
+      "source_type": "government",
+      "url": "https://ntda.gov.ng/media.assets.php",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Нигерия"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "lebanon",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "lebanon-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_white_red|green_cedar",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "lb-constitution-art5",
+          "primary_source_urls": "https://www.cc.gov.lb/en/constitution-and-laws/constitution/fundamental-provisions/"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "liberia",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "liberia-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "eleven_stripes|white_star|blue_canton",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "lr-mofa-flag-day",
+          "primary_source_urls": "https://www.mofa.gov.lr/node/5778"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "liechtenstein",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "liechtenstein-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "blue_red_horizontal|gold_princely_crown",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "li-government-national-identity",
+          "primary_source_urls": "https://www.regierung.li/files/attachments/20251125-broschuere-begegnung-mit-einem-kleinstaat-639080401433496309.pdf"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "luxembourg",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "luxembourg-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_white_skyblue_horizontal",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "lu-government-national-symbols",
+          "primary_source_urls": "https://luxembourg.public.lu/fr/societe-et-culture/systeme-politique/symboles-nationaux.html"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "nigeria",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "nigeria-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "green_white_green_vertical",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "ng-tourism-national-flag",
+          "primary_source_urls": "https://ntda.gov.ng/media.assets.php"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "batch_id": "publish-059-five-flags",
+  "countries": [
+    {
+      "id": "lebanon",
+      "nameRu": "Ливан",
+      "region": "Западная Азия",
+      "m49": "422",
+      "iso2": "LB",
+      "iso3": "LBN"
+    },
+    {
+      "id": "liberia",
+      "nameRu": "Либерия",
+      "region": "Западная Африка",
+      "m49": "430",
+      "iso2": "LR",
+      "iso3": "LBR"
+    },
+    {
+      "id": "liechtenstein",
+      "nameRu": "Лихтенштейн",
+      "region": "Западная Европа",
+      "m49": "438",
+      "iso2": "LI",
+      "iso3": "LIE"
+    },
+    {
+      "id": "luxembourg",
+      "nameRu": "Люксембург",
+      "region": "Западная Европа",
+      "m49": "442",
+      "iso2": "LU",
+      "iso3": "LUX"
+    },
+    {
+      "id": "nigeria",
+      "nameRu": "Нигерия",
+      "region": "Западная Африка",
+      "m49": "566",
+      "iso2": "NG",
+      "iso3": "NGA"
+    }
+  ],
+  "sources": [
+    {
+      "id": "lb-constitution-art5",
+      "title": "Constitution of Lebanon, Article 5",
+      "publisher": "Constitutional Council of Lebanon",
+      "sourceType": "law",
+      "url": "https://www.cc.gov.lb/en/constitution-and-laws/constitution/fundamental-provisions/",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "lr-mofa-flag-day",
+      "title": "President Weah Declares Friday As National Flag Day",
+      "publisher": "Ministry of Foreign Affairs of Liberia",
+      "sourceType": "government",
+      "url": "https://www.mofa.gov.lr/node/5778",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "li-government-national-identity",
+      "title": "National Identity: Coats of arms and colours",
+      "publisher": "Government of Liechtenstein",
+      "sourceType": "government",
+      "url": "https://www.regierung.li/files/attachments/20251125-broschuere-begegnung-mit-einem-kleinstaat-639080401433496309.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "lu-government-national-symbols",
+      "title": "Symboles nationaux: Drapeau luxembourgeois",
+      "publisher": "Government of Luxembourg",
+      "sourceType": "government",
+      "url": "https://luxembourg.public.lu/fr/societe-et-culture/systeme-politique/symboles-nationaux.html",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "ng-tourism-national-flag",
+      "title": "Nigerian Tourism Development Authority: National symbols",
+      "publisher": "Nigerian Tourism Development Authority",
+      "sourceType": "government",
+      "url": "https://ntda.gov.ng/media.assets.php",
+      "accessedAt": "2026-09-24"
+    }
+  ],
+  "media": [
+    {
+      "id": "flag-lebanon-national",
+      "kind": "flag",
+      "localPath": "/media/flags/lebanon.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Lebanon.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Henri Pharaon",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Lebanon.svg",
+      "attributionText": "Henri Pharaon / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-liberia-national",
+      "kind": "flag",
+      "localPath": "/media/flags/liberia.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Liberia.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Government of Liberia",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Liberia.svg",
+      "attributionText": "Government of Liberia / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-liechtenstein-national",
+      "kind": "flag",
+      "localPath": "/media/flags/liechtenstein.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Liechtenstein.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Mnmazur and others",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Liechtenstein.svg",
+      "attributionText": "Mnmazur and others / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-luxembourg-national",
+      "kind": "flag",
+      "localPath": "/media/flags/luxembourg.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Luxembourg.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "User:SKopp",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Luxembourg.svg",
+      "attributionText": "User:SKopp / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-nigeria-national",
+      "kind": "flag",
+      "localPath": "/media/flags/nigeria.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Nigeria.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Jon Harald Søby",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Nigeria.svg",
+      "attributionText": "Jon Harald Søby / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    }
+  ],
+  "entries": [
+    {
+      "id": "lebanon-national-flag",
+      "kind": "flag",
+      "countryId": "lebanon",
+      "nameRu": "Ливан",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-lebanon-national",
+      "summaryRu": "Красно-бело-красный флаг Ливана: в середине белой полосы находится зелёный кедр.",
+      "explanationRu": "Статья 5 Конституции устанавливает три горизонтальные полосы: белую между двумя красными. Зелёный кедр занимает треть белой полосы и касается красных полос верхушкой и основанием.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Красная, белая, красная"
+        },
+        {
+          "labelRu": "В центре",
+          "valueRu": "Зелёный кедр"
+        }
+      ],
+      "sourceIds": [
+        "lb-constitution-art5"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "red_white_red",
+          "green_cedar"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "liberia-national-flag",
+      "kind": "flag",
+      "countryId": "liberia",
+      "nameRu": "Либерия",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-liberia-national",
+      "summaryRu": "На флаге Либерии одиннадцать чередующихся красных и белых полос; в синем крыже — одна белая звезда.",
+      "explanationRu": "Министерство иностранных дел Либерии описывает шесть красных и пять белых полос. В синем прямоугольнике у верхнего угла древка расположена единственная белая звезда.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Шесть красных и пять белых"
+        },
+        {
+          "labelRu": "В синем крыже",
+          "valueRu": "Одна белая звезда"
+        }
+      ],
+      "sourceIds": [
+        "lr-mofa-flag-day"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "stripes_red_white",
+          "white_star"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "liechtenstein-national-flag",
+      "kind": "flag",
+      "countryId": "liechtenstein",
+      "nameRu": "Лихтенштейн",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-liechtenstein-national",
+      "summaryRu": "Флаг Лихтенштейна состоит из синей и красной полос; у древка на синей полосе — золотая княжеская шапка.",
+      "explanationRu": "Правительство Лихтенштейна описывает две равные горизонтальные полосы: синюю сверху и красную снизу. В синем поле рядом с древком помещена золотая княжеская шапка.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Синяя над красной"
+        },
+        {
+          "labelRu": "У древка",
+          "valueRu": "Золотая княжеская шапка"
+        }
+      ],
+      "sourceIds": [
+        "li-government-national-identity"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "blue_red_horizontal",
+          "gold_crown"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "luxembourg-national-flag",
+      "kind": "flag",
+      "countryId": "luxembourg",
+      "nameRu": "Люксембург",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-luxembourg-national",
+      "summaryRu": "Флаг Люксембурга — три горизонтальные полосы: красная, белая и небесно-голубая.",
+      "explanationRu": "Правительственный портал Люксембурга описывает красную, белую и небесно-голубую полосы. Светлый оттенок синего помогает отличать его от похожего флага Нидерландов.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы сверху вниз",
+          "valueRu": "Красная, белая, небесно-голубая"
+        },
+        {
+          "labelRu": "Особенность",
+          "valueRu": "Светлый оттенок синего"
+        }
+      ],
+      "sourceIds": [
+        "lu-government-national-symbols"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "red_white_blue_horizontal",
+          "sky_blue"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "nigeria-national-flag",
+      "kind": "flag",
+      "countryId": "nigeria",
+      "nameRu": "Нигерия",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-nigeria-national",
+      "summaryRu": "Флаг Нигерии состоит из трёх вертикальных полос: зелёной, белой и зелёной.",
+      "explanationRu": "Государственное агентство туризма Нигерии описывает вертикальный зелёно-бело-зелёный флаг. Белая полоса находится посередине между двумя зелёными.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "У древка",
+          "valueRu": "Зелёная полоса"
+        },
+        {
+          "labelRu": "В центре",
+          "valueRu": "Белая полоса"
+        }
+      ],
+      "sourceIds": [
+        "ng-tourism-national-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "green_white_green",
+          "vertical_tricolor"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    }
+  ]
+}

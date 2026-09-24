@@ -1881,5 +1881,70 @@
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Mozambique.svg",
     "attributionText": "FRELIMO; Wikimedia Commons vector contributors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
     "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-lebanon-national",
+    "kind": "flag",
+    "localPath": "/media/flags/lebanon.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Lebanon.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Henri Pharaon",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Lebanon.svg",
+    "attributionText": "Henri Pharaon / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-liberia-national",
+    "kind": "flag",
+    "localPath": "/media/flags/liberia.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Liberia.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Government of Liberia",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Liberia.svg",
+    "attributionText": "Government of Liberia / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-liechtenstein-national",
+    "kind": "flag",
+    "localPath": "/media/flags/liechtenstein.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Liechtenstein.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Mnmazur and others",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Liechtenstein.svg",
+    "attributionText": "Mnmazur and others / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-luxembourg-national",
+    "kind": "flag",
+    "localPath": "/media/flags/luxembourg.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Luxembourg.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "User:SKopp",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Luxembourg.svg",
+    "attributionText": "User:SKopp / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-nigeria-national",
+    "kind": "flag",
+    "localPath": "/media/flags/nigeria.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Nigeria.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Jon Harald Søby",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Nigeria.svg",
+    "attributionText": "Jon Harald Søby / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+    "checkedAt": "2026-09-24"
   }
 ]
