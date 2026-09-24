@@ -3337,5 +3337,31 @@
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Haiti.svg",
     "attributionText": "Madden, Vzb83, Denelson83, Chanheigeorge, Zscout370, Nightstallion; coat of arms: Lokal_Profil, Myriam Thyes / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
     "checkedAt": "2026-09-25"
+  },
+  {
+    "id": "flag-monaco-state",
+    "kind": "flag",
+    "localPath": "/media/flags/monaco.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Monaco_(state).svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Flag_of_Monaco_%28state%29.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Denelson83",
+    "license": "CC BY-SA 3.0",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Monaco_(state).svg",
+    "attributionText": "Denelson83 / Wikimedia Commons; CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-25"
+  },
+  {
+    "id": "flag-saudi-arabia-national",
+    "kind": "flag",
+    "localPath": "/media/flags/saudi-arabia.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Saudi_Arabia.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "The Shura Council",
+    "license": "Public domain",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Saudi_Arabia.svg",
+    "attributionText": "The Shura Council / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-25"
   }
 ]

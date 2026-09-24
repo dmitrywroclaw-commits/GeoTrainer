@@ -1,0 +1,147 @@
+{
+  "batch_id": "publish-088-two-flags",
+  "countries": [
+    {
+      "id": "monaco",
+      "nameRu": "Монако",
+      "region": "Западная Европа",
+      "m49": "492",
+      "iso2": "MC",
+      "iso3": "MCO"
+    },
+    {
+      "id": "saudi-arabia",
+      "nameRu": "Саудовская Аравия",
+      "region": "Западная Азия",
+      "m49": "682",
+      "iso2": "SA",
+      "iso3": "SAU"
+    }
+  ],
+  "sources": [
+    {
+      "id": "mc-1881-national-princely-flags",
+      "title": "Ordonnance Souveraine du 4 avril 1881 sur le pavillon princier et le pavillon national, articles 1, 2 et 4",
+      "publisher": "Legimonaco, Gouvernement Princier de Monaco",
+      "sourceType": "law",
+      "url": "https://legimonaco.mc/tnc/ordonnance/1881/04-04-L000701/",
+      "accessedAt": "2026-09-25"
+    },
+    {
+      "id": "sa-national-platform-flag",
+      "title": "Know About Kingdom: the national flag",
+      "publisher": "Saudi National Platform",
+      "sourceType": "government",
+      "url": "https://my.gov.sa/en/content/139",
+      "accessedAt": "2026-09-25"
+    }
+  ],
+  "media": [
+    {
+      "id": "flag-monaco-state",
+      "kind": "flag",
+      "localPath": "/media/flags/monaco.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Monaco_(state).svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Flag_of_Monaco_%28state%29.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Denelson83",
+      "license": "CC BY-SA 3.0",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Monaco_(state).svg",
+      "attributionText": "Denelson83 / Wikimedia Commons; CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/); исходный SVG без изменений; ограничения для государственной символики.",
+      "checkedAt": "2026-09-25"
+    },
+    {
+      "id": "flag-saudi-arabia-national",
+      "kind": "flag",
+      "localPath": "/media/flags/saudi-arabia.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Saudi_Arabia.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "The Shura Council",
+      "license": "Public domain",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Saudi_Arabia.svg",
+      "attributionText": "The Shura Council / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
+      "checkedAt": "2026-09-25"
+    }
+  ],
+  "entries": [
+    {
+      "id": "monaco-state-flag",
+      "kind": "flag",
+      "countryId": "monaco",
+      "nameRu": "Монако",
+      "subtitleRu": "Государственный (княжеский) флаг с гербом",
+      "variantType": "state",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-monaco-state",
+      "summaryRu": "Государственный флаг Монако — белое полотнище с цветным гербом княжеского дома Гримальди.",
+      "explanationRu": "Конституция и ордонанс Монако различают национальный красно-белый и княжеский флаг с гербом. Княжеский флаг поднимают на государственных зданиях и судах государства; он выбран для изучения как более подробный государственный вариант. В центре белого поля расположен герб Гримальди.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Поле",
+          "valueRu": "Белое"
+        },
+        {
+          "labelRu": "Центр",
+          "valueRu": "Герб дома Гримальди"
+        },
+        {
+          "labelRu": "Где используется",
+          "valueRu": "Княжеский дворец, государственные здания и суда"
+        }
+      ],
+      "sourceIds": [
+        "mc-1881-national-princely-flags"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "white-field",
+          "coat-of-arms",
+          "state-flag"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "saudi-arabia-national-flag",
+      "kind": "flag",
+      "countryId": "saudi-arabia",
+      "nameRu": "Саудовская Аравия",
+      "subtitleRu": "Национальный флаг с шахадой и мечом",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-saudi-arabia-national",
+      "summaryRu": "Флаг Саудовской Аравии — зелёное полотнище с белой шахадой и мечом под ней.",
+      "explanationRu": "Государственный портал Саудовской Аравии описывает зелёный флаг с шахадой, написанной белым письмом сулюс, и белым арабским мечом под ней. Рукоять меча направлена к древку. Надпись — исламское свидетельство веры.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Поле",
+          "valueRu": "Зелёное"
+        },
+        {
+          "labelRu": "Надпись",
+          "valueRu": "Шахада белым письмом сулюс"
+        },
+        {
+          "labelRu": "Под надписью",
+          "valueRu": "Белый меч с рукоятью к древку"
+        }
+      ],
+      "sourceIds": [
+        "sa-national-platform-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "green-field",
+          "inscription",
+          "sword"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    }
+  ]
+}

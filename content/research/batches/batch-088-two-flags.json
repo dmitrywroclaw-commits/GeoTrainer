@@ -1,0 +1,65 @@
+{
+  "batch_id": "batch-088-two-flags",
+  "checked_at": "2026-09-25",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "mc-1881-national-princely-flags",
+      "title": "Ordonnance Souveraine du 4 avril 1881 sur le pavillon princier et le pavillon national, articles 1, 2 et 4",
+      "publisher": "Legimonaco, Gouvernement Princier de Monaco",
+      "source_type": "law",
+      "url": "https://legimonaco.mc/tnc/ordonnance/1881/04-04-L000701/",
+      "accessed_at": "2026-09-25",
+      "supports": "Официальное описание флага: Монако"
+    },
+    {
+      "source_id": "sa-national-platform-flag",
+      "title": "Know About Kingdom: the national flag",
+      "publisher": "Saudi National Platform",
+      "source_type": "government",
+      "url": "https://my.gov.sa/en/content/139",
+      "accessed_at": "2026-09-25",
+      "supports": "Официальное описание флага: Саудовская Аравия"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "monaco",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "monaco-state-flag",
+          "variant_type": "state",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "Белое поле | цветной герб княжеского дома Гримальди в центре",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "mc-1881-national-princely-flags",
+          "primary_source_urls": "https://legimonaco.mc/tnc/ordonnance/1881/04-04-L000701/"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "saudi-arabia",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "saudi-arabia-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "Зелёное поле | белая шахада в центре | белый обнажённый меч под надписью",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "sa-national-platform-flag",
+          "primary_source_urls": "https://my.gov.sa/en/content/139"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}
