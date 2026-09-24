@@ -3311,5 +3311,31 @@
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flaga_z_godlem_Rzeczypospolitej_Polskiej.PNG",
     "attributionText": "Kpalion, Mareklug / Wikimedia Commons; Public domain; исходный PNG без изменений; ограничения для государственной символики.",
     "checkedAt": "2026-09-25"
+  },
+  {
+    "id": "flag-guatemala-national",
+    "kind": "flag",
+    "localPath": "/media/flags/guatemala.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Guatemala.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "K21edgo",
+    "license": "Public domain",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Guatemala.svg",
+    "attributionText": "K21edgo / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-25"
+  },
+  {
+    "id": "flag-haiti-national",
+    "kind": "flag",
+    "localPath": "/media/flags/haiti.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Haiti.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Haiti.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Madden, Vzb83, Denelson83, Chanheigeorge, Zscout370, Nightstallion; coat of arms: Lokal_Profil, Myriam Thyes",
+    "license": "Public domain",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Haiti.svg",
+    "attributionText": "Madden, Vzb83, Denelson83, Chanheigeorge, Zscout370, Nightstallion; coat of arms: Lokal_Profil, Myriam Thyes / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-25"
   }
 ]

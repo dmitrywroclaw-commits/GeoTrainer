@@ -1,0 +1,65 @@
+{
+  "batch_id": "batch-087-two-flags",
+  "checked_at": "2026-09-25",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "gt-decree-104-97-flag",
+      "title": "Decreto 104-97: Ley Normativa de la Bandera Nacional y del Escudo de Armas",
+      "publisher": "Congreso de la República de Guatemala",
+      "source_type": "law",
+      "url": "https://www.congreso.gob.gt/detalle_pdf/decretos/730",
+      "accessed_at": "2026-09-25",
+      "supports": "Официальное описание флага: Гватемала"
+    },
+    {
+      "source_id": "ht-constitution-1987-article-3-flag",
+      "title": "Constitution de la République d'Haïti de 1987, article 3",
+      "publisher": "Office de Management et des Ressources Humaines, Gouvernement d'Haïti",
+      "source_type": "law",
+      "url": "https://www.omrh.gouv.ht/Media/Publications/1-Constitution/Constitution1987.pdf",
+      "accessed_at": "2026-09-25",
+      "supports": "Официальное описание флага: Гаити"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "guatemala",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "guatemala-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "Три равные вертикальные полосы: голубая, белая, голубая | герб в центре белой полосы",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "gt-decree-104-97-flag",
+          "primary_source_urls": "https://www.congreso.gob.gt/detalle_pdf/decretos/730"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "haiti",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "haiti-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "Две равные горизонтальные полосы: синяя над красной | белый квадрат с гербом в центре",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "ht-constitution-1987-article-3-flag",
+          "primary_source_urls": "https://www.omrh.gouv.ht/Media/Publications/1-Constitution/Constitution1987.pdf"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}

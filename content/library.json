@@ -1479,6 +1479,22 @@
       "m49": "604",
       "iso2": "PE",
       "iso3": "PER"
+    },
+    {
+      "id": "guatemala",
+      "nameRu": "Гватемала",
+      "region": "Центральная Америка",
+      "m49": "320",
+      "iso2": "GT",
+      "iso3": "GTM"
+    },
+    {
+      "id": "haiti",
+      "nameRu": "Гаити",
+      "region": "Карибский бассейн",
+      "m49": "332",
+      "iso2": "HT",
+      "iso3": "HTI"
     }
   ],
   "sources": [
@@ -3600,6 +3616,22 @@
       "publisher": "Dziennik Ustaw Rzeczypospolitej Polskiej",
       "sourceType": "law",
       "url": "https://eli.gov.pl/api/acts/DU/2025/299/text/O/D20250299.pdf",
+      "accessedAt": "2026-09-25"
+    },
+    {
+      "id": "gt-decree-104-97-flag",
+      "title": "Decreto 104-97: Ley Normativa de la Bandera Nacional y del Escudo de Armas",
+      "publisher": "Congreso de la República de Guatemala",
+      "sourceType": "law",
+      "url": "https://www.congreso.gob.gt/detalle_pdf/decretos/730",
+      "accessedAt": "2026-09-25"
+    },
+    {
+      "id": "ht-constitution-1987-article-3-flag",
+      "title": "Constitution de la République d'Haïti de 1987, article 3",
+      "publisher": "Office de Management et des Ressources Humaines, Gouvernement d'Haïti",
+      "sourceType": "law",
+      "url": "https://www.omrh.gouv.ht/Media/Publications/1-Constitution/Constitution1987.pdf",
       "accessedAt": "2026-09-25"
     }
   ],
@@ -13609,6 +13641,86 @@
           "horizontal-stripes",
           "coat-of-arms",
           "eagle"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "guatemala-national-flag",
+      "kind": "flag",
+      "countryId": "guatemala",
+      "nameRu": "Гватемала",
+      "subtitleRu": "Национальный флаг с гербом",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-guatemala-national",
+      "summaryRu": "Национальный флаг Гватемалы состоит из трёх вертикальных полос голубого, белого и голубого цветов с гербом в центре.",
+      "explanationRu": "Закон Гватемалы № 104-97 устанавливает три равные вертикальные полосы с голубым цветом по краям и белым в центре. На белой полосе помещён герб республики. В гербе видны кетцаль, свиток, скрещённые винтовки и сабли, а также лавровые ветви.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы от древка",
+          "valueRu": "Голубая, белая, голубая"
+        },
+        {
+          "labelRu": "Центр",
+          "valueRu": "Герб Гватемалы"
+        },
+        {
+          "labelRu": "Формат полотнища",
+          "valueRu": "Соотношение сторон 5:8"
+        }
+      ],
+      "sourceIds": [
+        "gt-decree-104-97-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "tricolor",
+          "vertical-stripes",
+          "coat-of-arms",
+          "bird"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "haiti-national-flag",
+      "kind": "flag",
+      "countryId": "haiti",
+      "nameRu": "Гаити",
+      "subtitleRu": "Национальный флаг с гербом",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-haiti-national",
+      "summaryRu": "Флаг Гаити имеет синюю и красную горизонтальные полосы; на белом квадрате в центре размещён герб.",
+      "explanationRu": "Статья 3 Конституции Гаити описывает две равные горизонтальные полосы: синюю сверху и красную снизу. На белом квадрате посередине расположен герб с пальмой, колпаком свободы, воинскими предметами и девизом «L'Union fait la Force».",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы сверху вниз",
+          "valueRu": "Синяя, красная"
+        },
+        {
+          "labelRu": "Центр",
+          "valueRu": "Белый квадрат с гербом республики"
+        },
+        {
+          "labelRu": "Девиз на гербе",
+          "valueRu": "L'Union fait la Force"
+        }
+      ],
+      "sourceIds": [
+        "ht-constitution-1987-article-3-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "bicolor",
+          "horizontal-stripes",
+          "coat-of-arms",
+          "palm"
         ]
       },
       "status": "published",
