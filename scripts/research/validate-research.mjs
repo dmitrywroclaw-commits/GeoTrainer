@@ -100,10 +100,15 @@ for (const entry of published) {
     assert(entry.isPrimaryStudyVariant === true, `Флаг ${entry.id} не отмечен основным`);
     assert(!publishedFlagCountries.has(entry.countryId), `Опубликовано несколько флагов для ${entry.countryId}`);
     publishedFlagCountries.add(entry.countryId);
+    const image = media.find(row => row.media_id === entry.mediaId);
+    assert(image?.decision === 'approved', `Изображение опубликованного флага ${entry.id} не прошло проверку прав и версии`);
   }
   const matches = registryByKind[entry.kind].filter(row => row.content_entry_id === entry.id);
   assert(matches.length === 1, `Опубликованная карточка ${entry.id} должна иметь ровно одну строку реестра`);
-  if (matches.length === 1) assert(matches[0].decision === 'eligible', `Опубликованная карточка ${entry.id} не eligible в реестре`);
+  if (matches.length === 1) {
+    assert(matches[0].decision === 'eligible', `Опубликованная карточка ${entry.id} не eligible в реестре`);
+    if (entry.kind === 'flag') assert(matches[0].review_status === 'reviewed', `Опубликованный флаг ${entry.id} не прошёл итоговую проверку варианта`);
+  }
 }
 const publishedIds = new Set(published.map(entry => entry.id));
 for (const [kind, rows] of Object.entries(registryByKind)) {

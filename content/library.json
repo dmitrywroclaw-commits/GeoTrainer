@@ -1579,12 +1579,28 @@
       "accessedAt": "2026-09-22"
     },
     {
-      "id": "in-flag",
-      "title": "Indian Tricolor",
-      "publisher": "Национальный портал Индии",
-      "url": "https://knowindia.india.gov.in/my-india-my-pride/indian-tricolor.php",
+      "id": "mx-flag-law",
+      "title": "Ley sobre el Escudo, la Bandera y el Himno Nacionales",
+      "publisher": "Cámara de Diputados de México",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEBHN.pdf",
       "sourceType": "government",
-      "accessedAt": "2026-09-22"
+      "accessedAt": "2026-09-25"
+    },
+    {
+      "id": "in-flag",
+      "title": "Indian National Flag: A Journey Through India's Struggle for Freedom",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://www.pib.gov.in/PressNoteDetails.aspx?ModuleId=3&NoteId=152017&lang=2&reg=3",
+      "sourceType": "government",
+      "accessedAt": "2026-09-25"
+    },
+    {
+      "id": "in-flag-code",
+      "title": "Flag Code of India, 2002 (as amended)",
+      "publisher": "Ministry of Home Affairs, Government of India",
+      "url": "https://www.mha.gov.in/sites/default/files/flagcode2002_20072023_0.pdf",
+      "sourceType": "government",
+      "accessedAt": "2026-09-25"
     },
     {
       "id": "in-emblem",
@@ -1596,11 +1612,11 @@
     },
     {
       "id": "br-flag",
-      "title": "Bandeira Nacional",
-      "publisher": "Правительство Бразилии",
-      "url": "https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biblioteca-da-pr/simbolos-nacionais/bandeira/bandeira-nacional",
+      "title": "Lei nº 5.700, de 1º de setembro de 1971 (texto compilado)",
+      "publisher": "Presidência da República do Brasil",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5700compilado.htm",
       "sourceType": "government",
-      "accessedAt": "2026-09-22"
+      "accessedAt": "2026-09-25"
     },
     {
       "id": "br-arms",
@@ -3833,7 +3849,8 @@
       ],
       "sourceIds": [
         "mx-symbols",
-        "mx-flag-history"
+        "mx-flag-history",
+        "mx-flag-law"
       ],
       "quizHints": {
         "similarityTags": [
@@ -3863,7 +3880,8 @@
           "meaningRu": "Колесо закона; на флаге изображено с 24 спицами.",
           "meaningStatus": "official",
           "sourceIds": [
-            "in-flag"
+            "in-flag",
+            "in-flag-code"
           ]
         }
       ],
@@ -3878,7 +3896,8 @@
         }
       ],
       "sourceIds": [
-        "in-flag"
+        "in-flag",
+        "in-flag-code"
       ],
       "quizHints": {
         "similarityTags": [
