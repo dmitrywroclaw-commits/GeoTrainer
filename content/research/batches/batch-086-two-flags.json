@@ -1,0 +1,65 @@
+{
+  "batch_id": "batch-086-two-flags",
+  "checked_at": "2026-09-25",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "pe-law-32251-state-flag",
+      "title": "Ley N° 32251, artículos 4, 5 y 8: bandera nacional y pabellón nacional",
+      "publisher": "Diario Oficial El Peruano",
+      "source_type": "law",
+      "url": "https://busquedas.elperuano.pe/dispositivo/NL/2363369-4",
+      "accessed_at": "2026-09-25",
+      "supports": "Официальное описание флага: Перу"
+    },
+    {
+      "source_id": "pl-state-symbols-law-2025-consolidated",
+      "title": "Ustawa o godle, barwach i hymnie Rzeczypospolitej Polskiej, tekst jednolity 2025, art. 2 i 6",
+      "publisher": "Dziennik Ustaw Rzeczypospolitej Polskiej",
+      "source_type": "law",
+      "url": "https://eli.gov.pl/api/acts/DU/2025/299/text/O/D20250299.pdf",
+      "accessed_at": "2026-09-25",
+      "supports": "Официальное описание флага: Польша"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "peru",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "peru-state-flag",
+          "variant_type": "state",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "три равные вертикальные полосы: красная, белая, красная | национальный герб в центре белой полосы",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "pe-law-32251-state-flag",
+          "primary_source_urls": "https://busquedas.elperuano.pe/dispositivo/NL/2363369-4"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "poland",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "poland-state-flag",
+          "variant_type": "state",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "две горизонтальные полосы: белая и красная | герб с коронованным белым орлом в центре верхней полосы",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "pl-state-symbols-law-2025-consolidated",
+          "primary_source_urls": "https://eli.gov.pl/api/acts/DU/2025/299/text/O/D20250299.pdf"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}

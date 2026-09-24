@@ -1471,6 +1471,14 @@
       "m49": "760",
       "iso2": "SY",
       "iso3": "SYR"
+    },
+    {
+      "id": "peru",
+      "nameRu": "Перу",
+      "region": "Южная Америка",
+      "m49": "604",
+      "iso2": "PE",
+      "iso3": "PER"
     }
   ],
   "sources": [
@@ -3576,6 +3584,22 @@
       "publisher": "Syrian Arab News Agency (SANA)",
       "sourceType": "government",
       "url": "https://sana.sy/es/culture/350973/",
+      "accessedAt": "2026-09-25"
+    },
+    {
+      "id": "pe-law-32251-state-flag",
+      "title": "Ley N° 32251, artículos 4, 5 y 8: bandera nacional y pabellón nacional",
+      "publisher": "Diario Oficial El Peruano",
+      "sourceType": "law",
+      "url": "https://busquedas.elperuano.pe/dispositivo/NL/2363369-4",
+      "accessedAt": "2026-09-25"
+    },
+    {
+      "id": "pl-state-symbols-law-2025-consolidated",
+      "title": "Ustawa o godle, barwach i hymnie Rzeczypospolitej Polskiej, tekst jednolity 2025, art. 2 i 6",
+      "publisher": "Dziennik Ustaw Rzeczypospolitej Polskiej",
+      "sourceType": "law",
+      "url": "https://eli.gov.pl/api/acts/DU/2025/299/text/O/D20250299.pdf",
       "accessedAt": "2026-09-25"
     }
   ],
@@ -13506,6 +13530,85 @@
           "tricolor",
           "horizontal-stripes",
           "three-stars"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "peru-state-flag",
+      "kind": "flag",
+      "countryId": "peru",
+      "nameRu": "Перу",
+      "subtitleRu": "Государственный флаг с гербом",
+      "variantType": "state",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-peru-state",
+      "summaryRu": "Государственный флаг Перу сочетает красно-бело-красный вертикальный триколор с гербом в центре.",
+      "explanationRu": "Закон Перу № 32251 различает национальный флаг без герба и государственный флаг с гербом в центре. Для изучения выбран государственный вариант как более подробный. На гербе показаны викунья, хинное дерево и рог изобилия.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы от древка",
+          "valueRu": "Красная, белая, красная"
+        },
+        {
+          "labelRu": "Центр",
+          "valueRu": "Национальный герб Перу"
+        },
+        {
+          "labelRu": "Элементы герба",
+          "valueRu": "Викунья, хинное дерево, рог изобилия"
+        }
+      ],
+      "sourceIds": [
+        "pe-law-32251-state-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "tricolor",
+          "vertical-stripes",
+          "coat-of-arms"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "poland-state-flag",
+      "kind": "flag",
+      "countryId": "poland",
+      "nameRu": "Польша",
+      "subtitleRu": "Государственный флаг с гербом",
+      "variantType": "state",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-poland-state",
+      "summaryRu": "Государственный флаг Польши с гербом — бело-красное полотнище с коронованным белым орлом на щите.",
+      "explanationRu": "Статья 6 польского закона признаёт государственными оба бело-красных варианта, включая флаг с гербом посередине белой полосы. Для карточки выбран более подробный вариант. Статья 2 описывает герб как белого орла в золотой короне на красном щите.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы сверху вниз",
+          "valueRu": "Белая, красная"
+        },
+        {
+          "labelRu": "Верхняя полоса",
+          "valueRu": "Герб с белым орлом на красном щите"
+        },
+        {
+          "labelRu": "Корона орла",
+          "valueRu": "Золотая"
+        }
+      ],
+      "sourceIds": [
+        "pl-state-symbols-law-2025-consolidated"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "bicolor",
+          "horizontal-stripes",
+          "coat-of-arms",
+          "eagle"
         ]
       },
       "status": "published",

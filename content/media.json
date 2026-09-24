@@ -3285,5 +3285,31 @@
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Syria_(2025-).svg",
     "attributionText": "AnonMoos, based on a public-domain historical flag / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
     "checkedAt": "2026-09-25"
+  },
+  {
+    "id": "flag-peru-state",
+    "kind": "flag",
+    "localPath": "/media/flags/peru.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Peru_(state)_2025.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Flag_of_Peru_%28state%29_2025.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "EncyclopedianWP",
+    "license": "Public domain / CC0 1.0",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Peru_(state)_2025.svg",
+    "attributionText": "EncyclopedianWP / Wikimedia Commons; Public domain / CC0 1.0; исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-25"
+  },
+  {
+    "id": "flag-poland-state",
+    "kind": "flag",
+    "localPath": "/media/flags/poland.png",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flaga_z_godlem_Rzeczypospolitej_Polskiej.PNG",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flaga_z_godlem_Rzeczypospolitej_Polskiej.PNG",
+    "publisher": "Wikimedia Commons",
+    "author": "Kpalion; color correction: Mareklug",
+    "license": "Public domain",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flaga_z_godlem_Rzeczypospolitej_Polskiej.PNG",
+    "attributionText": "Kpalion, Mareklug / Wikimedia Commons; Public domain; исходный PNG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-25"
   }
 ]
