@@ -1,0 +1,543 @@
+{
+  "batch_id": "publish-058-eight-flags",
+  "countries": [
+    {
+      "id": "madagascar",
+      "nameRu": "Мадагаскар",
+      "region": "Восточная Африка",
+      "m49": "450",
+      "iso2": "MG",
+      "iso3": "MDG"
+    },
+    {
+      "id": "malaysia",
+      "nameRu": "Малайзия",
+      "region": "Юго-Восточная Азия",
+      "m49": "458",
+      "iso2": "MY",
+      "iso3": "MYS"
+    },
+    {
+      "id": "maldives",
+      "nameRu": "Мальдивские Острова",
+      "region": "Южная Азия",
+      "m49": "462",
+      "iso2": "MV",
+      "iso3": "MDV"
+    },
+    {
+      "id": "mauritius",
+      "nameRu": "Маврикий",
+      "region": "Восточная Африка",
+      "m49": "480",
+      "iso2": "MU",
+      "iso3": "MUS"
+    },
+    {
+      "id": "moldova",
+      "nameRu": "Республика Молдова",
+      "region": "Восточная Европа",
+      "m49": "498",
+      "iso2": "MD",
+      "iso3": "MDA"
+    },
+    {
+      "id": "montenegro",
+      "nameRu": "Черногория",
+      "region": "Южная Европа",
+      "m49": "499",
+      "iso2": "ME",
+      "iso3": "MNE"
+    },
+    {
+      "id": "morocco",
+      "nameRu": "Марокко",
+      "region": "Северная Африка",
+      "m49": "504",
+      "iso2": "MA",
+      "iso3": "MAR"
+    },
+    {
+      "id": "mozambique",
+      "nameRu": "Мозамбик",
+      "region": "Восточная Африка",
+      "m49": "508",
+      "iso2": "MZ",
+      "iso3": "MOZ"
+    }
+  ],
+  "sources": [
+    {
+      "id": "mg-constitution-art4",
+      "title": "Constitution de la République de Madagascar, article 4",
+      "publisher": "Centre National de Documentation Législative et Administrative de Madagascar",
+      "sourceType": "law",
+      "url": "https://cnlegis.gov.mg/page_acces_pdf/fpUblYeoV45",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "my-government-flag",
+      "title": "Flag of Malaysia",
+      "publisher": "Government of Malaysia",
+      "sourceType": "government",
+      "url": "https://www.malaysia.gov.my/en/government/kenali-malaysia/flag-of-malaysia",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "mv-constitution-schedule3",
+      "title": "Constitution of the Republic of Maldives, Schedule 3: National Flag",
+      "publisher": "Attorney General’s Office, Maldives",
+      "sourceType": "law",
+      "url": "https://agoffice.gov.mv/files/English-constitution.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "mu-government-national-flag",
+      "title": "National Flag",
+      "publisher": "Government of Mauritius",
+      "sourceType": "government",
+      "url": "https://www.govmu.org/EN/Pages/National-Flag.aspx",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "md-mfa-state-symbols",
+      "title": "Símbolos do Estado: Bandeira de Estado",
+      "publisher": "Ministry of Foreign Affairs of the Republic of Moldova",
+      "sourceType": "government",
+      "url": "https://portugalia.mfa.gov.md/pt/content/s%C3%ADmbolos-do-estado",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "me-constitution-state-symbols",
+      "title": "Constitution of Montenegro, Article 4: State symbols",
+      "publisher": "Government of Montenegro",
+      "sourceType": "law",
+      "url": "https://wapi.gov.me/download/2489436c-8a43-4c6b-9981-8af44719f19f?version=1.0",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "ma-flag-dahir-2005",
+      "title": "Dahir n° 1-05-99 relatif aux caractéristiques de l’emblème du Royaume",
+      "publisher": "Secrétariat Général du Gouvernement du Maroc",
+      "sourceType": "law",
+      "url": "https://www.sgg.gov.ma/BO/bo_fr/2005/bo_5378_fr.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "mz-presidency-flag",
+      "title": "A Bandeira Nacional",
+      "publisher": "Presidência da República de Moçambique",
+      "sourceType": "government",
+      "url": "https://presidencia.gov.mz/?page_id=435",
+      "accessedAt": "2026-09-24"
+    }
+  ],
+  "media": [
+    {
+      "id": "flag-madagascar-national",
+      "kind": "flag",
+      "localPath": "/media/flags/madagascar.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Madagascar.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Unknown author; Wikimedia Commons vector contributors",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Madagascar.svg",
+      "attributionText": "Unknown author; Wikimedia Commons vector contributors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-malaysia-national",
+      "kind": "flag",
+      "localPath": "/media/flags/malaysia.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Malaysia.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "MapGrid; earlier SVG revisions by SKopp and Zscout370",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Malaysia.svg",
+      "attributionText": "MapGrid; earlier SVG revisions by SKopp and Zscout370 / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-maldives-national",
+      "kind": "flag",
+      "localPath": "/media/flags/maldives.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Maldives.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Wikimedia Commons vector contributors",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Maldives.svg",
+      "attributionText": "Wikimedia Commons vector contributors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-mauritius-national",
+      "kind": "flag",
+      "localPath": "/media/flags/mauritius.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Mauritius.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Mauritius.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Zscout370",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Mauritius.svg",
+      "attributionText": "Zscout370 / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-moldova-state",
+      "kind": "flag",
+      "localPath": "/media/flags/moldova.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Moldova.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Gheorghe Vrabie; Wikimedia Commons vector contributors",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Moldova.svg",
+      "attributionText": "Gheorghe Vrabie; Wikimedia Commons vector contributors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-montenegro-state",
+      "kind": "flag",
+      "localPath": "/media/flags/montenegro.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Montenegro.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "B1mbo, Froztbyte and Great Brightstar",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Montenegro.svg",
+      "attributionText": "B1mbo, Froztbyte and Great Brightstar / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-morocco-national",
+      "kind": "flag",
+      "localPath": "/media/flags/morocco.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Morocco.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Denelson83 and Zscout370",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Morocco.svg",
+      "attributionText": "Denelson83 and Zscout370 / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-mozambique-national",
+      "kind": "flag",
+      "localPath": "/media/flags/mozambique.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Mozambique.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "FRELIMO; Wikimedia Commons vector contributors",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Mozambique.svg",
+      "attributionText": "FRELIMO; Wikimedia Commons vector contributors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    }
+  ],
+  "entries": [
+    {
+      "id": "madagascar-national-flag",
+      "kind": "flag",
+      "countryId": "madagascar",
+      "nameRu": "Мадагаскар",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-madagascar-national",
+      "summaryRu": "Флаг Мадагаскара: белая вертикальная полоса у древка, справа красная полоса над зелёной.",
+      "explanationRu": "Статья 4 Конституции описывает три прямоугольные полосы равной ширины: белую вертикальную у древка и две горизонтальные справа — красную над зелёной.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "У древка",
+          "valueRu": "Белая вертикальная полоса"
+        },
+        {
+          "labelRu": "Справа",
+          "valueRu": "Красная полоса над зелёной"
+        }
+      ],
+      "sourceIds": [
+        "mg-constitution-art4"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "vertical_and_horizontal",
+          "white_red_green"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "malaysia-national-flag",
+      "kind": "flag",
+      "countryId": "malaysia",
+      "nameRu": "Малайзия",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-malaysia-national",
+      "summaryRu": "Флаг Малайзии имеет четырнадцать красно-белых полос и синий крыж с жёлтыми полумесяцем и звездой.",
+      "explanationRu": "Официальный портал Малайзии описывает четырнадцать чередующихся полос одинаковой ширины; красная расположена сверху. В синем крыже видны жёлтые полумесяц и звезда.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы",
+          "valueRu": "14 красных и белых чередующихся"
+        },
+        {
+          "labelRu": "Крыж",
+          "valueRu": "Синий с жёлтыми полумесяцем и звездой"
+        }
+      ],
+      "sourceIds": [
+        "my-government-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_stripes",
+          "crescent_star"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "maldives-national-flag",
+      "kind": "flag",
+      "countryId": "maldives",
+      "nameRu": "Мальдивские Острова",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-maldives-national",
+      "summaryRu": "Флаг Мальдивских Островов: красное поле, зелёный прямоугольник и белый полумесяц в центре.",
+      "explanationRu": "Приложение 3 Конституции Мальдивских Островов определяет зелёный прямоугольник с белым полумесяцем, окружённый красной каймой.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Внешнее поле",
+          "valueRu": "Красное"
+        },
+        {
+          "labelRu": "В центре",
+          "valueRu": "Зелёный прямоугольник с белым полумесяцем"
+        }
+      ],
+      "sourceIds": [
+        "mv-constitution-schedule3"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "crescent",
+          "red_green_white"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "mauritius-national-flag",
+      "kind": "flag",
+      "countryId": "mauritius",
+      "nameRu": "Маврикий",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-mauritius-national",
+      "summaryRu": "Флаг Маврикия состоит из четырёх равных горизонтальных полос: красной, синей, жёлтой и зелёной.",
+      "explanationRu": "Правительство Маврикия описывает четыре полосы равной ширины. Сверху вниз расположены красная, синяя, жёлтая и зелёная.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Порядок сверху",
+          "valueRu": "Красная, синяя, жёлтая, зелёная"
+        },
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Четыре равные горизонтальные"
+        }
+      ],
+      "sourceIds": [
+        "mu-government-national-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_stripes",
+          "four_colours"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "moldova-state-flag",
+      "kind": "flag",
+      "countryId": "moldova",
+      "nameRu": "Республика Молдова",
+      "subtitleRu": "Государственный флаг",
+      "variantType": "state",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-moldova-state",
+      "summaryRu": "Государственный флаг Молдовы — сине-жёлто-красный вертикальный триколор с гербом на жёлтой полосе.",
+      "explanationRu": "Министерство иностранных дел Молдовы описывает три равные вертикальные полосы и государственный герб в центре жёлтой полосы.",
+      "symbols": [
+        {
+          "nameRu": "Государственный герб",
+          "category": "coat_of_arms",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "md-mfa-state-symbols"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Порядок от древка",
+          "valueRu": "Синяя, жёлтая, красная"
+        },
+        {
+          "labelRu": "В центре",
+          "valueRu": "Государственный герб"
+        }
+      ],
+      "sourceIds": [
+        "md-mfa-state-symbols"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "vertical_tricolor",
+          "coat_center"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "montenegro-state-flag",
+      "kind": "flag",
+      "countryId": "montenegro",
+      "nameRu": "Черногория",
+      "subtitleRu": "Государственный флаг",
+      "variantType": "state",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-montenegro-state",
+      "summaryRu": "Государственный флаг Черногории — красное полотнище с золотой каймой и двуглавым орлом в центре.",
+      "explanationRu": "Конституция Черногории закрепляет красное поле, золотую кайму и государственный герб в центре; на гербе изображён золотой двуглавый орёл.",
+      "symbols": [
+        {
+          "nameRu": "Государственный герб",
+          "category": "coat_of_arms",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "me-constitution-state-symbols"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Поле и кайма",
+          "valueRu": "Красное поле, золотая кайма"
+        },
+        {
+          "labelRu": "В центре",
+          "valueRu": "Государственный герб с двуглавым орлом"
+        }
+      ],
+      "sourceIds": [
+        "me-constitution-state-symbols"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "eagle",
+          "coat_center"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "morocco-national-flag",
+      "kind": "flag",
+      "countryId": "morocco",
+      "nameRu": "Марокко",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-morocco-national",
+      "summaryRu": "Флаг Марокко — красное поле с зелёной пятиконечной звездой из непрерывной линии.",
+      "explanationRu": "Указ 2005 года описывает ярко-красный прямоугольный флаг и открытую зелёную пятиконечную звезду по центру.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Поле",
+          "valueRu": "Красное"
+        },
+        {
+          "labelRu": "В центре",
+          "valueRu": "Зелёная пятиконечная звезда"
+        }
+      ],
+      "sourceIds": [
+        "ma-flag-dahir-2005"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "red_field",
+          "green_star"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "mozambique-national-flag",
+      "kind": "flag",
+      "countryId": "mozambique",
+      "nameRu": "Мозамбик",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-mozambique-national",
+      "summaryRu": "Флаг Мозамбика имеет зелёную, чёрную и жёлтую полосы с белыми разделителями; в красном треугольнике изображены звезда, книга, мотыга и оружие.",
+      "explanationRu": "Президентская страница Мозамбика описывает красный треугольник у древка. В нём книга, мотыга и оружие помещены на звезду; правительство связывает их с учёбой, производством и защитой.",
+      "symbols": [
+        {
+          "nameRu": "Книга, мотыга и оружие",
+          "category": "other",
+          "meaningRu": "Учёба, производство и защита",
+          "meaningStatus": "official",
+          "sourceIds": [
+            "mz-presidency-flag"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Полосы сверху",
+          "valueRu": "Зелёная, чёрная, жёлтая с белыми разделителями"
+        },
+        {
+          "labelRu": "В красном треугольнике",
+          "valueRu": "Звезда, книга, мотыга и оружие"
+        }
+      ],
+      "sourceIds": [
+        "mz-presidency-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "triangle_hoist",
+          "star_book"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    }
+  ]
+}

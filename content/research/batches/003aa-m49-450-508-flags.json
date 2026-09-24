@@ -1,0 +1,233 @@
+{
+  "batch_id": "003aa-m49-450-508-flags",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "mg-constitution-art4",
+      "title": "Constitution de la République de Madagascar, article 4",
+      "publisher": "Centre National de Documentation Législative et Administrative de Madagascar",
+      "source_type": "law",
+      "url": "https://cnlegis.gov.mg/page_acces_pdf/fpUblYeoV45",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Мадагаскар"
+    },
+    {
+      "source_id": "my-government-flag",
+      "title": "Flag of Malaysia",
+      "publisher": "Government of Malaysia",
+      "source_type": "government",
+      "url": "https://www.malaysia.gov.my/en/government/kenali-malaysia/flag-of-malaysia",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Малайзия"
+    },
+    {
+      "source_id": "mv-constitution-schedule3",
+      "title": "Constitution of the Republic of Maldives, Schedule 3: National Flag",
+      "publisher": "Attorney General’s Office, Maldives",
+      "source_type": "law",
+      "url": "https://agoffice.gov.mv/files/English-constitution.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Мальдивские Острова"
+    },
+    {
+      "source_id": "mu-government-national-flag",
+      "title": "National Flag",
+      "publisher": "Government of Mauritius",
+      "source_type": "government",
+      "url": "https://www.govmu.org/EN/Pages/National-Flag.aspx",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Маврикий"
+    },
+    {
+      "source_id": "md-mfa-state-symbols",
+      "title": "Símbolos do Estado: Bandeira de Estado",
+      "publisher": "Ministry of Foreign Affairs of the Republic of Moldova",
+      "source_type": "government",
+      "url": "https://portugalia.mfa.gov.md/pt/content/s%C3%ADmbolos-do-estado",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Республика Молдова"
+    },
+    {
+      "source_id": "me-constitution-state-symbols",
+      "title": "Constitution of Montenegro, Article 4: State symbols",
+      "publisher": "Government of Montenegro",
+      "source_type": "law",
+      "url": "https://wapi.gov.me/download/2489436c-8a43-4c6b-9981-8af44719f19f?version=1.0",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Черногория"
+    },
+    {
+      "source_id": "ma-flag-dahir-2005",
+      "title": "Dahir n° 1-05-99 relatif aux caractéristiques de l’emblème du Royaume",
+      "publisher": "Secrétariat Général du Gouvernement du Maroc",
+      "source_type": "law",
+      "url": "https://www.sgg.gov.ma/BO/bo_fr/2005/bo_5378_fr.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Марокко"
+    },
+    {
+      "source_id": "mz-presidency-flag",
+      "title": "A Bandeira Nacional",
+      "publisher": "Presidência da República de Moçambique",
+      "source_type": "government",
+      "url": "https://presidencia.gov.mz/?page_id=435",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Мозамбик"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "madagascar",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "madagascar-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "white_hoist|red_green_horizontal",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "mg-constitution-art4",
+          "primary_source_urls": "https://cnlegis.gov.mg/page_acces_pdf/fpUblYeoV45"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "malaysia",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "malaysia-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "fourteen_red_white_stripes|blue_canton|yellow_crescent_star",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "my-government-flag",
+          "primary_source_urls": "https://www.malaysia.gov.my/en/government/kenali-malaysia/flag-of-malaysia"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "maldives",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "maldives-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_border|green_rectangle|white_crescent",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "mv-constitution-schedule3",
+          "primary_source_urls": "https://agoffice.gov.mv/files/English-constitution.pdf"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "mauritius",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "mauritius-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_blue_yellow_green_horizontal",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "mu-government-national-flag",
+          "primary_source_urls": "https://www.govmu.org/EN/Pages/National-Flag.aspx"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "moldova",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "moldova-state-flag",
+          "variant_type": "state",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "blue_yellow_red_vertical|coat_of_arms",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "md-mfa-state-symbols",
+          "primary_source_urls": "https://portugalia.mfa.gov.md/pt/content/s%C3%ADmbolos-do-estado"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "montenegro",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "montenegro-state-flag",
+          "variant_type": "state",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_field|gold_border|double_headed_eagle",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "me-constitution-state-symbols",
+          "primary_source_urls": "https://wapi.gov.me/download/2489436c-8a43-4c6b-9981-8af44719f19f?version=1.0"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "morocco",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "morocco-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_field|green_pentagram",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "ma-flag-dahir-2005",
+          "primary_source_urls": "https://www.sgg.gov.ma/BO/bo_fr/2005/bo_5378_fr.pdf"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "mozambique",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "mozambique-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "green_black_yellow_horizontal|white_separators|red_triangle|star_book_hoe_rifle",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "mz-presidency-flag",
+          "primary_source_urls": "https://presidencia.gov.mz/?page_id=435"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}
