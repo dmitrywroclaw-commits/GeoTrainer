@@ -2947,5 +2947,57 @@
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Philippines.svg",
     "attributionText": "See Wikimedia Commons file history / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
     "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-saint-lucia-national",
+    "kind": "flag",
+    "localPath": "/media/flags/saint-lucia.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Saint_Lucia.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Dunstan St Omer",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Saint_Lucia.svg",
+    "attributionText": "Dunstan St Omer / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-saint-kitts-and-nevis-national",
+    "kind": "flag",
+    "localPath": "/media/flags/saint-kitts-and-nevis.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Saint_Kitts_and_Nevis.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Edrice Lewis",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Saint_Kitts_and_Nevis.svg",
+    "attributionText": "Edrice Lewis / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-saint-vincent-and-the-grenadines-national",
+    "kind": "flag",
+    "localPath": "/media/flags/saint-vincent-and-the-grenadines.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Saint_Vincent_and_the_Grenadines.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Wikimedia Commons user SKopp (attribution uncertain; see file history)",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Saint_Vincent_and_the_Grenadines.svg",
+    "attributionText": "Wikimedia Commons user SKopp (attribution uncertain; see file history) / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-marshall-islands-national",
+    "kind": "flag",
+    "localPath": "/media/flags/marshall-islands.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Marshall_Islands.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_the_Marshall_Islands.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Wikimedia Commons user SKopp (attribution uncertain; see file history)",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Marshall_Islands.svg",
+    "attributionText": "Wikimedia Commons user SKopp (attribution uncertain; see file history) / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
   }
 ]

@@ -1,0 +1,267 @@
+{
+  "batch_id": "publish-076-four-flags",
+  "countries": [
+    {
+      "id": "saint-lucia",
+      "nameRu": "Сент-Люсия",
+      "region": "Карибский бассейн",
+      "m49": "662",
+      "iso2": "LC",
+      "iso3": "LCA"
+    },
+    {
+      "id": "saint-kitts-and-nevis",
+      "nameRu": "Сент-Китс и Невис",
+      "region": "Карибский бассейн",
+      "m49": "659",
+      "iso2": "KN",
+      "iso3": "KNA"
+    },
+    {
+      "id": "saint-vincent-and-the-grenadines",
+      "nameRu": "Сент-Винсент и Гренадины",
+      "region": "Карибский бассейн",
+      "m49": "670",
+      "iso2": "VC",
+      "iso3": "VCT"
+    },
+    {
+      "id": "marshall-islands",
+      "nameRu": "Маршалловы Острова",
+      "region": "Микронезия",
+      "m49": "584",
+      "iso2": "MH",
+      "iso3": "MHL"
+    }
+  ],
+  "sources": [
+    {
+      "id": "lc-government-national-flag",
+      "title": "Flag of Saint Lucia",
+      "publisher": "Government of Saint Lucia",
+      "sourceType": "government",
+      "url": "https://www.govt.lc/stluciaflag",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "kn-national-emblems-act-flag",
+      "title": "National Emblems and National Anthem Act, Schedule Part III",
+      "publisher": "Law Commission of Saint Kitts and Nevis",
+      "sourceType": "law",
+      "url": "https://lawcommission.gov.kn/wp-content/documents/Act17TOC/Ch-01_06-National-Emblems-and-National-Anthem-Act.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "vc-government-national-flag",
+      "title": "The Flag",
+      "publisher": "Government of Saint Vincent and the Grenadines",
+      "sourceType": "government",
+      "url": "https://www.gov.vc/index.php/business/regulations/59-visitors/about-svg/28-the-flag",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "mh-official-flag-act-1979",
+      "title": "Official Flag of the Marshall Islands Act 1979",
+      "publisher": "Nitijela, Parliament of the Marshall Islands",
+      "sourceType": "law",
+      "url": "https://rmiparliament.org/cms/images/LEGISLATION/PRINCIPAL/1979/1979-0001/1979-0001_1.pdf",
+      "accessedAt": "2026-09-24"
+    }
+  ],
+  "media": [
+    {
+      "id": "flag-saint-lucia-national",
+      "kind": "flag",
+      "localPath": "/media/flags/saint-lucia.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Saint_Lucia.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Dunstan St Omer",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Saint_Lucia.svg",
+      "attributionText": "Dunstan St Omer / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-saint-kitts-and-nevis-national",
+      "kind": "flag",
+      "localPath": "/media/flags/saint-kitts-and-nevis.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Saint_Kitts_and_Nevis.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Edrice Lewis",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Saint_Kitts_and_Nevis.svg",
+      "attributionText": "Edrice Lewis / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-saint-vincent-and-the-grenadines-national",
+      "kind": "flag",
+      "localPath": "/media/flags/saint-vincent-and-the-grenadines.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Saint_Vincent_and_the_Grenadines.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Wikimedia Commons user SKopp (attribution uncertain; see file history)",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Saint_Vincent_and_the_Grenadines.svg",
+      "attributionText": "Wikimedia Commons user SKopp (attribution uncertain; see file history) / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-marshall-islands-national",
+      "kind": "flag",
+      "localPath": "/media/flags/marshall-islands.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Marshall_Islands.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_the_Marshall_Islands.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Wikimedia Commons user SKopp (attribution uncertain; see file history)",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Marshall_Islands.svg",
+      "attributionText": "Wikimedia Commons user SKopp (attribution uncertain; see file history) / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+      "checkedAt": "2026-09-24"
+    }
+  ],
+  "entries": [
+    {
+      "id": "saint-lucia-national-flag",
+      "kind": "flag",
+      "countryId": "saint-lucia",
+      "nameRu": "Сент-Люсия",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-saint-lucia-national",
+      "summaryRu": "Голубое полотнище с наложенными друг на друга белым, чёрным и золотым треугольниками в центре.",
+      "explanationRu": "Официальный портал Сент-Люсии приводит описание автора флага: на голубом поле белый и чёрный треугольники, а у их основания расположен золотой треугольник. Формы отсылают к горным вершинам Питон.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Фон",
+          "valueRu": "Голубой"
+        },
+        {
+          "labelRu": "В центре",
+          "valueRu": "Белый, чёрный и золотой треугольники"
+        }
+      ],
+      "sourceIds": [
+        "lc-government-national-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "blue_field",
+          "triangles",
+          "black_white_gold"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "saint-kitts-and-nevis-national-flag",
+      "kind": "flag",
+      "countryId": "saint-kitts-and-nevis",
+      "nameRu": "Сент-Китс и Невис",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-saint-kitts-and-nevis-national",
+      "summaryRu": "Зелёное и красное поля разделены чёрной диагональной полосой с жёлтыми краями и двумя белыми звёздами.",
+      "explanationRu": "Закон Сент-Китса и Невиса описывает цвета национального флага и две белые звезды на чёрной диагональной полосе. Жёлтые края отделяют полосу от зелёного и красного полей.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Диагональная полоса",
+          "valueRu": "Чёрная с жёлтыми краями"
+        },
+        {
+          "labelRu": "На полосе",
+          "valueRu": "Две белые звезды"
+        }
+      ],
+      "sourceIds": [
+        "kn-national-emblems-act-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "diagonal_band",
+          "two_stars",
+          "green_red"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "saint-vincent-and-the-grenadines-national-flag",
+      "kind": "flag",
+      "countryId": "saint-vincent-and-the-grenadines",
+      "nameRu": "Сент-Винсент и Гренадины",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-saint-vincent-and-the-grenadines-national",
+      "summaryRu": "Синяя, золотая и зелёная вертикальные полосы с тремя зелёными ромбами на золотой полосе.",
+      "explanationRu": "Правительственный портал Сент-Винсента и Гренадин описывает три зелёных ромба в форме буквы V на центральной золотой полосе; по краям расположены синяя и зелёная полосы.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Средняя полоса",
+          "valueRu": "Золотая с тремя зелёными ромбами"
+        },
+        {
+          "labelRu": "Крайние полосы",
+          "valueRu": "Синяя и зелёная"
+        }
+      ],
+      "sourceIds": [
+        "vc-government-national-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "vertical_tricolor",
+          "three_diamonds",
+          "green_yellow_blue"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "marshall-islands-national-flag",
+      "kind": "flag",
+      "countryId": "marshall-islands",
+      "nameRu": "Маршалловы Острова",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-marshall-islands-national",
+      "summaryRu": "Синее полотнище с оранжевой и белой диагональными полосами и белой звездой с 24 лучами.",
+      "explanationRu": "Закон Маршалловых Островов о флаге устанавливает синее поле, оранжевую и белую диагональные полосы от нижнего угла у древка к верхнему свободному углу, а также белую звезду с 24 лучами в верхней части у древка.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Диагонали",
+          "valueRu": "Оранжевая над белой"
+        },
+        {
+          "labelRu": "Звезда",
+          "valueRu": "Белая, с 24 лучами"
+        }
+      ],
+      "sourceIds": [
+        "mh-official-flag-act-1979"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "blue_field",
+          "diagonal_stripes",
+          "white_star"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    }
+  ]
+}
