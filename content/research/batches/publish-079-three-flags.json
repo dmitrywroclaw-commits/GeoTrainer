@@ -1,0 +1,203 @@
+{
+  "batch_id": "publish-079-three-flags",
+  "countries": [
+    {
+      "id": "eswatini",
+      "nameRu": "Эсватини",
+      "region": "Южная часть Африки",
+      "m49": "748",
+      "iso2": "SZ",
+      "iso3": "SWZ"
+    },
+    {
+      "id": "guinea-bissau",
+      "nameRu": "Гвинея-Бисау",
+      "region": "Западная Африка",
+      "m49": "624",
+      "iso2": "GW",
+      "iso3": "GNB"
+    },
+    {
+      "id": "south-sudan",
+      "nameRu": "Южный Судан",
+      "region": "Восточная Африка",
+      "m49": "728",
+      "iso2": "SS",
+      "iso3": "SSD"
+    }
+  ],
+  "sources": [
+    {
+      "id": "sz-government-national-flag",
+      "title": "National Symbols: Our Flag",
+      "publisher": "Government of the Kingdom of Eswatini",
+      "sourceType": "government",
+      "url": "https://www.gov.sz/index.php/about-us-sp-15933109/our-flag",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "gw-presidency-national-flag",
+      "title": "Sobre a Guiné-Bissau: Símbolos Nacionais, Bandeira Nacional",
+      "publisher": "Presidency of Guinea-Bissau",
+      "sourceType": "government",
+      "url": "https://www.presidencia.gw/sobre-a-guin%C3%A9-bissau-1",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "ss-government-curriculum-flag",
+      "title": "South Sudan Social Studies, ALP Level 4: The National Flag",
+      "publisher": "South Sudan Curriculum Development Centre",
+      "sourceType": "government",
+      "url": "https://cdc.gov.ss/uploads/subjects/SST%20ALP%20LEVEL%204.pdf",
+      "accessedAt": "2026-09-24"
+    }
+  ],
+  "media": [
+    {
+      "id": "flag-eswatini-national",
+      "kind": "flag",
+      "localPath": "/media/flags/eswatini.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Eswatini.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_Eswatini.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Sobhuza II",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Eswatini.svg",
+      "attributionText": "Sobhuza II / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-guinea-bissau-national",
+      "kind": "flag",
+      "localPath": "/media/flags/guinea-bissau.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Guinea-Bissau.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Guinea-Bissau.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Not specified on Wikimedia Commons",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Guinea-Bissau.svg",
+      "attributionText": "Not specified on Wikimedia Commons / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-south-sudan-national",
+      "kind": "flag",
+      "localPath": "/media/flags/south-sudan.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_South_Sudan.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_South_Sudan.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Wikimedia Commons user Achim1999",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_South_Sudan.svg",
+      "attributionText": "Wikimedia Commons user Achim1999 / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+      "checkedAt": "2026-09-24"
+    }
+  ],
+  "entries": [
+    {
+      "id": "eswatini-national-flag",
+      "kind": "flag",
+      "countryId": "eswatini",
+      "nameRu": "Эсватини",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-eswatini-national",
+      "summaryRu": "Синие крайние полосы и широкая красная средняя полоса с жёлтыми краями; в центре щит, копья и украшенный посох.",
+      "explanationRu": "Правительство Эсватини описывает синие верхнюю и нижнюю полосы, широкую красную полосу с жёлтыми краями, а в центре — чёрно-белый щит поверх двух копий и украшенного посоха.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Средняя полоса",
+          "valueRu": "Красная с жёлтыми краями"
+        },
+        {
+          "labelRu": "В центре",
+          "valueRu": "Чёрно-белый щит и два копья"
+        }
+      ],
+      "sourceIds": [
+        "sz-government-national-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_stripes",
+          "central_shield",
+          "spears"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "guinea-bissau-national-flag",
+      "kind": "flag",
+      "countryId": "guinea-bissau",
+      "nameRu": "Гвинея-Бисау",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-guinea-bissau-national",
+      "summaryRu": "У древка красная вертикальная полоса с чёрной звездой; справа жёлтая полоса над зелёной.",
+      "explanationRu": "Официальный сайт президента Гвинеи-Бисау показывает национальный флаг и объясняет чёрную звезду, жёлтый, зелёный и красный цвета. На полотнище звезда находится на красной полосе у древка, справа расположены жёлтая и зелёная полосы.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "У древка",
+          "valueRu": "Красная полоса с чёрной звездой"
+        },
+        {
+          "labelRu": "Справа",
+          "valueRu": "Жёлтая и зелёная полосы"
+        }
+      ],
+      "sourceIds": [
+        "gw-presidency-national-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "red_hoist",
+          "black_star",
+          "yellow_green"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "south-sudan-national-flag",
+      "kind": "flag",
+      "countryId": "south-sudan",
+      "nameRu": "Южный Судан",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-south-sudan-national",
+      "summaryRu": "Чёрная, красная и зелёная полосы с белыми разделителями; у древка светло-голубой треугольник с жёлтой звездой.",
+      "explanationRu": "Образовательный материал правительства Южного Судана показывает чёрную, красную и зелёную полосы с белыми разделителями и светло-голубой треугольник с жёлтой звездой.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "У древка",
+          "valueRu": "Светло-голубой треугольник с жёлтой звездой"
+        },
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Чёрная, красная, зелёная; между ними белые"
+        }
+      ],
+      "sourceIds": [
+        "ss-government-curriculum-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_stripes",
+          "blue_triangle",
+          "yellow_star"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    }
+  ]
+}

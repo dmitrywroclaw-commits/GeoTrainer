@@ -3090,5 +3090,44 @@
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Kyrgyzstan.svg",
     "attributionText": "Shakiev N.T., Primov U.B. / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
     "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-eswatini-national",
+    "kind": "flag",
+    "localPath": "/media/flags/eswatini.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Eswatini.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_Eswatini.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Sobhuza II",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Eswatini.svg",
+    "attributionText": "Sobhuza II / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-guinea-bissau-national",
+    "kind": "flag",
+    "localPath": "/media/flags/guinea-bissau.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Guinea-Bissau.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Guinea-Bissau.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Not specified on Wikimedia Commons",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Guinea-Bissau.svg",
+    "attributionText": "Not specified on Wikimedia Commons / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-south-sudan-national",
+    "kind": "flag",
+    "localPath": "/media/flags/south-sudan.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_South_Sudan.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_South_Sudan.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Wikimedia Commons user Achim1999",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_South_Sudan.svg",
+    "attributionText": "Wikimedia Commons user Achim1999 / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
   }
 ]

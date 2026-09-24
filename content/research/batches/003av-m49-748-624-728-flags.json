@@ -1,0 +1,93 @@
+{
+  "batch_id": "003av-m49-748-624-728-flags",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "sz-government-national-flag",
+      "title": "National Symbols: Our Flag",
+      "publisher": "Government of the Kingdom of Eswatini",
+      "source_type": "government",
+      "url": "https://www.gov.sz/index.php/about-us-sp-15933109/our-flag",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Эсватини"
+    },
+    {
+      "source_id": "gw-presidency-national-flag",
+      "title": "Sobre a Guiné-Bissau: Símbolos Nacionais, Bandeira Nacional",
+      "publisher": "Presidency of Guinea-Bissau",
+      "source_type": "government",
+      "url": "https://www.presidencia.gw/sobre-a-guin%C3%A9-bissau-1",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Гвинея-Бисау"
+    },
+    {
+      "source_id": "ss-government-curriculum-flag",
+      "title": "South Sudan Social Studies, ALP Level 4: The National Flag",
+      "publisher": "South Sudan Curriculum Development Centre",
+      "source_type": "government",
+      "url": "https://cdc.gov.ss/uploads/subjects/SST%20ALP%20LEVEL%204.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Южный Судан"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "eswatini",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "eswatini-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "синие крайние полосы; широкая красная полоса; жёлтая кайма; щит и копья",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "sz-government-national-flag",
+          "primary_source_urls": "https://www.gov.sz/index.php/about-us-sp-15933109/our-flag"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "guinea-bissau",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "guinea-bissau-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "красная вертикальная полоса; чёрная звезда; жёлтая и зелёная горизонтальные полосы",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "gw-presidency-national-flag",
+          "primary_source_urls": "https://www.presidencia.gw/sobre-a-guin%C3%A9-bissau-1"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "south-sudan",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "south-sudan-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "чёрная, красная и зелёная полосы; белые разделители; светло-голубой треугольник; жёлтая звезда",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "ss-government-curriculum-flag",
+          "primary_source_urls": "https://cdc.gov.ss/uploads/subjects/SST%20ALP%20LEVEL%204.pdf"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}
