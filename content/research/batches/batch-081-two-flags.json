@@ -1,0 +1,65 @@
+{
+  "batch_id": "batch-081-two-flags",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "ir-constitution-article-18-flag",
+      "title": "Constitution of the Islamic Republic of Iran, Article 18",
+      "publisher": "Islamic Republic of Iran (FAOLEX copy)",
+      "source_type": "law",
+      "url": "https://faolex.fao.org/docs/pdf/ira127540.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Иран"
+    },
+    {
+      "source_id": "iq-official-gazette-4808-flag",
+      "title": "Iraqi Gazette No. 4808, Air Force Regulations, Iraqi Flag (Figure 17)",
+      "publisher": "Ministry of Justice of Iraq",
+      "source_type": "government",
+      "url": "https://moj.gov.iq/upload/pdf/4808_new_repaired_compressed_922.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Ирак"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "iran",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "iran-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "три горизонтальные полосы: зелёная, белая, красная | красная эмблема в центре | белые надписи вдоль границ полос",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "ir-constitution-article-18-flag",
+          "primary_source_urls": "https://faolex.fao.org/docs/pdf/ira127540.pdf"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "iraq",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "iraq-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "три горизонтальные полосы: красная, белая, чёрная | зелёная надпись «Аллах велик» на белой полосе",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "iq-official-gazette-4808-flag",
+          "primary_source_urls": "https://moj.gov.iq/upload/pdf/4808_new_repaired_compressed_922.pdf"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}

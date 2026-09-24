@@ -1391,6 +1391,22 @@
       "m49": "776",
       "iso2": "TO",
       "iso3": "TON"
+    },
+    {
+      "id": "iran",
+      "nameRu": "Иран",
+      "region": "Южная Азия",
+      "m49": "364",
+      "iso2": "IR",
+      "iso3": "IRN"
+    },
+    {
+      "id": "iraq",
+      "nameRu": "Ирак",
+      "region": "Западная Азия",
+      "m49": "368",
+      "iso2": "IQ",
+      "iso3": "IRQ"
     }
   ],
   "sources": [
@@ -3408,6 +3424,22 @@
       "publisher": "Attorney General’s Office, Kingdom of Tonga",
       "sourceType": "law",
       "url": "https://ago.gov.to/cms/images/LEGISLATION/PRINCIPAL/1988/1988-0002/ConstitutionofTonga.pdf_3.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "ir-constitution-article-18-flag",
+      "title": "Constitution of the Islamic Republic of Iran, Article 18",
+      "publisher": "Islamic Republic of Iran (FAOLEX copy)",
+      "sourceType": "law",
+      "url": "https://faolex.fao.org/docs/pdf/ira127540.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "iq-official-gazette-4808-flag",
+      "title": "Iraqi Gazette No. 4808, Air Force Regulations, Iraqi Flag (Figure 17)",
+      "publisher": "Ministry of Justice of Iraq",
+      "sourceType": "government",
+      "url": "https://moj.gov.iq/upload/pdf/4808_new_repaired_compressed_922.pdf",
       "accessedAt": "2026-09-24"
     }
   ],
@@ -12945,6 +12977,85 @@
           "cross",
           "canton",
           "red-field"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "iran-national-flag",
+      "kind": "flag",
+      "countryId": "iran",
+      "nameRu": "Иран",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-iran-national",
+      "summaryRu": "Флаг Ирана состоит из зелёной, белой и красной полос с центральной эмблемой и повторяющейся надписью.",
+      "explanationRu": "Статья 18 Конституции Ирана закрепляет зелёный, белый и красный цвета, особую эмблему Исламской Республики и девиз «Аллах велик». На флаге эмблема расположена в центре белой полосы, а девиз повторяется у границ полос.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы сверху вниз",
+          "valueRu": "Зелёная, белая, красная"
+        },
+        {
+          "labelRu": "Центр",
+          "valueRu": "Эмблема Исламской Республики"
+        },
+        {
+          "labelRu": "Надпись",
+          "valueRu": "Девиз «Аллах велик»"
+        }
+      ],
+      "sourceIds": [
+        "ir-constitution-article-18-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "tricolor",
+          "horizontal-stripes",
+          "emblem",
+          "inscription"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "iraq-national-flag",
+      "kind": "flag",
+      "countryId": "iraq",
+      "nameRu": "Ирак",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-iraq-national",
+      "summaryRu": "Флаг Ирака — красно-бело-чёрный триколор с зелёной арабской надписью в центре.",
+      "explanationRu": "Иракское официальное издание описывает красную, белую и чёрную полосы и зелёную надпись «Аллах велик» посередине белой полосы. На действующем рисунке нет звёзд прежних вариантов.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы сверху вниз",
+          "valueRu": "Красная, белая, чёрная"
+        },
+        {
+          "labelRu": "Центр белой полосы",
+          "valueRu": "Зелёная надпись «Аллах велик»"
+        },
+        {
+          "labelRu": "Звёзды",
+          "valueRu": "Отсутствуют на действующем флаге"
+        }
+      ],
+      "sourceIds": [
+        "iq-official-gazette-4808-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "tricolor",
+          "horizontal-stripes",
+          "inscription"
         ]
       },
       "status": "published",

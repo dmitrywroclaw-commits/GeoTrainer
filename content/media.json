@@ -3155,5 +3155,31 @@
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Tonga.svg",
     "attributionText": "Uelingatoni Ngu Tupoumalohi / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
     "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-iran-national",
+    "kind": "flag",
+    "localPath": "/media/flags/iran.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Iran_(official).svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Flag_of_Iran_%28official%29.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "SVG: SiBr4; design: Hamid Nadimi; construction: ISIRI",
+    "license": "Public domain",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Iran_(official).svg",
+    "attributionText": "SVG: SiBr4; design: Hamid Nadimi; construction: ISIRI / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-iraq-national",
+    "kind": "flag",
+    "localPath": "/media/flags/iraq.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Iraq.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Wikimedia Commons contributors (see file history)",
+    "license": "Public domain",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Iraq.svg",
+    "attributionText": "Wikimedia Commons contributors (see file history) / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
   }
 ]
