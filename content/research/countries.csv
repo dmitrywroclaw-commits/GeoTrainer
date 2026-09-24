@@ -138,17 +138,17 @@ member,600,PY,PRY,paraguay,Paraguay,Парагвай,South America,Южная А
 member,604,PE,PER,peru,Peru,Перу,South America,Южная Америка,pending,,,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,
 member,608,PH,PHL,philippines,Philippines,Филиппины,South-eastern Asia,Юго-Восточная Азия,pending,,,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,
 member,616,PL,POL,poland,Poland,Польша,Eastern Europe,Восточная Европа,pending,,,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,
-member,620,PT,PRT,portugal,Portugal,Португалия,Southern Europe,Южная Европа,pending,,,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,
+member,620,PT,PRT,portugal,Portugal,Португалия,Southern Europe,Южная Европа,in_progress,2026-09-24,Codex,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,Флаг проверен и опубликован; герб или эмблема ещё в работе.
 member,624,GW,GNB,guinea-bissau,Guinea-Bissau,Гвинея-Бисау,Western Africa,Западная Африка,pending,,,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,
 member,626,TL,TLS,timor-leste,Timor-Leste,Тимор-Лешти,South-eastern Asia,Юго-Восточная Азия,pending,,,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,
-member,634,QA,QAT,qatar,Qatar,Катар,Western Asia,Западная Азия,pending,,,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,
-member,642,RO,ROU,romania,Romania,Румыния,Eastern Europe,Восточная Европа,pending,,,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,
+member,634,QA,QAT,qatar,Qatar,Катар,Western Asia,Западная Азия,in_progress,2026-09-24,Codex,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,Флаг проверен и опубликован; герб или эмблема ещё в работе.
+member,642,RO,ROU,romania,Romania,Румыния,Eastern Europe,Восточная Европа,in_progress,2026-09-24,Codex,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,Флаг проверен и опубликован; герб или эмблема ещё в работе.
 member,643,RU,RUS,russia,Russian Federation,Российская Федерация,Eastern Europe,Восточная Европа,pending,,,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,
-member,646,RW,RWA,rwanda,Rwanda,Руанда,Eastern Africa,Восточная Африка,pending,,,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,
+member,646,RW,RWA,rwanda,Rwanda,Руанда,Eastern Africa,Восточная Африка,in_progress,2026-09-24,Codex,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,Флаг проверен и опубликован; герб или эмблема ещё в работе.
 member,659,KN,KNA,saint-kitts-and-nevis,Saint Kitts and Nevis,Сент-Китс и Невис,Caribbean,Карибский бассейн,pending,,,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,
 member,662,LC,LCA,saint-lucia,Saint Lucia,Сент-Люсия,Caribbean,Карибский бассейн,pending,,,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,
 member,670,VC,VCT,saint-vincent-and-the-grenadines,Saint Vincent and the Grenadines,Сент-Винсент и Гренадины,Caribbean,Карибский бассейн,pending,,,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,
-member,674,SM,SMR,san-marino,San Marino,Сан-Марино,Southern Europe,Южная Европа,pending,,,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,
+member,674,SM,SMR,san-marino,San Marino,Сан-Марино,Southern Europe,Южная Европа,in_progress,2026-09-24,Codex,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,Флаг проверен и опубликован; герб или эмблема ещё в работе.
 member,678,ST,STP,sao-tome-and-principe,Sao Tome and Principe,Сан-Томе и Принсипи,Middle Africa,Центральная Африка,pending,,,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,
 member,682,SA,SAU,saudi-arabia,Saudi Arabia,Саудовская Аравия,Western Asia,Западная Азия,pending,,,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,
 member,686,SN,SEN,senegal,Senegal,Сенегал,Western Africa,Западная Африка,pending,,,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,
@@ -168,7 +168,7 @@ member,729,SD,SDN,sudan,Sudan,Судан,Northern Africa,Северная Афр
 member,740,SR,SUR,suriname,Suriname,Суринам,South America,Южная Америка,pending,,,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,
 member,748,SZ,SWZ,eswatini,Eswatini,Эсватини,Southern Africa,Южная часть Африки,pending,,,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,
 member,752,SE,SWE,sweden,Sweden,Швеция,Northern Europe,Северная Европа,pending,,,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,
-member,756,CH,CHE,switzerland,Switzerland,Швейцария,Western Europe,Западная Европа,pending,,,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,
+member,756,CH,CHE,switzerland,Switzerland,Швейцария,Western Europe,Западная Европа,in_progress,2026-09-24,Codex,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,Флаг проверен и опубликован; герб или эмблема ещё в работе.
 member,760,SY,SYR,syria,Syrian Arab Republic,Сирийская Арабская Республика,Western Asia,Западная Азия,pending,,,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,
 member,762,TJ,TJK,tajikistan,Tajikistan,Таджикистан,Central Asia,Центральная Азия,pending,,,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,
 member,764,TH,THA,thailand,Thailand,Таиланд,South-eastern Asia,Юго-Восточная Азия,pending,,,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,
@@ -191,6 +191,6 @@ member,854,BF,BFA,burkina-faso,Burkina Faso,Буркина-Фасо,Western Afri
 member,858,UY,URY,uruguay,Uruguay,Уругвай,South America,Южная Америка,pending,,,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,
 member,860,UZ,UZB,uzbekistan,Uzbekistan,Узбекистан,Central Asia,Центральная Азия,pending,,,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,
 member,862,VE,VEN,venezuela,Venezuela (Bolivarian Republic of),Венесуэла (Боливарианская Республика),South America,Южная Америка,pending,,,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,
-member,882,WS,WSM,samoa,Samoa,Самоа,Polynesia,Полинезия,pending,,,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,
+member,882,WS,WSM,samoa,Samoa,Самоа,Polynesia,Полинезия,in_progress,2026-09-24,Codex,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,Флаг проверен и опубликован; герб или эмблема ещё в работе.
 member,887,YE,YEM,yemen,Yemen,Йемен,Western Asia,Западная Азия,pending,,,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,
 member,894,ZM,ZMB,zambia,Zambia,Замбия,Eastern Africa,Восточная Африка,pending,,,https://www.un.org/about-us/member-states,https://unstats.un.org/unsd/methodology/m49/overview/,

@@ -1,0 +1,452 @@
+{
+  "batch_id": "publish-061-seven-flags",
+  "countries": [
+    {
+      "id": "portugal",
+      "m49": "620",
+      "iso2": "PT",
+      "iso3": "PRT",
+      "nameRu": "Португалия",
+      "region": "Южная Европа"
+    },
+    {
+      "id": "qatar",
+      "m49": "634",
+      "iso2": "QA",
+      "iso3": "QAT",
+      "nameRu": "Катар",
+      "region": "Западная Азия"
+    },
+    {
+      "id": "romania",
+      "m49": "642",
+      "iso2": "RO",
+      "iso3": "ROU",
+      "nameRu": "Румыния",
+      "region": "Восточная Европа"
+    },
+    {
+      "id": "rwanda",
+      "m49": "646",
+      "iso2": "RW",
+      "iso3": "RWA",
+      "nameRu": "Руанда",
+      "region": "Восточная Африка"
+    },
+    {
+      "id": "samoa",
+      "m49": "882",
+      "iso2": "WS",
+      "iso3": "WSM",
+      "nameRu": "Самоа",
+      "region": "Полинезия"
+    },
+    {
+      "id": "san-marino",
+      "m49": "674",
+      "iso2": "SM",
+      "iso3": "SMR",
+      "nameRu": "Сан-Марино",
+      "region": "Южная Европа"
+    },
+    {
+      "id": "switzerland",
+      "m49": "756",
+      "iso2": "CH",
+      "iso3": "CHE",
+      "nameRu": "Швейцария",
+      "region": "Западная Европа"
+    }
+  ],
+  "sources": [
+    {
+      "id": "pt-presidency-national-flag",
+      "title": "Bandeira Nacional",
+      "publisher": "Presidency of the Portuguese Republic",
+      "sourceType": "government",
+      "url": "https://jorgesampaio.arquivo.presidencia.pt/pt/republica/simbolos/bandeira.html",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "qa-emiri-diwan-flag",
+      "title": "State of Qatar: Qatar’s Flag",
+      "publisher": "Amiri Diwan of Qatar",
+      "sourceType": "government",
+      "url": "https://www.diwan.gov.qa/about-qatar?sc_lang=en",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "ro-constitution-art12",
+      "title": "Constituția României, Articolul 12",
+      "publisher": "Romanian Ministry of Internal Affairs",
+      "sourceType": "law",
+      "url": "https://www.prefectura.mai.gov.ro/wp-content/uploads/2018/02/21-Constitutia-Romaniei.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "rw-national-flag-law",
+      "title": "Law determining characteristics of the national flag, Article 2",
+      "publisher": "Rwanda Law Reform Commission",
+      "sourceType": "law",
+      "url": "https://www.rlrc.gov.rw/index.php?eID=dumpFile&f=74762&t=f&token=cb41274d1a4b2d1626672542e40024a521270e26",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "ws-flag-act-1994",
+      "title": "Official Flag and National Anthem of Samoa Act 1994, Schedule",
+      "publisher": "Ministry of Justice and Courts Administration of Samoa",
+      "sourceType": "law",
+      "url": "https://www.mjca.gov.ws/achasoso/2021/05/Official-Flag-and-National-Anthem-of-Samoa-Act-1994.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "sm-declaration-art2bis",
+      "title": "Dichiarazione dei diritti dei cittadini, Articolo 2-bis",
+      "publisher": "Government of San Marino",
+      "sourceType": "law",
+      "url": "https://www.gov.sm/pub1/GovSM/dam/jcr%3A4c83a7bd-1304-4d7f-b023-5320f04987c3/Principi%20fond%20ordinamento%20samm.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "ch-eda-swiss-flag",
+      "title": "Swiss flag",
+      "publisher": "Federal Department of Foreign Affairs of Switzerland",
+      "sourceType": "government",
+      "url": "https://www.aboutswitzerland.eda.admin.ch/en/swiss-flag",
+      "accessedAt": "2026-09-24"
+    }
+  ],
+  "media": [
+    {
+      "id": "flag-portugal-national",
+      "kind": "flag",
+      "localPath": "/media/flags/portugal.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Portugal.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Columbano Bordalo Pinheiro; vector: Vítor Luís Rodrigues and António Martins-Tuválkin",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Portugal.svg",
+      "attributionText": "Columbano Bordalo Pinheiro; vector: Vítor Luís Rodrigues and António Martins-Tuválkin / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-qatar-national",
+      "kind": "flag",
+      "localPath": "/media/flags/qatar.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Qatar.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Wikimedia Commons file contributors",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Qatar.svg",
+      "attributionText": "Wikimedia Commons file contributors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-romania-national",
+      "kind": "flag",
+      "localPath": "/media/flags/romania.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Romania.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "AdiJapan",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Romania.svg",
+      "attributionText": "AdiJapan / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-rwanda-national",
+      "kind": "flag",
+      "localPath": "/media/flags/rwanda.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Rwanda.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Unknown original; vector: Zscout370",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Rwanda.svg",
+      "attributionText": "Unknown original; vector: Zscout370 / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-samoa-national",
+      "kind": "flag",
+      "localPath": "/media/flags/samoa.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Samoa.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Samoa.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Malietoa Tanumafili II and Tupua Tamasese Meaʻole; Wikimedia Commons vector contributors",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Samoa.svg",
+      "attributionText": "Malietoa Tanumafili II and Tupua Tamasese Meaʻole; Wikimedia Commons vector contributors / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-san-marino-national",
+      "kind": "flag",
+      "localPath": "/media/flags/san-marino.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_San_Marino.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Zscout370",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_San_Marino.svg",
+      "attributionText": "Zscout370 / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-switzerland-national",
+      "kind": "flag",
+      "localPath": "/media/flags/switzerland.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Switzerland.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Unknown original; vector: Marc Mongenet, -xfi-, Zscout370",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Switzerland.svg",
+      "attributionText": "Unknown original; vector: Marc Mongenet, -xfi-, Zscout370 / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+      "checkedAt": "2026-09-24"
+    }
+  ],
+  "entries": [
+    {
+      "id": "portugal-national-flag",
+      "kind": "flag",
+      "countryId": "portugal",
+      "nameRu": "Португалия",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-portugal-national",
+      "summaryRu": "На флаге Португалии зелёная полоса у древка и красная справа; на границе цветов — герб на золотой армиллярной сфере.",
+      "explanationRu": "Президентский архив описывает зелёную и красную вертикальные части. В месте их соединения расположен щит национального герба поверх жёлтой армиллярной сферы.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "У древка",
+          "valueRu": "Зелёная полоса"
+        },
+        {
+          "labelRu": "На границе цветов",
+          "valueRu": "Герб на армиллярной сфере"
+        }
+      ],
+      "sourceIds": [
+        "pt-presidency-national-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "green_red_vertical",
+          "coat_of_arms"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "qatar-national-flag",
+      "kind": "flag",
+      "countryId": "qatar",
+      "nameRu": "Катар",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-qatar-national",
+      "summaryRu": "Флаг Катара имеет белую полосу у древка и бордовое поле; их разделяют девять белых зубцов.",
+      "explanationRu": "Эмирский диван Катара указывает два цвета — белый и бордовый. Белая часть у древка образует девять треугольных выступов в сторону бордового поля.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "У древка",
+          "valueRu": "Белая полоса"
+        },
+        {
+          "labelRu": "На границе цветов",
+          "valueRu": "Девять белых зубцов"
+        }
+      ],
+      "sourceIds": [
+        "qa-emiri-diwan-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "white_maroon",
+          "serrated_edge"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "romania-national-flag",
+      "kind": "flag",
+      "countryId": "romania",
+      "nameRu": "Румыния",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-romania-national",
+      "summaryRu": "Флаг Румынии состоит из трёх вертикальных полос: синей у древка, жёлтой посередине и красной справа.",
+      "explanationRu": "Статья 12 Конституции Румынии устанавливает вертикальное расположение трёх цветов от древка: синий, жёлтый, красный.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "От древка",
+          "valueRu": "Синий, жёлтый, красный"
+        },
+        {
+          "labelRu": "Расположение",
+          "valueRu": "Три вертикальные полосы"
+        }
+      ],
+      "sourceIds": [
+        "ro-constitution-art12"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "blue_yellow_red",
+          "vertical_tricolor"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "rwanda-national-flag",
+      "kind": "flag",
+      "countryId": "rwanda",
+      "nameRu": "Руанда",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-rwanda-national",
+      "summaryRu": "Флаг Руанды: верхняя половина синяя с золотым солнцем справа; внизу жёлтая и зелёная полосы.",
+      "explanationRu": "Закон Руанды описывает синюю верхнюю половину с золотым солнцем у свободного края. Нижнюю половину занимают жёлтая и зелёная полосы.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Верхняя половина",
+          "valueRu": "Синее поле с золотым солнцем"
+        },
+        {
+          "labelRu": "Нижние полосы",
+          "valueRu": "Жёлтая над зелёной"
+        }
+      ],
+      "sourceIds": [
+        "rw-national-flag-law"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "blue_yellow_green",
+          "gold_sun"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "samoa-national-flag",
+      "kind": "flag",
+      "countryId": "samoa",
+      "nameRu": "Самоа",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-samoa-national",
+      "summaryRu": "На красном флаге Самоа в синем крыже расположены пять белых звёзд Южного Креста.",
+      "explanationRu": "Закон Самоа описывает красное полотнище с синим крыжем. В нём находятся пять белых пятиконечных звёзд, образующих Южный Крест.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Поле",
+          "valueRu": "Красное"
+        },
+        {
+          "labelRu": "В синем крыже",
+          "valueRu": "Пять белых звёзд Южного Креста"
+        }
+      ],
+      "sourceIds": [
+        "ws-flag-act-1994"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "red_field",
+          "southern_cross"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "san-marino-national-flag",
+      "kind": "flag",
+      "countryId": "san-marino",
+      "nameRu": "Сан-Марино",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-san-marino-national",
+      "summaryRu": "Флаг Сан-Марино: белая полоса над голубой, посередине — официальный герб республики.",
+      "explanationRu": "Статья 2-bis Декларации прав граждан описывает белую верхнюю и голубую нижнюю части. В центре помещён официальный герб с тремя башнями и девизом LIBERTAS.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Белая над голубой"
+        },
+        {
+          "labelRu": "В центре",
+          "valueRu": "Герб с тремя башнями"
+        }
+      ],
+      "sourceIds": [
+        "sm-declaration-art2bis"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "white_skyblue",
+          "coat_of_arms"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "switzerland-national-flag",
+      "kind": "flag",
+      "countryId": "switzerland",
+      "nameRu": "Швейцария",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-switzerland-national",
+      "summaryRu": "На квадратном красном флаге Швейцарии изображён белый прямой крест.",
+      "explanationRu": "Федеральный департамент иностранных дел Швейцарии описывает национальный флаг как белый крест на красном квадратном полотнище.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Форма",
+          "valueRu": "Квадрат"
+        },
+        {
+          "labelRu": "На красном поле",
+          "valueRu": "Белый крест"
+        }
+      ],
+      "sourceIds": [
+        "ch-eda-swiss-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "square_flag",
+          "white_cross"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    }
+  ]
+}

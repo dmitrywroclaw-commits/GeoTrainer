@@ -1,0 +1,205 @@
+{
+  "batch_id": "003ad-m49-620-882-flags",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "pt-presidency-national-flag",
+      "title": "Bandeira Nacional",
+      "publisher": "Presidency of the Portuguese Republic",
+      "source_type": "government",
+      "url": "https://jorgesampaio.arquivo.presidencia.pt/pt/republica/simbolos/bandeira.html",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Португалия"
+    },
+    {
+      "source_id": "qa-emiri-diwan-flag",
+      "title": "State of Qatar: Qatar’s Flag",
+      "publisher": "Amiri Diwan of Qatar",
+      "source_type": "government",
+      "url": "https://www.diwan.gov.qa/about-qatar?sc_lang=en",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Катар"
+    },
+    {
+      "source_id": "ro-constitution-art12",
+      "title": "Constituția României, Articolul 12",
+      "publisher": "Romanian Ministry of Internal Affairs",
+      "source_type": "law",
+      "url": "https://www.prefectura.mai.gov.ro/wp-content/uploads/2018/02/21-Constitutia-Romaniei.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Румыния"
+    },
+    {
+      "source_id": "rw-national-flag-law",
+      "title": "Law determining characteristics of the national flag, Article 2",
+      "publisher": "Rwanda Law Reform Commission",
+      "source_type": "law",
+      "url": "https://www.rlrc.gov.rw/index.php?eID=dumpFile&f=74762&t=f&token=cb41274d1a4b2d1626672542e40024a521270e26",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Руанда"
+    },
+    {
+      "source_id": "ws-flag-act-1994",
+      "title": "Official Flag and National Anthem of Samoa Act 1994, Schedule",
+      "publisher": "Ministry of Justice and Courts Administration of Samoa",
+      "source_type": "law",
+      "url": "https://www.mjca.gov.ws/achasoso/2021/05/Official-Flag-and-National-Anthem-of-Samoa-Act-1994.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Самоа"
+    },
+    {
+      "source_id": "sm-declaration-art2bis",
+      "title": "Dichiarazione dei diritti dei cittadini, Articolo 2-bis",
+      "publisher": "Government of San Marino",
+      "source_type": "law",
+      "url": "https://www.gov.sm/pub1/GovSM/dam/jcr%3A4c83a7bd-1304-4d7f-b023-5320f04987c3/Principi%20fond%20ordinamento%20samm.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Сан-Марино"
+    },
+    {
+      "source_id": "ch-eda-swiss-flag",
+      "title": "Swiss flag",
+      "publisher": "Federal Department of Foreign Affairs of Switzerland",
+      "source_type": "government",
+      "url": "https://www.aboutswitzerland.eda.admin.ch/en/swiss-flag",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Швейцария"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "portugal",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "portugal-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "green_red_vertical|armillary_sphere|shield",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "pt-presidency-national-flag",
+          "primary_source_urls": "https://jorgesampaio.arquivo.presidencia.pt/pt/republica/simbolos/bandeira.html"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "qatar",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "qatar-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "white_hoist|maroon_field|nine_points",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "qa-emiri-diwan-flag",
+          "primary_source_urls": "https://www.diwan.gov.qa/about-qatar?sc_lang=en"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "romania",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "romania-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "blue_yellow_red_vertical",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "ro-constitution-art12",
+          "primary_source_urls": "https://www.prefectura.mai.gov.ro/wp-content/uploads/2018/02/21-Constitutia-Romaniei.pdf"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "rwanda",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "rwanda-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "blue_yellow_green_horizontal|gold_sun",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "rw-national-flag-law",
+          "primary_source_urls": "https://www.rlrc.gov.rw/index.php?eID=dumpFile&f=74762&t=f&token=cb41274d1a4b2d1626672542e40024a521270e26"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "samoa",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "samoa-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_field|blue_canton|five_white_stars",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "ws-flag-act-1994",
+          "primary_source_urls": "https://www.mjca.gov.ws/achasoso/2021/05/Official-Flag-and-National-Anthem-of-Samoa-Act-1994.pdf"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "san-marino",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "san-marino-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "white_skyblue_horizontal|coat_of_arms",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "sm-declaration-art2bis",
+          "primary_source_urls": "https://www.gov.sm/pub1/GovSM/dam/jcr%3A4c83a7bd-1304-4d7f-b023-5320f04987c3/Principi%20fond%20ordinamento%20samm.pdf"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "switzerland",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "switzerland-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "square_red_field|white_cross",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "ch-eda-swiss-flag",
+          "primary_source_urls": "https://www.aboutswitzerland.eda.admin.ch/en/swiss-flag"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}
