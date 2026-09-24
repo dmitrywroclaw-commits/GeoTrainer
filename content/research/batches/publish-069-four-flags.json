@@ -1,0 +1,248 @@
+{
+  "batch_id": "publish-069-four-flags",
+  "countries": [
+    {
+      "id": "lithuania",
+      "nameRu": "Литва",
+      "region": "Северная Европа",
+      "m49": "440",
+      "iso2": "LT",
+      "iso3": "LTU"
+    },
+    {
+      "id": "netherlands-kingdom-of-the",
+      "nameRu": "Нидерланды",
+      "region": "Западная Европа",
+      "m49": "528",
+      "iso2": "NL",
+      "iso3": "NLD"
+    }
+  ],
+  "sources": [
+    {
+      "id": "is-government-national-flag",
+      "title": "Fáni Íslands",
+      "publisher": "Government of Iceland",
+      "sourceType": "government",
+      "url": "https://www.stjornarradid.is/verkefni/stjornskipan-og-thjodartakn/thjodartakn/fani-islands/",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "lt-national-flag-law",
+      "title": "Law on the National Flag and Other Flags",
+      "publisher": "Seimas of Lithuania",
+      "sourceType": "law",
+      "url": "https://e-seimas.lrs.lt/rs/legalact/TAD/TAIS.356468/",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "nl-defence-flag-protocol",
+      "title": "Ceremonieel & protocol: De Nederlandse vlag",
+      "publisher": "Ministry of Defence of the Netherlands",
+      "sourceType": "government",
+      "url": "https://puc.overheid.nl/mp-bundels/doc/PUC_41859_10/",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "ru-kremlin-state-flag",
+      "title": "State Insignia: The Russian Federation State Flag",
+      "publisher": "President of Russia",
+      "sourceType": "government",
+      "url": "https://en.flag.kremlin.ru/",
+      "accessedAt": "2026-09-24"
+    }
+  ],
+  "media": [
+    {
+      "id": "flag-iceland-state",
+      "kind": "flag",
+      "localPath": "/media/flags/iceland.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Iceland_(state).svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Iceland_%28state%29.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Kjallakr",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Iceland_(state).svg",
+      "attributionText": "Kjallakr / Wikimedia Commons; общественное достояние, исходный SVG без изменений; ограничения для государственной символики.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-lithuania-state",
+      "kind": "flag",
+      "localPath": "/media/flags/lithuania.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Lithuania_(state).svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_Lithuania_%28state%29.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Jsx and others",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Lithuania_(state).svg",
+      "attributionText": "Jsx and others / Wikimedia Commons; общественное достояние, исходный SVG без изменений; ограничения для государственной символики.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-netherlands-kingdom-of-the-national",
+      "kind": "flag",
+      "localPath": "/media/flags/netherlands.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Netherlands.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Zscout370",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Netherlands.svg",
+      "attributionText": "Zscout370 / Wikimedia Commons; общественное достояние, исходный SVG без изменений; ограничения для государственной символики.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-russia-national",
+      "kind": "flag",
+      "localPath": "/media/flags/russia.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Russia.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Peter the Great; Wikimedia Commons vector",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Russia.svg",
+      "attributionText": "Peter the Great; Wikimedia Commons vector / Wikimedia Commons; общественное достояние, исходный SVG без изменений; отмечены дополнительные ограничения на символику Российской Федерации.",
+      "checkedAt": "2026-09-24"
+    }
+  ],
+  "entries": [
+    {
+      "id": "iceland-state-flag",
+      "kind": "flag",
+      "countryId": "iceland",
+      "nameRu": "Исландия",
+      "subtitleRu": "Государственный флаг",
+      "variantType": "state",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-iceland-state",
+      "summaryRu": "Синий флаг с красным скандинавским крестом в белой кайме и раздвоенным свободным краем.",
+      "explanationRu": "Правительство Исландии описывает государственный флаг как вариант общего национального флага с раздвоенным свободным краем. Красный крест внутри белого расположен на синем поле.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Крест",
+          "valueRu": "Красный в белой кайме"
+        },
+        {
+          "labelRu": "Свободный край",
+          "valueRu": "Раздвоенный"
+        }
+      ],
+      "sourceIds": [
+        "is-government-national-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "nordic_cross",
+          "split_tail"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "lithuania-state-flag",
+      "kind": "flag",
+      "countryId": "lithuania",
+      "nameRu": "Литва",
+      "subtitleRu": "Исторический государственный флаг",
+      "variantType": "state",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-lithuania-state",
+      "summaryRu": "Красное полотнище с белым вооружённым всадником на белом коне.",
+      "explanationRu": "Закон Литвы определяет исторический государственный флаг: на красном поле изображён белый вооружённый всадник на белом коне. Он держит меч, а на синем щите помещён золотой двойной крест.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Главная фигура",
+          "valueRu": "Белый всадник на белом коне"
+        },
+        {
+          "labelRu": "На щите",
+          "valueRu": "Золотой двойной крест"
+        }
+      ],
+      "sourceIds": [
+        "lt-national-flag-law"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horse",
+          "knight",
+          "coat_of_arms"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "netherlands-kingdom-of-the-national-flag",
+      "kind": "flag",
+      "countryId": "netherlands-kingdom-of-the",
+      "nameRu": "Нидерланды",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-netherlands-kingdom-of-the-national",
+      "summaryRu": "Три равные горизонтальные полосы: красная, белая и синяя.",
+      "explanationRu": "Протокол Министерства обороны Нидерландов описывает флаг Королевства как три горизонтальные полосы одинаковой высоты: ярко-красную сверху, белую посередине и кобальтово-синюю снизу.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Сверху вниз",
+          "valueRu": "Красный, белый, синий"
+        },
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Три равные горизонтальные"
+        }
+      ],
+      "sourceIds": [
+        "nl-defence-flag-protocol"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_tricolor",
+          "red_white_blue"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "russia-national-flag",
+      "kind": "flag",
+      "countryId": "russia",
+      "nameRu": "Россия",
+      "subtitleRu": "Государственный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-russia-national",
+      "summaryRu": "Три равные горизонтальные полосы: белая, синяя и красная.",
+      "explanationRu": "Официальный сайт государственных символов России описывает прямоугольный флаг из трёх равных горизонтальных полос: белой сверху, синей посередине и красной снизу.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Сверху вниз",
+          "valueRu": "Белый, синий, красный"
+        },
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Три равные горизонтальные"
+        }
+      ],
+      "sourceIds": [
+        "ru-kremlin-state-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_tricolor",
+          "white_blue_red"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    }
+  ]
+}

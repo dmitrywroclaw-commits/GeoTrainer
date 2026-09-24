@@ -2622,5 +2622,57 @@
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Norway,_state.svg",
     "attributionText": "Dbenbenn (assumed on Commons) / Wikimedia Commons; общественное достояние, исходный SVG без изменений; ограничения для государственной символики.",
     "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-iceland-state",
+    "kind": "flag",
+    "localPath": "/media/flags/iceland.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Iceland_(state).svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Iceland_%28state%29.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Kjallakr",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Iceland_(state).svg",
+    "attributionText": "Kjallakr / Wikimedia Commons; общественное достояние, исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-lithuania-state",
+    "kind": "flag",
+    "localPath": "/media/flags/lithuania.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Lithuania_(state).svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_Lithuania_%28state%29.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Jsx and others",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Lithuania_(state).svg",
+    "attributionText": "Jsx and others / Wikimedia Commons; общественное достояние, исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-netherlands-kingdom-of-the-national",
+    "kind": "flag",
+    "localPath": "/media/flags/netherlands.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Netherlands.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Zscout370",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Netherlands.svg",
+    "attributionText": "Zscout370 / Wikimedia Commons; общественное достояние, исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-russia-national",
+    "kind": "flag",
+    "localPath": "/media/flags/russia.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Russia.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Peter the Great; Wikimedia Commons vector",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Russia.svg",
+    "attributionText": "Peter the Great; Wikimedia Commons vector / Wikimedia Commons; общественное достояние, исходный SVG без изменений; отмечены дополнительные ограничения на символику Российской Федерации.",
+    "checkedAt": "2026-09-24"
   }
 ]

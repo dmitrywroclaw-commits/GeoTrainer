@@ -1,0 +1,121 @@
+{
+  "batch_id": "003al-m49-352-643-flags",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "is-government-national-flag",
+      "title": "Fáni Íslands",
+      "publisher": "Government of Iceland",
+      "source_type": "government",
+      "url": "https://www.stjornarradid.is/verkefni/stjornskipan-og-thjodartakn/thjodartakn/fani-islands/",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Исландия"
+    },
+    {
+      "source_id": "lt-national-flag-law",
+      "title": "Law on the National Flag and Other Flags",
+      "publisher": "Seimas of Lithuania",
+      "source_type": "law",
+      "url": "https://e-seimas.lrs.lt/rs/legalact/TAD/TAIS.356468/",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Литва"
+    },
+    {
+      "source_id": "nl-defence-flag-protocol",
+      "title": "Ceremonieel & protocol: De Nederlandse vlag",
+      "publisher": "Ministry of Defence of the Netherlands",
+      "source_type": "government",
+      "url": "https://puc.overheid.nl/mp-bundels/doc/PUC_41859_10/",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Нидерланды"
+    },
+    {
+      "source_id": "ru-kremlin-state-flag",
+      "title": "State Insignia: The Russian Federation State Flag",
+      "publisher": "President of Russia",
+      "source_type": "government",
+      "url": "https://en.flag.kremlin.ru/",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Россия"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "iceland",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "iceland-state-flag",
+          "variant_type": "state",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "blue_field|white_red_nordic_cross|split_tail",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "is-government-national-flag",
+          "primary_source_urls": "https://www.stjornarradid.is/verkefni/stjornskipan-og-thjodartakn/thjodartakn/fani-islands/"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "lithuania",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "lithuania-state-flag",
+          "variant_type": "state",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_field|silver_armoured_knight|white_horse|blue_shield_gold_cross",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "lt-national-flag-law",
+          "primary_source_urls": "https://e-seimas.lrs.lt/rs/legalact/TAD/TAIS.356468/"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "netherlands-kingdom-of-the",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "netherlands-kingdom-of-the-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_white_blue_horizontal",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "nl-defence-flag-protocol",
+          "primary_source_urls": "https://puc.overheid.nl/mp-bundels/doc/PUC_41859_10/"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "russia",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "russia-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "white_blue_red_horizontal",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "ru-kremlin-state-flag",
+          "primary_source_urls": "https://en.flag.kremlin.ru/"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}
