@@ -1,0 +1,156 @@
+{
+  "batch_id": "publish-083-two-flags",
+  "countries": [
+    {
+      "id": "andorra",
+      "nameRu": "Андорра",
+      "region": "Южная Европа",
+      "m49": "020",
+      "iso2": "AD",
+      "iso3": "AND"
+    },
+    {
+      "id": "palestine",
+      "nameRu": "Государство Палестина",
+      "region": "Западная Азия",
+      "m49": "275",
+      "iso2": "PS",
+      "iso3": "PSE"
+    }
+  ],
+  "sources": [
+    {
+      "id": "ad-graphic-standards-flag-1999",
+      "title": "Normes gràfiques per a la reproducció de l'escut i la bandera",
+      "publisher": "Govern d'Andorra",
+      "sourceType": "government",
+      "url": "https://www.govern.ad/documents/1898932/2637120/Normes_Grafiques.pdf/7c40952c-6214-d02d-2d61-cc8daaabccdf?t=1727259137135",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "ps-presidential-decree-29-2005-flag",
+      "title": "Presidential Decree No. 29 of 2005 on the dimensions of the Palestinian flag",
+      "publisher": "Official Gazette of Palestine",
+      "sourceType": "law",
+      "url": "https://mjr.ogb.gov.ps/Decrees/ViewText/25259/%D9%85%D8%B1%D8%B3%D9%88%D9%85-%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A-%D8%B1%D9%82%D9%85-29-%D9%84%D8%B3%D9%86%D8%A9-2005%D9%85-%D8%A8%D8%B4%D8%A3%D9%86-%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF-%D8%A3%D8%A8%D8%B9%D8%A7%D8%AF-%D8%A7%D9%84%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "ad-state-signs-law",
+      "title": "Llei sobre la utilització dels signes d’Estat, versió consolidada",
+      "publisher": "Govern d’Andorra",
+      "sourceType": "law",
+      "url": "https://www.govern.ad/documents/d/guest/llei_se_versio_consolidada_2022-pdf?download=true",
+      "accessedAt": "2026-09-22"
+    }
+  ],
+  "media": [
+    {
+      "id": "flag-andorra-national",
+      "kind": "flag",
+      "localPath": "/media/flags/andorra.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Andorra.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Original traditionally attributed to Napoleon III; SVG: HansenBCN",
+      "license": "Public domain",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Andorra.svg",
+      "attributionText": "Original traditionally attributed to Napoleon III; SVG: HansenBCN / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-palestine-national",
+      "kind": "flag",
+      "localPath": "/media/flags/palestine.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Palestine.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Orionist and previous Wikimedia Commons contributors",
+      "license": "Public domain",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Palestine.svg",
+      "attributionText": "Orionist and previous Wikimedia Commons contributors / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
+      "checkedAt": "2026-09-24"
+    }
+  ],
+  "entries": [
+    {
+      "id": "andorra-national-flag",
+      "kind": "flag",
+      "countryId": "andorra",
+      "nameRu": "Андорра",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-andorra-national",
+      "summaryRu": "Флаг Андорры — сине-жёлто-красный вертикальный триколор с гербом в центре.",
+      "explanationRu": "Государственные нормы графического воспроизведения Андорры показывают на жёлтой полосе герб. Традиционный вариант с гербом выбран как более подробный рисунок флага; трёхцветное изображение без герба допускается лишь для отдельных уменьшенных форматов.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы от древка",
+          "valueRu": "Синяя, жёлтая, красная"
+        },
+        {
+          "labelRu": "Центр",
+          "valueRu": "Герб Андорры"
+        },
+        {
+          "labelRu": "Вариант для изучения",
+          "valueRu": "Флаг с гербом"
+        }
+      ],
+      "sourceIds": [
+        "ad-graphic-standards-flag-1999",
+        "ad-state-signs-law"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "tricolor",
+          "vertical-stripes",
+          "coat-of-arms"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "palestine-national-flag",
+      "kind": "flag",
+      "countryId": "palestine",
+      "nameRu": "Государство Палестина",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-palestine-national",
+      "summaryRu": "Флаг Палестины состоит из чёрной, белой и зелёной полос с красным треугольником у древка.",
+      "explanationRu": "Президентский указ 2005 года задаёт три равные горизонтальные полосы: чёрную, белую и зелёную. Красный треугольник расположен у древка, а его вершина доходит до трети длины полотнища.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы сверху вниз",
+          "valueRu": "Чёрная, белая, зелёная"
+        },
+        {
+          "labelRu": "У древка",
+          "valueRu": "Красный треугольник"
+        },
+        {
+          "labelRu": "Положение вершины",
+          "valueRu": "Одна треть длины полотнища"
+        }
+      ],
+      "sourceIds": [
+        "ps-presidential-decree-29-2005-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "tricolor",
+          "horizontal-stripes",
+          "triangle"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    }
+  ]
+}

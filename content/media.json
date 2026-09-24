@@ -3207,5 +3207,31 @@
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Vanuatu_(official).svg",
     "attributionText": "Kalontas Mahlon / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
     "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-andorra-national",
+    "kind": "flag",
+    "localPath": "/media/flags/andorra.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Andorra.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Original traditionally attributed to Napoleon III; SVG: HansenBCN",
+    "license": "Public domain",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Andorra.svg",
+    "attributionText": "Original traditionally attributed to Napoleon III; SVG: HansenBCN / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-palestine-national",
+    "kind": "flag",
+    "localPath": "/media/flags/palestine.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Palestine.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Orionist and previous Wikimedia Commons contributors",
+    "license": "Public domain",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Palestine.svg",
+    "attributionText": "Orionist and previous Wikimedia Commons contributors / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
   }
 ]

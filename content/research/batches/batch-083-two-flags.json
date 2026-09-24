@@ -1,0 +1,53 @@
+{
+  "batch_id": "batch-083-two-flags",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "ad-graphic-standards-flag-1999",
+      "title": "Normes gràfiques per a la reproducció de l'escut i la bandera",
+      "publisher": "Govern d'Andorra",
+      "source_type": "government",
+      "url": "https://www.govern.ad/documents/1898932/2637120/Normes_Grafiques.pdf/7c40952c-6214-d02d-2d61-cc8daaabccdf?t=1727259137135",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Андорра"
+    },
+    {
+      "source_id": "ps-presidential-decree-29-2005-flag",
+      "title": "Presidential Decree No. 29 of 2005 on the dimensions of the Palestinian flag",
+      "publisher": "Official Gazette of Palestine",
+      "source_type": "law",
+      "url": "https://mjr.ogb.gov.ps/Decrees/ViewText/25259/%D9%85%D8%B1%D8%B3%D9%88%D9%85-%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A-%D8%B1%D9%82%D9%85-29-%D9%84%D8%B3%D9%86%D8%A9-2005%D9%85-%D8%A8%D8%B4%D8%A3%D9%86-%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF-%D8%A3%D8%A8%D8%B9%D8%A7%D8%AF-%D8%A7%D9%84%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Государство Палестина"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "andorra",
+      "audit_status": "complete",
+      "notes": "Проверка национального флага и герба завершена; флаг опубликован после проверки SVG и прав.",
+      "flags": [],
+      "emblems": []
+    },
+    {
+      "country_id": "palestine",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "palestine-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "три равные горизонтальные полосы: чёрная, белая, зелёная | красный треугольник от древка",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "ps-presidential-decree-29-2005-flag",
+          "primary_source_urls": "https://mjr.ogb.gov.ps/Decrees/ViewText/25259/%D9%85%D8%B1%D8%B3%D9%88%D9%85-%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A-%D8%B1%D9%82%D9%85-29-%D9%84%D8%B3%D9%86%D8%A9-2005%D9%85-%D8%A8%D8%B4%D8%A3%D9%86-%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF-%D8%A3%D8%A8%D8%B9%D8%A7%D8%AF-%D8%A7%D9%84%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}
