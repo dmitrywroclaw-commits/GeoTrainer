@@ -743,6 +743,46 @@
       "m49": "566",
       "iso2": "NG",
       "iso3": "NGA"
+    },
+    {
+      "id": "nepal",
+      "nameRu": "Непал",
+      "region": "Южная Азия",
+      "m49": "524",
+      "iso2": "NP",
+      "iso3": "NPL"
+    },
+    {
+      "id": "new-zealand",
+      "nameRu": "Новая Зеландия",
+      "region": "Австралия и Новая Зеландия",
+      "m49": "554",
+      "iso2": "NZ",
+      "iso3": "NZL"
+    },
+    {
+      "id": "niger",
+      "nameRu": "Нигер",
+      "region": "Западная Африка",
+      "m49": "562",
+      "iso2": "NE",
+      "iso3": "NER"
+    },
+    {
+      "id": "pakistan",
+      "nameRu": "Пакистан",
+      "region": "Южная Азия",
+      "m49": "586",
+      "iso2": "PK",
+      "iso3": "PAK"
+    },
+    {
+      "id": "papua-new-guinea",
+      "nameRu": "Папуа-Новая Гвинея",
+      "region": "Меланезия",
+      "m49": "598",
+      "iso2": "PG",
+      "iso3": "PNG"
     }
   ],
   "sources": [
@@ -2008,6 +2048,54 @@
       "publisher": "Nigerian Tourism Development Authority",
       "sourceType": "government",
       "url": "https://ntda.gov.ng/media.assets.php",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "na-constitution-national-flag",
+      "title": "Constitution of Namibia: National Flag",
+      "publisher": "Government of Namibia",
+      "sourceType": "law",
+      "url": "https://mawf.gov.na/documents/268157/1044711/Namibia_Constitution%2Blatest%2Bed.pdf/b75f3931-0738-60ff-754a-0cf5f31ff248?download=true&t=1657611312283",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "np-constitution-national-flag",
+      "title": "Constitution of Nepal, Article 8 and Schedule 1",
+      "publisher": "Nepal Law Commission",
+      "sourceType": "law",
+      "url": "https://repository.lawcommission.gov.np/np/category/documents/prevailing-law/%E0%A4%B8%E0%A4%82%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BE%E0%A4%A8/constitution-of-nepal/",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "nz-ministry-flag",
+      "title": "New Zealand flag",
+      "publisher": "Ministry for Culture and Heritage of New Zealand",
+      "sourceType": "government",
+      "url": "https://www.mch.govt.nz/our-work/flags-anthems-and-emblems/new-zealand-flag",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "ne-government-niger-flag",
+      "title": "Le Niger: drapeau national",
+      "publisher": "Government of Niger",
+      "sourceType": "government",
+      "url": "https://www.gouv.ne/index.php/98-le-niger",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "pk-cabinet-flag-rules",
+      "title": "Instructions on the Design and Use of the Pakistan Flag",
+      "publisher": "Cabinet Division, Government of Pakistan",
+      "sourceType": "law",
+      "url": "https://cabinet.gov.pk/SiteImage/Policy/Flag%20Rules.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "pg-education-national-flag",
+      "title": "Grade 7 Social Science: Our National Flag",
+      "publisher": "Department of Education of Papua New Guinea",
+      "sourceType": "government",
+      "url": "https://www.fode.education.gov.pg/courses/Social%20Science/Grade%207/GRADE.7.SocialScience.S3.pdf",
       "accessedAt": "2026-09-24"
     }
   ],
@@ -8338,6 +8426,210 @@
         "similarityTags": [
           "green_white_green",
           "vertical_tricolor"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "namibia-national-flag",
+      "kind": "flag",
+      "countryId": "namibia",
+      "nameRu": "Намибия",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-namibia-national",
+      "summaryRu": "Синий и зелёный треугольники разделены красной диагональной полосой с белыми краями; в синем поле — золотое солнце.",
+      "explanationRu": "Конституция Намибии описывает синее поле в левом верхнем углу, зелёное — в правом нижнем, а между ними красную полосу с белыми краями. На синем поле помещено золотое солнце с двенадцатью лучами.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Слева сверху",
+          "valueRu": "Синее поле с золотым солнцем"
+        },
+        {
+          "labelRu": "По диагонали",
+          "valueRu": "Красная диагональная полоса с белыми краями"
+        }
+      ],
+      "sourceIds": [
+        "na-constitution-national-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "diagonal_red",
+          "gold_sun"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "nepal-national-flag",
+      "kind": "flag",
+      "countryId": "nepal",
+      "nameRu": "Непал",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-nepal-national",
+      "summaryRu": "Флаг Непала состоит из двух соединённых треугольных вымпелов с синей каймой; внутри изображены белые луна и солнце.",
+      "explanationRu": "Статья 8 Конституции Непала описывает два соединённых треугольника малинового цвета с тёмно-синей каймой. В верхней части находится луна, в нижней — солнце.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Форма",
+          "valueRu": "Два соединённых треугольника"
+        },
+        {
+          "labelRu": "Знаки",
+          "valueRu": "Луна сверху, солнце снизу"
+        }
+      ],
+      "sourceIds": [
+        "np-constitution-national-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "nonrectangular",
+          "moon_sun"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "new-zealand-national-flag",
+      "kind": "flag",
+      "countryId": "new-zealand",
+      "nameRu": "Новая Зеландия",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-new-zealand-national",
+      "summaryRu": "Синий флаг Новой Зеландии: в крыже Юнион Джек, справа — четыре красные звезды с белой каймой.",
+      "explanationRu": "Министерство культуры Новой Зеландии указывает: на синем поле у древка размещён Юнион Джек, а в свободной части — четыре красные пятиконечные звезды с белой каймой. Они образуют Южный Крест.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "У древка",
+          "valueRu": "Юнион Джек"
+        },
+        {
+          "labelRu": "Справа",
+          "valueRu": "Четыре красные звезды Южного Креста"
+        }
+      ],
+      "sourceIds": [
+        "nz-ministry-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "blue_ensign",
+          "southern_cross"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "niger-national-flag",
+      "kind": "flag",
+      "countryId": "niger",
+      "nameRu": "Нигер",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-niger-national",
+      "summaryRu": "Флаг Нигера — три горизонтальные полосы: оранжевая, белая и зелёная; в центре белой находится оранжевый круг.",
+      "explanationRu": "Правительственный портал Нигера описывает оранжевую, белую и зелёную полосы. Оранжевый круг в середине представляет солнце.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Порядок",
+          "valueRu": "Оранжевая, белая, зелёная"
+        },
+        {
+          "labelRu": "В белой полосе",
+          "valueRu": "Оранжевый круг"
+        }
+      ],
+      "sourceIds": [
+        "ne-government-niger-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "orange_white_green",
+          "orange_disc"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "pakistan-national-flag",
+      "kind": "flag",
+      "countryId": "pakistan",
+      "nameRu": "Пакистан",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-pakistan-national",
+      "summaryRu": "Флаг Пакистана: белая вертикальная полоса у древка, зелёное поле с белыми полумесяцем и пятиконечной звездой.",
+      "explanationRu": "Правила правительства Пакистана описывают белую полосу шириной четверть флага у древка. На остальной тёмно-зелёной части находятся белый полумесяц и пятиконечная звезда.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "У древка",
+          "valueRu": "Белая полоса"
+        },
+        {
+          "labelRu": "В зелёном поле",
+          "valueRu": "Белые полумесяц и звезда"
+        }
+      ],
+      "sourceIds": [
+        "pk-cabinet-flag-rules"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "green_field",
+          "crescent_star"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "papua-new-guinea-national-flag",
+      "kind": "flag",
+      "countryId": "papua-new-guinea",
+      "nameRu": "Папуа-Новая Гвинея",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-papua-new-guinea-national",
+      "summaryRu": "Флаг Папуа — Новой Гвинеи разделён по диагонали: на красном поле — райская птица, на чёрном — пять звёзд Южного Креста.",
+      "explanationRu": "Учебный материал Министерства образования Папуа — Новой Гвинеи описывает золотую райскую птицу в верхней красной части и пять белых звёзд Южного Креста в нижней чёрной части.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "В красном поле",
+          "valueRu": "Золотая райская птица"
+        },
+        {
+          "labelRu": "В чёрном поле",
+          "valueRu": "Пять звёзд Южного Креста"
+        }
+      ],
+      "sourceIds": [
+        "pg-education-national-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "diagonal_red_black",
+          "southern_cross"
         ]
       },
       "status": "published",

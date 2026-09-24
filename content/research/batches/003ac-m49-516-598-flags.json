@@ -1,0 +1,177 @@
+{
+  "batch_id": "003ac-m49-516-598-flags",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "na-constitution-national-flag",
+      "title": "Constitution of Namibia: National Flag",
+      "publisher": "Government of Namibia",
+      "source_type": "law",
+      "url": "https://mawf.gov.na/documents/268157/1044711/Namibia_Constitution%2Blatest%2Bed.pdf/b75f3931-0738-60ff-754a-0cf5f31ff248?download=true&t=1657611312283",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Намибия"
+    },
+    {
+      "source_id": "np-constitution-national-flag",
+      "title": "Constitution of Nepal, Article 8 and Schedule 1",
+      "publisher": "Nepal Law Commission",
+      "source_type": "law",
+      "url": "https://repository.lawcommission.gov.np/np/category/documents/prevailing-law/%E0%A4%B8%E0%A4%82%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BE%E0%A4%A8/constitution-of-nepal/",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Непал"
+    },
+    {
+      "source_id": "nz-ministry-flag",
+      "title": "New Zealand flag",
+      "publisher": "Ministry for Culture and Heritage of New Zealand",
+      "source_type": "government",
+      "url": "https://www.mch.govt.nz/our-work/flags-anthems-and-emblems/new-zealand-flag",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Новая Зеландия"
+    },
+    {
+      "source_id": "ne-government-niger-flag",
+      "title": "Le Niger: drapeau national",
+      "publisher": "Government of Niger",
+      "source_type": "government",
+      "url": "https://www.gouv.ne/index.php/98-le-niger",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Нигер"
+    },
+    {
+      "source_id": "pk-cabinet-flag-rules",
+      "title": "Instructions on the Design and Use of the Pakistan Flag",
+      "publisher": "Cabinet Division, Government of Pakistan",
+      "source_type": "law",
+      "url": "https://cabinet.gov.pk/SiteImage/Policy/Flag%20Rules.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Пакистан"
+    },
+    {
+      "source_id": "pg-education-national-flag",
+      "title": "Grade 7 Social Science: Our National Flag",
+      "publisher": "Department of Education of Papua New Guinea",
+      "source_type": "government",
+      "url": "https://www.fode.education.gov.pg/courses/Social%20Science/Grade%207/GRADE.7.SocialScience.S3.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Папуа-Новая Гвинея"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "namibia",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "namibia-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "diagonal_blue_red_green|gold_sun_12_rays",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "na-constitution-national-flag",
+          "primary_source_urls": "https://mawf.gov.na/documents/268157/1044711/Namibia_Constitution%2Blatest%2Bed.pdf/b75f3931-0738-60ff-754a-0cf5f31ff248?download=true&t=1657611312283"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "nepal",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "nepal-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "double_pennant|moon_sun|blue_border",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "np-constitution-national-flag",
+          "primary_source_urls": "https://repository.lawcommission.gov.np/np/category/documents/prevailing-law/%E0%A4%B8%E0%A4%82%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BE%E0%A4%A8/constitution-of-nepal/"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "new-zealand",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "new-zealand-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "blue_field|union_jack|four_red_stars",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "nz-ministry-flag",
+          "primary_source_urls": "https://www.mch.govt.nz/our-work/flags-anthems-and-emblems/new-zealand-flag"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "niger",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "niger-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "orange_white_green|orange_disc",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "ne-government-niger-flag",
+          "primary_source_urls": "https://www.gouv.ne/index.php/98-le-niger"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "pakistan",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "pakistan-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "white_hoist|green_field|crescent_star",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "pk-cabinet-flag-rules",
+          "primary_source_urls": "https://cabinet.gov.pk/SiteImage/Policy/Flag%20Rules.pdf"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "papua-new-guinea",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "papua-new-guinea-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_black_diagonal|bird_of_paradise|southern_cross",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "pg-education-national-flag",
+          "primary_source_urls": "https://www.fode.education.gov.pg/courses/Social%20Science/Grade%207/GRADE.7.SocialScience.S3.pdf"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}

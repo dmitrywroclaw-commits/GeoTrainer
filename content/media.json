@@ -1946,5 +1946,83 @@
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Nigeria.svg",
     "attributionText": "Jon Harald Søby / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
     "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-namibia-national",
+    "kind": "flag",
+    "localPath": "/media/flags/namibia.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Namibia.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Vzb83~commonswiki and others",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Namibia.svg",
+    "attributionText": "Vzb83~commonswiki and others / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-nepal-national",
+    "kind": "flag",
+    "localPath": "/media/flags/nepal.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Nepal.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Pumbaa80 and Achim1999",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Nepal.svg",
+    "attributionText": "Pumbaa80 and Achim1999 / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-new-zealand-national",
+    "kind": "flag",
+    "localPath": "/media/flags/new-zealand.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_New_Zealand.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Albert Hastings Markham; vector: Zscout370 and Hugh Jass",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_New_Zealand.svg",
+    "attributionText": "Albert Hastings Markham; vector: Zscout370 and Hugh Jass / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-niger-national",
+    "kind": "flag",
+    "localPath": "/media/flags/niger.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Niger.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Philippe Verdy",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Niger.svg",
+    "attributionText": "Philippe Verdy / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-pakistan-national",
+    "kind": "flag",
+    "localPath": "/media/flags/pakistan.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Pakistan.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Zscout370",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Pakistan.svg",
+    "attributionText": "Zscout370 / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-papua-new-guinea-national",
+    "kind": "flag",
+    "localPath": "/media/flags/papua-new-guinea.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Papua_New_Guinea.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Papua_New_Guinea.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Nightstallion",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Papua_New_Guinea.svg",
+    "attributionText": "Nightstallion / Wikimedia Commons; общественное достояние, исходный SVG без изменений.",
+    "checkedAt": "2026-09-24"
   }
 ]
