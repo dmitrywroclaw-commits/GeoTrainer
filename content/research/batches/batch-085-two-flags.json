@@ -1,0 +1,65 @@
+{
+  "batch_id": "batch-085-two-flags",
+  "checked_at": "2026-09-25",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "ly-constitutional-declaration-2011-flag",
+      "title": "Constitutional Declaration of Libya, Article 3",
+      "publisher": "Libyan National Transitional Council (UN Peacemaker copy)",
+      "source_type": "law",
+      "url": "https://peacemaker.un.org/sites/default/files/document/files/2022/07/lyconstitutionaldeclarationenglish2011.pdf",
+      "accessed_at": "2026-09-25",
+      "supports": "Официальное описание флага: Ливия"
+    },
+    {
+      "source_id": "sy-sana-national-flag-2025",
+      "title": "Nueva bandera de Siria, testigo de la historia y la esperanza del futuro",
+      "publisher": "Syrian Arab News Agency (SANA)",
+      "source_type": "government",
+      "url": "https://sana.sy/es/culture/350973/",
+      "accessed_at": "2026-09-25",
+      "supports": "Официальное описание флага: Сирийская Арабская Республика"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "libya",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "libya-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "красная, чёрная и зелёная горизонтальные полосы | средняя чёрная полоса вдвое шире каждой внешней | белые полумесяц и пятиконечная звезда в центре",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "ly-constitutional-declaration-2011-flag",
+          "primary_source_urls": "https://peacemaker.un.org/sites/default/files/document/files/2022/07/lyconstitutionaldeclarationenglish2011.pdf"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "syria",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "syria-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "три равные горизонтальные полосы: зелёная, белая, чёрная | три красные звезды в центре белой полосы",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "sy-sana-national-flag-2025",
+          "primary_source_urls": "https://sana.sy/es/culture/350973/"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}

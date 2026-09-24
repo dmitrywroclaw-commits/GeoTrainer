@@ -3259,5 +3259,31 @@
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Paraguay.svg",
     "attributionText": "Republic of Paraguay; Wikimedia Commons vector contributors / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
     "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-libya-national",
+    "kind": "flag",
+    "localPath": "/media/flags/libya.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Libya.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Libya.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Various Wikimedia Commons contributors",
+    "license": "Public domain",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Libya.svg",
+    "attributionText": "Various Wikimedia Commons contributors / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-25"
+  },
+  {
+    "id": "flag-syria-national",
+    "kind": "flag",
+    "localPath": "/media/flags/syria.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Syria_(2025-).svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Flag_of_Syria_%282025-%29.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "AnonMoos, based on a public-domain historical flag",
+    "license": "Public domain",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Syria_(2025-).svg",
+    "attributionText": "AnonMoos, based on a public-domain historical flag / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-25"
   }
 ]

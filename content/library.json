@@ -1455,6 +1455,22 @@
       "m49": "600",
       "iso2": "PY",
       "iso3": "PRY"
+    },
+    {
+      "id": "libya",
+      "nameRu": "Ливия",
+      "region": "Северная Африка",
+      "m49": "434",
+      "iso2": "LY",
+      "iso3": "LBY"
+    },
+    {
+      "id": "syria",
+      "nameRu": "Сирийская Арабская Республика",
+      "region": "Западная Азия",
+      "m49": "760",
+      "iso2": "SY",
+      "iso3": "SYR"
     }
   ],
   "sources": [
@@ -3545,6 +3561,22 @@
       "sourceType": "law",
       "url": "https://informacionpublica.paraguay.gov.py/public/5475046-59749pdf-59749.pdf",
       "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "ly-constitutional-declaration-2011-flag",
+      "title": "Constitutional Declaration of Libya, Article 3",
+      "publisher": "Libyan National Transitional Council (UN Peacemaker copy)",
+      "sourceType": "law",
+      "url": "https://peacemaker.un.org/sites/default/files/document/files/2022/07/lyconstitutionaldeclarationenglish2011.pdf",
+      "accessedAt": "2026-09-25"
+    },
+    {
+      "id": "sy-sana-national-flag-2025",
+      "title": "Nueva bandera de Siria, testigo de la historia y la esperanza del futuro",
+      "publisher": "Syrian Arab News Agency (SANA)",
+      "sourceType": "government",
+      "url": "https://sana.sy/es/culture/350973/",
+      "accessedAt": "2026-09-25"
     }
   ],
   "entries": [
@@ -13400,6 +13432,84 @@
       },
       "status": "published",
       "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "libya-national-flag",
+      "kind": "flag",
+      "countryId": "libya",
+      "nameRu": "Ливия",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-libya-national",
+      "summaryRu": "Флаг Ливии имеет красную, широкую чёрную и зелёную полосы; в центре — белые полумесяц и звезда.",
+      "explanationRu": "Статья 3 Конституционной декларации Ливии описывает красную, чёрную и зелёную полосы. Чёрная полоса равна по площади двум внешним вместе и несёт белый полумесяц с пятиконечной звездой.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы сверху вниз",
+          "valueRu": "Красная, чёрная, зелёная"
+        },
+        {
+          "labelRu": "Ширина средней полосы",
+          "valueRu": "Равна ширине двух внешних вместе"
+        },
+        {
+          "labelRu": "Центр",
+          "valueRu": "Белые полумесяц и пятиконечная звезда"
+        }
+      ],
+      "sourceIds": [
+        "ly-constitutional-declaration-2011-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal-stripes",
+          "crescent",
+          "star"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "syria-national-flag",
+      "kind": "flag",
+      "countryId": "syria",
+      "nameRu": "Сирийская Арабская Республика",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-syria-national",
+      "summaryRu": "Действующий флаг Сирии — зелёно-бело-чёрный триколор с тремя красными звёздами.",
+      "explanationRu": "После перемены государственной власти в 2024 году Сирия вернулась к зелёно-бело-чёрному флагу с тремя красными звёздами. Государственное агентство SANA подтверждает его использование на официальных зданиях и в посольствах.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы сверху вниз",
+          "valueRu": "Зелёная, белая, чёрная"
+        },
+        {
+          "labelRu": "На белой полосе",
+          "valueRu": "Три красные звезды"
+        },
+        {
+          "labelRu": "Текущий вариант",
+          "valueRu": "Используется государственными учреждениями и посольствами"
+        }
+      ],
+      "sourceIds": [
+        "sy-sana-national-flag-2025"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "tricolor",
+          "horizontal-stripes",
+          "three-stars"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
     }
   ]
 }
