@@ -2921,5 +2921,31 @@
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Tuvalu.svg",
     "attributionText": "Unknown author; see Wikimedia Commons file history / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
     "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-naoero-national",
+    "kind": "flag",
+    "localPath": "/media/flags/naoero.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Nauru.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Nauru.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Wikimedia Commons user Skimel",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Nauru.svg",
+    "attributionText": "Wikimedia Commons user Skimel / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-philippines-national",
+    "kind": "flag",
+    "localPath": "/media/flags/philippines.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Philippines.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "See Wikimedia Commons file history",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Philippines.svg",
+    "attributionText": "See Wikimedia Commons file history / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
   }
 ]

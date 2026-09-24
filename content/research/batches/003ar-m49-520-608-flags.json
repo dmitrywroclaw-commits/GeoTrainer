@@ -1,0 +1,65 @@
+{
+  "batch_id": "003ar-m49-520-608-flags",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "nr-government-naoero-flag",
+      "title": "Naoero Flag",
+      "publisher": "Government of the Republic of Nauru",
+      "source_type": "government",
+      "url": "https://www.nauru.gov.nr/about-naoero/dei-naoero%27s-stories/the-naoero-flag.aspx",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Науру"
+    },
+    {
+      "source_id": "ph-national-flag-code-8491",
+      "title": "Republic Act No. 8491: Flag and Heraldic Code of the Philippines",
+      "publisher": "Supreme Court E-Library, Republic of the Philippines",
+      "source_type": "law",
+      "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/4626",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Филиппины"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "naoero",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "naoero-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "тёмно-синее поле; жёлтая горизонтальная полоса; белая двенадцатиконечная звезда",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "nr-government-naoero-flag",
+          "primary_source_urls": "https://www.nauru.gov.nr/about-naoero/dei-naoero%27s-stories/the-naoero-flag.aspx"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "philippines",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "philippines-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "синяя и красная полосы; белый треугольник; золотое солнце; три звезды",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "ph-national-flag-code-8491",
+          "primary_source_urls": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/4626"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}

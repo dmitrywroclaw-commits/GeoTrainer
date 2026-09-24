@@ -1,0 +1,140 @@
+{
+  "batch_id": "publish-075-two-flags",
+  "countries": [
+    {
+      "id": "naoero",
+      "nameRu": "Науру",
+      "region": "Микронезия",
+      "m49": "520",
+      "iso2": "NR",
+      "iso3": "NRU"
+    },
+    {
+      "id": "philippines",
+      "nameRu": "Филиппины",
+      "region": "Юго-Восточная Азия",
+      "m49": "608",
+      "iso2": "PH",
+      "iso3": "PHL"
+    }
+  ],
+  "sources": [
+    {
+      "id": "nr-government-naoero-flag",
+      "title": "Naoero Flag",
+      "publisher": "Government of the Republic of Nauru",
+      "sourceType": "government",
+      "url": "https://www.nauru.gov.nr/about-naoero/dei-naoero%27s-stories/the-naoero-flag.aspx",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "ph-national-flag-code-8491",
+      "title": "Republic Act No. 8491: Flag and Heraldic Code of the Philippines",
+      "publisher": "Supreme Court E-Library, Republic of the Philippines",
+      "sourceType": "law",
+      "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/4626",
+      "accessedAt": "2026-09-24"
+    }
+  ],
+  "media": [
+    {
+      "id": "flag-naoero-national",
+      "kind": "flag",
+      "localPath": "/media/flags/naoero.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Nauru.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Nauru.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Wikimedia Commons user Skimel",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Nauru.svg",
+      "attributionText": "Wikimedia Commons user Skimel / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-philippines-national",
+      "kind": "flag",
+      "localPath": "/media/flags/philippines.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Philippines.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "See Wikimedia Commons file history",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Philippines.svg",
+      "attributionText": "See Wikimedia Commons file history / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+      "checkedAt": "2026-09-24"
+    }
+  ],
+  "entries": [
+    {
+      "id": "naoero-national-flag",
+      "kind": "flag",
+      "countryId": "naoero",
+      "nameRu": "Науру",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-naoero-national",
+      "summaryRu": "Тёмно-синее полотнище с жёлтой горизонтальной полосой и белой двенадцатиконечной звездой ниже неё у древка.",
+      "explanationRu": "Правительство Науру описывает флаг как тёмно-синее полотнище с жёлтой линией посередине и белой двенадцатиконечной звездой. Жёлтая линия обозначает экватор, а двенадцать лучей звезды — двенадцать племён Науру.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полоса",
+          "valueRu": "Жёлтая линия посередине"
+        },
+        {
+          "labelRu": "Звезда",
+          "valueRu": "Белая, с двенадцатью лучами"
+        }
+      ],
+      "sourceIds": [
+        "nr-government-naoero-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "blue_field",
+          "yellow_stripe",
+          "white_star"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "philippines-national-flag",
+      "kind": "flag",
+      "countryId": "philippines",
+      "nameRu": "Филиппины",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-philippines-national",
+      "summaryRu": "Синяя и красная горизонтальные полосы; у древка — белый треугольник с золотым солнцем и тремя звёздами.",
+      "explanationRu": "Закон Филиппин о национальном флаге устанавливает синий, белый и красный цвета, золотое солнце с восемью лучами и три пятиконечные звезды. Белый треугольник с солнцем и звёздами находится у древка.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "В белом треугольнике",
+          "valueRu": "Солнце с восемью лучами"
+        },
+        {
+          "labelRu": "Звёзды",
+          "valueRu": "Три золотые пятиконечные звезды"
+        }
+      ],
+      "sourceIds": [
+        "ph-national-flag-code-8491"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_bicolor",
+          "white_triangle",
+          "sun",
+          "three_stars"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    }
+  ]
+}

@@ -1247,6 +1247,22 @@
       "m49": "798",
       "iso2": "TV",
       "iso3": "TUV"
+    },
+    {
+      "id": "naoero",
+      "nameRu": "Науру",
+      "region": "Микронезия",
+      "m49": "520",
+      "iso2": "NR",
+      "iso3": "NRU"
+    },
+    {
+      "id": "philippines",
+      "nameRu": "Филиппины",
+      "region": "Юго-Восточная Азия",
+      "m49": "608",
+      "iso2": "PH",
+      "iso3": "PHL"
     }
   ],
   "sources": [
@@ -3112,6 +3128,22 @@
       "publisher": "Tuvalu Legislation",
       "sourceType": "law",
       "url": "https://tuvalu-legislation.tv/cms/images/LEGISLATION/PRINCIPAL/1995/1995-0004/1995-0004_1.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "nr-government-naoero-flag",
+      "title": "Naoero Flag",
+      "publisher": "Government of the Republic of Nauru",
+      "sourceType": "government",
+      "url": "https://www.nauru.gov.nr/about-naoero/dei-naoero%27s-stories/the-naoero-flag.aspx",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "ph-national-flag-code-8491",
+      "title": "Republic Act No. 8491: Flag and Heraldic Code of the Philippines",
+      "publisher": "Supreme Court E-Library, Republic of the Philippines",
+      "sourceType": "law",
+      "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/4626",
       "accessedAt": "2026-09-24"
     }
   ],
@@ -12007,6 +12039,77 @@
           "blue_field",
           "union_jack",
           "stars"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "naoero-national-flag",
+      "kind": "flag",
+      "countryId": "naoero",
+      "nameRu": "Науру",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-naoero-national",
+      "summaryRu": "Тёмно-синее полотнище с жёлтой горизонтальной полосой и белой двенадцатиконечной звездой ниже неё у древка.",
+      "explanationRu": "Правительство Науру описывает флаг как тёмно-синее полотнище с жёлтой линией посередине и белой двенадцатиконечной звездой. Жёлтая линия обозначает экватор, а двенадцать лучей звезды — двенадцать племён Науру.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полоса",
+          "valueRu": "Жёлтая линия посередине"
+        },
+        {
+          "labelRu": "Звезда",
+          "valueRu": "Белая, с двенадцатью лучами"
+        }
+      ],
+      "sourceIds": [
+        "nr-government-naoero-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "blue_field",
+          "yellow_stripe",
+          "white_star"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "philippines-national-flag",
+      "kind": "flag",
+      "countryId": "philippines",
+      "nameRu": "Филиппины",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-philippines-national",
+      "summaryRu": "Синяя и красная горизонтальные полосы; у древка — белый треугольник с золотым солнцем и тремя звёздами.",
+      "explanationRu": "Закон Филиппин о национальном флаге устанавливает синий, белый и красный цвета, золотое солнце с восемью лучами и три пятиконечные звезды. Белый треугольник с солнцем и звёздами находится у древка.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "В белом треугольнике",
+          "valueRu": "Солнце с восемью лучами"
+        },
+        {
+          "labelRu": "Звёзды",
+          "valueRu": "Три золотые пятиконечные звезды"
+        }
+      ],
+      "sourceIds": [
+        "ph-national-flag-code-8491"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_bicolor",
+          "white_triangle",
+          "sun",
+          "three_stars"
         ]
       },
       "status": "published",
