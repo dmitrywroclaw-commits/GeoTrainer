@@ -1,0 +1,93 @@
+{
+  "batch_id": "003aj-m49-208-348-flags",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "dk-flag-act-2024",
+      "title": "Lov om flagning, § 1",
+      "publisher": "Danish Legal Information",
+      "source_type": "law",
+      "url": "https://www.retsinformation.dk/api/pdf/246718",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Дания"
+    },
+    {
+      "source_id": "de-flag-order-1996",
+      "title": "Anordnung über die deutschen Flaggen",
+      "publisher": "Federal Ministry of Justice of Germany",
+      "source_type": "law",
+      "url": "https://www.gesetze-im-internet.de/flaggano_1996/BJNR172900996.html",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Германия"
+    },
+    {
+      "source_id": "hu-fundamental-law-article-i",
+      "title": "Magyarország Alaptörvénye, I. cikk",
+      "publisher": "National Legislation Repository of Hungary",
+      "source_type": "law",
+      "url": "https://njt.jog.gov.hu/jogszabaly/2011-4301-02-00.5",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Венгрия"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "denmark",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "denmark-state-flag",
+          "variant_type": "state",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_field|white_nordic_cross|split_tail",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "dk-flag-act-2024",
+          "primary_source_urls": "https://www.retsinformation.dk/api/pdf/246718"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "germany",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "germany-state-flag",
+          "variant_type": "state",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "black_red_gold_horizontal|federal_shield_eagle",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "de-flag-order-1996",
+          "primary_source_urls": "https://www.gesetze-im-internet.de/flaggano_1996/BJNR172900996.html"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "hungary",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "hungary-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_white_green_horizontal",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "hu-fundamental-law-article-i",
+          "primary_source_urls": "https://njt.jog.gov.hu/jogszabaly/2011-4301-02-00.5"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}

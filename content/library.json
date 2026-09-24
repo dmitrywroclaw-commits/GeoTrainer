@@ -1031,6 +1031,30 @@
       "m49": "704",
       "iso2": "VN",
       "iso3": "VNM"
+    },
+    {
+      "id": "denmark",
+      "nameRu": "Дания",
+      "region": "Северная Европа",
+      "m49": "208",
+      "iso2": "DK",
+      "iso3": "DNK"
+    },
+    {
+      "id": "germany",
+      "nameRu": "Германия",
+      "region": "Западная Европа",
+      "m49": "276",
+      "iso2": "DE",
+      "iso3": "DEU"
+    },
+    {
+      "id": "hungary",
+      "nameRu": "Венгрия",
+      "region": "Восточная Европа",
+      "m49": "348",
+      "iso2": "HU",
+      "iso3": "HUN"
     }
   ],
   "sources": [
@@ -2656,6 +2680,30 @@
       "publisher": "Office of the Solicitor General of Tanzania",
       "sourceType": "law",
       "url": "https://elibrary.osg.go.tz/items/778cd5d7-0edb-4aae-8c88-c67f2bd70748",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "dk-flag-act-2024",
+      "title": "Lov om flagning, § 1",
+      "publisher": "Danish Legal Information",
+      "sourceType": "law",
+      "url": "https://www.retsinformation.dk/api/pdf/246718",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "de-flag-order-1996",
+      "title": "Anordnung über die deutschen Flaggen",
+      "publisher": "Federal Ministry of Justice of Germany",
+      "sourceType": "law",
+      "url": "https://www.gesetze-im-internet.de/flaggano_1996/BJNR172900996.html",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "hu-fundamental-law-article-i",
+      "title": "Magyarország Alaptörvénye, I. cikk",
+      "publisher": "National Legislation Repository of Hungary",
+      "sourceType": "law",
+      "url": "https://njt.jog.gov.hu/jogszabaly/2011-4301-02-00.5",
       "accessedAt": "2026-09-24"
     }
   ],
@@ -10518,6 +10566,109 @@
         "similarityTags": [
           "diagonal_band",
           "green_blue"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "denmark-state-flag",
+      "kind": "flag",
+      "countryId": "denmark",
+      "nameRu": "Дания",
+      "subtitleRu": "Государственный флаг",
+      "variantType": "state",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-denmark-state",
+      "summaryRu": "Красный флаг с белым скандинавским крестом и раздвоенным свободным краем.",
+      "explanationRu": "Датский закон о флаге называет Даннеброг национальным флагом и отдельно устанавливает использование раздвоенного государственного варианта королевским домом и государственными учреждениями. На красном полотнище расположен смещённый к древку белый крест.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Крест",
+          "valueRu": "Белый, смещённый к древку"
+        },
+        {
+          "labelRu": "Свободный край",
+          "valueRu": "Раздвоенный"
+        }
+      ],
+      "sourceIds": [
+        "dk-flag-act-2024"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "nordic_cross",
+          "split_tail"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "germany-state-flag",
+      "kind": "flag",
+      "countryId": "germany",
+      "nameRu": "Германия",
+      "subtitleRu": "Государственный флаг",
+      "variantType": "state",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-germany-state",
+      "summaryRu": "Чёрно-красно-золотой триколор с федеральным щитом и орлом ближе к древку.",
+      "explanationRu": "Распоряжение о немецких флагах устанавливает для флага федеральных учреждений три равные горизонтальные полосы: чёрную, красную и золотую. На них ближе к древку размещён федеральный щит с орлом.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы сверху вниз",
+          "valueRu": "Чёрная, красная, золотая"
+        },
+        {
+          "labelRu": "Дополнительный знак",
+          "valueRu": "Федеральный щит с орлом"
+        }
+      ],
+      "sourceIds": [
+        "de-flag-order-1996"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_tricolor",
+          "eagle",
+          "coat_of_arms"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "hungary-national-flag",
+      "kind": "flag",
+      "countryId": "hungary",
+      "nameRu": "Венгрия",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-hungary-national",
+      "summaryRu": "Три равные горизонтальные полосы: красная, белая и зелёная.",
+      "explanationRu": "Основной закон Венгрии определяет флаг как три горизонтальные полосы одинаковой ширины: сверху красную, затем белую и снизу зелёную.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Сверху вниз",
+          "valueRu": "Красный, белый, зелёный"
+        },
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Три равные горизонтальные"
+        }
+      ],
+      "sourceIds": [
+        "hu-fundamental-law-article-i"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_tricolor",
+          "red_white_green"
         ]
       },
       "status": "published",
