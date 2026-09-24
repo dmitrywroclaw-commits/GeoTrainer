@@ -2830,5 +2830,57 @@
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Kuwait.svg",
     "attributionText": "Not specified on Wikimedia Commons / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
     "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-egypt-national",
+    "kind": "flag",
+    "localPath": "/media/flags/egypt.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Egypt.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "See Wikimedia Commons file history",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Egypt.svg",
+    "attributionText": "See Wikimedia Commons file history / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-kazakhstan-national",
+    "kind": "flag",
+    "localPath": "/media/flags/kazakhstan.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Kazakhstan.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Shaken Niyazbekov; see Wikimedia Commons file history",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Kazakhstan.svg",
+    "attributionText": "Shaken Niyazbekov; see Wikimedia Commons file history / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-kenya-national",
+    "kind": "flag",
+    "localPath": "/media/flags/kenya.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Kenya.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Wikimedia Commons user Pumbaa80",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Kenya.svg",
+    "attributionText": "Wikimedia Commons user Pumbaa80 / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-south-korea-national",
+    "kind": "flag",
+    "localPath": "/media/flags/south-korea.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_South_Korea.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Government of the Republic of Korea; vector by Great Brightstar and others",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_South_Korea.svg",
+    "attributionText": "Government of the Republic of Korea; vector by Great Brightstar and others / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
   }
 ]

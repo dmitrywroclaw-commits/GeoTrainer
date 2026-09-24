@@ -1,0 +1,121 @@
+{
+  "batch_id": "003ap-m49-818-398-404-410-flags",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "eg-constitution-article-223",
+      "title": "Constitution of the Arab Republic of Egypt, Article 223",
+      "publisher": "Egypt State Information Service",
+      "source_type": "law",
+      "url": "https://www.sis.gov.eg/media/67726/dustor-eng.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Египет"
+    },
+    {
+      "source_id": "kz-president-national-flag",
+      "title": "National Flag of Kazakhstan",
+      "publisher": "President of the Republic of Kazakhstan",
+      "source_type": "government",
+      "url": "https://mirror.akorda.kz/public/en/state_symbols/kazakhstan_flag",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Казахстан"
+    },
+    {
+      "source_id": "ke-national-flag-act",
+      "title": "National Flag, Emblems and Names Act, Second Schedule",
+      "publisher": "Kenya Law",
+      "source_type": "law",
+      "url": "https://new.kenyalaw.org/akn/ke/act/1963/44/eng%402023-12-11",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Кения"
+    },
+    {
+      "source_id": "kr-government-taegeukgi",
+      "title": "Государственный флаг — символ Кореи, Тхэгыкки",
+      "publisher": "Korea.net, Government of the Republic of Korea",
+      "source_type": "government",
+      "url": "https://russian.korea.net/AboutKorea/OverviewofKorea",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Республика Корея"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "egypt",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "egypt-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "три горизонтальные полосы; золотой орёл в центре",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "eg-constitution-article-223",
+          "primary_source_urls": "https://www.sis.gov.eg/media/67726/dustor-eng.pdf"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "kazakhstan",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "kazakhstan-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "голубое поле; золотое солнце; степной орёл; орнамент у древка",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "kz-president-national-flag",
+          "primary_source_urls": "https://mirror.akorda.kz/public/en/state_symbols/kazakhstan_flag"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "kenya",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "kenya-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "чёрная, красная и зелёная полосы; узкие белые разделители; щит и копья",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "ke-national-flag-act",
+          "primary_source_urls": "https://new.kenyalaw.org/akn/ke/act/1963/44/eng%402023-12-11"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "south-korea",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "south-korea-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "белое поле; красно-синий тхэгык; четыре чёрные триграммы",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "kr-government-taegeukgi",
+          "primary_source_urls": "https://russian.korea.net/AboutKorea/OverviewofKorea"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}

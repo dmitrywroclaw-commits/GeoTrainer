@@ -1199,6 +1199,30 @@
       "m49": "414",
       "iso2": "KW",
       "iso3": "KWT"
+    },
+    {
+      "id": "egypt",
+      "nameRu": "Египет",
+      "region": "Северная Африка",
+      "m49": "818",
+      "iso2": "EG",
+      "iso3": "EGY"
+    },
+    {
+      "id": "kazakhstan",
+      "nameRu": "Казахстан",
+      "region": "Центральная Азия",
+      "m49": "398",
+      "iso2": "KZ",
+      "iso3": "KAZ"
+    },
+    {
+      "id": "kenya",
+      "nameRu": "Кения",
+      "region": "Восточная Африка",
+      "m49": "404",
+      "iso2": "KE",
+      "iso3": "KEN"
     }
   ],
   "sources": [
@@ -3008,6 +3032,38 @@
       "publisher": "Ministry of Justice of Kuwait",
       "sourceType": "law",
       "url": "https://www.moj.gov.kw/AR/Documents/MojDocs/%D8%AF%D8%B3%D8%AA%D9%88%D8%B1%20%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "eg-constitution-article-223",
+      "title": "Constitution of the Arab Republic of Egypt, Article 223",
+      "publisher": "Egypt State Information Service",
+      "sourceType": "law",
+      "url": "https://www.sis.gov.eg/media/67726/dustor-eng.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "kz-president-national-flag",
+      "title": "National Flag of Kazakhstan",
+      "publisher": "President of the Republic of Kazakhstan",
+      "sourceType": "government",
+      "url": "https://mirror.akorda.kz/public/en/state_symbols/kazakhstan_flag",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "ke-national-flag-act",
+      "title": "National Flag, Emblems and Names Act, Second Schedule",
+      "publisher": "Kenya Law",
+      "sourceType": "law",
+      "url": "https://new.kenyalaw.org/akn/ke/act/1963/44/eng%402023-12-11",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "kr-government-taegeukgi",
+      "title": "Государственный флаг — символ Кореи, Тхэгыкки",
+      "publisher": "Korea.net, Government of the Republic of Korea",
+      "sourceType": "government",
+      "url": "https://russian.korea.net/AboutKorea/OverviewofKorea",
       "accessedAt": "2026-09-24"
     }
   ],
@@ -11657,6 +11713,147 @@
         "similarityTags": [
           "horizontal_tricolor",
           "black_trapezoid"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "egypt-national-flag",
+      "kind": "flag",
+      "countryId": "egypt",
+      "nameRu": "Египет",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-egypt-national",
+      "summaryRu": "Красная, белая и чёрная горизонтальные полосы с золотым орлом Салах ад-Дина в центре.",
+      "explanationRu": "Статья 223 Конституции Египта определяет три цвета национального флага — чёрный, белый и красный — и золотого орла Салах ад-Дина. На флаге красная полоса находится сверху, белая посередине, чёрная снизу.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Красная, белая и чёрная"
+        },
+        {
+          "labelRu": "В центре",
+          "valueRu": "Золотой орёл Салах ад-Дина"
+        }
+      ],
+      "sourceIds": [
+        "eg-constitution-article-223"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_tricolor",
+          "central_eagle",
+          "arab_flags"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "kazakhstan-national-flag",
+      "kind": "flag",
+      "countryId": "kazakhstan",
+      "nameRu": "Казахстан",
+      "subtitleRu": "Государственный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-kazakhstan-national",
+      "summaryRu": "Голубое полотнище с золотыми солнцем и степным орлом; у древка — вертикальный национальный орнамент.",
+      "explanationRu": "Официальный сайт президента Казахстана описывает голубое поле, золотое солнце с лучами, парящего под ним степного орла и золотой орнамент вдоль древка.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "В центре",
+          "valueRu": "Солнце и степной орёл"
+        },
+        {
+          "labelRu": "У древка",
+          "valueRu": "Вертикальный национальный орнамент"
+        }
+      ],
+      "sourceIds": [
+        "kz-president-national-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "blue_field",
+          "sun",
+          "eagle",
+          "hoist_ornament"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "kenya-national-flag",
+      "kind": "flag",
+      "countryId": "kenya",
+      "nameRu": "Кения",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-kenya-national",
+      "summaryRu": "Чёрная, красная и зелёная полосы, разделённые белым; в центре — щит и два белых копья.",
+      "explanationRu": "Закон Кении о национальном флаге описывает три равные основные полосы — чёрную, красную и зелёную, узкие белые разделители, а также расположенные в центре щит и белые копья.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Основные полосы",
+          "valueRu": "Чёрная, красная и зелёная"
+        },
+        {
+          "labelRu": "В центре",
+          "valueRu": "Щит и белые копья"
+        }
+      ],
+      "sourceIds": [
+        "ke-national-flag-act"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_tricolor",
+          "central_shield",
+          "spears"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "south-korea-national-flag",
+      "kind": "flag",
+      "countryId": "south-korea",
+      "nameRu": "Республика Корея",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-south-korea-national",
+      "summaryRu": "Белое полотнище с красно-синим тхэгыком в центре и четырьмя чёрными триграммами по углам.",
+      "explanationRu": "Официальный портал Республики Корея описывает белый фон, красно-синий символ тхэгык в центре и четыре чёрные триграммы по углам флага.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "В центре",
+          "valueRu": "Красно-синий тхэгык"
+        },
+        {
+          "labelRu": "По углам",
+          "valueRu": "Четыре чёрные триграммы"
+        }
+      ],
+      "sourceIds": [
+        "kr-government-taegeukgi"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "white_field",
+          "central_emblem",
+          "trigrams"
         ]
       },
       "status": "published",
