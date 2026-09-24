@@ -1,0 +1,25 @@
+{
+  "batch_id": "batch-091-belize-flag",
+  "checked_at": "2026-09-25",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "bz-belipo-copyright-overview",
+      "title": "Copyright: exceptions and educational use",
+      "publisher": "Belize Intellectual Property Office",
+      "source_type": "government",
+      "url": "https://www.belipo.bz/copyright/",
+      "accessed_at": "2026-09-25",
+      "supports": "Общее разъяснение образовательного использования и исключений из авторского права; не является лицензией на дизайн флага"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "belize",
+      "audit_status": "complete",
+      "notes": "Национальный флаг проверен по закону 2025 года и опубликован как образовательный разбор с указанием автора SVG и ограничений статей 11–12. Пометка Public domain на Commons относится к SVG и не отменяет права Короны на дизайн в Белизе; иное использование требует отдельной проверки. Герб остаётся отдельной задачей публикации.",
+      "flags": [],
+      "emblems": []
+    }
+  ]
+}

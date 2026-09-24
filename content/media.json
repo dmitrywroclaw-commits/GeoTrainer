@@ -3441,5 +3441,19 @@
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Oman.svg",
     "attributionText": "Wikimedia Commons contributors / Wikimedia Commons; файл помечен OGL-om 1.0, но эта лицензия не охватывает официальную государственную эмблему. SVG без изменений; ограничения на использование символики и коммерческие товары определяются законодательством Омана.",
     "checkedAt": "2026-09-25"
+  },
+  {
+    "id": "flag-belize-national",
+    "kind": "flag",
+    "localPath": "/media/flags/belize.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Belize.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Flag_of_Belize.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Caleb Moore",
+    "rightsHolder": "Crown in right of Belize (flag design)",
+    "license": "SVG: Public domain per Commons; flag design: Crown copyright in Belize",
+    "rightsUrl": "https://www.agm.gov.bz/uploads/laws/67fe7b9cbe9a7_Act_No._09_of_2025_National_Symbols_Act__2025.pdf",
+    "attributionText": "Caleb Moore / Wikimedia Commons; SVG-файл помечен Public domain. Дизайн флага защищён в Белизе статьёй 11 National Symbols Act 2025; статья 12 регулирует коммерческое и организационное использование, а для учебных заведений предусматривает исключение. Файл использован без изменений для образовательного разбора и распознавания флага; права на иное использование следует проверять отдельно.",
+    "checkedAt": "2026-09-25"
   }
 ]

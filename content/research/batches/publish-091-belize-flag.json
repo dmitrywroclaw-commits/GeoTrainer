@@ -1,0 +1,88 @@
+{
+  "batch_id": "publish-091-belize-flag",
+  "countries": [],
+  "sources": [
+    {
+      "id": "bz-national-symbols-act-2025",
+      "title": "National Symbols Act, 2025 (Act No. 9 of 2025), Schedules I and IV",
+      "publisher": "Attorney General's Ministry of Belize",
+      "sourceType": "law",
+      "url": "https://www.agm.gov.bz/uploads/laws/67fe7b9cbe9a7_Act_No._09_of_2025_National_Symbols_Act__2025.pdf",
+      "accessedAt": "2026-09-25"
+    },
+    {
+      "id": "bz-belipo-copyright-overview",
+      "title": "Copyright: exceptions and educational use",
+      "publisher": "Belize Intellectual Property Office",
+      "sourceType": "government",
+      "url": "https://www.belipo.bz/copyright/",
+      "accessedAt": "2026-09-25"
+    }
+  ],
+  "media": [
+    {
+      "id": "flag-belize-national",
+      "kind": "flag",
+      "localPath": "/media/flags/belize.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Belize.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Flag_of_Belize.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Caleb Moore",
+      "rightsHolder": "Crown in right of Belize (flag design)",
+      "license": "SVG: Public domain per Commons; flag design: Crown copyright in Belize",
+      "rightsUrl": "https://www.agm.gov.bz/uploads/laws/67fe7b9cbe9a7_Act_No._09_of_2025_National_Symbols_Act__2025.pdf",
+      "attributionText": "Caleb Moore / Wikimedia Commons; SVG-файл помечен Public domain. Дизайн флага защищён в Белизе статьёй 11 National Symbols Act 2025; статья 12 регулирует коммерческое и организационное использование, а для учебных заведений предусматривает исключение. Файл использован без изменений для образовательного разбора и распознавания флага; права на иное использование следует проверять отдельно.",
+      "checkedAt": "2026-09-25"
+    }
+  ],
+  "entries": [
+    {
+      "id": "belize-national-flag",
+      "kind": "flag",
+      "countryId": "belize",
+      "nameRu": "Белиз",
+      "subtitleRu": "Национальный флаг с гербом в белом круге",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-belize-national",
+      "summaryRu": "На синем флаге Белиза расположены красные полосы вдоль верхнего и нижнего краёв и белый круг с национальным гербом в центре.",
+      "explanationRu": "Приложение I к закону о национальных символах 2025 года закрепляет синий флаг с красными краями и гербом в белом круге. На гербе видны два человека, щит с кораблём и инструментами лесной промышленности, дерево махагони и девиз Sub Umbra Floreo. Для узнавания ищите не только красно-синие полосы, но и множество мелких деталей в центральном круге. Закон устанавливает соотношение высоты и длины 3:5.",
+      "historyRu": "Закон о национальных символах опубликован 11 февраля 2025 года. Он закрепил рисунок флага в приложении I и отдельно установил правила использования флага и герба.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Поле и края",
+          "valueRu": "Синее поле, красные полосы сверху и снизу"
+        },
+        {
+          "labelRu": "В центре",
+          "valueRu": "Белый круг с национальным гербом"
+        },
+        {
+          "labelRu": "Детали герба",
+          "valueRu": "Два человека, корабль, инструменты, дерево махагони и девиз"
+        },
+        {
+          "labelRu": "Соотношение сторон",
+          "valueRu": "3:5 (высота к длине)"
+        }
+      ],
+      "sourceIds": [
+        "bz-national-symbols-act-2025",
+        "bz-belipo-copyright-overview"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "blue-field",
+          "red-borders",
+          "coat-of-arms",
+          "people",
+          "ship",
+          "tree"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    }
+  ]
+}
