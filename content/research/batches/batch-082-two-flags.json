@@ -1,0 +1,65 @@
+{
+  "batch_id": "batch-082-two-flags",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "mw-protected-flag-act-schedule-1",
+      "title": "Protected Flag, Emblems and Names Act, First Schedule, Part I",
+      "publisher": "MalawiLII (consolidated law of Malawi)",
+      "source_type": "law",
+      "url": "https://malawilii.org/akn/mw/act/1967/10/eng@2014-12-31",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Малави"
+    },
+    {
+      "source_id": "vu-state-flag-declaration-1980",
+      "title": "State Flag and Armorial Bearings Public Declaration, 1980",
+      "publisher": "Republic of Vanuatu (PacLII legal text)",
+      "source_type": "law",
+      "url": "https://www.paclii.org/vu/legis/consol_sub/sfaabpd392/",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Вануату"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "malawi",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "malawi-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "три горизонтальные полосы: чёрная, красная, зелёная | красное восходящее солнце на чёрной полосе",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "mw-protected-flag-act-schedule-1",
+          "primary_source_urls": "https://malawilii.org/akn/mw/act/1967/10/eng@2014-12-31"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "vanuatu",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "vanuatu-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "красное верхнее и зелёное нижнее поле | чёрная Y-образная полоса с жёлтой каймой | жёлтый кабаний клык и листья на чёрном треугольнике у древка",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "vu-state-flag-declaration-1980",
+          "primary_source_urls": "https://www.paclii.org/vu/legis/consol_sub/sfaabpd392/"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}

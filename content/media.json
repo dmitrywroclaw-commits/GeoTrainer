@@ -3181,5 +3181,31 @@
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Iraq.svg",
     "attributionText": "Wikimedia Commons contributors (see file history) / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
     "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-malawi-national",
+    "kind": "flag",
+    "localPath": "/media/flags/malawi.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Malawi.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Original: unknown; SVG: Achim1999",
+    "license": "Public domain",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Malawi.svg",
+    "attributionText": "Original: unknown; SVG: Achim1999 / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-vanuatu-national",
+    "kind": "flag",
+    "localPath": "/media/flags/vanuatu.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Vanuatu_(official).svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Flag_of_Vanuatu_%28official%29.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Kalontas Mahlon",
+    "license": "Public domain",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Vanuatu_(official).svg",
+    "attributionText": "Kalontas Mahlon / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
   }
 ]

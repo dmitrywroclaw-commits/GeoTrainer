@@ -1,0 +1,147 @@
+{
+  "batch_id": "publish-082-two-flags",
+  "countries": [
+    {
+      "id": "malawi",
+      "nameRu": "Малави",
+      "region": "Восточная Африка",
+      "m49": "454",
+      "iso2": "MW",
+      "iso3": "MWI"
+    },
+    {
+      "id": "vanuatu",
+      "nameRu": "Вануату",
+      "region": "Меланезия",
+      "m49": "548",
+      "iso2": "VU",
+      "iso3": "VUT"
+    }
+  ],
+  "sources": [
+    {
+      "id": "mw-protected-flag-act-schedule-1",
+      "title": "Protected Flag, Emblems and Names Act, First Schedule, Part I",
+      "publisher": "MalawiLII (consolidated law of Malawi)",
+      "sourceType": "law",
+      "url": "https://malawilii.org/akn/mw/act/1967/10/eng@2014-12-31",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "vu-state-flag-declaration-1980",
+      "title": "State Flag and Armorial Bearings Public Declaration, 1980",
+      "publisher": "Republic of Vanuatu (PacLII legal text)",
+      "sourceType": "law",
+      "url": "https://www.paclii.org/vu/legis/consol_sub/sfaabpd392/",
+      "accessedAt": "2026-09-24"
+    }
+  ],
+  "media": [
+    {
+      "id": "flag-malawi-national",
+      "kind": "flag",
+      "localPath": "/media/flags/malawi.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Malawi.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Original: unknown; SVG: Achim1999",
+      "license": "Public domain",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Malawi.svg",
+      "attributionText": "Original: unknown; SVG: Achim1999 / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-vanuatu-national",
+      "kind": "flag",
+      "localPath": "/media/flags/vanuatu.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Vanuatu_(official).svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Flag_of_Vanuatu_%28official%29.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Kalontas Mahlon",
+      "license": "Public domain",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Vanuatu_(official).svg",
+      "attributionText": "Kalontas Mahlon / Wikimedia Commons; Public domain; исходный SVG без изменений; ограничения для государственной символики.",
+      "checkedAt": "2026-09-24"
+    }
+  ],
+  "entries": [
+    {
+      "id": "malawi-national-flag",
+      "kind": "flag",
+      "countryId": "malawi",
+      "nameRu": "Малави",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-malawi-national",
+      "summaryRu": "На флаге Малави чёрная, красная и зелёная полосы; на верхней полосе — красное восходящее солнце.",
+      "explanationRu": "Описание в приложении к закону Малави закрепляет три равные горизонтальные полосы и красное восходящее солнце в центре чёрной полосы. Там же солнце названо символом надежды и свободы для Африки.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы сверху вниз",
+          "valueRu": "Чёрная, красная, зелёная"
+        },
+        {
+          "labelRu": "На верхней полосе",
+          "valueRu": "Красное восходящее солнце"
+        },
+        {
+          "labelRu": "Официальное значение солнца",
+          "valueRu": "Надежда и свобода для Африки"
+        }
+      ],
+      "sourceIds": [
+        "mw-protected-flag-act-schedule-1"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "tricolor",
+          "horizontal-stripes",
+          "sun"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "vanuatu-national-flag",
+      "kind": "flag",
+      "countryId": "vanuatu",
+      "nameRu": "Вануату",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-vanuatu-national",
+      "summaryRu": "Флаг Вануату сочетает красное и зелёное поля, чёрную Y-образную полосу с жёлтой каймой и жёлтый знак у древка.",
+      "explanationRu": "Национальный флаг установлен декларацией Вануату 1980 года, приложенная иллюстрация задаёт его рисунок. У древка изображены кабаний клык и листья; из чёрного треугольника выходит Y-образная полоса с жёлтой каймой.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Поля",
+          "valueRu": "Красное сверху и зелёное снизу"
+        },
+        {
+          "labelRu": "Разделение",
+          "valueRu": "Чёрная Y-образная полоса с жёлтой каймой"
+        },
+        {
+          "labelRu": "Знак у древка",
+          "valueRu": "Кабаний клык и листья"
+        }
+      ],
+      "sourceIds": [
+        "vu-state-flag-declaration-1980"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "y-shape",
+          "tusk",
+          "leaves"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    }
+  ]
+}
