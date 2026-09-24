@@ -2674,5 +2674,57 @@
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Russia.svg",
     "attributionText": "Peter the Great; Wikimedia Commons vector / Wikimedia Commons; общественное достояние, исходный SVG без изменений; отмечены дополнительные ограничения на символику Российской Федерации.",
     "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-burkina-faso-national",
+    "kind": "flag",
+    "localPath": "/media/flags/burkina-faso.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Burkina_Faso.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "SKopp; revised by Gabbe and Андрей Перцев",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Burkina_Faso.svg",
+    "attributionText": "SKopp; revised by Gabbe and Андрей Перцев / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-cote-divoire-national",
+    "kind": "flag",
+    "localPath": "/media/flags/cote-divoire.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Côte_d'Ivoire.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "See Wikimedia Commons file history",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Côte_d'Ivoire.svg",
+    "attributionText": "See Wikimedia Commons file history / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-jamaica-national",
+    "kind": "flag",
+    "localPath": "/media/flags/jamaica.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Jamaica.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "SKopp; edited by Zscout370, Madden and others",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Jamaica.svg",
+    "attributionText": "SKopp; edited by Zscout370, Madden and others / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-malta-national",
+    "kind": "flag",
+    "localPath": "/media/flags/malta.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Malta.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "See Wikimedia Commons file history",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Malta.svg",
+    "attributionText": "See Wikimedia Commons file history / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
   }
 ]

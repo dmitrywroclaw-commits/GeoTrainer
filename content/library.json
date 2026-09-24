@@ -1103,6 +1103,38 @@
       "m49": "528",
       "iso2": "NL",
       "iso3": "NLD"
+    },
+    {
+      "id": "burkina-faso",
+      "nameRu": "Буркина-Фасо",
+      "region": "Западная Африка",
+      "m49": "854",
+      "iso2": "BF",
+      "iso3": "BFA"
+    },
+    {
+      "id": "cote-divoire",
+      "nameRu": "Кот-д’Ивуар",
+      "region": "Западная Африка",
+      "m49": "384",
+      "iso2": "CI",
+      "iso3": "CIV"
+    },
+    {
+      "id": "jamaica",
+      "nameRu": "Ямайка",
+      "region": "Карибский бассейн",
+      "m49": "388",
+      "iso2": "JM",
+      "iso3": "JAM"
+    },
+    {
+      "id": "malta",
+      "nameRu": "Мальта",
+      "region": "Южная Европа",
+      "m49": "470",
+      "iso2": "MT",
+      "iso3": "MLT"
     }
   ],
   "sources": [
@@ -2816,6 +2848,38 @@
       "publisher": "President of Russia",
       "sourceType": "government",
       "url": "https://en.flag.kremlin.ru/",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "bf-presidency-national-flag",
+      "title": "Drapeau",
+      "publisher": "Présidence du Faso",
+      "sourceType": "government",
+      "url": "https://www.presidencedufaso.bf/lembleme-le-drapeau/",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "ci-government-national-symbols",
+      "title": "Fête nationale: les cinq symboles de la République",
+      "publisher": "Government of Côte d’Ivoire",
+      "sourceType": "government",
+      "url": "https://www.gouv.ci/actualite/fete-nationale-de-cote-divoire-les-5-symboles-de-la-republique-presentes-aux-citoyens-2467",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "jm-prime-minister-national-flag",
+      "title": "National Flag",
+      "publisher": "Office of the Prime Minister of Jamaica",
+      "sourceType": "government",
+      "url": "https://opm.gov.jm/symbols/national-flag/",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "mt-government-national-flag",
+      "title": "Flags, Symbols and their uses",
+      "publisher": "Government of Malta",
+      "sourceType": "government",
+      "url": "https://www.gov.mt/en/About%20Malta/Pages/Flags-Symbols-and-their-use.aspx",
       "accessedAt": "2026-09-24"
     }
   ],
@@ -11055,6 +11119,142 @@
         "similarityTags": [
           "horizontal_tricolor",
           "white_blue_red"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "burkina-faso-national-flag",
+      "kind": "flag",
+      "countryId": "burkina-faso",
+      "nameRu": "Буркина-Фасо",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-burkina-faso-national",
+      "summaryRu": "Красная и зелёная горизонтальные полосы с золотой пятиконечной звездой в центре.",
+      "explanationRu": "Официальный сайт президента Буркина-Фасо описывает флаг как две равные горизонтальные полосы: красную сверху и зелёную снизу. На их границе в центре помещена золотая пятиконечная звезда.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Сверху вниз",
+          "valueRu": "Красный, зелёный"
+        },
+        {
+          "labelRu": "В центре",
+          "valueRu": "Золотая пятиконечная звезда"
+        }
+      ],
+      "sourceIds": [
+        "bf-presidency-national-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_bicolor",
+          "central_star"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "cote-divoire-national-flag",
+      "kind": "flag",
+      "countryId": "cote-divoire",
+      "nameRu": "Кот-д’Ивуар",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-cote-divoire-national",
+      "summaryRu": "Три равные вертикальные полосы: оранжевая, белая и зелёная.",
+      "explanationRu": "Правительственный портал Кот-д’Ивуара описывает государственный флаг как три вертикальные полосы одинаковой ширины. От древка к свободному краю идут оранжевая, белая и зелёная полосы.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "От древка",
+          "valueRu": "Оранжевый, белый, зелёный"
+        },
+        {
+          "labelRu": "Полосы",
+          "valueRu": "Три равные вертикальные"
+        }
+      ],
+      "sourceIds": [
+        "ci-government-national-symbols"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "vertical_tricolor",
+          "orange_white_green"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "jamaica-national-flag",
+      "kind": "flag",
+      "countryId": "jamaica",
+      "nameRu": "Ямайка",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-jamaica-national",
+      "summaryRu": "Золотой диагональный крест, зелёные верхний и нижний треугольники, чёрные треугольники у краёв.",
+      "explanationRu": "Офис премьер-министра Ямайки описывает золотой диагональный крест. Он разделяет полотнище на четыре треугольника: сверху и снизу зелёные, у древка и свободного края чёрные.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Крест",
+          "valueRu": "Золотой диагональный"
+        },
+        {
+          "labelRu": "Треугольники",
+          "valueRu": "Зелёные сверху и снизу, чёрные по бокам"
+        }
+      ],
+      "sourceIds": [
+        "jm-prime-minister-national-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "saltire",
+          "green_black_gold"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "malta-national-flag",
+      "kind": "flag",
+      "countryId": "malta",
+      "nameRu": "Мальта",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-malta-national",
+      "summaryRu": "Белая и красная вертикальные половины; у верхнего края белой половины — Георгиевский крест.",
+      "explanationRu": "Конституционное описание на портале правительства Мальты устанавливает две равные вертикальные полосы: белую у древка и красную у свободного края. В верхнем углу белой полосы изображён Георгиевский крест с красной каймой.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "От древка",
+          "valueRu": "Белая и красная половины"
+        },
+        {
+          "labelRu": "В верхнем углу",
+          "valueRu": "Георгиевский крест с красной каймой"
+        }
+      ],
+      "sourceIds": [
+        "mt-government-national-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "vertical_bicolor",
+          "george_cross"
         ]
       },
       "status": "published",

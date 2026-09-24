@@ -1,0 +1,121 @@
+{
+  "batch_id": "003am-m49-384-854-flags",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "bf-presidency-national-flag",
+      "title": "Drapeau",
+      "publisher": "Présidence du Faso",
+      "source_type": "government",
+      "url": "https://www.presidencedufaso.bf/lembleme-le-drapeau/",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Буркина-Фасо"
+    },
+    {
+      "source_id": "ci-government-national-symbols",
+      "title": "Fête nationale: les cinq symboles de la République",
+      "publisher": "Government of Côte d’Ivoire",
+      "source_type": "government",
+      "url": "https://www.gouv.ci/actualite/fete-nationale-de-cote-divoire-les-5-symboles-de-la-republique-presentes-aux-citoyens-2467",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Кот-д’Ивуар"
+    },
+    {
+      "source_id": "jm-prime-minister-national-flag",
+      "title": "National Flag",
+      "publisher": "Office of the Prime Minister of Jamaica",
+      "source_type": "government",
+      "url": "https://opm.gov.jm/symbols/national-flag/",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Ямайка"
+    },
+    {
+      "source_id": "mt-government-national-flag",
+      "title": "Flags, Symbols and their uses",
+      "publisher": "Government of Malta",
+      "source_type": "government",
+      "url": "https://www.gov.mt/en/About%20Malta/Pages/Flags-Symbols-and-their-use.aspx",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Мальта"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "burkina-faso",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "burkina-faso-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_green_horizontal|central_gold_star",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "bf-presidency-national-flag",
+          "primary_source_urls": "https://www.presidencedufaso.bf/lembleme-le-drapeau/"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "cote-divoire",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "cote-divoire-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "orange_white_green_vertical",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "ci-government-national-symbols",
+          "primary_source_urls": "https://www.gouv.ci/actualite/fete-nationale-de-cote-divoire-les-5-symboles-de-la-republique-presentes-aux-citoyens-2467"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "jamaica",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "jamaica-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "gold_saltire|green_top_bottom|black_hoist_fly",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "jm-prime-minister-national-flag",
+          "primary_source_urls": "https://opm.gov.jm/symbols/national-flag/"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "malta",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "malta-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "white_red_vertical|george_cross_canton",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "mt-government-national-flag",
+          "primary_source_urls": "https://www.gov.mt/en/About%20Malta/Pages/Flags-Symbols-and-their-use.aspx"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}
