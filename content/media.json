@@ -2778,5 +2778,57 @@
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Federated_States_of_Micronesia.svg",
     "attributionText": "Not specified on Wikimedia Commons / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
     "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-mauritania-national",
+    "kind": "flag",
+    "localPath": "/media/flags/mauritania.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Mauritania.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "See Wikimedia Commons file history",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Mauritania.svg",
+    "attributionText": "See Wikimedia Commons file history / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-sao-tome-and-principe-national",
+    "kind": "flag",
+    "localPath": "/media/flags/sao-tome-and-principe.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_São_Tomé_and_Príncipe.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "See Wikimedia Commons file history",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_São_Tomé_and_Príncipe.svg",
+    "attributionText": "See Wikimedia Commons file history / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-lesotho-national",
+    "kind": "flag",
+    "localPath": "/media/flags/lesotho.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Lesotho.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Flag_of_Lesotho.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "See Wikimedia Commons file history",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Lesotho.svg",
+    "attributionText": "See Wikimedia Commons file history / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-kuwait-national",
+    "kind": "flag",
+    "localPath": "/media/flags/kuwait.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Kuwait.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Not specified on Wikimedia Commons",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Kuwait.svg",
+    "attributionText": "Not specified on Wikimedia Commons / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
   }
 ]

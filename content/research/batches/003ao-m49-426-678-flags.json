@@ -1,0 +1,121 @@
+{
+  "batch_id": "003ao-m49-426-678-flags",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "mr-presidency-national-emblem",
+      "title": "Présentation: L'emblème national",
+      "publisher": "Presidency of Mauritania",
+      "source_type": "government",
+      "url": "https://presidence.mr/fr/node/746",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Мавритания"
+    },
+    {
+      "source_id": "st-presidency-national-flag",
+      "title": "Bandeira Nacional",
+      "publisher": "Presidency of São Tomé and Príncipe",
+      "source_type": "government",
+      "url": "https://presidencia.st/index.php/pt/presidencia-da-republica/simbolos-nacionais/bandeira-nacional",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Сан-Томе и Принсипи"
+    },
+    {
+      "source_id": "ls-government-flag-illustration",
+      "title": "Prime Minister's address with national flag",
+      "publisher": "Government of Lesotho",
+      "source_type": "government",
+      "url": "https://www.gov.ls/wp-content/uploads/2021/06/SPEECH-BY-THE-RIGHT-HONORABLE-THE-PRIME-MINISTER-AU-Office-Inauguration106687.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Лесото"
+    },
+    {
+      "source_id": "kw-national-flag-law-1961",
+      "title": "Law No. 26 of 1961 on the National Flag of Kuwait",
+      "publisher": "Ministry of Justice of Kuwait",
+      "source_type": "law",
+      "url": "https://www.moj.gov.kw/AR/Documents/MojDocs/%D8%AF%D8%B3%D8%AA%D9%88%D8%B1%20%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Кувейт"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "mauritania",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "mauritania-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "green_field|gold_crescent_star|red_top_bottom_stripes",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "mr-presidency-national-emblem",
+          "primary_source_urls": "https://presidence.mr/fr/node/746"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "sao-tome-and-principe",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "sao-tome-and-principe-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "green_yellow_green_horizontal|two_black_stars|red_hoist_triangle",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "st-presidency-national-flag",
+          "primary_source_urls": "https://presidencia.st/index.php/pt/presidencia-da-republica/simbolos-nacionais/bandeira-nacional"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "lesotho",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "lesotho-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "blue_white_green_horizontal|black_basotho_hat",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "ls-government-flag-illustration",
+          "primary_source_urls": "https://www.gov.ls/wp-content/uploads/2021/06/SPEECH-BY-THE-RIGHT-HONORABLE-THE-PRIME-MINISTER-AU-Office-Inauguration106687.pdf"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "kuwait",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "kuwait-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "green_white_red_horizontal|black_hoist_trapezoid",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "kw-national-flag-law-1961",
+          "primary_source_urls": "https://www.moj.gov.kw/AR/Documents/MojDocs/%D8%AF%D8%B3%D8%AA%D9%88%D8%B1%20%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA.pdf"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "batch_id": "publish-072-four-flags",
+  "countries": [
+    {
+      "id": "mauritania",
+      "nameRu": "Мавритания",
+      "region": "Западная Африка",
+      "m49": "478",
+      "iso2": "MR",
+      "iso3": "MRT"
+    },
+    {
+      "id": "sao-tome-and-principe",
+      "nameRu": "Сан-Томе и Принсипи",
+      "region": "Центральная Африка",
+      "m49": "678",
+      "iso2": "ST",
+      "iso3": "STP"
+    },
+    {
+      "id": "lesotho",
+      "nameRu": "Лесото",
+      "region": "Южная часть Африки",
+      "m49": "426",
+      "iso2": "LS",
+      "iso3": "LSO"
+    },
+    {
+      "id": "kuwait",
+      "nameRu": "Кувейт",
+      "region": "Западная Азия",
+      "m49": "414",
+      "iso2": "KW",
+      "iso3": "KWT"
+    }
+  ],
+  "sources": [
+    {
+      "id": "mr-presidency-national-emblem",
+      "title": "Présentation: L'emblème national",
+      "publisher": "Presidency of Mauritania",
+      "sourceType": "government",
+      "url": "https://presidence.mr/fr/node/746",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "st-presidency-national-flag",
+      "title": "Bandeira Nacional",
+      "publisher": "Presidency of São Tomé and Príncipe",
+      "sourceType": "government",
+      "url": "https://presidencia.st/index.php/pt/presidencia-da-republica/simbolos-nacionais/bandeira-nacional",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "ls-government-flag-illustration",
+      "title": "Prime Minister's address with national flag",
+      "publisher": "Government of Lesotho",
+      "sourceType": "government",
+      "url": "https://www.gov.ls/wp-content/uploads/2021/06/SPEECH-BY-THE-RIGHT-HONORABLE-THE-PRIME-MINISTER-AU-Office-Inauguration106687.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "kw-national-flag-law-1961",
+      "title": "Law No. 26 of 1961 on the National Flag of Kuwait",
+      "publisher": "Ministry of Justice of Kuwait",
+      "sourceType": "law",
+      "url": "https://www.moj.gov.kw/AR/Documents/MojDocs/%D8%AF%D8%B3%D8%AA%D9%88%D8%B1%20%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA.pdf",
+      "accessedAt": "2026-09-24"
+    }
+  ],
+  "media": [
+    {
+      "id": "flag-mauritania-national",
+      "kind": "flag",
+      "localPath": "/media/flags/mauritania.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Mauritania.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "See Wikimedia Commons file history",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Mauritania.svg",
+      "attributionText": "See Wikimedia Commons file history / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-sao-tome-and-principe-national",
+      "kind": "flag",
+      "localPath": "/media/flags/sao-tome-and-principe.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_São_Tomé_and_Príncipe.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "See Wikimedia Commons file history",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_São_Tomé_and_Príncipe.svg",
+      "attributionText": "See Wikimedia Commons file history / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-lesotho-national",
+      "kind": "flag",
+      "localPath": "/media/flags/lesotho.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Lesotho.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Flag_of_Lesotho.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "See Wikimedia Commons file history",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Lesotho.svg",
+      "attributionText": "See Wikimedia Commons file history / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "flag-kuwait-national",
+      "kind": "flag",
+      "localPath": "/media/flags/kuwait.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Kuwait.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Not specified on Wikimedia Commons",
+      "license": "Public domain (national flag artwork)",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Kuwait.svg",
+      "attributionText": "Not specified on Wikimedia Commons / Wikimedia Commons; Public domain (national flag artwork); исходный SVG без изменений; ограничения для государственной символики.",
+      "checkedAt": "2026-09-24"
+    }
+  ],
+  "entries": [
+    {
+      "id": "mauritania-national-flag",
+      "kind": "flag",
+      "countryId": "mauritania",
+      "nameRu": "Мавритания",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-mauritania-national",
+      "summaryRu": "Зелёное полотнище с золотыми полумесяцем и звездой, красными полосами сверху и снизу.",
+      "explanationRu": "Президентский портал Мавритании описывает золотые полумесяц и звезду на зелёном поле, а также красные горизонтальные полосы по верхнему и нижнему краям флага.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "В центре",
+          "valueRu": "Золотые полумесяц и звезда"
+        },
+        {
+          "labelRu": "По краям",
+          "valueRu": "Две красные горизонтальные полосы"
+        }
+      ],
+      "sourceIds": [
+        "mr-presidency-national-emblem"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "crescent_star",
+          "red_borders",
+          "green_field"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "sao-tome-and-principe-national-flag",
+      "kind": "flag",
+      "countryId": "sao-tome-and-principe",
+      "nameRu": "Сан-Томе и Принсипи",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-sao-tome-and-principe-national",
+      "summaryRu": "Зелёные крайние полосы, широкая жёлтая середина с двумя чёрными звёздами и красный треугольник у древка.",
+      "explanationRu": "Официальная страница президента Сан-Томе и Принсипи описывает две зелёные крайние полосы, более широкую жёлтую полосу с двумя чёрными пятиконечными звёздами и красный треугольник у древка.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "В середине",
+          "valueRu": "Две чёрные звезды на жёлтой полосе"
+        },
+        {
+          "labelRu": "У древка",
+          "valueRu": "Красный треугольник"
+        }
+      ],
+      "sourceIds": [
+        "st-presidency-national-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_stripes",
+          "two_stars",
+          "triangle"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "lesotho-national-flag",
+      "kind": "flag",
+      "countryId": "lesotho",
+      "nameRu": "Лесото",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-lesotho-national",
+      "summaryRu": "Синяя, белая и зелёная горизонтальные полосы; в центре — чёрная шляпа басуто.",
+      "explanationRu": "На официальном материале правительства Лесото флаг изображён с синей полосой сверху, широкой белой полосой посередине и зелёной снизу. На белой полосе помещён чёрный силуэт традиционной шляпы басуто.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Сверху вниз",
+          "valueRu": "Синий, белый, зелёный"
+        },
+        {
+          "labelRu": "В центре",
+          "valueRu": "Чёрная шляпа басуто"
+        }
+      ],
+      "sourceIds": [
+        "ls-government-flag-illustration"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_stripes",
+          "basotho_hat"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "kuwait-national-flag",
+      "kind": "flag",
+      "countryId": "kuwait",
+      "nameRu": "Кувейт",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-kuwait-national",
+      "summaryRu": "Зелёная, белая и красная горизонтальные полосы с чёрной трапецией у древка.",
+      "explanationRu": "Опубликованный Министерством юстиции Кувейта закон устанавливает три равные горизонтальные полосы: зелёную, белую и красную. У древка находится чёрная трапеция.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Сверху вниз",
+          "valueRu": "Зелёный, белый, красный"
+        },
+        {
+          "labelRu": "У древка",
+          "valueRu": "Чёрная трапеция"
+        }
+      ],
+      "sourceIds": [
+        "kw-national-flag-law-1961"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_tricolor",
+          "black_trapezoid"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    }
+  ]
+}
