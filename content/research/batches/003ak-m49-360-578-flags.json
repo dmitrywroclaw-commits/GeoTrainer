@@ -1,0 +1,121 @@
+{
+  "batch_id": "003ak-m49-360-578-flags",
+  "checked_at": "2026-09-24",
+  "owner": "Codex",
+  "sources": [
+    {
+      "source_id": "id-constitution-art35",
+      "title": "Constitution of the Republic of Indonesia, Article 35",
+      "publisher": "House of Representatives of Indonesia",
+      "source_type": "law",
+      "url": "https://berkas.dpr.go.id/jdih/uud-1945-uu-mk-uu-mk-english.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Индонезия"
+    },
+    {
+      "source_id": "il-basic-law-nation-state-art2",
+      "title": "Basic Law: Israel as the Nation State of the Jewish People, Article 2",
+      "publisher": "Knesset",
+      "source_type": "law",
+      "url": "https://main.knesset.gov.il/EN/activity/documents/BasicLawsPDF/BasicLawNationState.pdf",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Израиль"
+    },
+    {
+      "source_id": "jo-royal-court-flag",
+      "title": "The Jordanian Flag and the National Anthem",
+      "publisher": "Royal Hashemite Court",
+      "source_type": "government",
+      "url": "https://www.rhc.jo/en/the-jordanian-flag-and-the-national-anthem",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Иордания"
+    },
+    {
+      "source_id": "no-government-flag-regulations",
+      "title": "Norges flagg",
+      "publisher": "Government of Norway, Ministry of Foreign Affairs",
+      "source_type": "government",
+      "url": "https://www.regjeringen.no/no/dep/ud/dep/diplomatiske-forbindelser-og-protokoll/norges-flagg-forskrift/id449230/",
+      "accessed_at": "2026-09-24",
+      "supports": "Официальное описание флага: Норвегия"
+    }
+  ],
+  "countries": [
+    {
+      "country_id": "indonesia",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "indonesia-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_white_horizontal",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "id-constitution-art35",
+          "primary_source_urls": "https://berkas.dpr.go.id/jdih/uud-1945-uu-mk-uu-mk-english.pdf"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "israel",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "israel-state-flag",
+          "variant_type": "state",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "white_field|two_blue_stripes|blue_star_of_david",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "il-basic-law-nation-state-art2",
+          "primary_source_urls": "https://main.knesset.gov.il/EN/activity/documents/BasicLawsPDF/BasicLawNationState.pdf"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "jordan",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "jordan-national-flag",
+          "variant_type": "national",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "black_white_green_horizontal|red_hoist_triangle|white_seven_pointed_star",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "jo-royal-court-flag",
+          "primary_source_urls": "https://www.rhc.jo/en/the-jordanian-flag-and-the-national-anthem"
+        }
+      ],
+      "emblems": []
+    },
+    {
+      "country_id": "norway",
+      "audit_status": "in_progress",
+      "notes": "Флаг проверен и опубликован; герб или эмблема ещё в работе.",
+      "flags": [
+        {
+          "variant_id": "norway-state-flag",
+          "variant_type": "state",
+          "is_primary_study_variant": "true",
+          "official_status": "official",
+          "graphic_elements": "red_field|blue_nordic_cross|white_fimbriation|split_tail",
+          "decision": "eligible",
+          "decision_reason": "Выбран официальный национальный или государственный флаг с наиболее подробным рисунком.",
+          "source_ids": "no-government-flag-regulations",
+          "primary_source_urls": "https://www.regjeringen.no/no/dep/ud/dep/diplomatiske-forbindelser-og-protokoll/norges-flagg-forskrift/id449230/"
+        }
+      ],
+      "emblems": []
+    }
+  ]
+}

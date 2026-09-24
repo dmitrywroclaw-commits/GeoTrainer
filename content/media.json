@@ -2570,5 +2570,57 @@
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Hungary.svg",
     "attributionText": "SKopp / Wikimedia Commons; общественное достояние, исходный SVG без изменений; ограничения для государственной символики.",
     "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-indonesia-national",
+    "kind": "flag",
+    "localPath": "/media/flags/indonesia.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Indonesia.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Jayakatwang",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Indonesia.svg",
+    "attributionText": "Jayakatwang / Wikimedia Commons; общественное достояние, исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-israel-state",
+    "kind": "flag",
+    "localPath": "/media/flags/israel.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Israel.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Israel Belkind and Fanny Abramovitch (original design)",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Israel.svg",
+    "attributionText": "Israel Belkind and Fanny Abramovitch (original design) / Wikimedia Commons; общественное достояние, исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-jordan-national",
+    "kind": "flag",
+    "localPath": "/media/flags/jordan.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Jordan.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Unknown",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Jordan.svg",
+    "attributionText": "Unknown / Wikimedia Commons; общественное достояние, исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
+  },
+  {
+    "id": "flag-norway-state",
+    "kind": "flag",
+    "localPath": "/media/flags/norway.svg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Norway,_state.svg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Flag_of_Norway%2C_state.svg",
+    "publisher": "Wikimedia Commons",
+    "author": "Dbenbenn (assumed on Commons)",
+    "license": "Public domain (national flag artwork)",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Norway,_state.svg",
+    "attributionText": "Dbenbenn (assumed on Commons) / Wikimedia Commons; общественное достояние, исходный SVG без изменений; ограничения для государственной символики.",
+    "checkedAt": "2026-09-24"
   }
 ]

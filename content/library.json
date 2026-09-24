@@ -1055,6 +1055,38 @@
       "m49": "348",
       "iso2": "HU",
       "iso3": "HUN"
+    },
+    {
+      "id": "indonesia",
+      "nameRu": "Индонезия",
+      "region": "Юго-Восточная Азия",
+      "m49": "360",
+      "iso2": "ID",
+      "iso3": "IDN"
+    },
+    {
+      "id": "israel",
+      "nameRu": "Израиль",
+      "region": "Западная Азия",
+      "m49": "376",
+      "iso2": "IL",
+      "iso3": "ISR"
+    },
+    {
+      "id": "jordan",
+      "nameRu": "Иордания",
+      "region": "Западная Азия",
+      "m49": "400",
+      "iso2": "JO",
+      "iso3": "JOR"
+    },
+    {
+      "id": "norway",
+      "nameRu": "Норвегия",
+      "region": "Северная Европа",
+      "m49": "578",
+      "iso2": "NO",
+      "iso3": "NOR"
     }
   ],
   "sources": [
@@ -2704,6 +2736,38 @@
       "publisher": "National Legislation Repository of Hungary",
       "sourceType": "law",
       "url": "https://njt.jog.gov.hu/jogszabaly/2011-4301-02-00.5",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "id-constitution-art35",
+      "title": "Constitution of the Republic of Indonesia, Article 35",
+      "publisher": "House of Representatives of Indonesia",
+      "sourceType": "law",
+      "url": "https://berkas.dpr.go.id/jdih/uud-1945-uu-mk-uu-mk-english.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "il-basic-law-nation-state-art2",
+      "title": "Basic Law: Israel as the Nation State of the Jewish People, Article 2",
+      "publisher": "Knesset",
+      "sourceType": "law",
+      "url": "https://main.knesset.gov.il/EN/activity/documents/BasicLawsPDF/BasicLawNationState.pdf",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "jo-royal-court-flag",
+      "title": "The Jordanian Flag and the National Anthem",
+      "publisher": "Royal Hashemite Court",
+      "sourceType": "government",
+      "url": "https://www.rhc.jo/en/the-jordanian-flag-and-the-national-anthem",
+      "accessedAt": "2026-09-24"
+    },
+    {
+      "id": "no-government-flag-regulations",
+      "title": "Norges flagg",
+      "publisher": "Government of Norway, Ministry of Foreign Affairs",
+      "sourceType": "government",
+      "url": "https://www.regjeringen.no/no/dep/ud/dep/diplomatiske-forbindelser-og-protokoll/norges-flagg-forskrift/id449230/",
       "accessedAt": "2026-09-24"
     }
   ],
@@ -10669,6 +10733,143 @@
         "similarityTags": [
           "horizontal_tricolor",
           "red_white_green"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "indonesia-national-flag",
+      "kind": "flag",
+      "countryId": "indonesia",
+      "nameRu": "Индонезия",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-indonesia-national",
+      "summaryRu": "Две равные горизонтальные полосы: красная сверху и белая снизу.",
+      "explanationRu": "Статья 35 Конституции Индонезии определяет национальный флаг как красно-белый. Полотнище составлено из красной верхней и белой нижней полос одинаковой высоты.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Верхняя полоса",
+          "valueRu": "Красная"
+        },
+        {
+          "labelRu": "Нижняя полоса",
+          "valueRu": "Белая"
+        }
+      ],
+      "sourceIds": [
+        "id-constitution-art35"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_bicolor",
+          "red_white"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "israel-state-flag",
+      "kind": "flag",
+      "countryId": "israel",
+      "nameRu": "Израиль",
+      "subtitleRu": "Государственный флаг",
+      "variantType": "state",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-israel-state",
+      "summaryRu": "Белое полотнище с двумя синими полосами и синей звездой Давида в центре.",
+      "explanationRu": "Основной закон Израиля описывает государственный флаг как белое полотнище с двумя синими полосами у краёв и синей звездой Давида в центре.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "В центре",
+          "valueRu": "Синяя звезда Давида"
+        },
+        {
+          "labelRu": "У краёв",
+          "valueRu": "Две синие полосы"
+        }
+      ],
+      "sourceIds": [
+        "il-basic-law-nation-state-art2"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "blue_white",
+          "central_star"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "jordan-national-flag",
+      "kind": "flag",
+      "countryId": "jordan",
+      "nameRu": "Иордания",
+      "subtitleRu": "Национальный флаг",
+      "variantType": "national",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-jordan-national",
+      "summaryRu": "Чёрная, белая и зелёная полосы с красным треугольником у древка и белой семиконечной звездой.",
+      "explanationRu": "Королевский двор Иордании описывает три горизонтальные полосы: чёрную, белую и зелёную. У древка находится красный треугольник с белой семиконечной звездой.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Полосы сверху вниз",
+          "valueRu": "Чёрная, белая, зелёная"
+        },
+        {
+          "labelRu": "У древка",
+          "valueRu": "Красный треугольник с белой семиконечной звездой"
+        }
+      ],
+      "sourceIds": [
+        "jo-royal-court-flag"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "horizontal_stripes",
+          "triangle",
+          "seven_point_star"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "norway-state-flag",
+      "kind": "flag",
+      "countryId": "norway",
+      "nameRu": "Норвегия",
+      "subtitleRu": "Государственный флаг",
+      "variantType": "state",
+      "isPrimaryStudyVariant": true,
+      "mediaId": "flag-norway-state",
+      "summaryRu": "Красный флаг с синим скандинавским крестом в белой кайме и раздвоенным свободным краем.",
+      "explanationRu": "Правительственные правила Норвегии описывают красный флаг с синим крестом, отделённым от красного поля белой каймой, и использование раздвоенного государственного варианта государственными органами.",
+      "symbols": [],
+      "facts": [
+        {
+          "labelRu": "Крест",
+          "valueRu": "Синий с белой каймой"
+        },
+        {
+          "labelRu": "Свободный край",
+          "valueRu": "Раздвоенный"
+        }
+      ],
+      "sourceIds": [
+        "no-government-flag-regulations"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "nordic_cross",
+          "split_tail"
         ]
       },
       "status": "published",
