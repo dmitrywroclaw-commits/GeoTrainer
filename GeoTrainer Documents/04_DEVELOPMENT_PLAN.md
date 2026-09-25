@@ -4,6 +4,8 @@
 
 Build a static-hosted PWA prototype that proves the product concept before adding backend infrastructure or large-scale content.
 
+The local food and architecture catalogs are exploratory draft content imported from the two editorial Markdown lists. Their local photos, attribution, and “Почему интересно” fields can be reviewed in Learn; image-based quiz questions wait for authoritative individual factual sources.
+
 ## 2. Development phases
 
 ### Phase 0 — Repository bootstrap

@@ -7,6 +7,8 @@ import { EntryCard, EmptyState, PageHeader, SourceBlock, kindLabel, kindPath } f
 import { Icon } from '../../components/Icon';
 import { MediaFrame } from '../../components/MediaFrame';
 import { flagMeaningHistory } from './flagCopy';
+import { travelCards } from '../../data/travelCards';
+import { TravelImage } from './TravelPages';
 
 const categories = [
   { kind: 'flag' as const, title: 'Флаги', description: 'Узнайте страны по символам на флагах.', teaser: 'Орёл, лист, звёзды и другие детали' },
@@ -42,6 +44,10 @@ export function LearnHome() {
         <div className="category-body"><span className="eyebrow">{objectCount(entries.length)}</span><h2>{category.title}</h2><p>{category.description}</p><span className="category-teaser">{category.teaser}</span></div>
       </Link>;
     })}</div>
+    <div className="category-grid travel-category-grid">{(['food', 'architecture'] as const).map(kind => <Link key={kind} className="category-card category-landmark" to={`/learn/${kind}`}>
+      <div className="category-visual"><TravelImage card={travelCards.byKind(kind)[0]}/></div>
+      <div className="category-body"><span className="eyebrow">{objectCount(travelCards.byKind(kind).length)}</span><h2>{kind === 'food' ? 'Еда мира' : 'Архитектура'}</h2><p>{kind === 'food' ? 'Необычные блюда и традиции.' : 'Известные здания и сооружения.'}</p></div>
+    </Link>)}</div>
     {(continueEntry || reviewCount > 0) && <div className="home-secondary">
       {continueEntry && <section><h2>Продолжить изучение</h2><Link className="inline-card" to={`/item/${continueEntry.id}`}>{continueEntry.nameRu}<span>Открыть карточку →</span></Link></section>}
       {reviewCount > 0 && <section><h2>Повторить ошибки</h2><Link className="inline-card" to="/mistakes">{objectCount(reviewCount)} для повторения<span>Перейти →</span></Link></section>}

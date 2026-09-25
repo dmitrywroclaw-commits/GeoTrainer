@@ -6,6 +6,8 @@ This document defines the functional and technical design for GeoTrainer v0.1.
 
 The prototype is a client-side PWA with structured local content and local progress persistence. No backend is required.
 
+The Learn screen also links to local draft catalogs for foods and architecture. These use structured records in `content/travel-cards.json`, local photos with the same aspect ratio as nature photos, media credits in `content/travel-media.json`, and a required “Почему интересно” field. Some ingredient or regional photos are explicitly labeled as illustrative. The catalogs remain outside quiz topics pending individual factual source review.
+
 ## 2. Technology stack
 
 Recommended stack:
