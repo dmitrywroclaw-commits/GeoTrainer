@@ -45,12 +45,12 @@ export function LearnHome() {
         <div className="category-visual"><MediaFrame media={media} alt="" /></div>
         <div className="category-body"><span className="eyebrow">{objectCount(entries.length)}</span><h2>{category.title}</h2><p>{category.description}</p><span className="category-teaser">{category.teaser}</span></div>
       </Link>;
-    })}</div>
-    <div className="category-grid travel-category-grid"><Link className="category-card category-border" to="/learn/borders">
+    })}
+    <Link className="category-card category-border" to="/learn/borders">
       <div className="category-visual"><MediaFrame media={borderRepository.map('switzerland', true)} alt="" /></div>
       <div className="category-body"><span className="eyebrow">{objectCount(borderRepository.allFacts().length)}</span><h2>Границы</h2><p>Изучайте соседей стран по картам.</p><span className="category-teaser">{borderRepository.allQuestions().length} вопросов для тренировки</span></div>
-    </Link></div>
-    <div className="category-grid travel-category-grid">{(['food', 'architecture'] as const).map(kind => <Link key={kind} className="category-card category-landmark" to={`/learn/${kind}`}>
+    </Link>
+    {(['food', 'architecture'] as const).map(kind => <Link key={kind} className="category-card category-landmark" to={`/learn/${kind}`}>
       <div className="category-visual"><TravelImage card={travelCards.byKind(kind)[0]}/></div>
       <div className="category-body"><span className="eyebrow">{objectCount(travelCards.byKind(kind).length)}</span><h2>{kind === 'food' ? 'Еда мира' : 'Архитектура'}</h2><p>{kind === 'food' ? 'Необычные блюда и традиции.' : 'Известные здания и сооружения.'}</p></div>
     </Link>)}</div>

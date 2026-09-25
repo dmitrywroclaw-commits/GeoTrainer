@@ -17,5 +17,5 @@
 .detail-location{margin:-12px 0 26px;padding:11px 14px;border-left:3px solid var(--accent);background:#eef5f2;color:#38474d;line-height:1.45}.detail-location strong{color:var(--ink)}
 @media(max-width:370px){.category-card{grid-template-columns:32% 1fr}.category-body{padding:13px}.category-body h2{font-size:19px}.mode-button{padding:11px}.mode-button span{font-size:12px}.progress-overview>div{padding:13px 9px}.progress-overview strong{font-size:23px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation-duration:.01ms!important;transition-duration:.01ms!important}}
-.travel-category-grid{margin-top:14px}.travel-detail .detail-media{min-width:0}
+.travel-detail .detail-media{min-width:0}
 .category-border .category-visual img,.grid-border .media-frame img{width:100%;height:100%;max-width:none;max-height:none;object-fit:contain;padding:0}.grid-border{grid-template-columns:repeat(2,minmax(0,1fr))}.border-detail .detail-media .media-frame{background:#f2f6f7}@media(min-width:768px){.grid-border{grid-template-columns:repeat(3,minmax(0,1fr))}}@media(min-width:1280px){.grid-border{grid-template-columns:repeat(4,minmax(0,1fr))}}
