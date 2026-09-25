@@ -3455,5 +3455,18 @@
     "rightsUrl": "https://www.agm.gov.bz/uploads/laws/67fe7b9cbe9a7_Act_No._09_of_2025_National_Symbols_Act__2025.pdf",
     "attributionText": "Caleb Moore / Wikimedia Commons; SVG-файл помечен Public domain. Дизайн флага защищён в Белизе статьёй 11 National Symbols Act 2025; статья 12 регулирует коммерческое и организационное использование, а для учебных заведений предусматривает исключение. Файл использован без изменений для образовательного разбора и распознавания флага; права на иное использование следует проверять отдельно.",
     "checkedAt": "2026-09-25"
+  },
+  {
+    "id": "landmark-great-blue-hole-belize",
+    "kind": "photo",
+    "localPath": "/media/landmarks/great-blue-hole.jpg",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Belize_Blue_Hole.jpg",
+    "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Belize_Blue_Hole.jpg",
+    "publisher": "Wikimedia Commons",
+    "author": "The TerraMar Project",
+    "license": "CC BY 2.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "attributionText": "The TerraMar Project / Wikimedia Commons, CC BY 2.0; локально сохранена уменьшенная копия 1280 px без иных изменений.",
+    "checkedAt": "2026-09-25"
   }
 ]

@@ -39,4 +39,36 @@ describe('content validation', () => {
     const duplicate = { ...plain, id: 'botswana-second-flag' };
     expect(() => validateReferences({ ...parsed, entries: [...parsed.entries, duplicate] }, assets)).toThrow(/Повторный флаг/);
   });
+
+  it('indexes visibly described flag motifs for catalog filters', () => {
+    const motifs = [
+      { pattern: /ор[её]л|орл|птиц|попугай|журавл|фрегат|кетцал/i, categories: ['bird'] },
+      { pattern: /зме[яёй]|дракон|(?<![а-яё])(?:лев|льва|львом|конь)(?![а-яё])|лошад|викун|кабан/i, categories: ['animal'] },
+      { pattern: /лист|дерев|кедр|ветв|венок|орех|пальм|лавр|нопаль|кактус/i, categories: ['plant', 'leaf', 'flower', 'tree'] },
+      { pattern: /зв[её]зд/i, categories: ['star', 'constellation'] },
+      { pattern: /солнц/i, categories: ['sun'] },
+      { pattern: /полумесяц|лун[аы]/i, categories: ['moon'] },
+      { pattern: /надпис|девиз|шахад/i, categories: ['inscription'] },
+    ];
+    for (const entry of librarySchema.parse(library).entries) {
+      if (entry.kind !== 'flag') continue;
+      for (const motif of motifs) {
+        if (motif.pattern.test(entry.summaryRu)) {
+          expect(entry.symbols.some(symbol => motif.categories.includes(symbol.category)), `${entry.id}: ${motif.pattern}`).toBe(true);
+        }
+      }
+    }
+  });
+
+  it('indexes symbolic discs and the Vatican arms by their documented meaning', () => {
+    const flags = librarySchema.parse(library).entries.filter(entry => entry.kind === 'flag');
+    for (const [id, category] of [
+      ['bangladesh-national-flag', 'sun'],
+      ['niger-national-flag', 'sun'],
+      ['palau-national-flag', 'moon'],
+      ['holy-see-state-flag', 'coat_of_arms'],
+    ]) {
+      expect(flags.find(entry => entry.id === id)?.symbols.some(symbol => symbol.category === category), id).toBe(true);
+    }
+  });
 });

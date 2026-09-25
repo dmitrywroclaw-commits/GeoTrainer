@@ -6,6 +6,9 @@ test('Learn → catalog → detail', async ({ page }) => {
   await expect(page.getByRole('heading', { name: 'Флаги' })).toBeVisible();
   await page.getByRole('link', { name: /Мексика/ }).first().click();
   await expect(page.getByRole('heading', { name: 'Мексика' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: 'Описание флага' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: 'Значение и история' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: 'Что означает' })).toHaveCount(0);
   await expect(page.getByRole('heading', { name: 'Источники и права' })).toBeVisible();
   await page.getByRole('button', { name: 'Открыть изображение крупнее' }).click();
   await expect(page.getByRole('dialog', { name: 'Просмотр изображения' })).toBeVisible();
@@ -18,7 +21,7 @@ test('new Bhutan flag card appears with its local illustration', async ({ page }
   await page.getByRole('textbox', { name: 'Поиск по каталогу' }).fill('Бутан');
   await page.getByRole('link', { name: /Бутан/ }).click();
   await expect(page.getByRole('heading', { name: 'Бутан' })).toBeVisible();
-  await expect(page.getByText(/Белый дракон — главный опознавательный знак/)).toBeVisible();
+  await expect(page.getByText(/Дракон Друк обозначает Бутан/)).toBeVisible();
   const image = page.getByRole('img', { name: 'Национальный флаг Бутан' });
   await expect(image).toBeVisible();
   await expect.poll(() => image.evaluate((element: HTMLImageElement) => element.naturalWidth)).toBeGreaterThan(0);
@@ -27,8 +30,35 @@ test('new Bhutan flag card appears with its local illustration', async ({ page }
 test('plain national flag shows facts and a local image', async ({ page }) => {
   await page.goto('/item/botswana-national-flag');
   await expect(page.getByRole('heading', { name: 'Ботсвана' })).toBeVisible();
-  await expect(page.getByRole('heading', { name: 'Ключевые факты' })).toBeVisible();
-  await expect(page.getByRole('heading', { name: 'Как узнать' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: 'Описание флага' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: 'Значение и история' })).toBeVisible();
+  const image = page.locator('.detail-media img').first();
+  await expect.poll(() => image.evaluate((element: HTMLImageElement) => element.naturalWidth)).toBeGreaterThan(0);
+});
+
+test('flag filters include documented motifs in newer cards', async ({ page }) => {
+  await page.goto('/learn/flags');
+  await page.getByRole('button', { name: 'Птицы' }).click();
+  await expect(page.getByRole('link', { name: /Уганда/ })).toBeVisible();
+  await page.getByRole('button', { name: 'Животные' }).click();
+  await expect(page.getByRole('link', { name: /Перу/ })).toBeVisible();
+  await page.getByRole('button', { name: 'Растения' }).click();
+  await expect(page.getByRole('link', { name: /Ливан/ })).toBeVisible();
+  await page.getByRole('button', { name: 'Звёзды' }).click();
+  await expect(page.getByRole('link', { name: /США/ })).toBeVisible();
+  await page.getByRole('button', { name: 'Солнце' }).click();
+  await expect(page.getByRole('link', { name: /Нигер/ })).toBeVisible();
+  await page.getByRole('button', { name: 'Луна' }).click();
+  await expect(page.getByRole('link', { name: /Палау/ })).toBeVisible();
+  await page.getByRole('button', { name: 'Гербы и эмблемы' }).click();
+  await expect(page.getByRole('link', { name: /Святой Престол/ })).toBeVisible();
+});
+
+test('Great Blue Hole card shows sourced facts and licensed photo', async ({ page }) => {
+  await page.goto('/item/great-blue-hole-belize');
+  await expect(page.getByRole('heading', { name: 'Большая голубая дыра' })).toBeVisible();
+  await expect(page.getByText(/125 м по данным исследования/)).toBeVisible();
+  await expect(page.getByText(/The TerraMar Project/)).toBeVisible();
   const image = page.locator('.detail-media img').first();
   await expect.poll(() => image.evaluate((element: HTMLImageElement) => element.naturalWidth)).toBeGreaterThan(0);
 });

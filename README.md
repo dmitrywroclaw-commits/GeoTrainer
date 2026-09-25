@@ -32,7 +32,7 @@ After the first deployment, check a direct visit to `/learn`, a quiz and progres
 
 ## Current content
 
-The current reviewed set has 27 entries: nine flags, nine coats of arms or emblems, and nine natural landmarks. The 18 entries per category target is the next prototype quality milestone. Full content production continues after that milestone until every eligible record in the complete country, extended entity, and natural-landmark registries is published; the final catalog has no predefined card limit.
+The current reviewed set includes 195 flags, 24 coats of arms or emblems, and 47 natural landmarks. The 79 eligible natural-landmark candidates are still being published in reviewed batches. Full content production continues until every eligible record in the country, extended entity, and natural-landmark registries has a published card.
 
 Content lives in `content/library.json`; image metadata lives in `content/media.json`. Images are saved under `public/media/`. `src/data/schema.ts` validates content and references when the app loads. Facts and rights links are shown on each detail page.
 

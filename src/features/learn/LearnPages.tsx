@@ -6,6 +6,7 @@ import { useProgress } from '../../app/ProgressContext';
 import { EntryCard, EmptyState, PageHeader, SourceBlock, kindLabel, kindPath } from '../../components/Shared';
 import { Icon } from '../../components/Icon';
 import { MediaFrame } from '../../components/MediaFrame';
+import { flagMeaningHistory } from './flagCopy';
 
 const categories = [
   { kind: 'flag' as const, title: 'Флаги', description: 'Узнайте страны по символам на флагах.', teaser: 'Орёл, лист, звёзды и другие детали' },
@@ -14,7 +15,7 @@ const categories = [
 ];
 const paths = { flags: 'flag', emblems: 'emblem', nature: 'landmark' } as const;
 const filters: Record<Entry['kind'], { label: string; value: string }[]> = {
-  flag: [{ label: 'Все', value: 'all' }, { label: 'Птицы', value: 'bird' }, { label: 'Животные', value: 'animal' }, { label: 'Растения', value: 'plant' }, { label: 'Звёзды', value: 'star' }, { label: 'Надписи', value: 'inscription' }],
+  flag: [{ label: 'Все', value: 'all' }, { label: 'Птицы', value: 'bird' }, { label: 'Животные', value: 'animal' }, { label: 'Растения', value: 'plant' }, { label: 'Звёзды', value: 'star' }, { label: 'Солнце', value: 'sun' }, { label: 'Луна', value: 'moon' }, { label: 'Гербы и эмблемы', value: 'coat_of_arms' }, { label: 'Надписи', value: 'inscription' }],
   emblem: [{ label: 'Все', value: 'all' }, { label: 'Птицы', value: 'bird' }, { label: 'Животные', value: 'animal' }, { label: 'Растения', value: 'plant' }, { label: 'Цветы', value: 'flower' }],
   landmark: [{ label: 'Все', value: 'all' }, { label: 'Каньоны', value: 'canyon' }, { label: 'Вулканы', value: 'volcano' }, { label: 'Водопады', value: 'waterfall' }, { label: 'Озёра', value: 'lake' }, { label: 'Реки и дельты', value: 'river' }, { label: 'Острова', value: 'island' }, { label: 'Рифы и чудеса', value: 'natural_wonder' }, { label: 'Скалы', value: 'geological_formation' }],
 };
@@ -58,7 +59,7 @@ export function CatalogPage() {
     const query = search.trim().toLocaleLowerCase('ru');
     return contentRepository.byKind(kind).filter(entry => {
       const text = [entry.nameRu, entry.subtitleRu, entry.summaryRu, ...(entry.kind === 'landmark' ? [] : entry.symbols.map(x => x.nameRu))].join(' ').toLocaleLowerCase('ru');
-      return (!query || text.includes(query)) && (filter === 'all' || (entry.kind === 'landmark' ? entry.landmarkType === filter : entry.symbols.some(x => x.category === filter || (filter === 'star' && x.category === 'constellation') || (filter === 'plant' && ['leaf', 'flower', 'tree'].includes(x.category)))));
+      return (!query || text.includes(query)) && (filter === 'all' || (entry.kind === 'landmark' ? entry.landmarkType === filter : entry.symbols.some(x => x.category === filter || (filter === 'star' && x.category === 'constellation') || (filter === 'plant' && ['leaf', 'flower', 'tree'].includes(x.category)) || (filter === 'coat_of_arms' && x.category === 'emblem'))));
     });
   }, [kind, search, filter]);
   if (!kind) return <EmptyState title="Раздел не найден" description="Проверьте адрес страницы." action={{ to: '/learn', label: 'К разделам' }} />;
@@ -81,14 +82,19 @@ export function DetailPage() {
     <PageHeader title={entry.nameRu} description={entry.subtitleRu} back={{ to: `/learn/${kindPath[entry.kind]}`, label: kindLabel[entry.kind] }} />
     <div className={`detail-hero detail-${entry.kind}`}>
       <div className="detail-media"><MediaFrame media={media} alt={entry.kind === 'landmark' ? `Фотография: ${entry.nameRu}` : `${entry.subtitleRu} ${entry.nameRu}`} expandable/><p className="media-hint">Нажмите на изображение, чтобы рассмотреть крупнее.</p></div>
-      <div className="detail-main"><p className="lead">{entry.summaryRu}</p>
-        <section className="detail-section"><h2>{entry.kind === 'landmark' || (entry.kind === 'flag' && entry.symbols.length === 0) ? 'Ключевые факты' : 'Что изображено'}</h2>
-          {entry.kind === 'landmark' || (entry.kind === 'flag' && entry.symbols.length === 0) ? <dl className="facts">{entry.facts.map(fact => <div key={fact.labelRu}><dt>{fact.labelRu}</dt><dd>{fact.valueRu}</dd></div>)}</dl> : <ul className="symbol-list">{entry.symbols.map(symbol => <li key={symbol.nameRu}><strong>{symbol.nameRu}</strong>{symbol.meaningRu && <span>{symbol.meaningRu}</span>}</li>)}</ul>}
+      <div className="detail-main">{entry.kind !== 'flag' && <p className="lead">{entry.summaryRu}</p>}
+        {entry.kind === 'flag' ? <>
+          <section className="detail-section"><h2>Описание флага</h2><p>{entry.summaryRu}</p></section>
+          <section className="detail-section"><h2>Значение и история</h2><p>{flagMeaningHistory(entry)}</p></section>
+        </> : <>
+        <section className="detail-section"><h2>{entry.kind === 'landmark' ? 'Ключевые факты' : 'Что изображено'}</h2>
+          {entry.kind === 'landmark' ? <dl className="facts">{entry.facts.map(fact => <div key={fact.labelRu}><dt>{fact.labelRu}</dt><dd>{fact.valueRu}</dd></div>)}</dl> : <ul className="symbol-list">{entry.symbols.map(symbol => <li key={symbol.nameRu}><strong>{symbol.nameRu}</strong>{symbol.meaningRu && <span>{symbol.meaningRu}</span>}</li>)}</ul>}
         </section>
-        <section className="detail-section"><h2>{entry.kind === 'landmark' ? 'Почему известно' : entry.kind === 'flag' && entry.symbols.length === 0 ? 'Как узнать' : 'Что означает'}</h2><p>{entry.kind === 'landmark' ? entry.whyNotableRu : entry.explanationRu}</p></section>
+        <section className="detail-section"><h2>{entry.kind === 'landmark' ? 'Почему известно' : 'Что означает'}</h2><p>{entry.kind === 'landmark' ? entry.whyNotableRu : entry.explanationRu}</p></section>
+        </>}
       </div>
     </div>
-    <div className="detail-lower"><section className="detail-section"><h2>{entry.kind === 'landmark' ? 'Как образовалось' : 'История и контекст'}</h2><p>{entry.kind === 'landmark' ? entry.explanationRu : entry.historyRu ?? entry.explanationRu}</p></section>
+    <div className="detail-lower">{entry.kind !== 'flag' && <section className="detail-section"><h2>{entry.kind === 'landmark' ? 'Как образовалось' : 'История и контекст'}</h2><p>{entry.kind === 'landmark' ? entry.explanationRu : entry.historyRu ?? entry.explanationRu}</p></section>}
       <SourceBlock entry={entry}/>
       <Link className="button primary-button detail-cta" to={`/quiz/session?mode=${entry.kind}&count=5&focus=${entry.id}`}>Проверить себя</Link>
     </div>

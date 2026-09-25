@@ -151,6 +151,8 @@ interface FlagEntry {
 
 Publish exactly one national or state flag per country. Choose the more detailed official design; choose the national flag when equally detailed. Simple geometric designs are eligible and may have an empty `symbols` array.
 
+The flag catalog filters read visual categories from `symbols`. Record categories visible on the selected flag, including elements inside a coat of arms when an authoritative description supports them. A visual category does not by itself assert an official meaning; use `meaningStatus: 'unknown'` until a source supports an explanation. The detail page uses `summaryRu` for **Описание флага** and `explanationRu` plus available `historyRu` for **Значение и история**. The latter gives sourced symbolism and relevant history without repeating the visual description. An adoption date is optional; do not invent one. Distinguish documented official meanings from common interpretations.
+
 ## 7. Emblem model
 
 ```ts
