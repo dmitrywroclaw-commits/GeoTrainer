@@ -260,6 +260,8 @@ interface LandmarkEntry {
 }
 ```
 
+Published landmark cards use `regionRu` to show a clear location on the detail page. The first sentence of `summaryRu` names the object and says what kind of place it is. Explain unfamiliar geographical words when they first appear; for example, a delta is where a river branches into channels, and an estuary is where river water meets the sea. `explanationRu` adds how the place works or formed, while `whyNotableRu` says why it is worth learning about. Keep these fields distinct and write for a child encountering the place for the first time. Every new factual claim still needs support from the entry's sources.
+
 ## 9. Quiz metadata
 
 Quiz questions should normally be generated, not stored as fully independent records.

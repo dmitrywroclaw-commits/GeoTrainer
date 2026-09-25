@@ -21,6 +21,12 @@ describe('content validation', () => {
     expect(() => validateReferences(broken, assets)).toThrow(/изображение/);
   });
 
+  it('gives every published landmark an explicit location', () => {
+    const landmarks = librarySchema.parse(library).entries.filter(entry => entry.kind === 'landmark');
+    expect(landmarks).toHaveLength(79);
+    for (const entry of landmarks) expect(entry.regionRu?.trim(), entry.id).toBeTruthy();
+  });
+
   it('rejects published CC BY media without attribution text', () => {
     const parsed = librarySchema.parse(library);
     const assets = mediaSchema.parse(media).map(asset => asset.id === 'emblem-south-africa'

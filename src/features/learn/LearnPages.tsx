@@ -83,6 +83,7 @@ export function DetailPage() {
     <div className={`detail-hero detail-${entry.kind}`}>
       <div className="detail-media"><MediaFrame media={media} alt={entry.kind === 'landmark' ? `Фотография: ${entry.nameRu}` : `${entry.subtitleRu} ${entry.nameRu}`} expandable/><p className="media-hint">Нажмите на изображение, чтобы рассмотреть крупнее.</p></div>
       <div className="detail-main">{entry.kind !== 'flag' && <p className="lead">{entry.summaryRu}</p>}
+        {entry.kind === 'landmark' && entry.regionRu && <p className="detail-location"><strong>Где находится:</strong> {entry.regionRu}</p>}
         {entry.kind === 'flag' ? <>
           <section className="detail-section"><h2>Описание флага</h2><p>{entry.summaryRu}</p></section>
           <section className="detail-section"><h2>Значение и история</h2><p>{flagMeaningHistory(entry)}</p></section>
@@ -94,7 +95,7 @@ export function DetailPage() {
         </>}
       </div>
     </div>
-    <div className="detail-lower">{entry.kind !== 'flag' && <section className="detail-section"><h2>{entry.kind === 'landmark' ? 'Как образовалось' : 'История и контекст'}</h2><p>{entry.kind === 'landmark' ? entry.explanationRu : entry.historyRu ?? entry.explanationRu}</p></section>}
+    <div className="detail-lower">{entry.kind !== 'flag' && <section className="detail-section"><h2>{entry.kind === 'landmark' ? 'Подробнее об этом месте' : 'История и контекст'}</h2><p>{entry.kind === 'landmark' ? entry.explanationRu : entry.historyRu ?? entry.explanationRu}</p></section>}
       <SourceBlock entry={entry}/>
       <Link className="button primary-button detail-cta" to={`/quiz/session?mode=${entry.kind}&count=5&focus=${entry.id}`}>Проверить себя</Link>
     </div>
