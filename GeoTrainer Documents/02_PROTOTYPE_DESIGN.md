@@ -1,5 +1,7 @@
 # GeoTrainer — Prototype Design Document
 
+> Topic extension (2026-09-25): `08_BORDERS.md` specifies the reviewed Borders pilot. It uses a separate structured adjacency repository, local SVG maps, `/learn/borders`, `/border/:countryId`, and the existing quiz/progress storage. The four primary navigation destinations remain the same.
+
 ## 1. Purpose
 
 This document defines the functional and technical design for GeoTrainer v0.1.

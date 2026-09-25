@@ -6,3 +6,4 @@ test-results/
 *.tsbuildinfo
 .npm-cache/
 .vercel/
+artifacts/borders/

@@ -8,6 +8,7 @@ import { Icon } from '../../components/Icon';
 import { MediaFrame } from '../../components/MediaFrame';
 import { flagMeaningHistory } from './flagCopy';
 import { travelCards } from '../../data/travelCards';
+import { borderRepository } from '../../data/borders';
 import { TravelImage } from './TravelPages';
 
 const categories = [
@@ -33,6 +34,7 @@ export function LearnHome() {
   const { records } = useProgress();
   const latest = [...records].sort((a, b) => b.lastAttemptAt.localeCompare(a.lastAttemptAt))[0];
   const continueEntry = latest && contentRepository.byId(latest.contentId);
+  const continueBorder = latest && borderRepository.question(latest.contentId);
   const reviewCount = records.filter(x => x.wrongCount > 0).length;
   return <>
     <PageHeader title="Изучать" description="География, которую легко узнать и запомнить." />
@@ -44,12 +46,17 @@ export function LearnHome() {
         <div className="category-body"><span className="eyebrow">{objectCount(entries.length)}</span><h2>{category.title}</h2><p>{category.description}</p><span className="category-teaser">{category.teaser}</span></div>
       </Link>;
     })}</div>
+    <div className="category-grid travel-category-grid"><Link className="category-card category-border" to="/learn/borders">
+      <div className="category-visual"><MediaFrame media={borderRepository.map('switzerland', true)} alt="" /></div>
+      <div className="category-body"><span className="eyebrow">{objectCount(borderRepository.allFacts().length)}</span><h2>Границы</h2><p>Изучайте соседей стран по картам.</p><span className="category-teaser">{borderRepository.allQuestions().length} вопросов для тренировки</span></div>
+    </Link></div>
     <div className="category-grid travel-category-grid">{(['food', 'architecture'] as const).map(kind => <Link key={kind} className="category-card category-landmark" to={`/learn/${kind}`}>
       <div className="category-visual"><TravelImage card={travelCards.byKind(kind)[0]}/></div>
       <div className="category-body"><span className="eyebrow">{objectCount(travelCards.byKind(kind).length)}</span><h2>{kind === 'food' ? 'Еда мира' : 'Архитектура'}</h2><p>{kind === 'food' ? 'Необычные блюда и традиции.' : 'Известные здания и сооружения.'}</p></div>
     </Link>)}</div>
-    {(continueEntry || reviewCount > 0) && <div className="home-secondary">
+    {(continueEntry || continueBorder || reviewCount > 0) && <div className="home-secondary">
       {continueEntry && <section><h2>Продолжить изучение</h2><Link className="inline-card" to={`/item/${continueEntry.id}`}>{continueEntry.nameRu}<span>Открыть карточку →</span></Link></section>}
+      {continueBorder && <section><h2>Продолжить изучение</h2><Link className="inline-card" to={`/border/${continueBorder.countryId}`}>{borderRepository.countryName(continueBorder.countryId)}<span>Открыть карту →</span></Link></section>}
       {reviewCount > 0 && <section><h2>Повторить ошибки</h2><Link className="inline-card" to="/mistakes">{objectCount(reviewCount)} для повторения<span>Перейти →</span></Link></section>}
     </div>}
   </>;

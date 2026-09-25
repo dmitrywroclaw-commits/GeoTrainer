@@ -1,5 +1,7 @@
 # GeoTrainer — Development Plan
 
+> Topic extension (2026-09-25): `08_BORDERS.md` describes the reviewed Borders topic, map generation, source review and dispute exclusion. Further questions from the 95-question pool remain a separate editorial batch; no bulk import is authorized by their presence in the Markdown list.
+
 ## 1. Goal
 
 Build a static-hosted PWA prototype that proves the product concept before adding backend infrastructure or large-scale content.

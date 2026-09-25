@@ -1,5 +1,7 @@
 # GeoTrainer — Content Model and Editorial Schema
 
+> Topic extension (2026-09-25): published land-border facts and question specifications live in `content/borders.json`, with source and map provenance; see `08_BORDERS.md`. The adjacency record is the source of truth for quiz answers and learning text. Disputed land-border cases are excluded.
+
 ## 1. Purpose
 
 This document defines how educational content is stored so that the same records can power encyclopedia pages, quiz questions, answer explanations, filters, and source attribution.

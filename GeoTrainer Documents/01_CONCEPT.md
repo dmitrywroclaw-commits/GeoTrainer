@@ -1,5 +1,7 @@
 # GeoTrainer — Concept
 
+> Scope update (2026-09-25): a reviewed pilot for land-border geography is documented in `08_BORDERS.md`. It adds a Borders study catalog and quiz topic while retaining the client-only architecture and local progress model. The 95-question source list is a candidate pool; only reviewed, non-disputed questions are published.
+
 ## 1. Product summary
 
 **GeoTrainer** is a responsive Progressive Web App (PWA) for preparing for geography quizzes through a combination of a compact illustrated encyclopedia and interactive training.
