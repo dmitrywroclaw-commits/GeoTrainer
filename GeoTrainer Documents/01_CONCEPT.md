@@ -10,6 +10,8 @@ The product focuses on three content domains:
 2. National coats of arms, state emblems, and seals.
 3. Major natural and geographical landmarks.
 
+Two exploratory local catalogs also contain architecture and foods from the editorial lists. Their draft cards have locally stored images and per-image source, author, and rights metadata. They remain outside the image-recognition quiz while individual factual sources are pending.
+
 The core principle is **learn once, reuse everywhere**: every fact is stored as structured content and reused in encyclopedia pages, quiz questions, answer explanations, review sessions, and progress tracking.
 
 ## 2. Primary user goal

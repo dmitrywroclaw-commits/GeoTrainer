@@ -3,6 +3,7 @@ import { useEffect, useState } from 'react';
 import { ProgressProvider, useProgress } from './ProgressContext';
 import { Icon } from '../components/Icon';
 import { LearnHome, CatalogPage, DetailPage } from '../features/learn/LearnPages';
+import { TravelCatalogPage, TravelDetailPage } from '../features/learn/TravelPages';
 import { QuizSetupPage, QuizSessionPage } from '../features/quiz/QuizPages';
 import { MistakesPage, ProgressPage } from '../features/progress/ProgressPages';
 import { EmptyState, PageHeader } from '../components/Shared';
@@ -36,8 +37,11 @@ function AppShell() {
     <div className="main-area"><div className="main-inner"><Routes>
       <Route path="/" element={<Navigate to="/learn" replace/>}/>
       <Route path="/learn" element={<LearnHome/>}/>
+      <Route path="/learn/food" element={<TravelCatalogPage kind="food"/>}/>
+      <Route path="/learn/architecture" element={<TravelCatalogPage kind="architecture"/>}/>
       <Route path="/learn/:category" element={<CatalogPage/>}/>
       <Route path="/item/:id" element={<DetailPage/>}/>
+      <Route path="/travel/:id" element={<TravelDetailPage/>}/>
       <Route path="/quiz" element={<QuizSetupPage/>}/>
       <Route path="/quiz/session" element={<QuizSessionPage/>}/>
       <Route path="/mistakes" element={<MistakesPage/>}/>

@@ -29,6 +29,12 @@ reviewed
 published
 ```
 
+## Exploratory food and architecture cards
+
+`content/travel-cards.json` stores the two local editorial lists as draft records. Every record has a stable ID, kind (`food` or `architecture`), name, location, description, `whyInterestingRu`, source document name, `status: draft`, and a local `image` path. Food records also retain the source note; architecture records retain the structure type. `content/travel-media.json` stores each image's source page, original URL, author, license, rights link, attribution text, and whether the photo is an exact or illustrative match. The UI shows the photo and attribution, including a note for illustrative matches. These records are separate from the published encyclopedia schema and image quiz until authoritative individual factual sources are complete.
+
+Food `nameRu` begins with a readable Russian name. The international name from the editorial list follows in parentheses when it differs, so either form remains searchable. The stable ID continues to derive from the original list name.
+
 ## 3. Shared source model
 
 ```ts
