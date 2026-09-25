@@ -1,0 +1,77 @@
+{
+  "batch_id": "publish-036-tweed-and-golfo",
+  "sources": [
+    { "id": "gondwana-rainforests-unesco", "title": "Gondwana Rainforests of Australia", "publisher": "UNESCO World Heritage Centre", "url": "https://whc.unesco.org/en/list/368", "sourceType": "unesco", "accessedAt": "2026-09-25" },
+    { "id": "peninsula-valdes-unesco", "title": "Península Valdés", "publisher": "UNESCO World Heritage Centre", "url": "https://whc.unesco.org/en/list/937", "sourceType": "unesco", "accessedAt": "2026-09-25" }
+  ],
+  "media": [
+    {
+      "id": "photo-tweed-caldera", "kind": "photo", "localPath": "/media/landmarks/tweed-caldera.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:The_Tweed_Valley_Caldera.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/The_Tweed_Valley_Caldera.jpg",
+      "publisher": "Wikimedia Commons", "author": "Graden Dare", "rightsHolder": "Graden Dare",
+      "license": "CC BY-SA 4.0", "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attributionText": "Graden Dare / Wikimedia Commons, CC BY-SA 4.0; уменьшено до 1280 px по ширине.", "checkedAt": "2026-09-25"
+    },
+    {
+      "id": "photo-wollumbin-mount-warning", "kind": "photo", "localPath": "/media/landmarks/wollumbin-mount-warning.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Mount_Warning.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Mount_Warning.jpg",
+      "publisher": "Wikimedia Commons", "author": "M0les", "rightsHolder": "M0les",
+      "license": "CC BY-SA 2.0", "rightsUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "attributionText": "M0les / Wikimedia Commons, CC BY-SA 2.0; без изменений.", "checkedAt": "2026-09-25"
+    },
+    {
+      "id": "photo-golfo-nuevo", "kind": "photo", "localPath": "/media/landmarks/golfo-nuevo.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Puerto_Pir%C3%A1mides_y_Golfo_Nuevo.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Puerto_Pir%C3%A1mides_y_Golfo_Nuevo.jpg",
+      "publisher": "Wikimedia Commons", "author": "Raulhoracio (указан на странице файла)", "rightsHolder": "Raulhoracio (по заявлению на странице файла)",
+      "license": "Public domain", "rightsUrl": "https://commons.wikimedia.org/wiki/File:Puerto_Pir%C3%A1mides_y_Golfo_Nuevo.jpg",
+      "attributionText": "Raulhoracio / Wikimedia Commons, Public domain; уменьшено до 1280 px по ширине.", "checkedAt": "2026-09-25"
+    }
+  ],
+  "entries": [
+    {
+      "id": "tweed-caldera", "kind": "landmark", "countryIds": ["australia"], "nameRu": "Кальдера Твид",
+      "subtitleRu": "Эрозионная кальдера древнего щитового вулкана", "landmarkType": "geological_formation",
+      "regionRu": "Граница Нового Южного Уэльса и Квинсленда, Австралия", "mediaId": "photo-tweed-caldera",
+      "summaryRu": "Широкую долину окружают горные хребты; вдалеке возвышается Волламбин — центральный массив бывшего вулкана.",
+      "explanationRu": "Кальдера Твид образовалась при разрушении древнего щитового вулкана. ЮНЕСКО отмечает её крупные размеры, центральный массив Волламбин и то, что эрозия вскрыла глубокие породы. На панораме видны долина и дуга окружающих гор.",
+      "whyNotableRu": "Один из выразительных примеров эрозионной кальдеры внутри объекта Всемирного наследия «Гондванские влажные леса Австралии».",
+      "facts": [
+        { "labelRu": "Тип", "valueRu": "Эрозионная кальдера щитового вулкана" },
+        { "labelRu": "Центральный массив", "valueRu": "Волламбин (Маунт-Уорнинг)" }
+      ],
+      "sourceIds": ["gondwana-rainforests-unesco"], "quizHints": { "similarityTags": ["caldera", "volcanic", "valley", "australia"] },
+      "status": "published", "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "wollumbin-mount-warning", "kind": "landmark", "countryIds": ["australia"], "nameRu": "Гора Волламбин (Маунт-Уорнинг)",
+      "subtitleRu": "Центральный массив кальдеры Твид", "landmarkType": "mountain",
+      "regionRu": "Новый Южный Уэльс, Австралия", "mediaId": "photo-wollumbin-mount-warning",
+      "summaryRu": "Зубчатая вершина Волламбин поднимается над лесистыми склонами и долинами на северо-востоке Нового Южного Уэльса.",
+      "explanationRu": "Гора — сохранившийся центральный массив древнего вулкана Твид. ЮНЕСКО выделяет Волламбин как заметную часть эрозионной кальдеры. На снимке вершина видна на дальнем плане слева от центра.",
+      "whyNotableRu": "Отдельно названная вершина, по которой можно узнать центральную часть кальдеры Твид.",
+      "facts": [
+        { "labelRu": "Другое название", "valueRu": "Маунт-Уорнинг (Mt Warning)" },
+        { "labelRu": "Геологический контекст", "valueRu": "Центральный массив кальдеры Твид" }
+      ],
+      "sourceIds": ["gondwana-rainforests-unesco"], "quizHints": { "similarityTags": ["mountain", "volcanic", "caldera", "australia"] },
+      "status": "published", "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "golfo-nuevo", "kind": "landmark", "countryIds": ["argentina"], "nameRu": "Залив Нуэво",
+      "subtitleRu": "Защищённый залив у полуострова Вальдес", "landmarkType": "other",
+      "regionRu": "Провинция Чубут, Аргентина", "mediaId": "photo-golfo-nuevo",
+      "summaryRu": "Спокойная вода залива лежит между светлыми обрывами полуострова Вальдес; на переднем плане виден берег Пуэрто-Пирамидес.",
+      "explanationRu": "Залив Нуэво расположен к югу от полуострова Вальдес и защищён его берегами от открытой Атлантики. По данным ЮНЕСКО, эти воды важны для размножения и выращивания детёнышей южных гладких китов. Животные появляются здесь сезонно.",
+      "whyNotableRu": "Одна из ключевых акваторий объекта Всемирного наследия «Полуостров Вальдес», связанная с охраной южных гладких китов.",
+      "facts": [
+        { "labelRu": "Где находится", "valueRu": "К югу от полуострова Вальдес" },
+        { "labelRu": "Природное значение", "valueRu": "Сезонная акватория для южных гладких китов" }
+      ],
+      "sourceIds": ["peninsula-valdes-unesco"], "quizHints": { "similarityTags": ["bay", "coast", "whales", "argentina"] },
+      "status": "published", "verifiedAt": "2026-09-25"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "batch_id": "publish-039-belize-yardie",
+  "sources": [
+    { "id": "yardie-creek-dbca-wa", "title": "Yardie Creek", "publisher": "Western Australia Department of Biodiversity, Conservation and Attractions", "url": "https://exploreparks.dbca.wa.gov.au/site/yardie-creek", "sourceType": "government", "accessedAt": "2026-09-25" }
+  ],
+  "media": [
+    {
+      "id": "photo-lighthouse-reef-atoll", "kind": "photo", "localPath": "/media/landmarks/lighthouse-reef-atoll.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Lighthouse_Reef_Belize.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Lighthouse_Reef_Belize.jpg",
+      "publisher": "Wikimedia Commons", "author": "Jesse Allen, NASA Earth Observatory", "rightsHolder": "NASA",
+      "license": "Public domain", "rightsUrl": "https://commons.wikimedia.org/wiki/File:Lighthouse_Reef_Belize.jpg",
+      "attributionText": "Jesse Allen / NASA Earth Observatory / Wikimedia Commons, Public domain; уменьшено до 1280 px по ширине.", "checkedAt": "2026-09-25"
+    },
+    {
+      "id": "photo-half-moon-caye", "kind": "photo", "localPath": "/media/landmarks/half-moon-caye.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Half_moon_caye_Belize_(20770101324).jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Half_moon_caye_Belize_%2820770101324%29.jpg",
+      "publisher": "Wikimedia Commons", "author": "dronepicr", "rightsHolder": "dronepicr",
+      "license": "CC BY 2.0", "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "attributionText": "dronepicr / Wikimedia Commons, CC BY 2.0; уменьшено до 1280 px по ширине.", "checkedAt": "2026-09-25"
+    },
+    {
+      "id": "photo-yardie-creek-gorge", "kind": "photo", "localPath": "/media/landmarks/yardie-creek-gorge.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Yardie_Creek%2C_Cape_Range_NP.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Yardie_Creek%2C_Cape_Range_NP.jpg",
+      "publisher": "Wikimedia Commons", "author": "Crobe12", "rightsHolder": "Crobe12",
+      "license": "CC BY-SA 4.0", "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attributionText": "Crobe12 / Wikimedia Commons, CC BY-SA 4.0; уменьшено до 1280 px по ширине.", "checkedAt": "2026-09-25"
+    }
+  ],
+  "entries": [
+    {
+      "id": "lighthouse-reef-atoll", "kind": "landmark", "countryIds": ["belize"], "nameRu": "Атолл Лайтхаус",
+      "subtitleRu": "Коралловый атолл у побережья Белиза", "landmarkType": "other",
+      "regionRu": "Карибское море, Белиз", "mediaId": "photo-lighthouse-reef-atoll",
+      "summaryRu": "На спутниковом снимке светлая кольцевая полоса рифа окружает мелководную лагуну; в северной части выделяется тёмный круг Большой Голубой дыры.",
+      "explanationRu": "Лайтхаус — один из атоллов рифовой системы Белиза. Кольцо кораллового рифа отделяет мелководную лагуну от открытого Карибского моря. Внутри атолла расположена Большая Голубая дыра, но сам атолл значительно шире этой отдельной впадины.",
+      "whyNotableRu": "Один из атоллов, названных ЮНЕСКО при описании Барьерного рифа Белиза.",
+      "facts": [
+        { "labelRu": "Тип", "valueRu": "Коралловый атолл" },
+        { "labelRu": "Известный объект внутри", "valueRu": "Большая Голубая дыра" }
+      ],
+      "sourceIds": ["belize-barrier-reef-unesco"], "quizHints": { "similarityTags": ["atoll", "reef", "lagoon", "belize"] },
+      "status": "published", "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "half-moon-caye", "kind": "landmark", "countryIds": ["belize"], "nameRu": "Остров Хаф-Мун-Кей",
+      "subtitleRu": "Низкий остров на атолле Лайтхаус", "landmarkType": "island",
+      "regionRu": "Атолл Лайтхаус, Белиз", "mediaId": "photo-half-moon-caye",
+      "summaryRu": "Низкий песчаный берег переходит в полосу пальм и другой прибрежной растительности; справа видна прозрачная мелководная вода.",
+      "explanationRu": "Хаф-Мун-Кей — небольшой остров на атолле Лайтхаус. ЮНЕСКО включает его в число охраняемых участков рифовой системы Белиза и отмечает колонию красноногих олуш на острове.",
+      "whyNotableRu": "Островной природный памятник в составе объекта Всемирного наследия «Барьерный риф Белиза».",
+      "facts": [
+        { "labelRu": "Где расположен", "valueRu": "На атолле Лайтхаус" },
+        { "labelRu": "Птицы", "valueRu": "Колония красноногих олуш" }
+      ],
+      "sourceIds": ["belize-barrier-reef-unesco"], "quizHints": { "similarityTags": ["island", "caye", "reef", "belize"] },
+      "status": "published", "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "yardie-creek-gorge", "kind": "landmark", "countryIds": ["australia"], "nameRu": "Ущелье Ярди-Крик",
+      "subtitleRu": "Красные скалы у водотока Ярди-Крик", "landmarkType": "gorge",
+      "regionRu": "Национальный парк Кейп-Рейндж, Западная Австралия", "mediaId": "photo-yardie-creek-gorge",
+      "summaryRu": "Светлая вода проходит вдоль крутой красноватой скальной стены; на уступах растёт редкий кустарник.",
+      "explanationRu": "Ущелье прорезает известняковые породы национального парка Кейп-Рейндж. Служба парков Западной Австралии описывает его вертикальные красные стены и водоток, по которому можно осмотреть ущелье с лодки. Поблизости расположено побережье Нингалу.",
+      "whyNotableRu": "Отдельный узнаваемый ландшафт наземной части региона Нингалу.",
+      "facts": [
+        { "labelRu": "Парк", "valueRu": "Кейп-Рейндж" },
+        { "labelRu": "Что видно", "valueRu": "Вода и красные скальные стены" }
+      ],
+      "sourceIds": ["yardie-creek-dbca-wa", "ningaloo-coast-unesco"], "quizHints": { "similarityTags": ["gorge", "creek", "limestone", "australia"] },
+      "status": "published", "verifiedAt": "2026-09-25"
+    }
+  ]
+}

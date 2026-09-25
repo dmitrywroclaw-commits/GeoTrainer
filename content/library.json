@@ -3853,6 +3853,142 @@
       "sourceType": "government",
       "accessedAt": "2026-09-25",
       "supports": "Исторический государственный флаг с Витисом и закон 2004 года."
+    },
+    {
+      "id": "gondwana-rainforests-unesco",
+      "title": "Gondwana Rainforests of Australia",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/368",
+      "sourceType": "unesco",
+      "accessedAt": "2026-09-25"
+    },
+    {
+      "id": "peninsula-valdes-unesco",
+      "title": "Península Valdés",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/937",
+      "sourceType": "unesco",
+      "accessedAt": "2026-09-25"
+    },
+    {
+      "id": "yardie-creek-dbca-wa",
+      "title": "Yardie Creek",
+      "publisher": "Western Australia Department of Biodiversity, Conservation and Attractions",
+      "url": "https://exploreparks.dbca.wa.gov.au/site/yardie-creek",
+      "sourceType": "government",
+      "accessedAt": "2026-09-25"
+    },
+    {
+      "id": "three-sisters-walk-nsw-parks",
+      "title": "Three Sisters walk",
+      "publisher": "NSW National Parks and Wildlife Service",
+      "url": "https://www.nationalparks.nsw.gov.au/things-to-do/walking-tracks/three-sisters-walk",
+      "sourceType": "national_park",
+      "accessedAt": "2026-09-25"
+    },
+    {
+      "id": "atlantic-forest-southeast-unesco",
+      "title": "Atlantic Forest South-East Reserves",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/893",
+      "sourceType": "unesco",
+      "accessedAt": "2026-09-25"
+    },
+    {
+      "id": "pantanal-conservation-unesco",
+      "title": "Pantanal Conservation Area",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/999",
+      "sourceType": "unesco",
+      "accessedAt": "2026-09-25"
+    },
+    {
+      "id": "noel-kempff-unesco",
+      "title": "Noel Kempff Mercado National Park",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/967",
+      "sourceType": "unesco",
+      "accessedAt": "2026-09-25"
+    },
+    {
+      "id": "noel-kempff-fan-guide",
+      "title": "Biodiversidad del Parque Nacional Noel Kempff Mercado: Información general del parque",
+      "publisher": "Fundación Amigos de la Naturaleza",
+      "url": "https://assets.publishing.service.gov.uk/media/57a08cd9e5274a27b2001491/R7475_-_InforGeneral-1A.pdf",
+      "sourceType": "other_authoritative",
+      "accessedAt": "2026-09-25"
+    },
+    {
+      "id": "los-alerces-argentina-parks",
+      "title": "Parque Nacional Los Alerces",
+      "publisher": "Administración de Parques Nacionales de Argentina",
+      "url": "https://www.argentina.gob.ar/node/154134",
+      "sourceType": "national_park",
+      "accessedAt": "2026-09-25"
+    },
+    {
+      "id": "wet-tropics-queensland-unesco",
+      "title": "Wet Tropics of Queensland",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/486",
+      "sourceType": "unesco",
+      "accessedAt": "2026-09-25"
+    },
+    {
+      "id": "riversleigh-trail-qld-parks",
+      "title": "Riversleigh fossil trail",
+      "publisher": "Queensland Parks and Wildlife Service",
+      "url": "https://parks.qld.gov.au/parks/boodjamulla-lawn-hill/journeys/riversleigh-fossil-trail",
+      "sourceType": "national_park",
+      "accessedAt": "2026-09-25"
+    },
+    {
+      "id": "piccaninny-creek-wa-parks",
+      "title": "Piccaninny Creek Area",
+      "publisher": "Western Australia Department of Biodiversity, Conservation and Attractions",
+      "url": "https://exploreparks.dbca.wa.gov.au/site/piccaninny-creek-area",
+      "sourceType": "national_park",
+      "accessedAt": "2026-09-25"
+    },
+    {
+      "id": "mandu-mandu-wa-parks",
+      "title": "Mandu Mandu Gorge",
+      "publisher": "Western Australia Department of Biodiversity, Conservation and Attractions",
+      "url": "https://exploreparks.dbca.wa.gov.au/site/mandu-mandu-gorge",
+      "sourceType": "national_park",
+      "accessedAt": "2026-09-25"
+    },
+    {
+      "id": "charles-knife-wa-parks",
+      "title": "Charles Knife Canyon",
+      "publisher": "Western Australia Department of Biodiversity, Conservation and Attractions",
+      "url": "https://exploreparks.dbca.wa.gov.au/site/charles-knife-canyon",
+      "sourceType": "national_park",
+      "accessedAt": "2026-09-25"
+    },
+    {
+      "id": "pendjari-river-unesco-doc",
+      "title": "Benin – Pendjari National Park",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/106509",
+      "sourceType": "unesco",
+      "accessedAt": "2026-09-25"
+    },
+    {
+      "id": "wap-complex-unesco",
+      "title": "W-Arly-Pendjari Complex",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/749",
+      "sourceType": "unesco",
+      "accessedAt": "2026-09-25"
+    },
+    {
+      "id": "rio-itenez-unesco-nomination",
+      "title": "Noel Kempff Mercado National Park nomination",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/1075",
+      "sourceType": "unesco",
+      "accessedAt": "2026-09-25"
     }
   ],
   "entries": [
@@ -10602,7 +10738,10 @@
           "category": "sun",
           "meaningRu": "Оранжевый круг обозначает солнце.",
           "meaningStatus": "well_sourced",
-          "sourceIds": ["ne-government-niger-flag", "cia-factbook-flags-2020"]
+          "sourceIds": [
+            "ne-government-niger-flag",
+            "cia-factbook-flags-2020"
+          ]
         }
       ],
       "facts": [
@@ -13004,7 +13143,10 @@
           "category": "moon",
           "meaningRu": "Жёлтый диск изображает полную луну.",
           "meaningStatus": "well_sourced",
-          "sourceIds": ["pw-government-flag", "cia-factbook-flags-2020"]
+          "sourceIds": [
+            "pw-government-flag",
+            "cia-factbook-flags-2020"
+          ]
         }
       ],
       "facts": [
@@ -14318,7 +14460,10 @@
           "category": "coat_of_arms",
           "meaningRu": "Ключи святого Петра и папская тиара обозначают папскую власть.",
           "meaningStatus": "well_sourced",
-          "sourceIds": ["va-fundamental-law-2023-flag", "cia-factbook-flags-2020"]
+          "sourceIds": [
+            "va-fundamental-law-2023-flag",
+            "cia-factbook-flags-2020"
+          ]
         }
       ],
       "facts": [
@@ -15713,6 +15858,1233 @@
           "karst",
           "reef",
           "marine_geology"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "tweed-caldera",
+      "kind": "landmark",
+      "countryIds": [
+        "australia"
+      ],
+      "nameRu": "Кальдера Твид",
+      "subtitleRu": "Эрозионная кальдера древнего щитового вулкана",
+      "landmarkType": "geological_formation",
+      "regionRu": "Граница Нового Южного Уэльса и Квинсленда, Австралия",
+      "mediaId": "photo-tweed-caldera",
+      "summaryRu": "Широкую долину окружают горные хребты; вдалеке возвышается Волламбин — центральный массив бывшего вулкана.",
+      "explanationRu": "Кальдера Твид образовалась при разрушении древнего щитового вулкана. ЮНЕСКО отмечает её крупные размеры, центральный массив Волламбин и то, что эрозия вскрыла глубокие породы. На панораме видны долина и дуга окружающих гор.",
+      "whyNotableRu": "Один из выразительных примеров эрозионной кальдеры внутри объекта Всемирного наследия «Гондванские влажные леса Австралии».",
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Эрозионная кальдера щитового вулкана"
+        },
+        {
+          "labelRu": "Центральный массив",
+          "valueRu": "Волламбин (Маунт-Уорнинг)"
+        }
+      ],
+      "sourceIds": [
+        "gondwana-rainforests-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "caldera",
+          "volcanic",
+          "valley",
+          "australia"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "wollumbin-mount-warning",
+      "kind": "landmark",
+      "countryIds": [
+        "australia"
+      ],
+      "nameRu": "Гора Волламбин (Маунт-Уорнинг)",
+      "subtitleRu": "Центральный массив кальдеры Твид",
+      "landmarkType": "mountain",
+      "regionRu": "Новый Южный Уэльс, Австралия",
+      "mediaId": "photo-wollumbin-mount-warning",
+      "summaryRu": "Зубчатая вершина Волламбин поднимается над лесистыми склонами и долинами на северо-востоке Нового Южного Уэльса.",
+      "explanationRu": "Гора — сохранившийся центральный массив древнего вулкана Твид. ЮНЕСКО выделяет Волламбин как заметную часть эрозионной кальдеры. На снимке вершина видна на дальнем плане слева от центра.",
+      "whyNotableRu": "Отдельно названная вершина, по которой можно узнать центральную часть кальдеры Твид.",
+      "facts": [
+        {
+          "labelRu": "Другое название",
+          "valueRu": "Маунт-Уорнинг (Mt Warning)"
+        },
+        {
+          "labelRu": "Геологический контекст",
+          "valueRu": "Центральный массив кальдеры Твид"
+        }
+      ],
+      "sourceIds": [
+        "gondwana-rainforests-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "mountain",
+          "volcanic",
+          "caldera",
+          "australia"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "golfo-nuevo",
+      "kind": "landmark",
+      "countryIds": [
+        "argentina"
+      ],
+      "nameRu": "Залив Нуэво",
+      "subtitleRu": "Защищённый залив у полуострова Вальдес",
+      "landmarkType": "other",
+      "regionRu": "Провинция Чубут, Аргентина",
+      "mediaId": "photo-golfo-nuevo",
+      "summaryRu": "Спокойная вода залива лежит между светлыми обрывами полуострова Вальдес; на переднем плане виден берег Пуэрто-Пирамидес.",
+      "explanationRu": "Залив Нуэво расположен к югу от полуострова Вальдес и защищён его берегами от открытой Атлантики. По данным ЮНЕСКО, эти воды важны для размножения и выращивания детёнышей южных гладких китов. Животные появляются здесь сезонно.",
+      "whyNotableRu": "Одна из ключевых акваторий объекта Всемирного наследия «Полуостров Вальдес», связанная с охраной южных гладких китов.",
+      "facts": [
+        {
+          "labelRu": "Где находится",
+          "valueRu": "К югу от полуострова Вальдес"
+        },
+        {
+          "labelRu": "Природное значение",
+          "valueRu": "Сезонная акватория для южных гладких китов"
+        }
+      ],
+      "sourceIds": [
+        "peninsula-valdes-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "bay",
+          "coast",
+          "whales",
+          "argentina"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "kgari-island",
+      "kind": "landmark",
+      "countryIds": [
+        "australia"
+      ],
+      "nameRu": "Остров К’гари",
+      "subtitleRu": "Песчаный остров у побережья Квинсленда",
+      "landmarkType": "island",
+      "regionRu": "Побережье Квинсленда, Австралия",
+      "mediaId": "photo-kgari-island",
+      "summaryRu": "На снимке с мыса Сэнди-Кейп виден склон светлой песчаной дюны; за ним тянется полоса островной растительности.",
+      "explanationRu": "К’гари сложен песчаными дюнами у восточного побережья Австралии. ЮНЕСКО отмечает необычное соседство движущихся дюн, высоких влажных лесов, растущих на песке, и пресноводных дюнных озёр. Прежнее название острова — Фрейзер.",
+      "whyNotableRu": "Крупнейший песчаный остров мира по данным ЮНЕСКО и объект Всемирного наследия с разнообразными песчаными ландшафтами.",
+      "facts": [
+        {
+          "labelRu": "Прежнее название",
+          "valueRu": "Остров Фрейзер"
+        },
+        {
+          "labelRu": "Особенности",
+          "valueRu": "Дюны, леса на песке и пресноводные дюнные озёра"
+        }
+      ],
+      "sourceIds": [
+        "kgari-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "island",
+          "sand",
+          "dunes",
+          "australia"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "lord-howe-coral-reef",
+      "kind": "landmark",
+      "countryIds": [
+        "australia"
+      ],
+      "nameRu": "Коралловый риф острова Лорд-Хау",
+      "subtitleRu": "Рифы у океанического острова в Тасмановом море",
+      "landmarkType": "natural_wonder",
+      "regionRu": "Остров Лорд-Хау, Тасманово море, Австралия",
+      "mediaId": "photo-lord-howe-coral-reef",
+      "summaryRu": "Под водой у Северной бухты видны светлые образования рифа и морской ёж на каменистом дне.",
+      "explanationRu": "Коралловый риф окружает часть острова Лорд-Хау и входит в морскую зону объекта Всемирного наследия. ЮНЕСКО описывает его как самый южный настоящий коралловый риф мира и подчёркивает соседство тропических и умеренных морских видов.",
+      "whyNotableRu": "Редкая переходная зона между коралловыми и водорослевыми рифами на южной границе распространения коралловых экосистем.",
+      "facts": [
+        {
+          "labelRu": "Где расположен",
+          "valueRu": "У острова Лорд-Хау в Тасмановом море"
+        },
+        {
+          "labelRu": "Природная особенность",
+          "valueRu": "Соседство тропических и умеренных морских видов"
+        }
+      ],
+      "sourceIds": [
+        "lord-howe-island-group-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "reef",
+          "coral",
+          "ocean",
+          "australia"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "peninsula-valdes",
+      "kind": "landmark",
+      "countryIds": [
+        "argentina"
+      ],
+      "nameRu": "Полуостров Вальдес",
+      "subtitleRu": "Полуостров на атлантическом побережье Патагонии",
+      "landmarkType": "geological_formation",
+      "regionRu": "Провинция Чубут, Аргентина",
+      "mediaId": "photo-peninsula-valdes",
+      "summaryRu": "На спутниковом снимке полуостров выступает в Атлантический океан; по обе стороны перешейка видны защищённые заливы.",
+      "explanationRu": "Вальдес — выступающая в Атлантику часть патагонского побережья. Его заливы, включая Нуэво к югу, дают защищённые воды для размножения и выращивания детёнышей южных гладких китов. Суша и прибрежные воды входят в объект Всемирного наследия ЮНЕСКО.",
+      "whyNotableRu": "Заметная форма побережья Патагонии и важное место для морских млекопитающих.",
+      "facts": [
+        {
+          "labelRu": "Расположение",
+          "valueRu": "Атлантическое побережье провинции Чубут"
+        },
+        {
+          "labelRu": "Южный залив",
+          "valueRu": "Нуэво"
+        }
+      ],
+      "sourceIds": [
+        "peninsula-valdes-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "peninsula",
+          "coast",
+          "whales",
+          "argentina"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "fernando-de-noronha-island",
+      "kind": "landmark",
+      "countryIds": [
+        "brazil"
+      ],
+      "nameRu": "Остров Фернанду-ди-Норонья",
+      "subtitleRu": "Главный остров океанического архипелага",
+      "landmarkType": "island",
+      "regionRu": "Южная Атлантика у побережья Бразилии",
+      "mediaId": "photo-fernando-de-noronha-island",
+      "summaryRu": "С воздуха видны длинная береговая линия с песчаными бухтами и характерные скалистые вершины острова.",
+      "explanationRu": "Фернанду-ди-Норонья — главный остров одноимённого архипелага. По описанию ЮНЕСКО, его скалистые вершины поднимаются над океаном как часть подводной вулканической гряды. Остров и прилегающие воды входят в морской национальный парк.",
+      "whyNotableRu": "Ключевая часть объекта Всемирного наследия «Бразильские атлантические острова» с прибрежными экосистемами и колониями морских птиц.",
+      "facts": [
+        {
+          "labelRu": "Происхождение",
+          "valueRu": "Вершины подводной вулканической гряды"
+        },
+        {
+          "labelRu": "Охрана",
+          "valueRu": "Морской национальный парк"
+        }
+      ],
+      "sourceIds": [
+        "brazil-atlantic-islands-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "island",
+          "volcanic",
+          "coast",
+          "brazil"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "baia-dos-golfinhos",
+      "kind": "landmark",
+      "countryIds": [
+        "brazil"
+      ],
+      "nameRu": "Залив Гольфиньюс",
+      "subtitleRu": "Бухта дельфинов у Фернанду-ди-Норонья",
+      "landmarkType": "other",
+      "regionRu": "Остров Фернанду-ди-Норонья, Бразилия",
+      "mediaId": "photo-baia-dos-golfinhos",
+      "summaryRu": "С обзорной точки видна дуга тёмного скалистого берега, обрамляющая синюю воду залива.",
+      "explanationRu": "Название Baía dos Golfinhos означает «залив дельфинов». ЮНЕСКО выделяет эту бухту из-за большой местной популяции дельфинов. Видимое на снимке защищённое прибрежное пространство относится к охраняемой морской зоне архипелага.",
+      "whyNotableRu": "Один из наиболее важных для дельфинов участков объекта Всемирного наследия Фернанду-ди-Норонья.",
+      "facts": [
+        {
+          "labelRu": "Название",
+          "valueRu": "Baía dos Golfinhos — залив дельфинов"
+        },
+        {
+          "labelRu": "Природное значение",
+          "valueRu": "Местная популяция дельфинов"
+        }
+      ],
+      "sourceIds": [
+        "brazil-atlantic-islands-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "bay",
+          "coast",
+          "dolphins",
+          "brazil"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "praia-do-sancho",
+      "kind": "landmark",
+      "countryIds": [
+        "brazil"
+      ],
+      "nameRu": "Пляж Саншу",
+      "subtitleRu": "Песчаная бухта острова Фернанду-ди-Норонья",
+      "landmarkType": "other",
+      "regionRu": "Остров Фернанду-ди-Норонья, Бразилия",
+      "mediaId": "photo-praia-do-sancho",
+      "summaryRu": "У подножия покрытого зеленью склона лежит светлый пляж; перед ним — прозрачная бирюзовая вода и скалистый мыс.",
+      "explanationRu": "Саншу — именованный пляж на главном острове архипелага Фернанду-ди-Норонья. ЮНЕСКО отдельно упоминает его среди выразительных прибрежных ландшафтов морского национального парка.",
+      "whyNotableRu": "Узнаваемая песчаная бухта внутри объекта Всемирного наследия «Бразильские атлантические острова».",
+      "facts": [
+        {
+          "labelRu": "Местное название",
+          "valueRu": "Praia do Sancho"
+        },
+        {
+          "labelRu": "Тип объекта",
+          "valueRu": "Природный пляж в бухте"
+        }
+      ],
+      "sourceIds": [
+        "brazil-atlantic-islands-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "beach",
+          "bay",
+          "island",
+          "brazil"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "praia-do-leao",
+      "kind": "landmark",
+      "countryIds": [
+        "brazil"
+      ],
+      "nameRu": "Пляж Леан",
+      "subtitleRu": "Пляж с прибрежной скалой на Фернанду-ди-Норонья",
+      "landmarkType": "other",
+      "regionRu": "Остров Фернанду-ди-Норонья, Бразилия",
+      "mediaId": "photo-praia-do-leao",
+      "summaryRu": "Широкая песчаная полоса тянется вдоль подножия холмов; напротив берега из воды выступает скала.",
+      "explanationRu": "Praia do Leão — отдельный пляж на острове Фернанду-ди-Норонья. ЮНЕСКО называет его в описании природной красоты охраняемого архипелага. Открытая береговая линия и близкая скала помогают отличить его от пляжа Саншу.",
+      "whyNotableRu": "Именованный природный пляж морского национального парка Фернанду-ди-Норонья.",
+      "facts": [
+        {
+          "labelRu": "Местное название",
+          "valueRu": "Praia do Leão"
+        },
+        {
+          "labelRu": "Тип объекта",
+          "valueRu": "Открытый океанский пляж"
+        }
+      ],
+      "sourceIds": [
+        "brazil-atlantic-islands-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "beach",
+          "coast",
+          "island",
+          "brazil"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "lighthouse-reef-atoll",
+      "kind": "landmark",
+      "countryIds": [
+        "belize"
+      ],
+      "nameRu": "Атолл Лайтхаус",
+      "subtitleRu": "Коралловый атолл у побережья Белиза",
+      "landmarkType": "other",
+      "regionRu": "Карибское море, Белиз",
+      "mediaId": "photo-lighthouse-reef-atoll",
+      "summaryRu": "На спутниковом снимке светлая кольцевая полоса рифа окружает мелководную лагуну; в северной части выделяется тёмный круг Большой Голубой дыры.",
+      "explanationRu": "Лайтхаус — один из атоллов рифовой системы Белиза. Кольцо кораллового рифа отделяет мелководную лагуну от открытого Карибского моря. Внутри атолла расположена Большая Голубая дыра, но сам атолл значительно шире этой отдельной впадины.",
+      "whyNotableRu": "Один из атоллов, названных ЮНЕСКО при описании Барьерного рифа Белиза.",
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Коралловый атолл"
+        },
+        {
+          "labelRu": "Известный объект внутри",
+          "valueRu": "Большая Голубая дыра"
+        }
+      ],
+      "sourceIds": [
+        "belize-barrier-reef-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "atoll",
+          "reef",
+          "lagoon",
+          "belize"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "half-moon-caye",
+      "kind": "landmark",
+      "countryIds": [
+        "belize"
+      ],
+      "nameRu": "Остров Хаф-Мун-Кей",
+      "subtitleRu": "Низкий остров на атолле Лайтхаус",
+      "landmarkType": "island",
+      "regionRu": "Атолл Лайтхаус, Белиз",
+      "mediaId": "photo-half-moon-caye",
+      "summaryRu": "Низкий песчаный берег переходит в полосу пальм и другой прибрежной растительности; справа видна прозрачная мелководная вода.",
+      "explanationRu": "Хаф-Мун-Кей — небольшой остров на атолле Лайтхаус. ЮНЕСКО включает его в число охраняемых участков рифовой системы Белиза и отмечает колонию красноногих олуш на острове.",
+      "whyNotableRu": "Островной природный памятник в составе объекта Всемирного наследия «Барьерный риф Белиза».",
+      "facts": [
+        {
+          "labelRu": "Где расположен",
+          "valueRu": "На атолле Лайтхаус"
+        },
+        {
+          "labelRu": "Птицы",
+          "valueRu": "Колония красноногих олуш"
+        }
+      ],
+      "sourceIds": [
+        "belize-barrier-reef-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "island",
+          "caye",
+          "reef",
+          "belize"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "yardie-creek-gorge",
+      "kind": "landmark",
+      "countryIds": [
+        "australia"
+      ],
+      "nameRu": "Ущелье Ярди-Крик",
+      "subtitleRu": "Красные скалы у водотока Ярди-Крик",
+      "landmarkType": "gorge",
+      "regionRu": "Национальный парк Кейп-Рейндж, Западная Австралия",
+      "mediaId": "photo-yardie-creek-gorge",
+      "summaryRu": "Светлая вода проходит вдоль крутой красноватой скальной стены; на уступах растёт редкий кустарник.",
+      "explanationRu": "Ущелье прорезает известняковые породы национального парка Кейп-Рейндж. Служба парков Западной Австралии описывает его вертикальные красные стены и водоток, по которому можно осмотреть ущелье с лодки. Поблизости расположено побережье Нингалу.",
+      "whyNotableRu": "Отдельный узнаваемый ландшафт наземной части региона Нингалу.",
+      "facts": [
+        {
+          "labelRu": "Парк",
+          "valueRu": "Кейп-Рейндж"
+        },
+        {
+          "labelRu": "Что видно",
+          "valueRu": "Вода и красные скальные стены"
+        }
+      ],
+      "sourceIds": [
+        "yardie-creek-dbca-wa",
+        "ningaloo-coast-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "gorge",
+          "creek",
+          "limestone",
+          "australia"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "jamison-valley",
+      "kind": "landmark",
+      "countryIds": [
+        "australia"
+      ],
+      "nameRu": "Долина Джеймисон",
+      "subtitleRu": "Лесистая долина Голубых гор",
+      "landmarkType": "other",
+      "regionRu": "Новый Южный Уэльс, Австралия",
+      "mediaId": "photo-jamison-valley",
+      "summaryRu": "Обширная лесистая долина уходит к горизонту между высокими песчаниковыми уступами Голубых гор.",
+      "explanationRu": "Долина Джеймисон лежит в Голубых горах и открывается с обзорных точек у скал Три сестры. Служба парков Нового Южного Уэльса описывает её характерную голубоватую дымку и вид в направлении горы Маунт-Солитари. На снимке хорошо виден масштаб лесистой долины и её скалистые борта.",
+      "whyNotableRu": "Один из наиболее узнаваемых панорамных ландшафтов Голубых гор, входящих в объект Всемирного наследия ЮНЕСКО.",
+      "facts": [
+        {
+          "labelRu": "Где находится",
+          "valueRu": "Голубые горы, Новый Южный Уэльс"
+        },
+        {
+          "labelRu": "Известная обзорная точка",
+          "valueRu": "У скал Три сестры"
+        }
+      ],
+      "sourceIds": [
+        "three-sisters-walk-nsw-parks",
+        "greater-blue-mountains-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "valley",
+          "sandstone",
+          "forest",
+          "australia"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "casa-de-pedra-cave",
+      "kind": "landmark",
+      "countryIds": [
+        "brazil"
+      ],
+      "nameRu": "Пещера Каза-ди-Педра",
+      "subtitleRu": "Пещера с огромным входным порталом",
+      "landmarkType": "cave",
+      "regionRu": "Штат Сан-Паулу, Бразилия",
+      "mediaId": "photo-casa-de-pedra-cave",
+      "summaryRu": "С лесистого склона виден тёмный высокий проём пещеры в светлой скальной стене противоположного холма.",
+      "explanationRu": "Каза-ди-Педра расположена среди карстовых ландшафтов Атлантического леса на юго-востоке Бразилии. ЮНЕСКО выделяет её огромный входной портал. На обзорном снимке хорошо заметен контраст между скалой, проёмом и окружающим влажным лесом.",
+      "whyNotableRu": "Одна из отдельно названных пещер объекта Всемирного наследия «Резерваты Атлантического леса юго-востока Бразилии».",
+      "facts": [
+        {
+          "labelRu": "Отличительная черта",
+          "valueRu": "Высокий входной портал"
+        },
+        {
+          "labelRu": "Ландшафт",
+          "valueRu": "Карст среди Атлантического леса"
+        }
+      ],
+      "sourceIds": [
+        "atlantic-forest-southeast-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "cave",
+          "karst",
+          "forest",
+          "brazil"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "santana-cave-brazil",
+      "kind": "landmark",
+      "countryIds": [
+        "brazil"
+      ],
+      "nameRu": "Пещера Сантана",
+      "subtitleRu": "Карстовая пещера в парке Альту-Рибейра",
+      "landmarkType": "cave",
+      "regionRu": "Штат Сан-Паулу, Бразилия",
+      "mediaId": "photo-santana-cave-brazil",
+      "summaryRu": "В освещённом зале пещеры видны каменные натёки, неровные своды и мелкая вода у выхода.",
+      "explanationRu": "Сантана — отдельная пещера карстового района Альту-Рибейра. ЮНЕСКО отмечает её богатое натёчное убранство среди сотен пещер Атлантического леса. Минеральные отложения формируются при прохождении воды через известняк.",
+      "whyNotableRu": "Одна из пещер, прямо названных ЮНЕСКО при описании природной красоты юго-восточных резерватов Атлантического леса.",
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Карстовая пещера"
+        },
+        {
+          "labelRu": "Особенность",
+          "valueRu": "Натёчные образования"
+        }
+      ],
+      "sourceIds": [
+        "atlantic-forest-southeast-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "cave",
+          "karst",
+          "speleothem",
+          "brazil"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "iguape-cananeia-paranagua-estuary",
+      "kind": "landmark",
+      "countryIds": [
+        "brazil"
+      ],
+      "nameRu": "Эстуарный комплекс Игуапи — Кананея — Паранагуа",
+      "subtitleRu": "Система лагун и эстуариев южного побережья",
+      "landmarkType": "other",
+      "regionRu": "Побережье штатов Сан-Паулу и Парана, Бразилия",
+      "mediaId": "photo-iguape-cananeia-paranagua-estuary",
+      "summaryRu": "С воздуха видны широкая водная протока, песчаные отмели и низкие зелёные берега эстуария у Кананеи.",
+      "explanationRu": "Комплекс связывает прибрежные лагуны, устья рек и мангровые участки между Игуапи, Кананеей и Паранагуа. ЮНЕСКО относит его к разнообразным экосистемам юго-восточных резерватов Атлантического леса. Снимок показывает участок у Кананеи, а не весь комплекс целиком.",
+      "whyNotableRu": "Именованная эстуарная система на стыке лесных и морских экосистем объекта Всемирного наследия.",
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Система эстуариев и лагун"
+        },
+        {
+          "labelRu": "Показанный участок",
+          "valueRu": "Эстуарий Кананеи"
+        }
+      ],
+      "sourceIds": [
+        "atlantic-forest-southeast-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "estuary",
+          "lagoon",
+          "mangrove",
+          "brazil"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "amolar-mountain-range",
+      "kind": "landmark",
+      "countryIds": [
+        "brazil"
+      ],
+      "nameRu": "Горный хребет Амолар",
+      "subtitleRu": "Горный край затопляемой равнины Пантанал",
+      "landmarkType": "mountain",
+      "regionRu": "Запад Пантанала, Бразилия",
+      "mediaId": "photo-amolar-mountain-range",
+      "summaryRu": "За широкой водой и зелёной полосой берега поднимается длинный гребень хребта Амолар.",
+      "explanationRu": "Хребет Амолар образует резкую границу с сезонно затопляемыми равнинами Пантанала. ЮНЕСКО выделяет этот переход как важный природный градиент: возвышенности и водно-болотные участки дают разные условия для животных и растений в течение года.",
+      "whyNotableRu": "Крупная форма рельефа внутри охраняемого участка Пантанала, контрастирующая с окружающими водно-болотными равнинами.",
+      "facts": [
+        {
+          "labelRu": "Ландшафт",
+          "valueRu": "Хребет у затопляемой равнины"
+        },
+        {
+          "labelRu": "Регион",
+          "valueRu": "Пантанал"
+        }
+      ],
+      "sourceIds": [
+        "pantanal-conservation-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "mountain",
+          "wetland",
+          "river",
+          "brazil"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "millennial-alerce-forest",
+      "kind": "landmark",
+      "countryIds": [
+        "argentina"
+      ],
+      "nameRu": "Тысячелетний алерсовый лес",
+      "subtitleRu": "Древние деревья у озера Менендес",
+      "landmarkType": "other",
+      "regionRu": "Национальный парк Лос-Алерсес, провинция Чубут, Аргентина",
+      "mediaId": "photo-millennial-alerce-forest",
+      "summaryRu": "Снизу виден широкий ствол старого алерсе: светлая волокнистая кора поднимается к высокой кроне среди других деревьев.",
+      "explanationRu": "Тысячелетний алерсовый лес расположен у северного рукава озера Менендес. ЮНЕСКО описывает влажный лес с папоротниками, мхами и лианами и выделяет старейшее дерево возрастом около 2600 лет. На снимке показан отдельный старый алерсе из национального парка, а не панорама всего леса.",
+      "whyNotableRu": "Один из наиболее ценных участков сохранившегося патагонского леса в объекте Всемирного наследия Лос-Алерсес.",
+      "facts": [
+        {
+          "labelRu": "Место",
+          "valueRu": "Северный рукав озера Менендес"
+        },
+        {
+          "labelRu": "Порода дерева",
+          "valueRu": "Алерсе (Fitzroya cupressoides)"
+        }
+      ],
+      "sourceIds": [
+        "los-alerces-unesco",
+        "los-alerces-argentina-parks"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "forest",
+          "tree",
+          "patagonia",
+          "argentina"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "arcoiris-waterfall-bolivia",
+      "kind": "landmark",
+      "countryIds": [
+        "bolivia"
+      ],
+      "nameRu": "Водопад Аркоирис",
+      "subtitleRu": "Водопад в парке Ноэль-Кемпфф-Меркадо",
+      "landmarkType": "waterfall",
+      "regionRu": "Департамент Санта-Крус, Боливия",
+      "mediaId": "photo-arcoiris-waterfall-bolivia",
+      "summaryRu": "Широкая струя воды падает с лесистого уступа в тёмную чашу; рядом возвышается отдельный скальный останец.",
+      "explanationRu": "Аркоирис — именованный водопад национального парка Ноэль-Кемпфф-Меркадо. Справочник фонда, участвовавшего в управлении парком, показывает его как отдельный объект. Вода спускается с уступа плато к более низким лесным участкам.",
+      "whyNotableRu": "Один из выразительных водопадов охраняемой территории ЮНЕСКО на северо-востоке Боливии.",
+      "facts": [
+        {
+          "labelRu": "Парк",
+          "valueRu": "Ноэль-Кемпфф-Меркадо"
+        },
+        {
+          "labelRu": "Что видно",
+          "valueRu": "Падение воды с лесистого уступа"
+        }
+      ],
+      "sourceIds": [
+        "noel-kempff-fan-guide",
+        "noel-kempff-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "waterfall",
+          "plateau",
+          "forest",
+          "bolivia"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "raine-island",
+      "kind": "landmark",
+      "countryIds": [
+        "australia"
+      ],
+      "nameRu": "Остров Рейн",
+      "subtitleRu": "Коралловый остров у Большого Барьерного рифа",
+      "landmarkType": "island",
+      "regionRu": "Большой Барьерный риф, Квинсленд, Австралия",
+      "mediaId": "photo-raine-island",
+      "summaryRu": "Низкий песчаный остров покрыт травой; на берегу стоит каменный маяк, а над ним кружат морские птицы.",
+      "explanationRu": "Остров Рейн — отдельный коралловый остров в северной части Большого Барьерного рифа. Он известен как место гнездования зелёных морских черепах и морских птиц. На историческом снимке видна часть острова с маяком, а не весь риф.",
+      "whyNotableRu": "Важное место размножения морских животных в акватории Всемирного наследия Большого Барьерного рифа.",
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Коралловый остров"
+        },
+        {
+          "labelRu": "Что видно",
+          "valueRu": "Маяк и колония морских птиц"
+        }
+      ],
+      "sourceIds": [
+        "great-barrier-reef-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "island",
+          "coral",
+          "turtles",
+          "australia"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "hinchinbrook-channel",
+      "kind": "landmark",
+      "countryIds": [
+        "australia"
+      ],
+      "nameRu": "Пролив Хинчинбрук",
+      "subtitleRu": "Мангровые протоки у тропического острова",
+      "landmarkType": "other",
+      "regionRu": "Влажные тропики Квинсленда, Австралия",
+      "mediaId": "photo-hinchinbrook-channel",
+      "summaryRu": "Широкая водная протока огибает покрытые манграми островки; позади поднимаются горы острова Хинчинбрук.",
+      "explanationRu": "Пролив отделяет остров Хинчинбрук от материкового побережья. ЮНЕСКО выделяет его извилистые протоки и обширные мангровые заросли как характерную часть пейзажа Влажных тропиков Квинсленда.",
+      "whyNotableRu": "Здесь сочетаются водные каналы, мангры и горные тропические леса рядом с Большим Барьерным рифом.",
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Прибрежный пролив"
+        },
+        {
+          "labelRu": "Растительность",
+          "valueRu": "Мангровые заросли"
+        }
+      ],
+      "sourceIds": [
+        "wet-tropics-queensland-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "channel",
+          "mangrove",
+          "island",
+          "australia"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "wooramel-seagrass-bank",
+      "kind": "landmark",
+      "countryIds": [
+        "australia"
+      ],
+      "nameRu": "Морская травяная банка Вурамел",
+      "subtitleRu": "Подводные луга залива Шарк",
+      "landmarkType": "other",
+      "regionRu": "Залив Шарк, Западная Австралия",
+      "mediaId": "photo-wooramel-seagrass-bank",
+      "summaryRu": "На спутниковом снимке виден залив Шарк с полуостровами и бирюзовыми мелководьями вдоль восточного берега; под водой здесь расположена банка Вурамел.",
+      "explanationRu": "Банка Вурамел — обширный участок подводных лугов морских трав в заливе Шарк. ЮНЕСКО связывает с ней накопление известковых песков. Спутниковый обзор показывает район банки, но не позволяет различить отдельные растения.",
+      "whyNotableRu": "Одна из крупнейших морских травяных банок и ключевая часть природной ценности залива Шарк.",
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Подводные луга морских трав"
+        },
+        {
+          "labelRu": "Расположение",
+          "valueRu": "Восточная часть залива Шарк"
+        }
+      ],
+      "sourceIds": [
+        "shark-bay-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "seagrass",
+          "marine",
+          "bay",
+          "australia"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "riversleigh-d-site",
+      "kind": "landmark",
+      "countryIds": [
+        "australia"
+      ],
+      "nameRu": "Ископаемый участок D в Риверслее",
+      "subtitleRu": "Известняковый выход с древними окаменелостями",
+      "landmarkType": "geological_formation",
+      "regionRu": "Риверслей, Квинсленд, Австралия",
+      "mediaId": "photo-riversleigh-d-site",
+      "summaryRu": "На сухом травянистом склоне виден невысокий выход красноватого известняка; рядом растёт дерево.",
+      "explanationRu": "Участок D — часть ископаемых местонахождений Риверслея. Известняковые отложения сохранили останки древних животных. Государственная служба парков Квинсленда выделяет здесь короткую тропу, по которой можно увидеть ископаемые на поверхности породы.",
+      "whyNotableRu": "Конкретное доступное место в составе объекта Всемирного наследия «Ископаемые местонахождения млекопитающих Австралии».",
+      "facts": [
+        {
+          "labelRu": "Порода",
+          "valueRu": "Известняк"
+        },
+        {
+          "labelRu": "Что находят",
+          "valueRu": "Окаменелости древних животных"
+        }
+      ],
+      "sourceIds": [
+        "australian-fossil-sites-unesco",
+        "riversleigh-trail-qld-parks"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "fossils",
+          "limestone",
+          "geology",
+          "australia"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "heard-island",
+      "kind": "landmark",
+      "countryIds": [
+        "australia"
+      ],
+      "nameRu": "Остров Херд",
+      "subtitleRu": "Ледниковый вулканический остров",
+      "landmarkType": "island",
+      "regionRu": "Южный Индийский океан, внешняя территория Австралии",
+      "mediaId": "photo-heard-island",
+      "summaryRu": "На спутниковом снимке виден покрытый снегом и льдом остров с широкими ледниковыми склонами среди тёмного океана.",
+      "explanationRu": "Херд — крупный остров одноимённой австралийской внешней территории. Его рельеф определяет действующий вулкан Биг-Бен, а значительную часть поверхности занимают ледники. ЮНЕСКО охраняет остров вместе с островами Макдональд как почти не затронутую человеком субантарктическую природу.",
+      "whyNotableRu": "Редкое сочетание действующего вулканизма и ледников на удалённом острове.",
+      "facts": [
+        {
+          "labelRu": "Происхождение",
+          "valueRu": "Вулканическое"
+        },
+        {
+          "labelRu": "Поверхность",
+          "valueRu": "Снег и ледники"
+        }
+      ],
+      "sourceIds": [
+        "heard-mcdonald-islands-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "island",
+          "volcano",
+          "glacier",
+          "australia"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "mcdonald-island",
+      "kind": "landmark",
+      "countryIds": [
+        "australia"
+      ],
+      "nameRu": "Остров Макдональд",
+      "subtitleRu": "Малый вулканический остров в южном океане",
+      "landmarkType": "island",
+      "regionRu": "Южный Индийский океан, внешняя территория Австралии",
+      "mediaId": "photo-mcdonald-island",
+      "summaryRu": "С орбиты виден небольшой серый остров с неровной береговой линией, окружённый тёмной океанской водой и облаками.",
+      "explanationRu": "Макдональд — меньший из двух основных островов охраняемого ЮНЕСКО архипелага. После возобновления вулканической активности форма и площадь острова заметно изменились. На снимке показан сам остров, а не соседний Херд.",
+      "whyNotableRu": "Изменяющийся вулканический остров в почти нетронутой субантарктической экосистеме.",
+      "facts": [
+        {
+          "labelRu": "Происхождение",
+          "valueRu": "Вулканическое"
+        },
+        {
+          "labelRu": "Архипелаг",
+          "valueRu": "Херд и Макдональд"
+        }
+      ],
+      "sourceIds": [
+        "heard-mcdonald-islands-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "island",
+          "volcano",
+          "ocean",
+          "australia"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "piccaninny-creek",
+      "kind": "landmark",
+      "countryIds": [
+        "australia"
+      ],
+      "nameRu": "Ручей Пикканинни",
+      "subtitleRu": "Каменистое русло среди полосатых куполов",
+      "landmarkType": "river",
+      "regionRu": "Пурнулулу, Западная Австралия",
+      "mediaId": "photo-piccaninny-creek",
+      "summaryRu": "Сухое каменистое русло пролегает между округлыми полосатыми песчаниковыми скалами массива Бангл-Бангл.",
+      "explanationRu": "Пикканинни-Крик пересекает южную часть национального парка Пурнулулу и направляется к реке Орд. Его русло хорошо заметно рядом с песчаниковыми куполами. На снимке показан ручей в сухой сезон; это не отдельное ущелье Пикканинни.",
+      "whyNotableRu": "Именованный водоток, по которому легко увидеть контраст каменистого русла и куполов Бангл-Бангл.",
+      "facts": [
+        {
+          "labelRu": "Парк",
+          "valueRu": "Пурнулулу"
+        },
+        {
+          "labelRu": "Направление стока",
+          "valueRu": "К реке Орд"
+        }
+      ],
+      "sourceIds": [
+        "piccaninny-creek-wa-parks",
+        "purnululu-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "creek",
+          "sandstone",
+          "purnululu",
+          "australia"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "mandu-mandu-gorge",
+      "kind": "landmark",
+      "countryIds": [
+        "australia"
+      ],
+      "nameRu": "Ущелье Манду-Манду",
+      "subtitleRu": "Сухое ущелье Кейп-Рейндж",
+      "landmarkType": "gorge",
+      "regionRu": "Кейп-Рейндж, Западная Австралия",
+      "mediaId": "photo-mandu-mandu-gorge",
+      "summaryRu": "Между двумя каменистыми склонами тянется широкое сухое дно ущелья; вдали видна полоса побережья.",
+      "explanationRu": "Манду-Манду — именованное ущелье национального парка Кейп-Рейндж. Его сухое русло и склоны позволяют рассмотреть рельеф прибрежного известнякового хребта. Оно расположено в районе природного объекта ЮНЕСКО «Побережье Нингалу».",
+      "whyNotableRu": "Доступный обзор известняковых склонов Кейп-Рейндж рядом с морским рифом Нингалу.",
+      "facts": [
+        {
+          "labelRu": "Форма рельефа",
+          "valueRu": "Ущелье"
+        },
+        {
+          "labelRu": "Парк",
+          "valueRu": "Кейп-Рейндж"
+        }
+      ],
+      "sourceIds": [
+        "mandu-mandu-wa-parks",
+        "ningaloo-coast-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "gorge",
+          "limestone",
+          "ningaloo",
+          "australia"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "charles-knife-canyon",
+      "kind": "landmark",
+      "countryIds": [
+        "australia"
+      ],
+      "nameRu": "Каньон Чарльз-Найф",
+      "subtitleRu": "Гребни восточного склона Кейп-Рейндж",
+      "landmarkType": "canyon",
+      "regionRu": "Кейп-Рейндж, Западная Австралия",
+      "mediaId": "photo-charles-knife-canyon",
+      "summaryRu": "Узкий каменистый гребень разделяет глубокие тенистые ложбины; на горизонте виден плоский край хребта.",
+      "explanationRu": "Чарльз-Найф — один из именованных каньонов восточной стороны Кейп-Рейндж. Государственная служба парков описывает здесь резкий скалистый рельеф и обзорные точки над хребтом. Место относится к району Всемирного наследия «Побережье Нингалу».",
+      "whyNotableRu": "Позволяет увидеть изрезанный сухой рельеф Кейп-Рейндж с высоты.",
+      "facts": [
+        {
+          "labelRu": "Форма рельефа",
+          "valueRu": "Каньон и скальные гребни"
+        },
+        {
+          "labelRu": "Парк",
+          "valueRu": "Кейп-Рейндж"
+        }
+      ],
+      "sourceIds": [
+        "charles-knife-wa-parks",
+        "ningaloo-coast-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "canyon",
+          "ridge",
+          "ningaloo",
+          "australia"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "laughing-bird-caye",
+      "kind": "landmark",
+      "countryIds": [
+        "belize"
+      ],
+      "nameRu": "Остров Лафинг-Бёрд-Кей",
+      "subtitleRu": "Песчаный остров Белизского барьерного рифа",
+      "landmarkType": "island",
+      "regionRu": "Карибское море, Белиз",
+      "mediaId": "photo-laughing-bird-caye",
+      "summaryRu": "Низкий остров с белым песчаным берегом и пальмами окружён прозрачной бирюзовой водой; справа видна небольшая постройка.",
+      "explanationRu": "Лафинг-Бёрд-Кей — отдельный остров у Белизского барьерного рифа. Он расположен внутри одноимённого национального парка, который входит в систему охраняемых участков Всемирного наследия ЮНЕСКО.",
+      "whyNotableRu": "Небольшой карибский остров в составе охраняемой рифовой системы Белиза.",
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Песчаный остров"
+        },
+        {
+          "labelRu": "Система",
+          "valueRu": "Белизский барьерный риф"
+        }
+      ],
+      "sourceIds": [
+        "belize-barrier-reef-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "island",
+          "coral",
+          "caribbean",
+          "belize"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "pendjari-river",
+      "kind": "landmark",
+      "countryIds": [
+        "benin"
+      ],
+      "nameRu": "Река Пенджари",
+      "subtitleRu": "Постоянный водоток северного Бенина",
+      "landmarkType": "river",
+      "regionRu": "Северо-запад Бенина",
+      "mediaId": "photo-pendjari-river",
+      "summaryRu": "Широкое мелководное русло проходит между густыми деревьями; у воды стоят белые цапли.",
+      "explanationRu": "Пенджари — постоянная река, давшая имя национальному парку. Документ ЮНЕСКО выделяет её как важный водоток у охраняемой территории. Река и прибрежная растительность входят в более широкую систему местообитаний комплекса W–Арли–Пенджари.",
+      "whyNotableRu": "Водный коридор среди саванн и галерейных лесов северного Бенина.",
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Постоянная река"
+        },
+        {
+          "labelRu": "Охраняемая территория",
+          "valueRu": "Парк Пенджари"
+        }
+      ],
+      "sourceIds": [
+        "pendjari-river-unesco-doc",
+        "wap-complex-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "river",
+          "forest",
+          "benin",
+          "pendjari"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "rio-itenez",
+      "kind": "landmark",
+      "countryIds": [
+        "bolivia",
+        "brazil"
+      ],
+      "nameRu": "Река Итенес",
+      "subtitleRu": "Пограничная река Боливии и Бразилии",
+      "landmarkType": "river",
+      "regionRu": "Граница Боливии и Бразилии",
+      "mediaId": "photo-rio-itenez",
+      "summaryRu": "Широкая спокойная река отражает тёплый свет неба; вдоль правого берега тянется тёмная полоса тропического леса.",
+      "explanationRu": "Итенес, известная в Бразилии как Гуапоре, течёт вдоль части границы Боливии и Бразилии. Документация ЮНЕСКО описывает пойменные экосистемы Итенеса и соседней реки Парагуа у парка Ноэль-Кемпфф-Меркадо. Снимок показывает реку, но не фиксирует точный участок относительно границы парка.",
+      "whyNotableRu": "Крупный водоток с сезонно изменяющимися поймами у охраняемых тропических лесов.",
+      "facts": [
+        {
+          "labelRu": "Другое название",
+          "valueRu": "Гуапоре"
+        },
+        {
+          "labelRu": "Страны",
+          "valueRu": "Боливия и Бразилия"
+        }
+      ],
+      "sourceIds": [
+        "rio-itenez-unesco-nomination",
+        "noel-kempff-unesco"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "river",
+          "amazon",
+          "bolivia",
+          "brazil"
         ]
       },
       "status": "published",

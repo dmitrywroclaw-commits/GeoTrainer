@@ -1,0 +1,32 @@
+{
+  "batch_id": "publish-040-jamison",
+  "sources": [
+    { "id": "three-sisters-walk-nsw-parks", "title": "Three Sisters walk", "publisher": "NSW National Parks and Wildlife Service", "url": "https://www.nationalparks.nsw.gov.au/things-to-do/walking-tracks/three-sisters-walk", "sourceType": "national_park", "accessedAt": "2026-09-25" }
+  ],
+  "media": [
+    {
+      "id": "photo-jamison-valley", "kind": "photo", "localPath": "/media/landmarks/jamison-valley.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Jamison_Valley%2C_Blue_Mountains%2C_Australia_-_Nov_2008.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Jamison_Valley%2C_Blue_Mountains%2C_Australia_-_Nov_2008.jpg",
+      "publisher": "Wikimedia Commons", "author": "Diliff", "rightsHolder": "Diliff",
+      "license": "CC BY-SA 3.0", "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "attributionText": "Diliff / Wikimedia Commons, CC BY-SA 3.0; уменьшено до 1280 px по ширине.", "checkedAt": "2026-09-25"
+    }
+  ],
+  "entries": [
+    {
+      "id": "jamison-valley", "kind": "landmark", "countryIds": ["australia"], "nameRu": "Долина Джеймисон",
+      "subtitleRu": "Лесистая долина Голубых гор", "landmarkType": "other",
+      "regionRu": "Новый Южный Уэльс, Австралия", "mediaId": "photo-jamison-valley",
+      "summaryRu": "Обширная лесистая долина уходит к горизонту между высокими песчаниковыми уступами Голубых гор.",
+      "explanationRu": "Долина Джеймисон лежит в Голубых горах и открывается с обзорных точек у скал Три сестры. Служба парков Нового Южного Уэльса описывает её характерную голубоватую дымку и вид в направлении горы Маунт-Солитари. На снимке хорошо виден масштаб лесистой долины и её скалистые борта.",
+      "whyNotableRu": "Один из наиболее узнаваемых панорамных ландшафтов Голубых гор, входящих в объект Всемирного наследия ЮНЕСКО.",
+      "facts": [
+        { "labelRu": "Где находится", "valueRu": "Голубые горы, Новый Южный Уэльс" },
+        { "labelRu": "Известная обзорная точка", "valueRu": "У скал Три сестры" }
+      ],
+      "sourceIds": ["three-sisters-walk-nsw-parks", "greater-blue-mountains-unesco"], "quizHints": { "similarityTags": ["valley", "sandstone", "forest", "australia"] },
+      "status": "published", "verifiedAt": "2026-09-25"
+    }
+  ]
+}

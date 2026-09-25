@@ -1,0 +1,74 @@
+{
+  "batch_id": "publish-037-three-landmarks",
+  "sources": [],
+  "media": [
+    {
+      "id": "photo-kgari-island", "kind": "photo", "localPath": "/media/landmarks/kgari-island.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Dune_on_Sandy_Cape_Fraser_Island_Queensland_August_1986_IMG_0073.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Dune_on_Sandy_Cape_Fraser_Island_Queensland_August_1986_IMG_0073.jpg",
+      "publisher": "Wikimedia Commons", "author": "John Robert McPherson", "rightsHolder": "John Robert McPherson",
+      "license": "CC BY-SA 4.0", "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attributionText": "John Robert McPherson / Wikimedia Commons, CC BY-SA 4.0; уменьшено до 1280 px по ширине.", "checkedAt": "2026-09-25"
+    },
+    {
+      "id": "photo-lord-howe-coral-reef", "kind": "photo", "localPath": "/media/landmarks/lord-howe-coral-reef.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:LordHoweIsland_NorthBay_Reef_22.JPG",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/LordHoweIsland_NorthBay_Reef_22.JPG",
+      "publisher": "Wikimedia Commons", "author": "Toby Hudson", "rightsHolder": "Toby Hudson",
+      "license": "CC BY-SA 3.0 AU", "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/au/",
+      "attributionText": "Toby Hudson / Wikimedia Commons, CC BY-SA 3.0 AU; уменьшено до 1280 px по ширине.", "checkedAt": "2026-09-25"
+    },
+    {
+      "id": "photo-peninsula-valdes", "kind": "photo", "localPath": "/media/landmarks/peninsula-valdes.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Vald%C3%A9s_peninsula_from_orbit.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Vald%C3%A9s_peninsula_from_orbit.jpg",
+      "publisher": "Wikimedia Commons", "author": "Jeff Schmaltz, MODIS Rapid Response Team, NASA/GSFC", "rightsHolder": "NASA",
+      "license": "Public domain", "rightsUrl": "https://commons.wikimedia.org/wiki/File:Vald%C3%A9s_peninsula_from_orbit.jpg",
+      "attributionText": "Jeff Schmaltz, MODIS Rapid Response Team, NASA/GSFC / Wikimedia Commons, Public domain; без изменений.", "checkedAt": "2026-09-25"
+    }
+  ],
+  "entries": [
+    {
+      "id": "kgari-island", "kind": "landmark", "countryIds": ["australia"], "nameRu": "Остров К’гари",
+      "subtitleRu": "Песчаный остров у побережья Квинсленда", "landmarkType": "island",
+      "regionRu": "Побережье Квинсленда, Австралия", "mediaId": "photo-kgari-island",
+      "summaryRu": "На снимке с мыса Сэнди-Кейп виден склон светлой песчаной дюны; за ним тянется полоса островной растительности.",
+      "explanationRu": "К’гари сложен песчаными дюнами у восточного побережья Австралии. ЮНЕСКО отмечает необычное соседство движущихся дюн, высоких влажных лесов, растущих на песке, и пресноводных дюнных озёр. Прежнее название острова — Фрейзер.",
+      "whyNotableRu": "Крупнейший песчаный остров мира по данным ЮНЕСКО и объект Всемирного наследия с разнообразными песчаными ландшафтами.",
+      "facts": [
+        { "labelRu": "Прежнее название", "valueRu": "Остров Фрейзер" },
+        { "labelRu": "Особенности", "valueRu": "Дюны, леса на песке и пресноводные дюнные озёра" }
+      ],
+      "sourceIds": ["kgari-unesco"], "quizHints": { "similarityTags": ["island", "sand", "dunes", "australia"] },
+      "status": "published", "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "lord-howe-coral-reef", "kind": "landmark", "countryIds": ["australia"], "nameRu": "Коралловый риф острова Лорд-Хау",
+      "subtitleRu": "Рифы у океанического острова в Тасмановом море", "landmarkType": "natural_wonder",
+      "regionRu": "Остров Лорд-Хау, Тасманово море, Австралия", "mediaId": "photo-lord-howe-coral-reef",
+      "summaryRu": "Под водой у Северной бухты видны светлые образования рифа и морской ёж на каменистом дне.",
+      "explanationRu": "Коралловый риф окружает часть острова Лорд-Хау и входит в морскую зону объекта Всемирного наследия. ЮНЕСКО описывает его как самый южный настоящий коралловый риф мира и подчёркивает соседство тропических и умеренных морских видов.",
+      "whyNotableRu": "Редкая переходная зона между коралловыми и водорослевыми рифами на южной границе распространения коралловых экосистем.",
+      "facts": [
+        { "labelRu": "Где расположен", "valueRu": "У острова Лорд-Хау в Тасмановом море" },
+        { "labelRu": "Природная особенность", "valueRu": "Соседство тропических и умеренных морских видов" }
+      ],
+      "sourceIds": ["lord-howe-island-group-unesco"], "quizHints": { "similarityTags": ["reef", "coral", "ocean", "australia"] },
+      "status": "published", "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "peninsula-valdes", "kind": "landmark", "countryIds": ["argentina"], "nameRu": "Полуостров Вальдес",
+      "subtitleRu": "Полуостров на атлантическом побережье Патагонии", "landmarkType": "geological_formation",
+      "regionRu": "Провинция Чубут, Аргентина", "mediaId": "photo-peninsula-valdes",
+      "summaryRu": "На спутниковом снимке полуостров выступает в Атлантический океан; по обе стороны перешейка видны защищённые заливы.",
+      "explanationRu": "Вальдес — выступающая в Атлантику часть патагонского побережья. Его заливы, включая Нуэво к югу, дают защищённые воды для размножения и выращивания детёнышей южных гладких китов. Суша и прибрежные воды входят в объект Всемирного наследия ЮНЕСКО.",
+      "whyNotableRu": "Заметная форма побережья Патагонии и важное место для морских млекопитающих.",
+      "facts": [
+        { "labelRu": "Расположение", "valueRu": "Атлантическое побережье провинции Чубут" },
+        { "labelRu": "Южный залив", "valueRu": "Нуэво" }
+      ],
+      "sourceIds": ["peninsula-valdes-unesco"], "quizHints": { "similarityTags": ["peninsula", "coast", "whales", "argentina"] },
+      "status": "published", "verifiedAt": "2026-09-25"
+    }
+  ]
+}

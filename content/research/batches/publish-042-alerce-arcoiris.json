@@ -1,0 +1,56 @@
+{
+  "batch_id": "publish-042-alerce-arcoiris",
+  "sources": [
+    { "id": "noel-kempff-unesco", "title": "Noel Kempff Mercado National Park", "publisher": "UNESCO World Heritage Centre", "url": "https://whc.unesco.org/en/list/967", "sourceType": "unesco", "accessedAt": "2026-09-25" },
+    { "id": "noel-kempff-fan-guide", "title": "Biodiversidad del Parque Nacional Noel Kempff Mercado: Información general del parque", "publisher": "Fundación Amigos de la Naturaleza", "url": "https://assets.publishing.service.gov.uk/media/57a08cd9e5274a27b2001491/R7475_-_InforGeneral-1A.pdf", "sourceType": "other_authoritative", "accessedAt": "2026-09-25" },
+    { "id": "los-alerces-argentina-parks", "title": "Parque Nacional Los Alerces", "publisher": "Administración de Parques Nacionales de Argentina", "url": "https://www.argentina.gob.ar/node/154134", "sourceType": "national_park", "accessedAt": "2026-09-25" }
+  ],
+  "media": [
+    {
+      "id": "photo-millennial-alerce-forest", "kind": "photo", "localPath": "/media/landmarks/millennial-alerce-forest.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Alerce_milenario.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Alerce_milenario.jpg",
+      "publisher": "Wikimedia Commons", "author": "PatagoniaArgentina", "rightsHolder": "PatagoniaArgentina",
+      "license": "CC BY-SA 3.0", "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "attributionText": "PatagoniaArgentina / Wikimedia Commons, CC BY-SA 3.0; уменьшено до 960 px по ширине.", "checkedAt": "2026-09-25"
+    },
+    {
+      "id": "photo-arcoiris-waterfall-bolivia", "kind": "photo", "localPath": "/media/landmarks/arcoiris-waterfall-bolivia.png",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Cataratas_Arcoiris_Bolivia.png",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Cataratas_Arcoiris_Bolivia.png",
+      "publisher": "Wikimedia Commons", "author": "Rojk", "rightsHolder": "Rojk",
+      "license": "CC BY-SA 2.5", "rightsUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+      "attributionText": "Rojk / Wikimedia Commons, CC BY-SA 2.5; без изменений.", "checkedAt": "2026-09-25"
+    }
+  ],
+  "entries": [
+    {
+      "id": "millennial-alerce-forest", "kind": "landmark", "countryIds": ["argentina"], "nameRu": "Тысячелетний алерсовый лес",
+      "subtitleRu": "Древние деревья у озера Менендес", "landmarkType": "other",
+      "regionRu": "Национальный парк Лос-Алерсес, провинция Чубут, Аргентина", "mediaId": "photo-millennial-alerce-forest",
+      "summaryRu": "Снизу виден широкий ствол старого алерсе: светлая волокнистая кора поднимается к высокой кроне среди других деревьев.",
+      "explanationRu": "Тысячелетний алерсовый лес расположен у северного рукава озера Менендес. ЮНЕСКО описывает влажный лес с папоротниками, мхами и лианами и выделяет старейшее дерево возрастом около 2600 лет. На снимке показан отдельный старый алерсе из национального парка, а не панорама всего леса.",
+      "whyNotableRu": "Один из наиболее ценных участков сохранившегося патагонского леса в объекте Всемирного наследия Лос-Алерсес.",
+      "facts": [
+        { "labelRu": "Место", "valueRu": "Северный рукав озера Менендес" },
+        { "labelRu": "Порода дерева", "valueRu": "Алерсе (Fitzroya cupressoides)" }
+      ],
+      "sourceIds": ["los-alerces-unesco", "los-alerces-argentina-parks"], "quizHints": { "similarityTags": ["forest", "tree", "patagonia", "argentina"] },
+      "status": "published", "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "arcoiris-waterfall-bolivia", "kind": "landmark", "countryIds": ["bolivia"], "nameRu": "Водопад Аркоирис",
+      "subtitleRu": "Водопад в парке Ноэль-Кемпфф-Меркадо", "landmarkType": "waterfall",
+      "regionRu": "Департамент Санта-Крус, Боливия", "mediaId": "photo-arcoiris-waterfall-bolivia",
+      "summaryRu": "Широкая струя воды падает с лесистого уступа в тёмную чашу; рядом возвышается отдельный скальный останец.",
+      "explanationRu": "Аркоирис — именованный водопад национального парка Ноэль-Кемпфф-Меркадо. Справочник фонда, участвовавшего в управлении парком, показывает его как отдельный объект. Вода спускается с уступа плато к более низким лесным участкам.",
+      "whyNotableRu": "Один из выразительных водопадов охраняемой территории ЮНЕСКО на северо-востоке Боливии.",
+      "facts": [
+        { "labelRu": "Парк", "valueRu": "Ноэль-Кемпфф-Меркадо" },
+        { "labelRu": "Что видно", "valueRu": "Падение воды с лесистого уступа" }
+      ],
+      "sourceIds": ["noel-kempff-fan-guide", "noel-kempff-unesco"], "quizHints": { "similarityTags": ["waterfall", "plateau", "forest", "bolivia"] },
+      "status": "published", "verifiedAt": "2026-09-25"
+    }
+  ]
+}

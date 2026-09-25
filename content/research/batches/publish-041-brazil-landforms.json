@@ -1,0 +1,99 @@
+{
+  "batch_id": "publish-041-brazil-landforms",
+  "sources": [
+    { "id": "atlantic-forest-southeast-unesco", "title": "Atlantic Forest South-East Reserves", "publisher": "UNESCO World Heritage Centre", "url": "https://whc.unesco.org/en/list/893", "sourceType": "unesco", "accessedAt": "2026-09-25" },
+    { "id": "pantanal-conservation-unesco", "title": "Pantanal Conservation Area", "publisher": "UNESCO World Heritage Centre", "url": "https://whc.unesco.org/en/list/999", "sourceType": "unesco", "accessedAt": "2026-09-25" }
+  ],
+  "media": [
+    {
+      "id": "photo-casa-de-pedra-cave", "kind": "photo", "localPath": "/media/landmarks/casa-de-pedra-cave.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Parque_Estadual_Tur%C3%ADstico_do_Alto_Ribeira_Thomas-Fuhrmann_(2023-01)_-_Gruta_Casa_de_Pedra.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Parque_Estadual_Tur%C3%ADstico_do_Alto_Ribeira_Thomas-Fuhrmann_%282023-01%29_-_Gruta_Casa_de_Pedra.jpg",
+      "publisher": "Wikimedia Commons", "author": "Thomas Fuhrmann", "rightsHolder": "Thomas Fuhrmann",
+      "license": "CC BY-SA 4.0", "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attributionText": "Thomas Fuhrmann / Wikimedia Commons, CC BY-SA 4.0; уменьшено до 1280 px по ширине.", "checkedAt": "2026-09-25"
+    },
+    {
+      "id": "photo-santana-cave-brazil", "kind": "photo", "localPath": "/media/landmarks/santana-cave-brazil.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Caverna_de_Santana_-_PETAR.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Caverna_de_Santana_-_PETAR.jpg",
+      "publisher": "Wikimedia Commons", "author": "Jader Vinícius da Silva Pereira", "rightsHolder": "Jader Vinícius da Silva Pereira",
+      "license": "CC BY-SA 4.0", "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attributionText": "Jader Vinícius da Silva Pereira / Wikimedia Commons, CC BY-SA 4.0; уменьшено до 1280 px по ширине.", "checkedAt": "2026-09-25"
+    },
+    {
+      "id": "photo-iguape-cananeia-paranagua-estuary", "kind": "photo", "localPath": "/media/landmarks/iguape-cananeia-paranagua-estuary.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Parque_Estadual_do_Lagamar_de_Canan%C3%A9ia_-_Jo%C3%A3o_Paulo_Marques_DAndretta_(2).jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Parque_Estadual_do_Lagamar_de_Canan%C3%A9ia_-_Jo%C3%A3o_Paulo_Marques_DAndretta_%282%29.jpg",
+      "publisher": "Wikimedia Commons", "author": "João D'Andretta", "rightsHolder": "João D'Andretta",
+      "license": "CC BY-SA 4.0", "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attributionText": "João D'Andretta / Wikimedia Commons, CC BY-SA 4.0; уменьшено до 1280 px по ширине.", "checkedAt": "2026-09-25"
+    },
+    {
+      "id": "photo-amolar-mountain-range", "kind": "photo", "localPath": "/media/landmarks/amolar-mountain-range.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Serra_do_Amolar_Rio_Paraguai.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Serra_do_Amolar_Rio_Paraguai.jpg",
+      "publisher": "Wikimedia Commons", "author": "Ducaraleo", "rightsHolder": "Ducaraleo",
+      "license": "CC BY-SA 4.0", "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attributionText": "Ducaraleo / Wikimedia Commons, CC BY-SA 4.0; уменьшено до 1280 px по ширине.", "checkedAt": "2026-09-25"
+    }
+  ],
+  "entries": [
+    {
+      "id": "casa-de-pedra-cave", "kind": "landmark", "countryIds": ["brazil"], "nameRu": "Пещера Каза-ди-Педра",
+      "subtitleRu": "Пещера с огромным входным порталом", "landmarkType": "cave",
+      "regionRu": "Штат Сан-Паулу, Бразилия", "mediaId": "photo-casa-de-pedra-cave",
+      "summaryRu": "С лесистого склона виден тёмный высокий проём пещеры в светлой скальной стене противоположного холма.",
+      "explanationRu": "Каза-ди-Педра расположена среди карстовых ландшафтов Атлантического леса на юго-востоке Бразилии. ЮНЕСКО выделяет её огромный входной портал. На обзорном снимке хорошо заметен контраст между скалой, проёмом и окружающим влажным лесом.",
+      "whyNotableRu": "Одна из отдельно названных пещер объекта Всемирного наследия «Резерваты Атлантического леса юго-востока Бразилии».",
+      "facts": [
+        { "labelRu": "Отличительная черта", "valueRu": "Высокий входной портал" },
+        { "labelRu": "Ландшафт", "valueRu": "Карст среди Атлантического леса" }
+      ],
+      "sourceIds": ["atlantic-forest-southeast-unesco"], "quizHints": { "similarityTags": ["cave", "karst", "forest", "brazil"] },
+      "status": "published", "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "santana-cave-brazil", "kind": "landmark", "countryIds": ["brazil"], "nameRu": "Пещера Сантана",
+      "subtitleRu": "Карстовая пещера в парке Альту-Рибейра", "landmarkType": "cave",
+      "regionRu": "Штат Сан-Паулу, Бразилия", "mediaId": "photo-santana-cave-brazil",
+      "summaryRu": "В освещённом зале пещеры видны каменные натёки, неровные своды и мелкая вода у выхода.",
+      "explanationRu": "Сантана — отдельная пещера карстового района Альту-Рибейра. ЮНЕСКО отмечает её богатое натёчное убранство среди сотен пещер Атлантического леса. Минеральные отложения формируются при прохождении воды через известняк.",
+      "whyNotableRu": "Одна из пещер, прямо названных ЮНЕСКО при описании природной красоты юго-восточных резерватов Атлантического леса.",
+      "facts": [
+        { "labelRu": "Тип", "valueRu": "Карстовая пещера" },
+        { "labelRu": "Особенность", "valueRu": "Натёчные образования" }
+      ],
+      "sourceIds": ["atlantic-forest-southeast-unesco"], "quizHints": { "similarityTags": ["cave", "karst", "speleothem", "brazil"] },
+      "status": "published", "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "iguape-cananeia-paranagua-estuary", "kind": "landmark", "countryIds": ["brazil"], "nameRu": "Эстуарный комплекс Игуапи — Кананея — Паранагуа",
+      "subtitleRu": "Система лагун и эстуариев южного побережья", "landmarkType": "other",
+      "regionRu": "Побережье штатов Сан-Паулу и Парана, Бразилия", "mediaId": "photo-iguape-cananeia-paranagua-estuary",
+      "summaryRu": "С воздуха видны широкая водная протока, песчаные отмели и низкие зелёные берега эстуария у Кананеи.",
+      "explanationRu": "Комплекс связывает прибрежные лагуны, устья рек и мангровые участки между Игуапи, Кананеей и Паранагуа. ЮНЕСКО относит его к разнообразным экосистемам юго-восточных резерватов Атлантического леса. Снимок показывает участок у Кананеи, а не весь комплекс целиком.",
+      "whyNotableRu": "Именованная эстуарная система на стыке лесных и морских экосистем объекта Всемирного наследия.",
+      "facts": [
+        { "labelRu": "Тип", "valueRu": "Система эстуариев и лагун" },
+        { "labelRu": "Показанный участок", "valueRu": "Эстуарий Кананеи" }
+      ],
+      "sourceIds": ["atlantic-forest-southeast-unesco"], "quizHints": { "similarityTags": ["estuary", "lagoon", "mangrove", "brazil"] },
+      "status": "published", "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "amolar-mountain-range", "kind": "landmark", "countryIds": ["brazil"], "nameRu": "Горный хребет Амолар",
+      "subtitleRu": "Горный край затопляемой равнины Пантанал", "landmarkType": "mountain",
+      "regionRu": "Запад Пантанала, Бразилия", "mediaId": "photo-amolar-mountain-range",
+      "summaryRu": "За широкой водой и зелёной полосой берега поднимается длинный гребень хребта Амолар.",
+      "explanationRu": "Хребет Амолар образует резкую границу с сезонно затопляемыми равнинами Пантанала. ЮНЕСКО выделяет этот переход как важный природный градиент: возвышенности и водно-болотные участки дают разные условия для животных и растений в течение года.",
+      "whyNotableRu": "Крупная форма рельефа внутри охраняемого участка Пантанала, контрастирующая с окружающими водно-болотными равнинами.",
+      "facts": [
+        { "labelRu": "Ландшафт", "valueRu": "Хребет у затопляемой равнины" },
+        { "labelRu": "Регион", "valueRu": "Пантанал" }
+      ],
+      "sourceIds": ["pantanal-conservation-unesco"], "quizHints": { "similarityTags": ["mountain", "wetland", "river", "brazil"] },
+      "status": "published", "verifiedAt": "2026-09-25"
+    }
+  ]
+}

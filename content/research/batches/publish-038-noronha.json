@@ -1,0 +1,96 @@
+{
+  "batch_id": "publish-038-noronha",
+  "sources": [],
+  "media": [
+    {
+      "id": "photo-fernando-de-noronha-island", "kind": "photo", "localPath": "/media/landmarks/fernando-de-noronha-island.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Fernando_de_Noronha_-_vista_aerea.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Fernando_de_Noronha_-_vista_aerea.jpg",
+      "publisher": "Wikimedia Commons", "author": "Snow-surf", "rightsHolder": "Snow-surf",
+      "license": "CC BY-SA 4.0", "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attributionText": "Snow-surf / Wikimedia Commons, CC BY-SA 4.0; без изменений.", "checkedAt": "2026-09-25"
+    },
+    {
+      "id": "photo-baia-dos-golfinhos", "kind": "photo", "localPath": "/media/landmarks/baia-dos-golfinhos.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Ba%C3%ADa_dos_Golfinhos.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Ba%C3%ADa_dos_Golfinhos.jpg",
+      "publisher": "Wikimedia Commons", "author": "Rodrigo Mazzola", "rightsHolder": "Rodrigo Mazzola",
+      "license": "CC BY-SA 3.0", "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "attributionText": "Rodrigo Mazzola / Wikimedia Commons, CC BY-SA 3.0; уменьшено до 1280 px по ширине.", "checkedAt": "2026-09-25"
+    },
+    {
+      "id": "photo-praia-do-sancho", "kind": "photo", "localPath": "/media/landmarks/praia-do-sancho.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Praia_do_Sancho%2C_Fernando_de_Noronha.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Praia_do_Sancho%2C_Fernando_de_Noronha.jpg",
+      "publisher": "Wikimedia Commons", "author": "Marina Feldhues", "rightsHolder": "Marina Feldhues",
+      "license": "CC BY-SA 3.0", "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "attributionText": "Marina Feldhues / Wikimedia Commons, CC BY-SA 3.0; уменьшено до 1280 px по ширине.", "checkedAt": "2026-09-25"
+    },
+    {
+      "id": "photo-praia-do-leao", "kind": "photo", "localPath": "/media/landmarks/praia-do-leao.jpg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Praia_do_Le%C3%A3o_localizada_em_Fernando_de_Noronha.jpg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Praia_do_Le%C3%A3o_localizada_em_Fernando_de_Noronha.jpg",
+      "publisher": "Wikimedia Commons", "author": "Rosana Antunes", "rightsHolder": "Rosana Antunes",
+      "license": "CC0", "rightsUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attributionText": "Rosana Antunes / Wikimedia Commons, CC0; уменьшено до 1280 px по ширине.", "checkedAt": "2026-09-25"
+    }
+  ],
+  "entries": [
+    {
+      "id": "fernando-de-noronha-island", "kind": "landmark", "countryIds": ["brazil"], "nameRu": "Остров Фернанду-ди-Норонья",
+      "subtitleRu": "Главный остров океанического архипелага", "landmarkType": "island",
+      "regionRu": "Южная Атлантика у побережья Бразилии", "mediaId": "photo-fernando-de-noronha-island",
+      "summaryRu": "С воздуха видны длинная береговая линия с песчаными бухтами и характерные скалистые вершины острова.",
+      "explanationRu": "Фернанду-ди-Норонья — главный остров одноимённого архипелага. По описанию ЮНЕСКО, его скалистые вершины поднимаются над океаном как часть подводной вулканической гряды. Остров и прилегающие воды входят в морской национальный парк.",
+      "whyNotableRu": "Ключевая часть объекта Всемирного наследия «Бразильские атлантические острова» с прибрежными экосистемами и колониями морских птиц.",
+      "facts": [
+        { "labelRu": "Происхождение", "valueRu": "Вершины подводной вулканической гряды" },
+        { "labelRu": "Охрана", "valueRu": "Морской национальный парк" }
+      ],
+      "sourceIds": ["brazil-atlantic-islands-unesco"], "quizHints": { "similarityTags": ["island", "volcanic", "coast", "brazil"] },
+      "status": "published", "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "baia-dos-golfinhos", "kind": "landmark", "countryIds": ["brazil"], "nameRu": "Залив Гольфиньюс",
+      "subtitleRu": "Бухта дельфинов у Фернанду-ди-Норонья", "landmarkType": "other",
+      "regionRu": "Остров Фернанду-ди-Норонья, Бразилия", "mediaId": "photo-baia-dos-golfinhos",
+      "summaryRu": "С обзорной точки видна дуга тёмного скалистого берега, обрамляющая синюю воду залива.",
+      "explanationRu": "Название Baía dos Golfinhos означает «залив дельфинов». ЮНЕСКО выделяет эту бухту из-за большой местной популяции дельфинов. Видимое на снимке защищённое прибрежное пространство относится к охраняемой морской зоне архипелага.",
+      "whyNotableRu": "Один из наиболее важных для дельфинов участков объекта Всемирного наследия Фернанду-ди-Норонья.",
+      "facts": [
+        { "labelRu": "Название", "valueRu": "Baía dos Golfinhos — залив дельфинов" },
+        { "labelRu": "Природное значение", "valueRu": "Местная популяция дельфинов" }
+      ],
+      "sourceIds": ["brazil-atlantic-islands-unesco"], "quizHints": { "similarityTags": ["bay", "coast", "dolphins", "brazil"] },
+      "status": "published", "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "praia-do-sancho", "kind": "landmark", "countryIds": ["brazil"], "nameRu": "Пляж Саншу",
+      "subtitleRu": "Песчаная бухта острова Фернанду-ди-Норонья", "landmarkType": "other",
+      "regionRu": "Остров Фернанду-ди-Норонья, Бразилия", "mediaId": "photo-praia-do-sancho",
+      "summaryRu": "У подножия покрытого зеленью склона лежит светлый пляж; перед ним — прозрачная бирюзовая вода и скалистый мыс.",
+      "explanationRu": "Саншу — именованный пляж на главном острове архипелага Фернанду-ди-Норонья. ЮНЕСКО отдельно упоминает его среди выразительных прибрежных ландшафтов морского национального парка.",
+      "whyNotableRu": "Узнаваемая песчаная бухта внутри объекта Всемирного наследия «Бразильские атлантические острова».",
+      "facts": [
+        { "labelRu": "Местное название", "valueRu": "Praia do Sancho" },
+        { "labelRu": "Тип объекта", "valueRu": "Природный пляж в бухте" }
+      ],
+      "sourceIds": ["brazil-atlantic-islands-unesco"], "quizHints": { "similarityTags": ["beach", "bay", "island", "brazil"] },
+      "status": "published", "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "praia-do-leao", "kind": "landmark", "countryIds": ["brazil"], "nameRu": "Пляж Леан",
+      "subtitleRu": "Пляж с прибрежной скалой на Фернанду-ди-Норонья", "landmarkType": "other",
+      "regionRu": "Остров Фернанду-ди-Норонья, Бразилия", "mediaId": "photo-praia-do-leao",
+      "summaryRu": "Широкая песчаная полоса тянется вдоль подножия холмов; напротив берега из воды выступает скала.",
+      "explanationRu": "Praia do Leão — отдельный пляж на острове Фернанду-ди-Норонья. ЮНЕСКО называет его в описании природной красоты охраняемого архипелага. Открытая береговая линия и близкая скала помогают отличить его от пляжа Саншу.",
+      "whyNotableRu": "Именованный природный пляж морского национального парка Фернанду-ди-Норонья.",
+      "facts": [
+        { "labelRu": "Местное название", "valueRu": "Praia do Leão" },
+        { "labelRu": "Тип объекта", "valueRu": "Открытый океанский пляж" }
+      ],
+      "sourceIds": ["brazil-atlantic-islands-unesco"], "quizHints": { "similarityTags": ["beach", "coast", "island", "brazil"] },
+      "status": "published", "verifiedAt": "2026-09-25"
+    }
+  ]
+}
