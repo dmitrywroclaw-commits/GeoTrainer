@@ -1,0 +1,30 @@
+{
+  "bangui-pop": [
+    "Bangui population estimate, 2024",
+    "World Bank",
+    "https://documents1.worldbank.org/curated/en/099072524110012054/pdf/P178774114bca5011ae1e13360448b13b2.pdf"
+  ],
+  "burundi": ["Le Pays", "Présidence de la République du Burundi", "https://presidence.gov.bi/le-pays/"],
+  "burundi-gishora": ["Résidence Royale de Gishora", "UNESCO World Heritage Centre", "https://whc.unesco.org/fr/listesindicatives/6927/"],
+  "ivory-presidency": ["Yamoussoukro Autonomous District", "Presidency of Côte d’Ivoire", "https://www.presidence.ci/en/our-heritage/yamoussoukro-autonomous-district/"],
+  "equatorial-capital": ["Decreto Ley Núm. 1/2026: Ciudad de la Paz", "Gobierno de Guinea Ecuatorial", "https://www.guineaecuatorialpress.com/noticias/decreto_ley_por_el_que_se_declara_la_ciudad_de_la_paz_djibloho_capital_de_la_republica_de_guinea_ecuatorial"],
+  "abuja": ["A Survey of the Solid Minerals Landscape, Federal Capital Territory", "Nigeria Extractive Industries Transparency Initiative", "https://neiti.gov.ng/cms/wp-content/uploads/2021/08/NEITI-OPS6-A-Survey-Solid-Minerals-Landscape-Endowments-in-Nigeria-310120.pdf"],
+  "myanmar": ["Nay Pyi Taw", "Myanmar Ministry of Hotels and Tourism", "https://tourism.gov.mm/en/regions/naypyitaw"],
+  "pyongyang": ["Historic Relics of Koguryo’s Capital City in Pyongyang", "UNESCO World Heritage Centre", "https://whc.unesco.org/en/tentativelists/6964/"],
+  "islamabad": ["Islamabad Master Plan Interim Report", "Capital Development Authority of Pakistan", "https://www.cda.gov.pk/Assets/pdf/masterPlanInterimReport2020.pdf"],
+  "palestine-jerusalem": ["Jerusalem", "Ministry of Foreign Affairs and Expatriates of Palestine", "https://www.mfae.gov.ps/en-us/fundamentalissues/jerusalem"],
+  "ramallah": ["Resilient Ramallah 2050", "Ramallah Municipality", "https://www.ramallah.ps/public/files/archive/file/ir/Ramallah%20Resilience%20Strategy%202050.pdf"],
+  "kotte": ["Overview: Administrative Capital of Sri Lanka", "Kotte Municipal Council", "https://www.kotte.mc.gov.lk/index.php?Itemid=175&id=25&lang=en&option=com_content&view=article"],
+  "sanaa": ["Old City of Sana’a", "UNESCO World Heritage Centre", "https://whc.unesco.org/en/list/385"],
+  "paris": ["Paris, Banks of the Seine", "UNESCO World Heritage Centre", "https://whc.unesco.org/en/list/600"],
+  "vatican": ["Vatican City Today", "Vatican City State", "https://www.vaticanstate.va/en/state-and-government/history/vatican-city-today.html"],
+  "dublin": ["Dublin: the city and the river", "Dublin City Council", "https://www.dublincity.ie/library/blog/dublin-city-and-river"],
+  "belgrade": ["History of Belgrade", "City of Belgrade", "https://www.beograd.rs/en/discover-belgrade/a2014/History.html"],
+  "washington": ["The Washington Monument: Tribute in Stone", "U.S. National Park Service", "https://www.nps.gov/articles/the-washington-monument-tribute-in-stone-teaching-with-historic-places.htm"],
+  "brasilia": ["Brasilia", "UNESCO World Heritage Centre", "https://whc.unesco.org/en/list/445"],
+  "south-tarawa": ["Bonriki Inundation: Water Management Options", "Pacific Community", "https://biva.gsd.spc.int/files/1960_KL_BIVA_Preliminary_Economic_Analysis_Report_FINAL.pdf"],
+  "majuro": ["Marshall Islands: Renewables Readiness Assessment", "International Renewable Energy Agency", "https://prdrse4all.spc.int/system/files/marshall_islands.pdf"],
+  "palikir": ["Executive Branch", "Federated States of Micronesia Government", "https://gov.fm/executive/"],
+  "nauru": ["Naoero: Heads of Government", "Australian Department of Foreign Affairs and Trade", "https://www.dfat.gov.au/geo/heads-of-government/naoero"],
+  "ngerulmud": ["Information Sheet: Capitol Building", "Republic of Palau", "https://www.palaugov.pw/executive-branch/ministries/hrctd/hr/ppscc/5107-2/"]
+}

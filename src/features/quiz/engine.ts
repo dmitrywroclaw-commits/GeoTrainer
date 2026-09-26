@@ -1,7 +1,8 @@
 import type { Entry } from '../../data/schema';
 import { borderRepository, type BorderQuestionSpec } from '../../data/borders';
+import { capitalRepository, type CapitalQuestionSpec } from '../../data/capitals';
 
-export type QuizMode = Entry['kind'] | 'border' | 'mixed' | 'mistakes';
+export type QuizMode = Entry['kind'] | 'border' | 'capital' | 'mixed' | 'mistakes';
 export interface BorderQuizEntry {
   id: string;
   kind: 'border';
@@ -11,11 +12,22 @@ export interface BorderQuizEntry {
   mediaId: string;
   countryId: string;
 }
+export interface CapitalQuizEntry {
+  id: string;
+  cardId: string;
+  kind: 'capital';
+  nameRu: string;
+  summaryRu: string;
+  explanationRu: string;
+  mediaId?: string;
+  countryId: string;
+}
 export interface Question {
-  entry: Entry | BorderQuizEntry;
+  entry: Entry | BorderQuizEntry | CapitalQuizEntry;
   options: string[];
   correctOption: string;
   prompt: string;
+  showMedia?: boolean;
 }
 
 const shuffle = <T,>(items: T[], random: () => number) => {
@@ -75,7 +87,46 @@ export function buildBorderQuestion(spec: BorderQuestionSpec, random: () => numb
   };
 }
 
+export function buildCapitalQuestion(spec: CapitalQuestionSpec, random: () => number = Math.random): Question {
+  const card = capitalRepository.byId(spec.cardId)!;
+  const entries = capitalRepository.all();
+  const cityAnswer = spec.type === 'country-to-city';
+  const correctOption = cityAnswer ? card.cityNameRu : capitalRepository.countryName(card.countryId);
+  const options = [...new Set(entries.filter(item => item.id !== card.id && (!cityAnswer || card.role !== 'capital' || item.role === 'capital'))
+    .map(item => ({ item, sameRegion: item.regionRu === card.regionRu, tie: random() }))
+    .sort((a, b) => Number(b.sameRegion) - Number(a.sameRegion) || a.tie - b.tie)
+    .map(({ item }) => cityAnswer ? item.cityNameRu : capitalRepository.countryName(item.countryId)))]
+    .filter(label => label !== correctOption).slice(0, 3);
+  if (options.length < 3) throw new Error(`Недостаточно вариантов ответа для ${spec.id}`);
+  const country = capitalRepository.countryName(card.countryId);
+  const prompt = (spec.type === 'country-to-city' ? card.quiz.countryToCityPromptRu : card.quiz.cityToCountryPromptRu) ?? (spec.type === 'country-to-city'
+    ? card.role === 'capital' ? `Какова столица страны «${country}»?`
+      : card.role === 'claimed' ? `Какой город Палестина называет своей столицей?`
+        : card.role === 'former_capital' ? `Какой город был прежней столицей страны «${country}»?`
+          : `Какой город выполняет роль «${card.roleRu}» для страны «${country}»?`
+    : card.role === 'capital' ? `Столицей какой страны является город «${card.cityNameRu}»?`
+      : card.role === 'former_capital' ? `Прежней столицей какой страны был город «${card.cityNameRu}»?`
+        : `С какой страной связан город «${card.cityNameRu}» в роли «${card.roleRu}»?`);
+  return {
+    entry: { id: spec.id, cardId: card.id, kind: 'capital', nameRu: card.cityNameRu,
+      summaryRu: card.summaryRu, explanationRu: card.explanationRu, mediaId: card.mediaId, countryId: card.countryId },
+    prompt, options: shuffle([correctOption, ...options], random), correctOption,
+    showMedia: false,
+  };
+}
+
 export function createSession(all: Entry[], mode: QuizMode, count: number, reviewIds: string[] = [], random: () => number = Math.random): Question[] {
+  if (mode === 'capital') {
+    const eligible = capitalRepository.allQuestions();
+    if (!eligible.length) return [];
+    const questions: Question[] = [];
+    let cycle: CapitalQuestionSpec[] = [];
+    while (questions.length < count) {
+      if (!cycle.length) cycle = shuffle(eligible, random);
+      questions.push(buildCapitalQuestion(cycle.pop()!, random));
+    }
+    return questions;
+  }
   if (mode === 'border') {
     const eligible = borderRepository.allQuestions();
     if (!eligible.length) return [];
@@ -90,27 +141,28 @@ export function createSession(all: Entry[], mode: QuizMode, count: number, revie
   if (mode === 'mistakes') {
     const entries = all.filter(x => reviewIds.includes(x.id) && !x.quizHints?.excludeFromQuiz);
     const borders = borderRepository.allQuestions().filter(x => reviewIds.includes(x.id));
-    const eligible = shuffle([...entries, ...borders], random);
+    const capitals = capitalRepository.allQuestions().filter(x => reviewIds.includes(x.id));
+    const eligible = shuffle([...entries, ...borders, ...capitals], random);
     if (!eligible.length) return [];
     return Array.from({ length: count }, (_, index) => {
       const item = eligible[index % eligible.length];
-      return 'type' in item ? buildBorderQuestion(item, random) : buildQuestion(item, all, random);
+      return 'cardId' in item ? buildCapitalQuestion(item, random) : 'type' in item ? buildBorderQuestion(item, random) : buildQuestion(item, all, random);
     });
   }
   const eligible = all.filter(x => !x.quizHints?.excludeFromQuiz && (mode === 'mixed' || x.kind === mode));
   if (!eligible.length) return [];
   const questions: Question[] = [];
   if (mode === 'mixed') {
-    const kinds = (['flag', 'emblem', 'landmark', 'border'] as const).filter(kind => kind === 'border' ? borderRepository.allQuestions().length > 0 : eligible.some(item => item.kind === kind));
-    const pools = Object.fromEntries(kinds.map(kind => [kind, kind === 'border' ? borderRepository.allQuestions() : eligible.filter(item => item.kind === kind)])) as Record<typeof kinds[number], (Entry | BorderQuestionSpec)[]>;
-    const cycles: Partial<Record<typeof kinds[number], (Entry | BorderQuestionSpec)[]>> = {};
+    const kinds = (['flag', 'emblem', 'landmark', 'border', 'capital'] as const).filter(kind => kind === 'border' ? borderRepository.allQuestions().length > 0 : kind === 'capital' ? capitalRepository.allQuestions().length > 0 : eligible.some(item => item.kind === kind));
+    const pools = Object.fromEntries(kinds.map(kind => [kind, kind === 'border' ? borderRepository.allQuestions() : kind === 'capital' ? capitalRepository.allQuestions() : eligible.filter(item => item.kind === kind)])) as Record<typeof kinds[number], (Entry | BorderQuestionSpec | CapitalQuestionSpec)[]>;
+    const cycles: Partial<Record<typeof kinds[number], (Entry | BorderQuestionSpec | CapitalQuestionSpec)[]>> = {};
     let round: (typeof kinds[number])[] = [];
     while (questions.length < count) {
       if (!round.length) round = shuffle(kinds, random);
       const kind = round.pop()!;
       if (!cycles[kind]?.length) cycles[kind] = shuffle(pools[kind], random);
       const item = cycles[kind]!.pop()!;
-      questions.push('type' in item ? buildBorderQuestion(item, random) : buildQuestion(item, all, random));
+      questions.push('cardId' in item ? buildCapitalQuestion(item, random) : 'type' in item ? buildBorderQuestion(item, random) : buildQuestion(item, all, random));
     }
     return questions;
   }

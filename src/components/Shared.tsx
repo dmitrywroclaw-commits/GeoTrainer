@@ -5,7 +5,7 @@ import { Icon } from './Icon';
 import { MediaFrame } from './MediaFrame';
 
 export const kindPath = { flag: 'flags', emblem: 'emblems', landmark: 'nature' } as const;
-export const kindLabel = { flag: 'Флаги', emblem: 'Гербы', landmark: 'Природа', border: 'Границы' } as const;
+export const kindLabel = { flag: 'Флаги', emblem: 'Гербы', landmark: 'Природа', border: 'Границы', capital: 'Столицы' } as const;
 
 export function PageHeader({ title, description, back }: { title: string; description?: string; back?: { to: string; label: string } }) {
   return <header className="page-header">

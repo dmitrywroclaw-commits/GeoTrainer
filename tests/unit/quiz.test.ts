@@ -16,8 +16,8 @@ describe('quiz engine', () => {
   it('creates a mixed session of requested length', () => {
     const questions = createSession(contentRepository.all(), 'mixed', 20, [], () => 0.31);
     expect(questions).toHaveLength(20);
-    expect(new Set(questions.map(question => question.entry.kind)).size).toBe(4);
-    for (const kind of ['flag', 'emblem', 'landmark', 'border']) {
+    expect(new Set(questions.map(question => question.entry.kind)).size).toBe(5);
+    for (const kind of ['flag', 'emblem', 'landmark', 'border', 'capital']) {
       expect(questions.filter(question => question.entry.kind === kind).length).toBeGreaterThanOrEqual(4);
     }
   });

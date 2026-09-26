@@ -1,4 +1,4 @@
-export type ContentType = 'flag' | 'emblem' | 'landmark' | 'border';
+export type ContentType = 'flag' | 'emblem' | 'landmark' | 'border' | 'capital';
 export interface ProgressRecord {
   contentId: string;
   contentType: ContentType;
