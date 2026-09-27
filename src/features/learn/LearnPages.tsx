@@ -11,6 +11,8 @@ import { travelCards } from '../../data/travelCards';
 import { borderRepository } from '../../data/borders';
 import { capitalRepository } from '../../data/capitals';
 import { TravelImage } from './TravelPages';
+import { urbanPlaces } from '../../data/urbanPlaces';
+import { UrbanPlaceImage } from './UrbanPlacePages';
 
 const categories = [
   { kind: 'flag' as const, title: 'Флаги', description: 'Узнайте страны по символам на флагах.', teaser: 'Орёл, лист, звёзды и другие детали' },
@@ -55,6 +57,10 @@ export function LearnHome() {
     <Link className="category-card category-landmark" to="/learn/capitals">
       <div className="category-visual"><div className="capital-category-mark" aria-hidden="true"><span>Страна</span><strong>→</strong><span>Столица</span></div></div>
       <div className="category-body"><span className="eyebrow">{objectCount(capitalRepository.all().length)}</span><h2>Столицы</h2><p>Запоминайте пары страна — столица.</p></div>
+    </Link>
+    <Link className="category-card category-landmark urban-category" to="/learn/urban-places">
+      <div className="category-visual"><UrbanPlaceImage card={urbanPlaces.all()[0]}/></div>
+      <div className="category-body"><span className="eyebrow">{objectCount(urbanPlaces.all().length)}</span><h2>Городские места</h2><p>Площади, улицы и районы мира.</p><span className="category-teaser">199 карточек с фотографиями</span></div>
     </Link>
     {(['food', 'architecture'] as const).map(kind => <Link key={kind} className="category-card category-landmark" to={`/learn/${kind}`}>
       <div className="category-visual"><TravelImage card={travelCards.byKind(kind)[0]}/></div>

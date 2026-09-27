@@ -6,6 +6,7 @@ import { LearnHome, CatalogPage, DetailPage } from '../features/learn/LearnPages
 import { BorderCatalogPage, BorderDetailPage } from '../features/learn/BorderPages';
 import { CapitalCatalogPage, CapitalDetailPage } from '../features/learn/CapitalPages';
 import { TravelCatalogPage, TravelDetailPage } from '../features/learn/TravelPages';
+import { UrbanPlaceCatalogPage, UrbanPlaceDetailPage } from '../features/learn/UrbanPlacePages';
 import { QuizSetupPage, QuizSessionPage } from '../features/quiz/QuizPages';
 import { MistakesPage, ProgressPage } from '../features/progress/ProgressPages';
 import { EmptyState, PageHeader } from '../components/Shared';
@@ -43,9 +44,11 @@ function AppShell() {
       <Route path="/learn/architecture" element={<TravelCatalogPage kind="architecture"/>}/>
       <Route path="/learn/borders" element={<BorderCatalogPage/>}/>
       <Route path="/learn/capitals" element={<CapitalCatalogPage/>}/>
+      <Route path="/learn/urban-places" element={<UrbanPlaceCatalogPage/>}/>
       <Route path="/learn/:category" element={<CatalogPage/>}/>
       <Route path="/border/:countryId" element={<BorderDetailPage/>}/>
       <Route path="/capital/:id" element={<CapitalDetailPage/>}/>
+      <Route path="/urban-place/:id" element={<UrbanPlaceDetailPage/>}/>
       <Route path="/item/:id" element={<DetailPage/>}/>
       <Route path="/travel/:id" element={<TravelDetailPage/>}/>
       <Route path="/quiz" element={<QuizSetupPage/>}/>
@@ -62,7 +65,7 @@ function AppShell() {
 function SourcesPage() {
   const entries = contentRepository.all();
   return <><PageHeader title="О проекте и источники" description="GeoTrainer помогает изучать географию через изображения, короткие объяснения и тренировку." back={{ to: '/learn', label: 'Изучать' }}/>
-    <div className="about-prose"><p>Факты для карточек проверены по государственным, научным и природоохранным источникам. Изображения хранятся в приложении; автор и условия использования указаны в каждой карточке.</p><p>Сейчас доступны {entries.length} проверенных объектов. Прогресс хранится только в этом браузере.</p><h2>Как устроен квиз</h2><p>Вопросы создаются из тех же карточек, которые вы изучаете. После каждого ответа приложение показывает объяснение и сохраняет результат для повторения.</p></div>
+    <div className="about-prose"><p>Факты для опубликованных карточек проверены по государственным, научным и природоохранным источникам. Изображения хранятся в приложении; автор и условия использования указаны в каждой карточке.</p><p>Сейчас доступны {entries.length} проверенных объектов. Городские места находятся в черновом каталоге: фотографии и сведения о правах добавлены, а описания ещё требуют индивидуальной проверки источников перед включением в квиз. Прогресс хранится только в этом браузере.</p><h2>Как устроен квиз</h2><p>Вопросы создаются из тех же карточек, которые вы изучаете. После каждого ответа приложение показывает объяснение и сохраняет результат для повторения.</p></div>
   </>;
 }
 

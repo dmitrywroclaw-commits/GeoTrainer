@@ -10,6 +10,8 @@ The prototype is a client-side PWA with structured local content and local progr
 
 The Learn screen also links to local draft catalogs for foods and architecture. These use structured records in `content/travel-cards.json`, local photos with the same aspect ratio as nature photos, media credits in `content/travel-media.json`, and a required “Почему интересно” field. Some ingredient or regional photos are explicitly labeled as illustrative. The catalogs remain outside quiz topics pending individual factual source review.
 
+The local urban-places catalog uses 199 draft records in `content/urban-places.json` and 199 local photos described in `content/urban-media.json`. Learn cards display the photos in responsive 16:9 frames and detail pages link to each original image and license. The editorial descriptions are shown as drafts; individual factual sources are required before these records enter the quiz.
+
 ## 2. Technology stack
 
 Recommended stack:

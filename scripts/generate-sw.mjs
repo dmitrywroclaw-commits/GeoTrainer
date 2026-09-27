@@ -27,10 +27,10 @@ const offline = index
 await writeFile(new URL('../dist/offline.html', import.meta.url), offline);
 const version = String(Date.now());
 const sw = `const SHELL = 'geotrainer-shell-${version}';
-const MEDIA = 'geotrainer-media-v1';
+const MEDIA = 'geotrainer-media-v2';
 const PRECACHE = ${JSON.stringify([...shell.map(file => `/${file}`), '/offline.html'])};
 self.addEventListener('install', event => { event.waitUntil(caches.open(SHELL).then(cache => cache.addAll(PRECACHE)).then(() => self.skipWaiting())); });
-self.addEventListener('activate', event => { event.waitUntil(caches.keys().then(keys => Promise.all(keys.filter(key => key.startsWith('geotrainer-shell-') && key !== SHELL).map(key => caches.delete(key)))).then(() => self.clients.claim())); });
+self.addEventListener('activate', event => { event.waitUntil(caches.keys().then(keys => Promise.all(keys.filter(key => (key.startsWith('geotrainer-shell-') && key !== SHELL) || (key.startsWith('geotrainer-media-') && key !== MEDIA)).map(key => caches.delete(key)))).then(() => self.clients.claim())); });
 self.addEventListener('fetch', event => {
   const request = event.request;
   if (request.method !== 'GET') return;
@@ -42,11 +42,15 @@ self.addEventListener('fetch', event => {
   }
   if (url.pathname.startsWith('/media/')) {
     event.respondWith(caches.open(MEDIA).then(async cache => {
-      const cached = await cache.match(request);
-      if (cached) return cached;
-      const response = await fetch(request);
-      if (response.ok) cache.put(request, response.clone());
-      return response;
+      try {
+        const response = await fetch(request);
+        if (response.ok) await cache.put(request, response.clone());
+        return response;
+      } catch {
+        const cached = await cache.match(request);
+        if (cached) return cached;
+        return Response.error();
+      }
     }));
     return;
   }

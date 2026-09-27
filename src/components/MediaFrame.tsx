@@ -20,7 +20,7 @@ export function MediaFrame({ media, alt, className = '', expandable = false }: {
   const retry = () => { if (objectUrl.current) URL.revokeObjectURL(objectUrl.current); objectUrl.current = null; setFailed(false); setSource(media.localPath); setRetryKey(x => x + 1); };
   const cacheViewedMedia = () => {
     if (!('caches' in window) || !navigator.onLine || source.startsWith('blob:')) return;
-    void caches.open('geotrainer-media-v1').then(async cache => {
+    void caches.open('geotrainer-media-v2').then(async cache => {
       if (!(await cache.match(media.localPath))) await cache.add(media.localPath);
     }).catch(() => undefined);
   };

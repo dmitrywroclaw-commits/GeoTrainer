@@ -7,3 +7,16 @@ test-results/
 .npm-cache/
 .vercel/
 artifacts/borders/
+artifacts/urban-image-review/
+artifacts/urban-flickr-review/
+artifacts/urban-wikimedia-review/
+artifacts/urban-detail-preview.png
+artifacts/urban-alternatives/
+artifacts/urban-wide-review/
+artifacts/urban-current-review/
+artifacts/urban-commons-overviews/
+artifacts/urban-curated-commons/
+artifacts/urban-flickr-pool/
+artifacts/urban-focused-review/
+artifacts/urban-final-preview/
+__pycache__/

@@ -23,3 +23,9 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation-duration:.01ms!important;transition-duration:.01ms!important}}
 .travel-detail .detail-media{min-width:0}
 .category-border .category-visual img,.grid-border .media-frame img{width:100%;height:100%;max-width:none;max-height:none;object-fit:contain;padding:0}.grid-border{grid-template-columns:repeat(2,minmax(0,1fr))}.border-detail .detail-media .media-frame{background:#f2f6f7}@media(min-width:768px){.grid-border{grid-template-columns:repeat(3,minmax(0,1fr))}}@media(min-width:1280px){.grid-border{grid-template-columns:repeat(4,minmax(0,1fr))}}
+
+.urban-card .media-frame{width:100%;height:auto;aspect-ratio:16/9;border:0;border-bottom:1px solid var(--border);border-radius:0}
+.urban-card .media-frame img,.urban-detail .media-frame img,.urban-category .category-visual .media-frame img{width:100%;height:100%;max-width:none;max-height:none;object-fit:cover;padding:0}
+.urban-card .entry-card-text{padding:14px}.urban-card .eyebrow{font-size:10px;margin-bottom:8px;white-space:normal}.urban-card h2{font-size:17px;overflow-wrap:anywhere}
+.urban-detail .detail-media{min-width:0}.urban-detail .lead{margin-top:12px}.urban-detail .detail-media .media-frame{width:100%;height:auto;aspect-ratio:16/9}
+.urban-category .category-visual .media-frame{width:100%;height:100%;border:0;border-radius:0}
