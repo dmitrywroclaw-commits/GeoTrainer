@@ -2,6 +2,7 @@ import { useMemo, useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import { Icon } from '../../components/Icon';
 import { MediaFrame } from '../../components/MediaFrame';
+import { CardNavigation } from '../../components/CardNavigation';
 import { EmptyState, PageHeader } from '../../components/Shared';
 import { urbanPlaces, urbanPlaceTitle, type UrbanPlace } from '../../data/urbanPlaces';
 
@@ -50,6 +51,7 @@ export function UrbanPlaceDetailPage() {
       </div>
     </div>
     <div className="detail-lower">
+      <CardNavigation ids={urbanPlaces.all().map(item => item.id)} currentId={card.id} path={cardId => `/urban-place/${cardId}`}/>
       <section className="source-block"><h2>О фотографии</h2><p>{urbanPlaces.media(card.id)?.attributionText}</p><p><a href={urbanPlaces.media(card.id)?.sourcePageUrl} target="_blank" rel="noreferrer">Оригинал фотографии</a> · <a href={urbanPlaces.media(card.id)?.rightsUrl} target="_blank" rel="noreferrer">Условия лицензии</a></p></section>
       <section className="source-block"><h2>Статус карточки</h2><p>Черновик по редакционному списку «{card.sourceDocument}». Сведения о месте проходят проверку перед добавлением в квиз.</p></section>
     </div>

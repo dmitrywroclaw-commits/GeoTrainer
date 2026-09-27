@@ -2,6 +2,7 @@ import { useMemo, useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import { Icon } from '../../components/Icon';
 import { MediaFrame } from '../../components/MediaFrame';
+import { CardNavigation } from '../../components/CardNavigation';
 import { EmptyState, PageHeader } from '../../components/Shared';
 import { capitalRepository } from '../../data/capitals';
 
@@ -43,7 +44,8 @@ export function CapitalDetailPage() {
         <section className="detail-section"><h2>О городе</h2><p>{entry.explanationRu}</p></section>
       </div>
     </div>
-    <div className="detail-lower"><section className="source-block"><h2>Источники</h2><ul>{capitalRepository.sources(entry.sourceIds).map(source => <li key={source.id}><a href={source.url} target="_blank" rel="noreferrer">{source.publisher}: {source.title}</a></li>)}</ul>
+    <div className="detail-lower"><CardNavigation ids={capitalRepository.all().map(item => item.id)} currentId={entry.id} path={cardId => `/capital/${cardId}`}/>
+    <section className="source-block"><h2>Источники</h2><ul>{capitalRepository.sources(entry.sourceIds).map(source => <li key={source.id}><a href={source.url} target="_blank" rel="noreferrer">{source.publisher}: {source.title}</a></li>)}</ul>
       {media && <><p className="source-label">Фотография и права</p><p><a href={media.sourcePageUrl} target="_blank" rel="noreferrer">{media.publisher}</a> · {media.author}</p><p><a href={media.rightsUrl} target="_blank" rel="noreferrer">{media.license}</a> · {media.attributionText} · проверено {media.checkedAt}</p></>}
     </section>
     {question && <Link className="button primary-button detail-cta" to={`/quiz/session?mode=capital&count=5&focus=${question.id}`}>Проверить себя</Link>}</div>

@@ -6,6 +6,7 @@ import { useProgress } from '../../app/ProgressContext';
 import { EntryCard, EmptyState, PageHeader, SourceBlock, kindLabel, kindPath } from '../../components/Shared';
 import { Icon } from '../../components/Icon';
 import { MediaFrame } from '../../components/MediaFrame';
+import { CardNavigation } from '../../components/CardNavigation';
 import { flagMeaningHistory } from './flagCopy';
 import { travelCards } from '../../data/travelCards';
 import { borderRepository } from '../../data/borders';
@@ -122,6 +123,7 @@ export function DetailPage() {
       </div>
     </div>
     <div className="detail-lower">{entry.kind !== 'flag' && <section className="detail-section"><h2>{entry.kind === 'landmark' ? 'Подробнее об этом месте' : 'История и контекст'}</h2><p>{entry.kind === 'landmark' ? entry.explanationRu : entry.historyRu ?? entry.explanationRu}</p></section>}
+      <CardNavigation ids={contentRepository.byKind(entry.kind).map(item => item.id)} currentId={entry.id} path={cardId => `/item/${cardId}`}/>
       <SourceBlock entry={entry}/>
       <Link className="button primary-button detail-cta" to={`/quiz/session?mode=${entry.kind}&count=5&focus=${entry.id}`}>Проверить себя</Link>
     </div>

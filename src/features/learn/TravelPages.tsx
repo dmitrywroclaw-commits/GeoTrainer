@@ -3,6 +3,7 @@ import { Link, useParams } from 'react-router-dom';
 import { EmptyState, PageHeader } from '../../components/Shared';
 import { travelCards, type TravelCard } from '../../data/travelCards';
 import { MediaFrame } from '../../components/MediaFrame';
+import { CardNavigation } from '../../components/CardNavigation';
 
 const meta = {
   food: { title: 'Еда мира', description: 'Необычные блюда и традиции разных мест.' },
@@ -51,7 +52,8 @@ export function TravelDetailPage() {
         {card.kind === 'food' && <section className="detail-section"><h2>Примечание</h2><p>{card.noteRu}</p></section>}
       </div>
     </div>
-    <div className="detail-lower"><section className="source-block"><h2>Источники и права</h2>
+    <div className="detail-lower"><CardNavigation ids={travelCards.byKind(kind).map(item => item.id)} currentId={card.id} path={cardId => `/travel/${cardId}`}/>
+    <section className="source-block"><h2>Источники и права</h2>
       <p>Карточка подготовлена по локальному документу «{card.sourceDocument}».</p>
       {card.kind === 'architecture' && <p>Для проверки отдельных архитектурных сведений: <a href="https://whc.unesco.org/en/list" target="_blank" rel="noreferrer">Список всемирного наследия ЮНЕСКО</a>.</p>}
       <p className="source-label">Изображение</p>

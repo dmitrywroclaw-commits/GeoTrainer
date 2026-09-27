@@ -12,6 +12,8 @@ The Learn screen also links to local draft catalogs for foods and architecture. 
 
 The local urban-places catalog uses 199 draft records in `content/urban-places.json` and 199 local photos described in `content/urban-media.json`. Learn cards display the photos in responsive 16:9 frames and detail pages link to each original image and license. The editorial descriptions are shown as drafts; individual factual sources are required before these records enter the quiz.
 
+Every Learn detail page places Next and Random actions after the learning text and before source, rights, and status information. Both stay within the current catalog type, Random excludes the current card, and Next wraps from the last card to the first. Opening another card returns the reader to the top of the page.
+
 ## 2. Technology stack
 
 Recommended stack:

@@ -29,3 +29,4 @@
 .urban-card .entry-card-text{padding:14px}.urban-card .eyebrow{font-size:10px;margin-bottom:8px;white-space:normal}.urban-card h2{font-size:17px;overflow-wrap:anywhere}
 .urban-detail .detail-media{min-width:0}.urban-detail .lead{margin-top:12px}.urban-detail .detail-media .media-frame{width:100%;height:auto;aspect-ratio:16/9}
 .urban-category .category-visual .media-frame{width:100%;height:100%;border:0;border-radius:0}
+.card-navigation{border-top:1px solid var(--border);margin-top:32px;padding-top:24px}.card-navigation-heading{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:16px}.card-navigation h2{font-size:20px;margin:0}.card-navigation p{font-size:14px;color:var(--muted);margin:0}.card-navigation-actions{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.card-navigation .button{width:100%}.card-navigation .button:disabled{opacity:.55;cursor:not-allowed}
