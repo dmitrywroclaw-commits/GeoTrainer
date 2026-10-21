@@ -1,0 +1,141 @@
+{
+  "batch_id": "publish-019-four-emblems",
+  "checked_at": "2026-10-21",
+  "sources": [
+    {
+      "id": "cy-government-emblem",
+      "title": "General Information: The Emblem",
+      "publisher": "Ministry of Foreign Affairs of the Republic of Cyprus",
+      "url": "https://www.mfa.gov.cy/mfa/embassies/embassy_ljubljana.nsf/generalinformation_en/generalinformation_en?OpenDocument",
+      "sourceType": "government",
+      "accessedAt": "2026-10-21"
+    },
+    {
+      "id": "cz-interior-coats-of-arms",
+      "title": "Velký a malý státní znak",
+      "publisher": "Ministerstvo vnitra České republiky",
+      "url": "https://mv.gov.cz/velky-a-maly-statni-znak",
+      "sourceType": "government",
+      "accessedAt": "2026-10-21"
+    },
+    {
+      "id": "cz-foreign-ministry-historical-lands",
+      "title": "Státní symboly ČR",
+      "publisher": "Velvyslanectví České republiky v Bratislavě, Ministerstvo zahraničních věcí",
+      "url": "https://mzv.gov.cz/bratislava/cz/cr_a_eu/statni_symboly_cr/index.html",
+      "sourceType": "government",
+      "accessedAt": "2026-10-21"
+    },
+    {
+      "id": "dk-foreign-ministry-coats-of-arms",
+      "title": "Danish coats of arms",
+      "publisher": "Ministry of Foreign Affairs of Denmark",
+      "url": "https://um.dk/estland/en/denmark-and-estonia/national-symbols/danish-coats-of-arms/",
+      "sourceType": "government",
+      "accessedAt": "2026-10-21"
+    },
+    {
+      "id": "ee-national-coat-of-arms-act",
+      "title": "National Coat of Arms Act, sections 1–4",
+      "publisher": "Riigi Teataja, Republic of Estonia",
+      "url": "https://www.riigiteataja.ee/en/tolge/pdf/511072024001",
+      "sourceType": "law",
+      "accessedAt": "2026-10-21"
+    }
+  ],
+  "entries": [
+    {
+      "id": "cyprus-national-emblem", "kind": "emblem", "countryId": "cyprus", "nameRu": "Кипр",
+      "subtitleRu": "Государственная эмблема", "symbolType": "national_emblem", "mediaId": "emblem-cyprus",
+      "summaryRu": "На медном щите изображён белый голубь с оливковой ветвью. Под голубем стоит год «1960», а щит окружают две оливковые ветви.",
+      "explanationRu": "Министерство иностранных дел Кипра связывает медный цвет с историей острова; голубь и оливковые ветви обозначают мир. Число 1960 указывает на год независимости.",
+      "historyRu": "Эмблема относится к символам Республики Кипр, независимой с 1960 года.",
+      "symbols": [
+        { "nameRu": "Белый голубь и оливковые ветви", "category": "animal", "meaningStatus": "official", "meaningRu": "Символизируют мир.", "sourceIds": ["cy-government-emblem"] },
+        { "nameRu": "Медный цвет щита", "category": "shield", "meaningStatus": "official", "meaningRu": "Связан с древней историей добычи меди на Кипре.", "sourceIds": ["cy-government-emblem"] },
+        { "nameRu": "Число 1960", "category": "inscription", "meaningStatus": "official", "meaningRu": "Год независимости Республики Кипр.", "sourceIds": ["cy-government-emblem"] }
+      ],
+      "facts": [{ "labelRu": "Тип", "valueRu": "Государственная эмблема" }, { "labelRu": "Число на щите", "valueRu": "1960" }],
+      "sourceIds": ["cy-government-emblem"], "quizHints": { "similarityTags": ["animal", "plant", "shield"] },
+      "status": "published", "verifiedAt": "2026-10-21"
+    },
+    {
+      "id": "czechia-greater-coat-of-arms", "kind": "emblem", "countryId": "czechia", "nameRu": "Чехия",
+      "subtitleRu": "Большой государственный герб", "symbolType": "coat_of_arms", "mediaId": "emblem-czechia",
+      "summaryRu": "Щит разделён на четыре поля: в двух красных полях — серебряный двухвостый лев, в синем — красно-белая шахматная орлица, в золотом — чёрная орлица.",
+      "explanationRu": "МВД Чехии различает большой и малый государственные гербы. Большой герб объединяет знаки Чехии, Моравии и Силезии; два поля со львом повторяют знак Чехии.",
+      "historyRu": "Действующий состав большого герба определён законом о государственных символах Чехии.",
+      "symbols": [
+        { "nameRu": "Двухвостый лев", "category": "animal", "meaningStatus": "official", "meaningRu": "Геральдический знак Чехии.", "sourceIds": ["cz-foreign-ministry-historical-lands"] },
+        { "nameRu": "Красно-белая орлица", "category": "animal", "meaningStatus": "official", "meaningRu": "Геральдический знак Моравии.", "sourceIds": ["cz-foreign-ministry-historical-lands"] },
+        { "nameRu": "Чёрная орлица", "category": "animal", "meaningStatus": "official", "meaningRu": "Геральдический знак Силезии.", "sourceIds": ["cz-foreign-ministry-historical-lands"] }
+      ],
+      "facts": [{ "labelRu": "Тип", "valueRu": "Большой государственный герб" }, { "labelRu": "Поля щита", "valueRu": "4" }],
+      "sourceIds": ["cz-interior-coats-of-arms", "cz-foreign-ministry-historical-lands"], "quizHints": { "similarityTags": ["animal", "shield", "eagle"] },
+      "status": "published", "verifiedAt": "2026-10-21"
+    },
+    {
+      "id": "denmark-national-coat-of-arms", "kind": "emblem", "countryId": "denmark", "nameRu": "Дания",
+      "subtitleRu": "Государственный герб", "symbolType": "coat_of_arms", "mediaId": "emblem-denmark",
+      "summaryRu": "На золотом щите изображены три синих коронованных льва среди девяти красных сердцевидных фигур. Над щитом находится королевская корона.",
+      "explanationRu": "МИД Дании отличает этот государственный герб от большого королевского герба. Три льва среди красных фигур — исторический знак датских королей со времён Вальдемаров.",
+      "historyRu": "Государственный герб с тремя львами известен со времён династии Вальдемаров.",
+      "symbols": [
+        { "nameRu": "Три коронованных льва", "category": "animal", "meaningStatus": "unknown", "sourceIds": ["dk-foreign-ministry-coats-of-arms"] },
+        { "nameRu": "Девять красных фигур", "category": "other", "meaningStatus": "unknown", "sourceIds": ["dk-foreign-ministry-coats-of-arms"] },
+        { "nameRu": "Корона", "category": "crown", "meaningStatus": "unknown", "sourceIds": ["dk-foreign-ministry-coats-of-arms"] }
+      ],
+      "facts": [{ "labelRu": "Тип", "valueRu": "Государственный герб" }, { "labelRu": "Львы", "valueRu": "3" }, { "labelRu": "Красные фигуры", "valueRu": "9" }],
+      "sourceIds": ["dk-foreign-ministry-coats-of-arms"], "quizHints": { "similarityTags": ["animal", "crown", "shield"] },
+      "status": "published", "verifiedAt": "2026-10-21"
+    },
+    {
+      "id": "estonia-greater-coat-of-arms", "kind": "emblem", "countryId": "estonia", "nameRu": "Эстония",
+      "subtitleRu": "Большой государственный герб", "symbolType": "coat_of_arms", "mediaId": "emblem-estonia",
+      "summaryRu": "На золотом щите помещены три синих льва. Щит с боков и снизу обрамляют две золотые дубовые ветви, скрещённые внизу.",
+      "explanationRu": "Закон Эстонии предусматривает большой и малый гербы. У малого тот же щит с тремя львами, но без дубовых ветвей.",
+      "historyRu": "Герб с тремя львами был принят парламентом Эстонии 19 июня 1925 года.",
+      "symbols": [
+        { "nameRu": "Три синих льва", "category": "animal", "meaningStatus": "unknown", "sourceIds": ["ee-national-coat-of-arms-act"] },
+        { "nameRu": "Дубовые ветви", "category": "plant", "meaningStatus": "unknown", "sourceIds": ["ee-national-coat-of-arms-act"] }
+      ],
+      "facts": [{ "labelRu": "Тип", "valueRu": "Большой государственный герб" }, { "labelRu": "Львы", "valueRu": "3" }, { "labelRu": "Принят", "valueRu": "19 июня 1925 года" }],
+      "sourceIds": ["ee-national-coat-of-arms-act"], "quizHints": { "similarityTags": ["animal", "plant", "shield"] },
+      "status": "published", "verifiedAt": "2026-10-21"
+    }
+  ],
+  "media": [
+    {
+      "id": "emblem-cyprus", "kind": "emblem", "localPath": "/media/emblems/cyprus.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Cyprus_(2006).svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Coat_of_arms_of_Cyprus_%282006%29.svg",
+      "publisher": "Wikimedia Commons", "author": "Borb; Di (they-them); Echando una mano (исправление)", "license": "CC BY-SA 4.0",
+      "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attributionText": "Borb, Di (they-them), Echando una mano, Coat of arms of Cyprus (2006), CC BY-SA 4.0, Wikimedia Commons; файл не изменён.",
+      "checkedAt": "2026-10-21"
+    },
+    {
+      "id": "emblem-czechia", "kind": "emblem", "localPath": "/media/emblems/czechia.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Czech_Republic.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Coat_of_arms_of_the_Czech_Republic.svg",
+      "publisher": "Wikimedia Commons", "author": "Jiří Louda (original); Tlusťa (SVG)", "license": "Public domain",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Czech_Republic.svg", "checkedAt": "2026-10-21"
+    },
+    {
+      "id": "emblem-denmark", "kind": "emblem", "localPath": "/media/emblems/denmark.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:National_coat_of_arms_of_Denmark.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/National_coat_of_arms_of_Denmark.svg",
+      "publisher": "Wikimedia Commons", "author": "Galico~commonswiki; elements by Sodacan", "license": "CC BY-SA 3.0",
+      "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "attributionText": "Galico~commonswiki, with elements by Sodacan, National coat of arms of Denmark, CC BY-SA 3.0, Wikimedia Commons; файл не изменён.",
+      "checkedAt": "2026-10-21"
+    },
+    {
+      "id": "emblem-estonia", "kind": "emblem", "localPath": "/media/emblems/estonia.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Estonia.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Coat_of_arms_of_Estonia.svg",
+      "publisher": "Wikimedia Commons", "author": "Riigikantselei", "license": "Public domain",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Estonia.svg", "checkedAt": "2026-10-21"
+    }
+  ]
+}

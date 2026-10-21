@@ -1,0 +1,417 @@
+{
+  "batch_id": "publish-017-five-emblems",
+  "checked_at": "2026-10-21",
+  "sources": [],
+  "entries": [
+    {
+      "id": "andorra-coat-of-arms",
+      "kind": "emblem",
+      "countryId": "andorra",
+      "nameRu": "Андорра",
+      "subtitleRu": "Герб Княжества Андорра",
+      "symbolType": "coat_of_arms",
+      "mediaId": "emblem-andorra",
+      "summaryRu": "Щит разделён на четыре части: митра и посох епископа Уржельского, знаки Фуа, Каталонии и Беарна. Под щитом — девиз Virtus Unita Fortior.",
+      "explanationRu": "Четыре поля напоминают о двух соправителях Андорры и связанных с ними исторических владениях. Закон допускает варианты внешнего оформления и наличие девиза.",
+      "historyRu": "Традиционный герб описан в приложении к закону о государственных знаках Андорры.",
+      "symbols": [
+        {
+          "nameRu": "Митра и посох",
+          "category": "other",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "ad-state-signs-law"
+          ]
+        },
+        {
+          "nameRu": "Поля Фуа, Каталонии и Беарна",
+          "category": "shield",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "ad-state-signs-law"
+          ]
+        },
+        {
+          "nameRu": "Девиз",
+          "category": "motto",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "ad-state-signs-law"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Герб"
+        },
+        {
+          "labelRu": "Композиция",
+          "valueRu": "Четырёхчастный щит"
+        },
+        {
+          "labelRu": "Девиз",
+          "valueRu": "Virtus Unita Fortior"
+        }
+      ],
+      "sourceIds": [
+        "ad-state-signs-law"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "shield",
+          "motto"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-10-21"
+    },
+    {
+      "id": "antigua-and-barbuda-coat-of-arms",
+      "kind": "emblem",
+      "countryId": "antigua-and-barbuda",
+      "nameRu": "Антигуа и Барбуда",
+      "subtitleRu": "Государственный герб",
+      "symbolType": "coat_of_arms",
+      "mediaId": "emblem-antigua-and-barbuda",
+      "summaryRu": "На щите показаны солнце, море и сахарная мельница. Герб держат два оленя; над щитом расположены ананас и красные цветы гибискуса.",
+      "explanationRu": "Правительство связывает ананас с местным сортом Antigua Black Pineapple, а мельницу и сахарный тростник — с историей производства сахара. Девиз: Each Endeavouring, All Achieving.",
+      "historyRu": "Герб первоначально разработал Гордон Кристофер; позднее его изменил Дон Криббс.",
+      "symbols": [
+        {
+          "nameRu": "Олени",
+          "category": "animal",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "ag-national-symbols"
+          ]
+        },
+        {
+          "nameRu": "Ананас и гибискус",
+          "category": "plant",
+          "meaningStatus": "official",
+          "sourceIds": [
+            "ag-national-symbols"
+          ],
+          "meaningRu": "Ананас обозначает местный сорт Antigua Black Pineapple."
+        },
+        {
+          "nameRu": "Сахарная мельница",
+          "category": "architecture",
+          "meaningStatus": "official",
+          "sourceIds": [
+            "ag-national-symbols"
+          ],
+          "meaningRu": "Напоминает об историческом производстве сахара."
+        },
+        {
+          "nameRu": "Солнце и море",
+          "category": "other",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "ag-national-symbols"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Герб"
+        },
+        {
+          "labelRu": "Щитодержатели",
+          "valueRu": "Два оленя"
+        },
+        {
+          "labelRu": "Девиз",
+          "valueRu": "Each Endeavouring, All Achieving"
+        }
+      ],
+      "sourceIds": [
+        "ag-national-symbols"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "animal",
+          "plant",
+          "sun"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-10-21"
+    },
+    {
+      "id": "armenia-state-coat-of-arms",
+      "kind": "emblem",
+      "countryId": "armenia",
+      "nameRu": "Армения",
+      "subtitleRu": "Государственный герб",
+      "symbolType": "coat_of_arms",
+      "mediaId": "emblem-armenia",
+      "summaryRu": "В центре щита — гора Арарат с Ноевым ковчегом; вокруг — гербы четырёх исторических династий. Щит держат орёл и лев.",
+      "explanationRu": "Под щитом находятся меч, ветвь, сноп колосьев, цепь и лента. Красные, синие и оранжевые детали повторяют цвета государственного флага.",
+      "historyRu": "В 1992 году был восстановлен герб Первой Республики; действующий закон о государственном гербе принят в 2006 году.",
+      "symbols": [
+        {
+          "nameRu": "Гора Арарат и Ноев ковчег",
+          "category": "other",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "am-president-state-symbols"
+          ]
+        },
+        {
+          "nameRu": "Четыре исторические династии",
+          "category": "shield",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "am-president-state-symbols"
+          ]
+        },
+        {
+          "nameRu": "Орёл и лев",
+          "category": "animal",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "am-president-state-symbols"
+          ]
+        },
+        {
+          "nameRu": "Меч, ветвь и колосья",
+          "category": "other",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "am-president-state-symbols"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Герб"
+        },
+        {
+          "labelRu": "Щитодержатели",
+          "valueRu": "Орёл и лев"
+        },
+        {
+          "labelRu": "Закон",
+          "valueRu": "2006 год"
+        }
+      ],
+      "sourceIds": [
+        "am-president-state-symbols"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "animal",
+          "shield",
+          "mountain"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-10-21"
+    },
+    {
+      "id": "bahamas-coat-of-arms",
+      "kind": "emblem",
+      "countryId": "bahamas",
+      "nameRu": "Багамские Острова",
+      "subtitleRu": "Государственный герб",
+      "symbolType": "coat_of_arms",
+      "mediaId": "emblem-bahamas",
+      "summaryRu": "На щите изображён корабль «Санта-Мария» над морскими волнами и восходящее солнце. По сторонам стоят марлин и фламинго.",
+      "explanationRu": "Над щитом находятся морская раковина и пальмовые листья. Внизу указан девиз Forward, Upward, Onward Together; эти детали перечислены в законе о гербе.",
+      "historyRu": "Описание государственного герба закреплено в Законе о флагах и гербе 1973 года.",
+      "symbols": [
+        {
+          "nameRu": "Корабль «Санта-Мария»",
+          "category": "other",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "bs-symbols-law"
+          ]
+        },
+        {
+          "nameRu": "Марлин и фламинго",
+          "category": "animal",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "bs-symbols-law"
+          ]
+        },
+        {
+          "nameRu": "Раковина и пальмовые листья",
+          "category": "plant",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "bs-symbols-law"
+          ]
+        },
+        {
+          "nameRu": "Девиз",
+          "category": "motto",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "bs-symbols-law"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Герб"
+        },
+        {
+          "labelRu": "Щитодержатели",
+          "valueRu": "Марлин и фламинго"
+        },
+        {
+          "labelRu": "Закон",
+          "valueRu": "1973 год"
+        }
+      ],
+      "sourceIds": [
+        "bs-symbols-law"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "animal",
+          "ship",
+          "sun"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-10-21"
+    },
+    {
+      "id": "bangladesh-national-emblem",
+      "kind": "emblem",
+      "countryId": "bangladesh",
+      "nameRu": "Бангладеш",
+      "subtitleRu": "Национальная эмблема",
+      "symbolType": "national_emblem",
+      "mediaId": "emblem-bangladesh",
+      "summaryRu": "В центре национальной эмблемы — водяная лилия шапла на воде. По сторонам расположены колосья риса.",
+      "explanationRu": "Над лилией показаны три соединённых листа джута и по две звезды с каждой стороны. Именно такой состав эмблемы перечисляет статья 4 Конституции.",
+      "historyRu": "Национальная эмблема определена Конституцией Народной Республики Бангладеш.",
+      "symbols": [
+        {
+          "nameRu": "Водяная лилия шапла",
+          "category": "flower",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "bd-constitution-art-4"
+          ]
+        },
+        {
+          "nameRu": "Колосья риса",
+          "category": "plant",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "bd-constitution-art-4"
+          ]
+        },
+        {
+          "nameRu": "Листья джута и звёзды",
+          "category": "plant",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "bd-constitution-art-4"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Национальная эмблема"
+        },
+        {
+          "labelRu": "Центральный элемент",
+          "valueRu": "Водяная лилия шапла"
+        },
+        {
+          "labelRu": "Правовое основание",
+          "valueRu": "Статья 4 Конституции"
+        }
+      ],
+      "sourceIds": [
+        "bd-constitution-art-4"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "flower",
+          "plant",
+          "stars"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-10-21"
+    }
+  ],
+  "media": [
+    {
+      "id": "emblem-andorra",
+      "kind": "emblem",
+      "localPath": "/media/emblems/andorra.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_Andorra.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Coat_of_Arms_of_Andorra.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Heralder",
+      "license": "CC BY-SA 3.0",
+      "checkedAt": "2026-10-21",
+      "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "attributionText": "Heralder, Coat of Arms of Andorra, CC BY-SA 3.0, Wikimedia Commons; файл не изменён."
+    },
+    {
+      "id": "emblem-antigua-and-barbuda",
+      "kind": "emblem",
+      "localPath": "/media/emblems/antigua-and-barbuda.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Antigua_and_Barbuda.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Coat_of_arms_of_Antigua_and_Barbuda.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "LadyofHats; based on a bitmap by Ralf Hartemink",
+      "license": "CC BY 3.0",
+      "checkedAt": "2026-10-21",
+      "rightsUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "attributionText": "LadyofHats, Coat of arms of Antigua and Barbuda, CC BY 3.0, Wikimedia Commons; файл не изменён."
+    },
+    {
+      "id": "emblem-armenia",
+      "kind": "emblem",
+      "localPath": "/media/emblems/armenia.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Armenia.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Coat_of_arms_of_Armenia.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Based on the design by Alexander Tamanian and Hakob Kojoyan; SVG editor not specified",
+      "license": "Public domain",
+      "checkedAt": "2026-10-21",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Armenia.svg"
+    },
+    {
+      "id": "emblem-bahamas",
+      "kind": "emblem",
+      "localPath": "/media/emblems/bahamas.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_The_Bahamas.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Coat_of_Arms_of_The_Bahamas.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "BaronJaguar",
+      "license": "CC BY-SA 4.0",
+      "checkedAt": "2026-10-21",
+      "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attributionText": "BaronJaguar, Coat of Arms of The Bahamas, CC BY-SA 4.0, Wikimedia Commons; файл не изменён."
+    },
+    {
+      "id": "emblem-bangladesh",
+      "kind": "emblem",
+      "localPath": "/media/emblems/bangladesh.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:National_emblem_of_Bangladesh.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/National_emblem_of_Bangladesh.svg",
+      "publisher": "Wikimedia Commons",
+      "author": "Tonyjeff; current revision by Moheen",
+      "license": "Public domain",
+      "checkedAt": "2026-10-21",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:National_emblem_of_Bangladesh.svg"
+    }
+  ]
+}

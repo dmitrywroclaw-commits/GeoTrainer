@@ -12,6 +12,7 @@
     "test:e2e": "playwright test",
     "research:seed": "node scripts/research/seed-research.mjs",
     "research:validate": "node scripts/research/validate-research.mjs",
+    "research:emblem-coverage": "node scripts/research/generate-emblem-coverage-report.mjs",
     "icons": "python scripts/generate-icons.py"
   },
   "dependencies": {

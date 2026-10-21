@@ -3989,6 +3989,118 @@
       "url": "https://whc.unesco.org/document/1075",
       "sourceType": "unesco",
       "accessedAt": "2026-09-25"
+    },
+    {
+      "id": "bb-government-coat-of-arms",
+      "title": "Coat of Arms",
+      "publisher": "Government of Barbados",
+      "url": "https://www.gov.bb/Visit-Barbados/coat-of-arms",
+      "sourceType": "government",
+      "accessedAt": "2026-10-21"
+    },
+    {
+      "id": "cd-presidency-emblem",
+      "title": "Les armoiries",
+      "publisher": "Présidence de la République démocratique du Congo",
+      "url": "https://www.presidence.cd/detail-symbole/2",
+      "sourceType": "government",
+      "accessedAt": "2026-10-21"
+    },
+    {
+      "id": "cy-government-emblem",
+      "title": "General Information: The Emblem",
+      "publisher": "Ministry of Foreign Affairs of the Republic of Cyprus",
+      "url": "https://www.mfa.gov.cy/mfa/embassies/embassy_ljubljana.nsf/generalinformation_en/generalinformation_en?OpenDocument",
+      "sourceType": "government",
+      "accessedAt": "2026-10-21"
+    },
+    {
+      "id": "cz-interior-coats-of-arms",
+      "title": "Velký a malý státní znak",
+      "publisher": "Ministerstvo vnitra České republiky",
+      "url": "https://mv.gov.cz/velky-a-maly-statni-znak",
+      "sourceType": "government",
+      "accessedAt": "2026-10-21"
+    },
+    {
+      "id": "dk-foreign-ministry-coats-of-arms",
+      "title": "Danish coats of arms",
+      "publisher": "Ministry of Foreign Affairs of Denmark",
+      "url": "https://um.dk/estland/en/denmark-and-estonia/national-symbols/danish-coats-of-arms/",
+      "sourceType": "government",
+      "accessedAt": "2026-10-21"
+    },
+    {
+      "id": "ee-national-coat-of-arms-act",
+      "title": "National Coat of Arms Act, sections 1–4",
+      "publisher": "Riigi Teataja, Republic of Estonia",
+      "url": "https://www.riigiteataja.ee/en/tolge/pdf/511072024001",
+      "sourceType": "law",
+      "accessedAt": "2026-10-21"
+    },
+    {
+      "id": "cz-foreign-ministry-historical-lands",
+      "title": "Státní symboly ČR",
+      "publisher": "Velvyslanectví České republiky v Bratislavě, Ministerstvo zahraničních věcí",
+      "url": "https://mzv.gov.cz/bratislava/cz/cr_a_eu/statni_symboly_cr/index.html",
+      "sourceType": "government",
+      "accessedAt": "2026-10-21"
+    },
+    {
+      "id": "fi-coat-of-arms-act-1978",
+      "title": "Laki Suomen vaakunasta 381/1978",
+      "publisher": "Finlex, Oikeusministeriö",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/1978/381",
+      "sourceType": "law",
+      "accessedAt": "2026-10-21"
+    },
+    {
+      "id": "gr-presidency-national-emblem",
+      "title": "The National Emblem",
+      "publisher": "Presidency of the Hellenic Republic",
+      "url": "https://www.presidency.gr/en/presidency/the-national-emblem/",
+      "sourceType": "government",
+      "accessedAt": "2026-10-21"
+    },
+    {
+      "id": "ie-enterprise-state-emblems",
+      "title": "Protection and use of State emblems",
+      "publisher": "Department of Enterprise, Trade and Employment, Ireland",
+      "url": "https://www.enterprise.gov.ie/en/what-we-do/innovation-research-development/intellectual-property/trade-marks/state-emblems/",
+      "sourceType": "government",
+      "accessedAt": "2026-10-21"
+    },
+    {
+      "id": "it-presidency-emblem",
+      "title": "I Simboli della Repubblica - l'Emblema",
+      "publisher": "Presidenza della Repubblica Italiana",
+      "url": "https://www.quirinale.it/it/pagine/simboli-repubblica-emblema",
+      "sourceType": "government",
+      "accessedAt": "2026-10-21"
+    },
+    {
+      "id": "lv-president-coat-of-arms",
+      "title": "National symbols: The Coat of Arms of Latvia",
+      "publisher": "Chancery of the President of Latvia",
+      "url": "https://www.president.lv/en/national-symbols",
+      "sourceType": "government",
+      "accessedAt": "2026-10-21"
+    },
+    {
+      "id": "lt-seimas-national-coat-of-arms",
+      "title": "Symbols of the Republic of Lithuania: National coat of arms",
+      "publisher": "Seimas of the Republic of Lithuania",
+      "url": "https://lrs.lt/sip/portal.show?p_a=1710&p_k=2&p_kade_id=10&p_r=35580",
+      "sourceType": "government",
+      "accessedAt": "2026-10-22"
+    },
+    {
+      "id": "sk-government-coat-of-arms",
+      "title": "Štátny znak",
+      "publisher": "Úrad vlády Slovenskej republiky",
+      "url": "https://www.vlada.gov.sk/slovensko/statny-znak/?highlight=slovensko",
+      "sourceType": "government",
+      "accessedAt": "2026-10-22"
     }
   ],
   "entries": [
@@ -17098,6 +17210,1412 @@
       },
       "status": "published",
       "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "andorra-coat-of-arms",
+      "kind": "emblem",
+      "countryId": "andorra",
+      "nameRu": "Андорра",
+      "subtitleRu": "Герб Княжества Андорра",
+      "symbolType": "coat_of_arms",
+      "mediaId": "emblem-andorra",
+      "summaryRu": "Щит разделён на четыре части: митра и посох епископа Уржельского, знаки Фуа, Каталонии и Беарна. Под щитом — девиз Virtus Unita Fortior.",
+      "explanationRu": "Четыре поля напоминают о двух соправителях Андорры и связанных с ними исторических владениях. Закон допускает варианты внешнего оформления и наличие девиза.",
+      "historyRu": "Традиционный герб описан в приложении к закону о государственных знаках Андорры.",
+      "symbols": [
+        {
+          "nameRu": "Митра и посох",
+          "category": "other",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "ad-state-signs-law"
+          ]
+        },
+        {
+          "nameRu": "Поля Фуа, Каталонии и Беарна",
+          "category": "shield",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "ad-state-signs-law"
+          ]
+        },
+        {
+          "nameRu": "Девиз",
+          "category": "motto",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "ad-state-signs-law"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Герб"
+        },
+        {
+          "labelRu": "Композиция",
+          "valueRu": "Четырёхчастный щит"
+        },
+        {
+          "labelRu": "Девиз",
+          "valueRu": "Virtus Unita Fortior"
+        }
+      ],
+      "sourceIds": [
+        "ad-state-signs-law"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "shield",
+          "motto"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-10-21"
+    },
+    {
+      "id": "antigua-and-barbuda-coat-of-arms",
+      "kind": "emblem",
+      "countryId": "antigua-and-barbuda",
+      "nameRu": "Антигуа и Барбуда",
+      "subtitleRu": "Государственный герб",
+      "symbolType": "coat_of_arms",
+      "mediaId": "emblem-antigua-and-barbuda",
+      "summaryRu": "На щите показаны солнце, море и сахарная мельница. Герб держат два оленя; над щитом расположены ананас и красные цветы гибискуса.",
+      "explanationRu": "Правительство связывает ананас с местным сортом Antigua Black Pineapple, а мельницу и сахарный тростник — с историей производства сахара. Девиз: Each Endeavouring, All Achieving.",
+      "historyRu": "Герб первоначально разработал Гордон Кристофер; позднее его изменил Дон Криббс.",
+      "symbols": [
+        {
+          "nameRu": "Олени",
+          "category": "animal",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "ag-national-symbols"
+          ]
+        },
+        {
+          "nameRu": "Ананас и гибискус",
+          "category": "plant",
+          "meaningStatus": "official",
+          "sourceIds": [
+            "ag-national-symbols"
+          ],
+          "meaningRu": "Ананас обозначает местный сорт Antigua Black Pineapple."
+        },
+        {
+          "nameRu": "Сахарная мельница",
+          "category": "architecture",
+          "meaningStatus": "official",
+          "sourceIds": [
+            "ag-national-symbols"
+          ],
+          "meaningRu": "Напоминает об историческом производстве сахара."
+        },
+        {
+          "nameRu": "Солнце и море",
+          "category": "other",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "ag-national-symbols"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Герб"
+        },
+        {
+          "labelRu": "Щитодержатели",
+          "valueRu": "Два оленя"
+        },
+        {
+          "labelRu": "Девиз",
+          "valueRu": "Each Endeavouring, All Achieving"
+        }
+      ],
+      "sourceIds": [
+        "ag-national-symbols"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "animal",
+          "plant",
+          "sun"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-10-21"
+    },
+    {
+      "id": "armenia-state-coat-of-arms",
+      "kind": "emblem",
+      "countryId": "armenia",
+      "nameRu": "Армения",
+      "subtitleRu": "Государственный герб",
+      "symbolType": "coat_of_arms",
+      "mediaId": "emblem-armenia",
+      "summaryRu": "В центре щита — гора Арарат с Ноевым ковчегом; вокруг — гербы четырёх исторических династий. Щит держат орёл и лев.",
+      "explanationRu": "Под щитом находятся меч, ветвь, сноп колосьев, цепь и лента. Красные, синие и оранжевые детали повторяют цвета государственного флага.",
+      "historyRu": "В 1992 году был восстановлен герб Первой Республики; действующий закон о государственном гербе принят в 2006 году.",
+      "symbols": [
+        {
+          "nameRu": "Гора Арарат и Ноев ковчег",
+          "category": "other",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "am-president-state-symbols"
+          ]
+        },
+        {
+          "nameRu": "Четыре исторические династии",
+          "category": "shield",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "am-president-state-symbols"
+          ]
+        },
+        {
+          "nameRu": "Орёл и лев",
+          "category": "animal",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "am-president-state-symbols"
+          ]
+        },
+        {
+          "nameRu": "Меч, ветвь и колосья",
+          "category": "other",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "am-president-state-symbols"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Герб"
+        },
+        {
+          "labelRu": "Щитодержатели",
+          "valueRu": "Орёл и лев"
+        },
+        {
+          "labelRu": "Закон",
+          "valueRu": "2006 год"
+        }
+      ],
+      "sourceIds": [
+        "am-president-state-symbols"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "animal",
+          "shield",
+          "mountain"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-10-21"
+    },
+    {
+      "id": "bahamas-coat-of-arms",
+      "kind": "emblem",
+      "countryId": "bahamas",
+      "nameRu": "Багамские Острова",
+      "subtitleRu": "Государственный герб",
+      "symbolType": "coat_of_arms",
+      "mediaId": "emblem-bahamas",
+      "summaryRu": "На щите изображён корабль «Санта-Мария» над морскими волнами и восходящее солнце. По сторонам стоят марлин и фламинго.",
+      "explanationRu": "Над щитом находятся морская раковина и пальмовые листья. Внизу указан девиз Forward, Upward, Onward Together; эти детали перечислены в законе о гербе.",
+      "historyRu": "Описание государственного герба закреплено в Законе о флагах и гербе 1973 года.",
+      "symbols": [
+        {
+          "nameRu": "Корабль «Санта-Мария»",
+          "category": "other",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "bs-symbols-law"
+          ]
+        },
+        {
+          "nameRu": "Марлин и фламинго",
+          "category": "animal",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "bs-symbols-law"
+          ]
+        },
+        {
+          "nameRu": "Раковина и пальмовые листья",
+          "category": "plant",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "bs-symbols-law"
+          ]
+        },
+        {
+          "nameRu": "Девиз",
+          "category": "motto",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "bs-symbols-law"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Герб"
+        },
+        {
+          "labelRu": "Щитодержатели",
+          "valueRu": "Марлин и фламинго"
+        },
+        {
+          "labelRu": "Закон",
+          "valueRu": "1973 год"
+        }
+      ],
+      "sourceIds": [
+        "bs-symbols-law"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "animal",
+          "ship",
+          "sun"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-10-21"
+    },
+    {
+      "id": "bangladesh-national-emblem",
+      "kind": "emblem",
+      "countryId": "bangladesh",
+      "nameRu": "Бангладеш",
+      "subtitleRu": "Национальная эмблема",
+      "symbolType": "national_emblem",
+      "mediaId": "emblem-bangladesh",
+      "summaryRu": "В центре национальной эмблемы — водяная лилия шапла на воде. По сторонам расположены колосья риса.",
+      "explanationRu": "Над лилией показаны три соединённых листа джута и по две звезды с каждой стороны. Именно такой состав эмблемы перечисляет статья 4 Конституции.",
+      "historyRu": "Национальная эмблема определена Конституцией Народной Республики Бангладеш.",
+      "symbols": [
+        {
+          "nameRu": "Водяная лилия шапла",
+          "category": "flower",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "bd-constitution-art-4"
+          ]
+        },
+        {
+          "nameRu": "Колосья риса",
+          "category": "plant",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "bd-constitution-art-4"
+          ]
+        },
+        {
+          "nameRu": "Листья джута и звёзды",
+          "category": "plant",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "bd-constitution-art-4"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Национальная эмблема"
+        },
+        {
+          "labelRu": "Центральный элемент",
+          "valueRu": "Водяная лилия шапла"
+        },
+        {
+          "labelRu": "Правовое основание",
+          "valueRu": "Статья 4 Конституции"
+        }
+      ],
+      "sourceIds": [
+        "bd-constitution-art-4"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "flower",
+          "plant",
+          "stars"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-10-21"
+    },
+    {
+      "id": "barbados-coat-of-arms",
+      "kind": "emblem",
+      "countryId": "barbados",
+      "nameRu": "Барбадос",
+      "subtitleRu": "Государственный герб",
+      "symbolType": "coat_of_arms",
+      "mediaId": "emblem-barbados",
+      "summaryRu": "На золотом щите изображены бородатая смоковница и два цветка «гордость Барбадоса». Щит держат дельфин и пеликан; над ним — рука с двумя скрещёнными стеблями сахарного тростника.",
+      "explanationRu": "Правительство связывает дельфина с рыболовством, пеликана — с бывшим островом Пеликан, а сахарный тростник — с сахарной промышленностью. Девиз под щитом: Pride and Industry.",
+      "historyRu": "Герб работы Невилла Коннелла был пожалован Барбадосу 14 февраля 1966 года.",
+      "symbols": [
+        {
+          "nameRu": "Смоковница и цветы",
+          "category": "plant",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "bb-government-coat-of-arms"
+          ]
+        },
+        {
+          "nameRu": "Дельфин",
+          "category": "animal",
+          "meaningStatus": "official",
+          "meaningRu": "Связан с рыболовством.",
+          "sourceIds": [
+            "bb-government-coat-of-arms"
+          ]
+        },
+        {
+          "nameRu": "Пеликан",
+          "category": "animal",
+          "meaningStatus": "official",
+          "meaningRu": "Напоминает о бывшем острове Пеликан.",
+          "sourceIds": [
+            "bb-government-coat-of-arms"
+          ]
+        },
+        {
+          "nameRu": "Сахарный тростник",
+          "category": "plant",
+          "meaningStatus": "official",
+          "meaningRu": "Связан с сахарной промышленностью.",
+          "sourceIds": [
+            "bb-government-coat-of-arms"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Герб"
+        },
+        {
+          "labelRu": "Девиз",
+          "valueRu": "Pride and Industry"
+        },
+        {
+          "labelRu": "Пожалован",
+          "valueRu": "14 февраля 1966 года"
+        }
+      ],
+      "sourceIds": [
+        "bb-government-coat-of-arms",
+        "bb-national-emblems-regulations"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "animal",
+          "plant",
+          "shield"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-10-21"
+    },
+    {
+      "id": "china-national-emblem",
+      "kind": "emblem",
+      "countryId": "china",
+      "nameRu": "Китай",
+      "subtitleRu": "Государственная эмблема КНР",
+      "symbolType": "national_emblem",
+      "mediaId": "emblem-china",
+      "summaryRu": "В центре эмблемы — ворота Тяньаньмэнь под пятью звёздами. Композицию обрамляют колосья, внизу находится зубчатое колесо.",
+      "explanationRu": "Именно эти четыре элемента перечисляет статья 142 Конституции КНР. Конституционная статья описывает состав эмблемы, но не объясняет значение каждого элемента.",
+      "historyRu": "Состав государственной эмблемы закреплён в Конституции КНР.",
+      "symbols": [
+        {
+          "nameRu": "Ворота Тяньаньмэнь",
+          "category": "architecture",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "cn-constitution-symbols"
+          ]
+        },
+        {
+          "nameRu": "Пять звёзд",
+          "category": "star",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "cn-constitution-symbols"
+          ]
+        },
+        {
+          "nameRu": "Колосья и зубчатое колесо",
+          "category": "other",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "cn-constitution-symbols"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Национальная эмблема"
+        },
+        {
+          "labelRu": "Правовое основание",
+          "valueRu": "Статья 142 Конституции"
+        }
+      ],
+      "sourceIds": [
+        "cn-constitution-symbols"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "architecture",
+          "stars",
+          "plant"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-10-21"
+    },
+    {
+      "id": "democratic-republic-of-the-congo-national-emblem",
+      "kind": "emblem",
+      "countryId": "democratic-republic-of-the-congo",
+      "nameRu": "Демократическая Республика Конго",
+      "subtitleRu": "Государственная эмблема",
+      "symbolType": "national_emblem",
+      "mediaId": "emblem-democratic-republic-of-the-congo",
+      "summaryRu": "В центре эмблемы — голова леопарда. По сторонам расположены слоновий бивень и копьё, а внизу — лента с девизом Justice, Paix, Travail.",
+      "explanationRu": "Президентский сайт описывает голову леопарда, бивень справа и копьё слева, опирающиеся на камень. Девиз переводится как «Справедливость, мир, труд».",
+      "historyRu": "Современная эмблема принята 18 февраля 2006 года при провозглашении Конституции Третьей республики.",
+      "symbols": [
+        {
+          "nameRu": "Голова леопарда",
+          "category": "animal",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "cd-presidency-emblem"
+          ]
+        },
+        {
+          "nameRu": "Слоновий бивень и копьё",
+          "category": "other",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "cd-presidency-emblem"
+          ]
+        },
+        {
+          "nameRu": "Лента с девизом",
+          "category": "motto",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "cd-presidency-emblem"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Государственная эмблема"
+        },
+        {
+          "labelRu": "Девиз",
+          "valueRu": "Justice, Paix, Travail"
+        },
+        {
+          "labelRu": "Принята",
+          "valueRu": "18 февраля 2006 года"
+        }
+      ],
+      "sourceIds": [
+        "cd-presidency-emblem"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "animal",
+          "motto"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-10-21"
+    },
+    {
+      "id": "croatia-coat-of-arms",
+      "kind": "emblem",
+      "countryId": "croatia",
+      "nameRu": "Хорватия",
+      "subtitleRu": "Государственный герб",
+      "symbolType": "coat_of_arms",
+      "mediaId": "emblem-croatia",
+      "summaryRu": "Главный щит состоит из 25 чередующихся красных и белых полей. Над ним находится корона из пяти малых исторических щитов.",
+      "explanationRu": "Закон устанавливает красное поле в левом верхнем углу главного щита. Пять малых щитов представляют древнейший известный герб Хорватии, Дубровницкую республику, Далмацию, Истрию и Славонию.",
+      "historyRu": "Действующее описание герба закреплено законом от 21 декабря 1990 года.",
+      "symbols": [
+        {
+          "nameRu": "Красно-белый щит",
+          "category": "shield",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "hr-symbols-law-1990"
+          ]
+        },
+        {
+          "nameRu": "Пять исторических щитов",
+          "category": "shield",
+          "meaningStatus": "official",
+          "meaningRu": "Представляют Хорватию, Дубровницкую республику, Далмацию, Истрию и Славонию.",
+          "sourceIds": [
+            "hr-symbols-law-1990"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Герб"
+        },
+        {
+          "labelRu": "Поля главного щита",
+          "valueRu": "25"
+        },
+        {
+          "labelRu": "Исторические щиты",
+          "valueRu": "5"
+        }
+      ],
+      "sourceIds": [
+        "hr-symbols-law-1990"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "shield",
+          "historical-shields"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-10-21"
+    },
+    {
+      "id": "cuba-coat-of-arms",
+      "kind": "emblem",
+      "countryId": "cuba",
+      "nameRu": "Куба",
+      "subtitleRu": "Государственный герб «Королевская пальма»",
+      "symbolType": "coat_of_arms",
+      "mediaId": "emblem-cuba",
+      "summaryRu": "В верхнем поле щита показаны восходящее солнце, море и ключ. Ниже — синие и белые полосы и королевская пальма; над щитом — фригийский колпак со звездой.",
+      "explanationRu": "Герб обрамляют ветви дуба и лавра. Закон о национальных символах закрепляет композицию герба и его название Escudo de la Palma Real.",
+      "historyRu": "Состав и порядок использования герба изложены в Законе № 128 о национальных символах Кубы 2019 года.",
+      "symbols": [
+        {
+          "nameRu": "Ключ и восходящее солнце",
+          "category": "sun",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "cu-symbols-law-128-2019"
+          ]
+        },
+        {
+          "nameRu": "Королевская пальма",
+          "category": "plant",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "cu-symbols-law-128-2019"
+          ]
+        },
+        {
+          "nameRu": "Фригийский колпак и звезда",
+          "category": "star",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "cu-symbols-law-128-2019"
+          ]
+        },
+        {
+          "nameRu": "Ветви дуба и лавра",
+          "category": "plant",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "cu-symbols-law-128-2019"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Герб"
+        },
+        {
+          "labelRu": "Официальное название",
+          "valueRu": "Escudo de la Palma Real"
+        },
+        {
+          "labelRu": "Закон",
+          "valueRu": "№ 128/2019"
+        }
+      ],
+      "sourceIds": [
+        "cu-symbols-law-128-2019"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "sun",
+          "plant",
+          "star"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-10-21"
+    },
+    {
+      "id": "cyprus-national-emblem",
+      "kind": "emblem",
+      "countryId": "cyprus",
+      "nameRu": "Кипр",
+      "subtitleRu": "Государственная эмблема",
+      "symbolType": "national_emblem",
+      "mediaId": "emblem-cyprus",
+      "summaryRu": "На медном щите изображён белый голубь с оливковой ветвью. Под голубем стоит год «1960», а щит окружают две оливковые ветви.",
+      "explanationRu": "Министерство иностранных дел Кипра связывает медный цвет с историей острова; голубь и оливковые ветви обозначают мир. Число 1960 указывает на год независимости.",
+      "historyRu": "Эмблема относится к символам Республики Кипр, независимой с 1960 года.",
+      "symbols": [
+        {
+          "nameRu": "Белый голубь и оливковые ветви",
+          "category": "animal",
+          "meaningStatus": "official",
+          "meaningRu": "Символизируют мир.",
+          "sourceIds": [
+            "cy-government-emblem"
+          ]
+        },
+        {
+          "nameRu": "Медный цвет щита",
+          "category": "shield",
+          "meaningStatus": "official",
+          "meaningRu": "Связан с древней историей добычи меди на Кипре.",
+          "sourceIds": [
+            "cy-government-emblem"
+          ]
+        },
+        {
+          "nameRu": "Число 1960",
+          "category": "inscription",
+          "meaningStatus": "official",
+          "meaningRu": "Год независимости Республики Кипр.",
+          "sourceIds": [
+            "cy-government-emblem"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Государственная эмблема"
+        },
+        {
+          "labelRu": "Число на щите",
+          "valueRu": "1960"
+        }
+      ],
+      "sourceIds": [
+        "cy-government-emblem"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "animal",
+          "plant",
+          "shield"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-10-21"
+    },
+    {
+      "id": "czechia-greater-coat-of-arms",
+      "kind": "emblem",
+      "countryId": "czechia",
+      "nameRu": "Чехия",
+      "subtitleRu": "Большой государственный герб",
+      "symbolType": "coat_of_arms",
+      "mediaId": "emblem-czechia",
+      "summaryRu": "Щит разделён на четыре поля: в двух красных полях — серебряный двухвостый лев, в синем — красно-белая шахматная орлица, в золотом — чёрная орлица.",
+      "explanationRu": "МВД Чехии различает большой и малый государственные гербы. Большой герб объединяет знаки Чехии, Моравии и Силезии; два поля со львом повторяют знак Чехии.",
+      "historyRu": "Действующий состав большого герба определён законом о государственных символах Чехии.",
+      "symbols": [
+        {
+          "nameRu": "Двухвостый лев",
+          "category": "animal",
+          "meaningStatus": "official",
+          "meaningRu": "Геральдический знак Чехии.",
+          "sourceIds": [
+            "cz-foreign-ministry-historical-lands"
+          ]
+        },
+        {
+          "nameRu": "Красно-белая орлица",
+          "category": "animal",
+          "meaningStatus": "official",
+          "meaningRu": "Геральдический знак Моравии.",
+          "sourceIds": [
+            "cz-foreign-ministry-historical-lands"
+          ]
+        },
+        {
+          "nameRu": "Чёрная орлица",
+          "category": "animal",
+          "meaningStatus": "official",
+          "meaningRu": "Геральдический знак Силезии.",
+          "sourceIds": [
+            "cz-foreign-ministry-historical-lands"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Большой государственный герб"
+        },
+        {
+          "labelRu": "Поля щита",
+          "valueRu": "4"
+        }
+      ],
+      "sourceIds": [
+        "cz-interior-coats-of-arms",
+        "cz-foreign-ministry-historical-lands"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "animal",
+          "shield",
+          "eagle"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-10-21"
+    },
+    {
+      "id": "denmark-national-coat-of-arms",
+      "kind": "emblem",
+      "countryId": "denmark",
+      "nameRu": "Дания",
+      "subtitleRu": "Государственный герб",
+      "symbolType": "coat_of_arms",
+      "mediaId": "emblem-denmark",
+      "summaryRu": "На золотом щите изображены три синих коронованных льва среди девяти красных сердцевидных фигур. Над щитом находится королевская корона.",
+      "explanationRu": "МИД Дании отличает этот государственный герб от большого королевского герба. Три льва среди красных фигур — исторический знак датских королей со времён Вальдемаров.",
+      "historyRu": "Государственный герб с тремя львами известен со времён династии Вальдемаров.",
+      "symbols": [
+        {
+          "nameRu": "Три коронованных льва",
+          "category": "animal",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "dk-foreign-ministry-coats-of-arms"
+          ]
+        },
+        {
+          "nameRu": "Девять красных фигур",
+          "category": "other",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "dk-foreign-ministry-coats-of-arms"
+          ]
+        },
+        {
+          "nameRu": "Корона",
+          "category": "crown",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "dk-foreign-ministry-coats-of-arms"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Государственный герб"
+        },
+        {
+          "labelRu": "Львы",
+          "valueRu": "3"
+        },
+        {
+          "labelRu": "Красные фигуры",
+          "valueRu": "9"
+        }
+      ],
+      "sourceIds": [
+        "dk-foreign-ministry-coats-of-arms"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "animal",
+          "crown",
+          "shield"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-10-21"
+    },
+    {
+      "id": "estonia-greater-coat-of-arms",
+      "kind": "emblem",
+      "countryId": "estonia",
+      "nameRu": "Эстония",
+      "subtitleRu": "Большой государственный герб",
+      "symbolType": "coat_of_arms",
+      "mediaId": "emblem-estonia",
+      "summaryRu": "На золотом щите помещены три синих льва. Щит с боков и снизу обрамляют две золотые дубовые ветви, скрещённые внизу.",
+      "explanationRu": "Закон Эстонии предусматривает большой и малый гербы. У малого тот же щит с тремя львами, но без дубовых ветвей.",
+      "historyRu": "Герб с тремя львами был принят парламентом Эстонии 19 июня 1925 года.",
+      "symbols": [
+        {
+          "nameRu": "Три синих льва",
+          "category": "animal",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "ee-national-coat-of-arms-act"
+          ]
+        },
+        {
+          "nameRu": "Дубовые ветви",
+          "category": "plant",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "ee-national-coat-of-arms-act"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Большой государственный герб"
+        },
+        {
+          "labelRu": "Львы",
+          "valueRu": "3"
+        },
+        {
+          "labelRu": "Принят",
+          "valueRu": "19 июня 1925 года"
+        }
+      ],
+      "sourceIds": [
+        "ee-national-coat-of-arms-act"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "animal",
+          "plant",
+          "shield"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-10-21"
+    },
+    {
+      "id": "finland-coat-of-arms",
+      "kind": "emblem",
+      "countryId": "finland",
+      "nameRu": "Финляндия",
+      "subtitleRu": "Государственный герб",
+      "symbolType": "coat_of_arms",
+      "mediaId": "emblem-finland",
+      "summaryRu": "На красном щите — золотой коронованный лев. Вместо правой передней лапы у него рука в доспехе с поднятым мечом; задними лапами лев попирает саблю. Вокруг — девять серебряных роз.",
+      "explanationRu": "Такой состав герба прямо установлен законом Финляндии № 381/1978. Закон описывает рисунок, но не устанавливает значение отдельных деталей.",
+      "historyRu": "Закон о гербе принят 26 мая 1978 года и вступил в силу 1 июня того же года.",
+      "symbols": [
+        {
+          "nameRu": "Коронованный лев",
+          "category": "animal",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "fi-coat-of-arms-act-1978"
+          ]
+        },
+        {
+          "nameRu": "Меч и сабля",
+          "category": "other",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "fi-coat-of-arms-act-1978"
+          ]
+        },
+        {
+          "nameRu": "Девять роз",
+          "category": "flower",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "fi-coat-of-arms-act-1978"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Герб"
+        },
+        {
+          "labelRu": "Розы",
+          "valueRu": "9"
+        },
+        {
+          "labelRu": "Закон",
+          "valueRu": "№ 381/1978"
+        }
+      ],
+      "sourceIds": [
+        "fi-coat-of-arms-act-1978"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "animal",
+          "flower",
+          "shield"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-10-21"
+    },
+    {
+      "id": "greece-national-emblem",
+      "kind": "emblem",
+      "countryId": "greece",
+      "nameRu": "Греция",
+      "subtitleRu": "Государственная эмблема",
+      "symbolType": "national_emblem",
+      "mediaId": "emblem-greece",
+      "summaryRu": "На синем щите изображён белый крест. Щит окружён двумя лавровыми ветвями.",
+      "explanationRu": "Президентский сайт описывает именно эту композицию современной эмблемы. Синий и белый цвета присутствовали в первых национальных символах, утверждённых в 1822 году.",
+      "historyRu": "Современный вид связан с учреждением Третьей Греческой республики в 1974 году.",
+      "symbols": [
+        {
+          "nameRu": "Белый крест на синем щите",
+          "category": "cross",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "gr-presidency-national-emblem"
+          ]
+        },
+        {
+          "nameRu": "Лавровые ветви",
+          "category": "plant",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "gr-presidency-national-emblem"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Национальная эмблема"
+        },
+        {
+          "labelRu": "Основные цвета",
+          "valueRu": "Синий и белый"
+        }
+      ],
+      "sourceIds": [
+        "gr-presidency-national-emblem"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "cross",
+          "plant",
+          "shield"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-10-21"
+    },
+    {
+      "id": "ireland-coat-of-arms",
+      "kind": "emblem",
+      "countryId": "ireland",
+      "nameRu": "Ирландия",
+      "subtitleRu": "Государственный герб",
+      "symbolType": "coat_of_arms",
+      "mediaId": "emblem-ireland",
+      "summaryRu": "На синем поле изображена золотая арфа с серебряными струнами.",
+      "explanationRu": "Ирландское ведомство называет арфу государственным гербом и эмблемой. Образцом для современного рисунка послужила арфа XIV века, известная как арфа Брайана Бору и хранящаяся в Тринити-колледже Дублина.",
+      "historyRu": "Арфа засвидетельствована как герб Ирландии уже в средневековых гербовниках около 1270 года.",
+      "symbols": [
+        {
+          "nameRu": "Золотая арфа",
+          "category": "other",
+          "meaningStatus": "official",
+          "meaningRu": "Государственная эмблема Ирландии.",
+          "sourceIds": [
+            "ie-enterprise-state-emblems"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Герб"
+        },
+        {
+          "labelRu": "Поле",
+          "valueRu": "Синее"
+        },
+        {
+          "labelRu": "Струны",
+          "valueRu": "Серебряные"
+        }
+      ],
+      "sourceIds": [
+        "ie-enterprise-state-emblems"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "harp",
+          "shield"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-10-21"
+    },
+    {
+      "id": "italy-national-emblem",
+      "kind": "emblem",
+      "countryId": "italy",
+      "nameRu": "Италия",
+      "subtitleRu": "Эмблема Итальянской Республики",
+      "symbolType": "national_emblem",
+      "mediaId": "emblem-italy",
+      "summaryRu": "В центре эмблемы — белая пятиконечная звезда на зубчатом колесе. Композицию окружают оливковая и дубовая ветви; внизу находится красная лента с названием страны.",
+      "explanationRu": "Президентский сайт объясняет оливу как знак стремления к миру, дуб — силы и достоинства народа, зубчатое колесо — труда. Звезда издавна связана с образом Италии.",
+      "historyRu": "Эмблему по проекту Паоло Паскетто утвердили 5 мая 1948 года после двух открытых конкурсов.",
+      "symbols": [
+        {
+          "nameRu": "Звезда",
+          "category": "star",
+          "meaningStatus": "official",
+          "meaningRu": "Исторически связана с олицетворением Италии.",
+          "sourceIds": [
+            "it-presidency-emblem"
+          ]
+        },
+        {
+          "nameRu": "Зубчатое колесо",
+          "category": "other",
+          "meaningStatus": "official",
+          "meaningRu": "Символизирует труд.",
+          "sourceIds": [
+            "it-presidency-emblem"
+          ]
+        },
+        {
+          "nameRu": "Оливковая ветвь",
+          "category": "plant",
+          "meaningStatus": "official",
+          "meaningRu": "Символизирует стремление к миру.",
+          "sourceIds": [
+            "it-presidency-emblem"
+          ]
+        },
+        {
+          "nameRu": "Дубовая ветвь",
+          "category": "plant",
+          "meaningStatus": "official",
+          "meaningRu": "Олицетворяет силу и достоинство народа.",
+          "sourceIds": [
+            "it-presidency-emblem"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Национальная эмблема"
+        },
+        {
+          "labelRu": "Автор проекта",
+          "valueRu": "Паоло Паскетто"
+        },
+        {
+          "labelRu": "Утверждена",
+          "valueRu": "5 мая 1948 года"
+        }
+      ],
+      "sourceIds": [
+        "it-presidency-emblem"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "star",
+          "plant",
+          "gear"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-10-21"
+    },
+    {
+      "id": "latvia-greater-coat-of-arms",
+      "kind": "emblem",
+      "countryId": "latvia",
+      "nameRu": "Латвия",
+      "subtitleRu": "Большой государственный герб",
+      "symbolType": "coat_of_arms",
+      "mediaId": "emblem-latvia",
+      "summaryRu": "Щит объединяет восходящее золотое солнце, красного льва и серебряного грифона. Над ним — три золотые звезды; щит держат лев и грифон, стоящие на дубовых ветвях с красно-бело-красной лентой.",
+      "explanationRu": "Канцелярия президента связывает льва с Курземе и Земгале, грифона — с Видземе и Латгале. Цвета ленты повторяют национальный флаг.",
+      "historyRu": "Большой герб утверждён в 1921 году и восстановлен в 1993 году.",
+      "symbols": [
+        {
+          "nameRu": "Красный лев",
+          "category": "animal",
+          "meaningStatus": "official",
+          "meaningRu": "Представляет Курземе и Земгале.",
+          "sourceIds": [
+            "lv-president-coat-of-arms"
+          ]
+        },
+        {
+          "nameRu": "Серебряный грифон",
+          "category": "animal",
+          "meaningStatus": "official",
+          "meaningRu": "Представляет Видземе и Латгале.",
+          "sourceIds": [
+            "lv-president-coat-of-arms"
+          ]
+        },
+        {
+          "nameRu": "Восходящее солнце и три звезды",
+          "category": "sun",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "lv-president-coat-of-arms"
+          ]
+        },
+        {
+          "nameRu": "Дубовые ветви и лента",
+          "category": "plant",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "lv-president-coat-of-arms"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Большой государственный герб"
+        },
+        {
+          "labelRu": "Первое утверждение",
+          "valueRu": "1921 год"
+        },
+        {
+          "labelRu": "Восстановлен",
+          "valueRu": "1993 год"
+        }
+      ],
+      "sourceIds": [
+        "lv-president-coat-of-arms"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "animal",
+          "sun",
+          "star"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-10-21"
+    },
+    {
+      "id": "lithuania-coat-of-arms",
+      "kind": "emblem",
+      "countryId": "lithuania",
+      "nameRu": "Литва",
+      "subtitleRu": "Государственный герб «Витис»",
+      "symbolType": "coat_of_arms",
+      "mediaId": "emblem-lithuania",
+      "summaryRu": "В красном поле — белый всадник в доспехах на белом коне. Он поднимает меч; у его левого плеча находится синий щит с золотым двойным крестом.",
+      "explanationRu": "Парламент Литвы называет этот герб «Витис» и приводит его официальное описание. В нём также указано, что седло и ремни коня синие, а металлические детали конской упряжи золотые.",
+      "symbols": [
+        {
+          "nameRu": "Белый всадник с мечом",
+          "category": "other",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "lt-seimas-national-coat-of-arms"
+          ]
+        },
+        {
+          "nameRu": "Двойной крест на синем щите",
+          "category": "cross",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "lt-seimas-national-coat-of-arms"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Государственный герб"
+        },
+        {
+          "labelRu": "Название",
+          "valueRu": "Витис"
+        },
+        {
+          "labelRu": "Поле щита",
+          "valueRu": "Красное"
+        }
+      ],
+      "sourceIds": [
+        "lt-seimas-national-coat-of-arms"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "rider",
+          "cross",
+          "shield"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-10-22"
+    },
+    {
+      "id": "slovakia-coat-of-arms",
+      "kind": "emblem",
+      "countryId": "slovakia",
+      "nameRu": "Словакия",
+      "subtitleRu": "Государственный герб",
+      "symbolType": "coat_of_arms",
+      "mediaId": "emblem-slovakia",
+      "summaryRu": "На красном щите возвышается серебряный двойной крест на трёх синих холмах.",
+      "explanationRu": "Правительство Словакии объясняет три холма как Татры, Фатру и Матру. Двойной крест оно связывает с христианством и традицией святых Кирилла и Мефодия.",
+      "historyRu": "Правительство отмечает, что этот знак стал символом Словакии во время революций 1848–1849 годов.",
+      "symbols": [
+        {
+          "nameRu": "Три синих холма",
+          "category": "other",
+          "meaningStatus": "official",
+          "meaningRu": "Татры, Фатра и Матра.",
+          "sourceIds": [
+            "sk-government-coat-of-arms"
+          ]
+        },
+        {
+          "nameRu": "Двойной крест",
+          "category": "cross",
+          "meaningStatus": "official",
+          "meaningRu": "Связан с христианством и традицией святых Кирилла и Мефодия.",
+          "sourceIds": [
+            "sk-government-coat-of-arms"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Государственный герб"
+        },
+        {
+          "labelRu": "Холмы",
+          "valueRu": "Татры, Фатра, Матра"
+        }
+      ],
+      "sourceIds": [
+        "sk-government-coat-of-arms"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "cross",
+          "mountain",
+          "shield"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-10-22"
+    },
+    {
+      "id": "slovenia-coat-of-arms",
+      "kind": "emblem",
+      "countryId": "slovenia",
+      "nameRu": "Словения",
+      "subtitleRu": "Государственный герб",
+      "symbolType": "coat_of_arms",
+      "mediaId": "emblem-slovenia",
+      "summaryRu": "На синем щите белым изображена гора Триглав. Под ней проходят две волнистые линии; над ней треугольником расположены три золотые шестилучевые звезды. С двух сторон щит обведён красной каймой.",
+      "explanationRu": "Правительство Словении прямо связывает две волнистые линии с морем и реками. Остальные детали приведены в официальном описании без приписывания им значения.",
+      "symbols": [
+        {
+          "nameRu": "Гора Триглав",
+          "category": "mountain",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "si-government-national-symbols"
+          ]
+        },
+        {
+          "nameRu": "Две волнистые линии",
+          "category": "other",
+          "meaningStatus": "official",
+          "meaningRu": "Символизируют море и реки.",
+          "sourceIds": [
+            "si-government-national-symbols"
+          ]
+        },
+        {
+          "nameRu": "Три золотые звезды",
+          "category": "star",
+          "meaningStatus": "unknown",
+          "sourceIds": [
+            "si-government-national-symbols"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "labelRu": "Тип",
+          "valueRu": "Государственный герб"
+        },
+        {
+          "labelRu": "Звёзды",
+          "valueRu": "Три шестилучевые"
+        },
+        {
+          "labelRu": "Гора",
+          "valueRu": "Триглав"
+        }
+      ],
+      "sourceIds": [
+        "si-government-national-symbols"
+      ],
+      "quizHints": {
+        "similarityTags": [
+          "mountain",
+          "star",
+          "shield"
+        ]
+      },
+      "status": "published",
+      "verifiedAt": "2026-10-22"
     }
   ]
 }

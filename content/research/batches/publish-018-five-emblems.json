@@ -1,0 +1,193 @@
+{
+  "batch_id": "publish-018-five-emblems",
+  "checked_at": "2026-10-21",
+  "sources": [
+    {
+      "id": "bb-government-coat-of-arms",
+      "title": "Coat of Arms",
+      "publisher": "Government of Barbados",
+      "url": "https://www.gov.bb/Visit-Barbados/coat-of-arms",
+      "sourceType": "government",
+      "accessedAt": "2026-10-21"
+    },
+    {
+      "id": "cd-presidency-emblem",
+      "title": "Les armoiries",
+      "publisher": "Présidence de la République démocratique du Congo",
+      "url": "https://www.presidence.cd/detail-symbole/2",
+      "sourceType": "government",
+      "accessedAt": "2026-10-21"
+    }
+  ],
+  "entries": [
+    {
+      "id": "barbados-coat-of-arms",
+      "kind": "emblem",
+      "countryId": "barbados",
+      "nameRu": "Барбадос",
+      "subtitleRu": "Государственный герб",
+      "symbolType": "coat_of_arms",
+      "mediaId": "emblem-barbados",
+      "summaryRu": "На золотом щите изображены бородатая смоковница и два цветка «гордость Барбадоса». Щит держат дельфин и пеликан; над ним — рука с двумя скрещёнными стеблями сахарного тростника.",
+      "explanationRu": "Правительство связывает дельфина с рыболовством, пеликана — с бывшим островом Пеликан, а сахарный тростник — с сахарной промышленностью. Девиз под щитом: Pride and Industry.",
+      "historyRu": "Герб работы Невилла Коннелла был пожалован Барбадосу 14 февраля 1966 года.",
+      "symbols": [
+        { "nameRu": "Смоковница и цветы", "category": "plant", "meaningStatus": "unknown", "sourceIds": ["bb-government-coat-of-arms"] },
+        { "nameRu": "Дельфин", "category": "animal", "meaningStatus": "official", "meaningRu": "Связан с рыболовством.", "sourceIds": ["bb-government-coat-of-arms"] },
+        { "nameRu": "Пеликан", "category": "animal", "meaningStatus": "official", "meaningRu": "Напоминает о бывшем острове Пеликан.", "sourceIds": ["bb-government-coat-of-arms"] },
+        { "nameRu": "Сахарный тростник", "category": "plant", "meaningStatus": "official", "meaningRu": "Связан с сахарной промышленностью.", "sourceIds": ["bb-government-coat-of-arms"] }
+      ],
+      "facts": [
+        { "labelRu": "Тип", "valueRu": "Герб" },
+        { "labelRu": "Девиз", "valueRu": "Pride and Industry" },
+        { "labelRu": "Пожалован", "valueRu": "14 февраля 1966 года" }
+      ],
+      "sourceIds": ["bb-government-coat-of-arms", "bb-national-emblems-regulations"],
+      "quizHints": { "similarityTags": ["animal", "plant", "shield"] },
+      "status": "published",
+      "verifiedAt": "2026-10-21"
+    },
+    {
+      "id": "china-national-emblem",
+      "kind": "emblem",
+      "countryId": "china",
+      "nameRu": "Китай",
+      "subtitleRu": "Государственная эмблема КНР",
+      "symbolType": "national_emblem",
+      "mediaId": "emblem-china",
+      "summaryRu": "В центре эмблемы — ворота Тяньаньмэнь под пятью звёздами. Композицию обрамляют колосья, внизу находится зубчатое колесо.",
+      "explanationRu": "Именно эти четыре элемента перечисляет статья 142 Конституции КНР. Конституционная статья описывает состав эмблемы, но не объясняет значение каждого элемента.",
+      "historyRu": "Состав государственной эмблемы закреплён в Конституции КНР.",
+      "symbols": [
+        { "nameRu": "Ворота Тяньаньмэнь", "category": "architecture", "meaningStatus": "unknown", "sourceIds": ["cn-constitution-symbols"] },
+        { "nameRu": "Пять звёзд", "category": "star", "meaningStatus": "unknown", "sourceIds": ["cn-constitution-symbols"] },
+        { "nameRu": "Колосья и зубчатое колесо", "category": "other", "meaningStatus": "unknown", "sourceIds": ["cn-constitution-symbols"] }
+      ],
+      "facts": [
+        { "labelRu": "Тип", "valueRu": "Национальная эмблема" },
+        { "labelRu": "Правовое основание", "valueRu": "Статья 142 Конституции" }
+      ],
+      "sourceIds": ["cn-constitution-symbols"],
+      "quizHints": { "similarityTags": ["architecture", "stars", "plant"] },
+      "status": "published",
+      "verifiedAt": "2026-10-21"
+    },
+    {
+      "id": "democratic-republic-of-the-congo-national-emblem",
+      "kind": "emblem",
+      "countryId": "democratic-republic-of-the-congo",
+      "nameRu": "Демократическая Республика Конго",
+      "subtitleRu": "Государственная эмблема",
+      "symbolType": "national_emblem",
+      "mediaId": "emblem-democratic-republic-of-the-congo",
+      "summaryRu": "В центре эмблемы — голова леопарда. По сторонам расположены слоновий бивень и копьё, а внизу — лента с девизом Justice, Paix, Travail.",
+      "explanationRu": "Президентский сайт описывает голову леопарда, бивень справа и копьё слева, опирающиеся на камень. Девиз переводится как «Справедливость, мир, труд».",
+      "historyRu": "Современная эмблема принята 18 февраля 2006 года при провозглашении Конституции Третьей республики.",
+      "symbols": [
+        { "nameRu": "Голова леопарда", "category": "animal", "meaningStatus": "unknown", "sourceIds": ["cd-presidency-emblem"] },
+        { "nameRu": "Слоновий бивень и копьё", "category": "other", "meaningStatus": "unknown", "sourceIds": ["cd-presidency-emblem"] },
+        { "nameRu": "Лента с девизом", "category": "motto", "meaningStatus": "unknown", "sourceIds": ["cd-presidency-emblem"] }
+      ],
+      "facts": [
+        { "labelRu": "Тип", "valueRu": "Государственная эмблема" },
+        { "labelRu": "Девиз", "valueRu": "Justice, Paix, Travail" },
+        { "labelRu": "Принята", "valueRu": "18 февраля 2006 года" }
+      ],
+      "sourceIds": ["cd-presidency-emblem"],
+      "quizHints": { "similarityTags": ["animal", "motto"] },
+      "status": "published",
+      "verifiedAt": "2026-10-21"
+    },
+    {
+      "id": "croatia-coat-of-arms",
+      "kind": "emblem",
+      "countryId": "croatia",
+      "nameRu": "Хорватия",
+      "subtitleRu": "Государственный герб",
+      "symbolType": "coat_of_arms",
+      "mediaId": "emblem-croatia",
+      "summaryRu": "Главный щит состоит из 25 чередующихся красных и белых полей. Над ним находится корона из пяти малых исторических щитов.",
+      "explanationRu": "Закон устанавливает красное поле в левом верхнем углу главного щита. Пять малых щитов представляют древнейший известный герб Хорватии, Дубровницкую республику, Далмацию, Истрию и Славонию.",
+      "historyRu": "Действующее описание герба закреплено законом от 21 декабря 1990 года.",
+      "symbols": [
+        { "nameRu": "Красно-белый щит", "category": "shield", "meaningStatus": "unknown", "sourceIds": ["hr-symbols-law-1990"] },
+        { "nameRu": "Пять исторических щитов", "category": "shield", "meaningStatus": "official", "meaningRu": "Представляют Хорватию, Дубровницкую республику, Далмацию, Истрию и Славонию.", "sourceIds": ["hr-symbols-law-1990"] }
+      ],
+      "facts": [
+        { "labelRu": "Тип", "valueRu": "Герб" },
+        { "labelRu": "Поля главного щита", "valueRu": "25" },
+        { "labelRu": "Исторические щиты", "valueRu": "5" }
+      ],
+      "sourceIds": ["hr-symbols-law-1990"],
+      "quizHints": { "similarityTags": ["shield", "historical-shields"] },
+      "status": "published",
+      "verifiedAt": "2026-10-21"
+    },
+    {
+      "id": "cuba-coat-of-arms",
+      "kind": "emblem",
+      "countryId": "cuba",
+      "nameRu": "Куба",
+      "subtitleRu": "Государственный герб «Королевская пальма»",
+      "symbolType": "coat_of_arms",
+      "mediaId": "emblem-cuba",
+      "summaryRu": "В верхнем поле щита показаны восходящее солнце, море и ключ. Ниже — синие и белые полосы и королевская пальма; над щитом — фригийский колпак со звездой.",
+      "explanationRu": "Герб обрамляют ветви дуба и лавра. Закон о национальных символах закрепляет композицию герба и его название Escudo de la Palma Real.",
+      "historyRu": "Состав и порядок использования герба изложены в Законе № 128 о национальных символах Кубы 2019 года.",
+      "symbols": [
+        { "nameRu": "Ключ и восходящее солнце", "category": "sun", "meaningStatus": "unknown", "sourceIds": ["cu-symbols-law-128-2019"] },
+        { "nameRu": "Королевская пальма", "category": "plant", "meaningStatus": "unknown", "sourceIds": ["cu-symbols-law-128-2019"] },
+        { "nameRu": "Фригийский колпак и звезда", "category": "star", "meaningStatus": "unknown", "sourceIds": ["cu-symbols-law-128-2019"] },
+        { "nameRu": "Ветви дуба и лавра", "category": "plant", "meaningStatus": "unknown", "sourceIds": ["cu-symbols-law-128-2019"] }
+      ],
+      "facts": [
+        { "labelRu": "Тип", "valueRu": "Герб" },
+        { "labelRu": "Официальное название", "valueRu": "Escudo de la Palma Real" },
+        { "labelRu": "Закон", "valueRu": "№ 128/2019" }
+      ],
+      "sourceIds": ["cu-symbols-law-128-2019"],
+      "quizHints": { "similarityTags": ["sun", "plant", "star"] },
+      "status": "published",
+      "verifiedAt": "2026-10-21"
+    }
+  ],
+  "media": [
+    {
+      "id": "emblem-barbados", "kind": "emblem", "localPath": "/media/emblems/barbados.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Barbados_(3).svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Coat_of_arms_of_Barbados_%283%29.svg",
+      "publisher": "Wikimedia Commons", "author": "BaronJaguar", "license": "CC BY-SA 4.0",
+      "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attributionText": "BaronJaguar, Coat of arms of Barbados (3), CC BY-SA 4.0, Wikimedia Commons; файл не изменён.", "checkedAt": "2026-10-21"
+    },
+    {
+      "id": "emblem-china", "kind": "emblem", "localPath": "/media/emblems/china.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E5%9C%8B%E5%BE%BD.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E5%9C%8B%E5%BE%BD.svg",
+      "publisher": "Wikimedia Commons", "author": "Lin Huiyin, Liang Sicheng и другие (исходный герб); автор SVG не указан", "license": "Public domain",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E5%9C%8B%E5%BE%BD.svg", "checkedAt": "2026-10-21"
+    },
+    {
+      "id": "emblem-democratic-republic-of-the-congo", "kind": "emblem", "localPath": "/media/emblems/democratic-republic-of-the-congo.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Democratic_Republic_of_the_Congo_(black_spear).svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Coat_of_arms_of_the_Democratic_Republic_of_the_Congo_%28black_spear%29.svg",
+      "publisher": "Wikimedia Commons", "author": "SVG-image-maker", "license": "CC BY-SA 4.0",
+      "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attributionText": "SVG-image-maker, Coat of arms of the Democratic Republic of the Congo (black spear), CC BY-SA 4.0, Wikimedia Commons; файл не изменён.", "checkedAt": "2026-10-21"
+    },
+    {
+      "id": "emblem-croatia", "kind": "emblem", "localPath": "/media/emblems/croatia.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Croatia.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Coat_of_arms_of_Croatia.svg",
+      "publisher": "Wikimedia Commons", "author": "Miroslav Šutej (original); MaGa (SVG)", "license": "Public domain",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Croatia.svg", "checkedAt": "2026-10-21"
+    },
+    {
+      "id": "emblem-cuba", "kind": "emblem", "localPath": "/media/emblems/cuba.svg",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Cuba.svg",
+      "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Coat_of_arms_of_Cuba.svg",
+      "publisher": "Wikimedia Commons", "author": "Miguel Teurbe Tolón (исходный герб); автор векторизации не указан", "license": "Public domain",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Cuba.svg", "checkedAt": "2026-10-21"
+    }
+  ]
+}

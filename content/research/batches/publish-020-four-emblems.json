@@ -1,0 +1,66 @@
+{
+  "batch_id": "publish-020-four-emblems",
+  "checked_at": "2026-10-21",
+  "sources": [
+    { "id": "fi-coat-of-arms-act-1978", "title": "Laki Suomen vaakunasta 381/1978", "publisher": "Finlex, Oikeusministeriö", "url": "https://www.finlex.fi/fi/lainsaadanto/1978/381", "sourceType": "law", "accessedAt": "2026-10-21" },
+    { "id": "gr-presidency-national-emblem", "title": "The National Emblem", "publisher": "Presidency of the Hellenic Republic", "url": "https://www.presidency.gr/en/presidency/the-national-emblem/", "sourceType": "government", "accessedAt": "2026-10-21" },
+    { "id": "ie-enterprise-state-emblems", "title": "Protection and use of State emblems", "publisher": "Department of Enterprise, Trade and Employment, Ireland", "url": "https://www.enterprise.gov.ie/en/what-we-do/innovation-research-development/intellectual-property/trade-marks/state-emblems/", "sourceType": "government", "accessedAt": "2026-10-21" },
+    { "id": "it-presidency-emblem", "title": "I Simboli della Repubblica - l'Emblema", "publisher": "Presidenza della Repubblica Italiana", "url": "https://www.quirinale.it/it/pagine/simboli-repubblica-emblema", "sourceType": "government", "accessedAt": "2026-10-21" }
+  ],
+  "entries": [
+    {
+      "id": "finland-coat-of-arms", "kind": "emblem", "countryId": "finland", "nameRu": "Финляндия", "subtitleRu": "Государственный герб", "symbolType": "coat_of_arms", "mediaId": "emblem-finland",
+      "summaryRu": "На красном щите — золотой коронованный лев. Вместо правой передней лапы у него рука в доспехе с поднятым мечом; задними лапами лев попирает саблю. Вокруг — девять серебряных роз.",
+      "explanationRu": "Такой состав герба прямо установлен законом Финляндии № 381/1978. Закон описывает рисунок, но не устанавливает значение отдельных деталей.",
+      "historyRu": "Закон о гербе принят 26 мая 1978 года и вступил в силу 1 июня того же года.",
+      "symbols": [
+        { "nameRu": "Коронованный лев", "category": "animal", "meaningStatus": "unknown", "sourceIds": ["fi-coat-of-arms-act-1978"] },
+        { "nameRu": "Меч и сабля", "category": "other", "meaningStatus": "unknown", "sourceIds": ["fi-coat-of-arms-act-1978"] },
+        { "nameRu": "Девять роз", "category": "flower", "meaningStatus": "unknown", "sourceIds": ["fi-coat-of-arms-act-1978"] }
+      ],
+      "facts": [{ "labelRu": "Тип", "valueRu": "Герб" }, { "labelRu": "Розы", "valueRu": "9" }, { "labelRu": "Закон", "valueRu": "№ 381/1978" }],
+      "sourceIds": ["fi-coat-of-arms-act-1978"], "quizHints": { "similarityTags": ["animal", "flower", "shield"] }, "status": "published", "verifiedAt": "2026-10-21"
+    },
+    {
+      "id": "greece-national-emblem", "kind": "emblem", "countryId": "greece", "nameRu": "Греция", "subtitleRu": "Государственная эмблема", "symbolType": "national_emblem", "mediaId": "emblem-greece",
+      "summaryRu": "На синем щите изображён белый крест. Щит окружён двумя лавровыми ветвями.",
+      "explanationRu": "Президентский сайт описывает именно эту композицию современной эмблемы. Синий и белый цвета присутствовали в первых национальных символах, утверждённых в 1822 году.",
+      "historyRu": "Современный вид связан с учреждением Третьей Греческой республики в 1974 году.",
+      "symbols": [
+        { "nameRu": "Белый крест на синем щите", "category": "cross", "meaningStatus": "unknown", "sourceIds": ["gr-presidency-national-emblem"] },
+        { "nameRu": "Лавровые ветви", "category": "plant", "meaningStatus": "unknown", "sourceIds": ["gr-presidency-national-emblem"] }
+      ],
+      "facts": [{ "labelRu": "Тип", "valueRu": "Национальная эмблема" }, { "labelRu": "Основные цвета", "valueRu": "Синий и белый" }],
+      "sourceIds": ["gr-presidency-national-emblem"], "quizHints": { "similarityTags": ["cross", "plant", "shield"] }, "status": "published", "verifiedAt": "2026-10-21"
+    },
+    {
+      "id": "ireland-coat-of-arms", "kind": "emblem", "countryId": "ireland", "nameRu": "Ирландия", "subtitleRu": "Государственный герб", "symbolType": "coat_of_arms", "mediaId": "emblem-ireland",
+      "summaryRu": "На синем поле изображена золотая арфа с серебряными струнами.",
+      "explanationRu": "Ирландское ведомство называет арфу государственным гербом и эмблемой. Образцом для современного рисунка послужила арфа XIV века, известная как арфа Брайана Бору и хранящаяся в Тринити-колледже Дублина.",
+      "historyRu": "Арфа засвидетельствована как герб Ирландии уже в средневековых гербовниках около 1270 года.",
+      "symbols": [{ "nameRu": "Золотая арфа", "category": "other", "meaningStatus": "official", "meaningRu": "Государственная эмблема Ирландии.", "sourceIds": ["ie-enterprise-state-emblems"] }],
+      "facts": [{ "labelRu": "Тип", "valueRu": "Герб" }, { "labelRu": "Поле", "valueRu": "Синее" }, { "labelRu": "Струны", "valueRu": "Серебряные" }],
+      "sourceIds": ["ie-enterprise-state-emblems"], "quizHints": { "similarityTags": ["harp", "shield"] }, "status": "published", "verifiedAt": "2026-10-21"
+    },
+    {
+      "id": "italy-national-emblem", "kind": "emblem", "countryId": "italy", "nameRu": "Италия", "subtitleRu": "Эмблема Итальянской Республики", "symbolType": "national_emblem", "mediaId": "emblem-italy",
+      "summaryRu": "В центре эмблемы — белая пятиконечная звезда на зубчатом колесе. Композицию окружают оливковая и дубовая ветви; внизу находится красная лента с названием страны.",
+      "explanationRu": "Президентский сайт объясняет оливу как знак стремления к миру, дуб — силы и достоинства народа, зубчатое колесо — труда. Звезда издавна связана с образом Италии.",
+      "historyRu": "Эмблему по проекту Паоло Паскетто утвердили 5 мая 1948 года после двух открытых конкурсов.",
+      "symbols": [
+        { "nameRu": "Звезда", "category": "star", "meaningStatus": "official", "meaningRu": "Исторически связана с олицетворением Италии.", "sourceIds": ["it-presidency-emblem"] },
+        { "nameRu": "Зубчатое колесо", "category": "other", "meaningStatus": "official", "meaningRu": "Символизирует труд.", "sourceIds": ["it-presidency-emblem"] },
+        { "nameRu": "Оливковая ветвь", "category": "plant", "meaningStatus": "official", "meaningRu": "Символизирует стремление к миру.", "sourceIds": ["it-presidency-emblem"] },
+        { "nameRu": "Дубовая ветвь", "category": "plant", "meaningStatus": "official", "meaningRu": "Олицетворяет силу и достоинство народа.", "sourceIds": ["it-presidency-emblem"] }
+      ],
+      "facts": [{ "labelRu": "Тип", "valueRu": "Национальная эмблема" }, { "labelRu": "Автор проекта", "valueRu": "Паоло Паскетто" }, { "labelRu": "Утверждена", "valueRu": "5 мая 1948 года" }],
+      "sourceIds": ["it-presidency-emblem"], "quizHints": { "similarityTags": ["star", "plant", "gear"] }, "status": "published", "verifiedAt": "2026-10-21"
+    }
+  ],
+  "media": [
+    { "id": "emblem-finland", "kind": "emblem", "localPath": "/media/emblems/finland.svg", "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Finland.svg", "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Coat_of_arms_of_Finland.svg", "publisher": "Wikimedia Commons", "author": "Vzb83", "license": "Public domain", "rightsUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Finland.svg", "checkedAt": "2026-10-21" },
+    { "id": "emblem-greece", "kind": "emblem", "localPath": "/media/emblems/greece.svg", "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Greece.svg", "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Coat_of_arms_of_Greece.svg", "publisher": "Wikimedia Commons", "author": "Tonyjeff; derivative by Philly boy92", "license": "Public domain", "rightsUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Greece.svg", "checkedAt": "2026-10-21" },
+    { "id": "emblem-ireland", "kind": "emblem", "localPath": "/media/emblems/ireland.svg", "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Ireland.svg", "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Coat_of_arms_of_Ireland.svg", "publisher": "Wikimedia Commons", "author": "Setanta Saki", "license": "CC BY 3.0", "rightsUrl": "https://creativecommons.org/licenses/by/3.0/", "attributionText": "Setanta Saki, Coat of arms of Ireland, CC BY 3.0, Wikimedia Commons; файл не изменён.", "checkedAt": "2026-10-21" },
+    { "id": "emblem-italy", "kind": "emblem", "localPath": "/media/emblems/italy.svg", "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Emblem_of_Italy.svg", "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Emblem_of_Italy.svg", "publisher": "Wikimedia Commons", "author": "F l a n k e r (SVG); based on design by Paolo Paschetto", "license": "Public domain", "rightsUrl": "https://commons.wikimedia.org/wiki/File:Emblem_of_Italy.svg", "checkedAt": "2026-10-21" }
+  ]
+}

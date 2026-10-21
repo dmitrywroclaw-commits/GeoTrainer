@@ -1,0 +1,26 @@
+{
+  "batch_id": "publish-021-latvia-emblem",
+  "checked_at": "2026-10-21",
+  "sources": [
+    { "id": "lv-president-coat-of-arms", "title": "National symbols: The Coat of Arms of Latvia", "publisher": "Chancery of the President of Latvia", "url": "https://www.president.lv/en/national-symbols", "sourceType": "government", "accessedAt": "2026-10-21" }
+  ],
+  "entries": [
+    {
+      "id": "latvia-greater-coat-of-arms", "kind": "emblem", "countryId": "latvia", "nameRu": "Латвия", "subtitleRu": "Большой государственный герб", "symbolType": "coat_of_arms", "mediaId": "emblem-latvia",
+      "summaryRu": "Щит объединяет восходящее золотое солнце, красного льва и серебряного грифона. Над ним — три золотые звезды; щит держат лев и грифон, стоящие на дубовых ветвях с красно-бело-красной лентой.",
+      "explanationRu": "Канцелярия президента связывает льва с Курземе и Земгале, грифона — с Видземе и Латгале. Цвета ленты повторяют национальный флаг.",
+      "historyRu": "Большой герб утверждён в 1921 году и восстановлен в 1993 году.",
+      "symbols": [
+        { "nameRu": "Красный лев", "category": "animal", "meaningStatus": "official", "meaningRu": "Представляет Курземе и Земгале.", "sourceIds": ["lv-president-coat-of-arms"] },
+        { "nameRu": "Серебряный грифон", "category": "animal", "meaningStatus": "official", "meaningRu": "Представляет Видземе и Латгале.", "sourceIds": ["lv-president-coat-of-arms"] },
+        { "nameRu": "Восходящее солнце и три звезды", "category": "sun", "meaningStatus": "unknown", "sourceIds": ["lv-president-coat-of-arms"] },
+        { "nameRu": "Дубовые ветви и лента", "category": "plant", "meaningStatus": "unknown", "sourceIds": ["lv-president-coat-of-arms"] }
+      ],
+      "facts": [{ "labelRu": "Тип", "valueRu": "Большой государственный герб" }, { "labelRu": "Первое утверждение", "valueRu": "1921 год" }, { "labelRu": "Восстановлен", "valueRu": "1993 год" }],
+      "sourceIds": ["lv-president-coat-of-arms"], "quizHints": { "similarityTags": ["animal", "sun", "star"] }, "status": "published", "verifiedAt": "2026-10-21"
+    }
+  ],
+  "media": [
+    { "id": "emblem-latvia", "kind": "emblem", "localPath": "/media/emblems/latvia.svg", "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Latvia.svg", "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Coat_of_arms_of_Latvia.svg", "publisher": "Wikimedia Commons", "author": "Zscout370; based on presidential graphics", "license": "Public domain", "rightsUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Latvia.svg", "checkedAt": "2026-10-21" }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "batch_id": "publish-022-three-emblems",
+  "checked_at": "2026-10-22",
+  "sources": [
+    { "id": "lt-seimas-national-coat-of-arms", "title": "Symbols of the Republic of Lithuania: National coat of arms", "publisher": "Seimas of the Republic of Lithuania", "url": "https://lrs.lt/sip/portal.show?p_a=1710&p_k=2&p_kade_id=10&p_r=35580", "sourceType": "government", "accessedAt": "2026-10-22" },
+    { "id": "sk-government-coat-of-arms", "title": "Štátny znak", "publisher": "Úrad vlády Slovenskej republiky", "url": "https://www.vlada.gov.sk/slovensko/statny-znak/?highlight=slovensko", "sourceType": "government", "accessedAt": "2026-10-22" }
+  ],
+  "entries": [
+    {
+      "id": "lithuania-coat-of-arms", "kind": "emblem", "countryId": "lithuania", "nameRu": "Литва", "subtitleRu": "Государственный герб «Витис»", "symbolType": "coat_of_arms", "mediaId": "emblem-lithuania",
+      "summaryRu": "В красном поле — белый всадник в доспехах на белом коне. Он поднимает меч; у его левого плеча находится синий щит с золотым двойным крестом.",
+      "explanationRu": "Парламент Литвы называет этот герб «Витис» и приводит его официальное описание. В нём также указано, что седло и ремни коня синие, а металлические детали конской упряжи золотые.",
+      "symbols": [
+        { "nameRu": "Белый всадник с мечом", "category": "other", "meaningStatus": "unknown", "sourceIds": ["lt-seimas-national-coat-of-arms"] },
+        { "nameRu": "Двойной крест на синем щите", "category": "cross", "meaningStatus": "unknown", "sourceIds": ["lt-seimas-national-coat-of-arms"] }
+      ],
+      "facts": [{ "labelRu": "Тип", "valueRu": "Государственный герб" }, { "labelRu": "Название", "valueRu": "Витис" }, { "labelRu": "Поле щита", "valueRu": "Красное" }],
+      "sourceIds": ["lt-seimas-national-coat-of-arms"], "quizHints": { "similarityTags": ["rider", "cross", "shield"] }, "status": "published", "verifiedAt": "2026-10-22"
+    },
+    {
+      "id": "slovakia-coat-of-arms", "kind": "emblem", "countryId": "slovakia", "nameRu": "Словакия", "subtitleRu": "Государственный герб", "symbolType": "coat_of_arms", "mediaId": "emblem-slovakia",
+      "summaryRu": "На красном щите возвышается серебряный двойной крест на трёх синих холмах.",
+      "explanationRu": "Правительство Словакии объясняет три холма как Татры, Фатру и Матру. Двойной крест оно связывает с христианством и традицией святых Кирилла и Мефодия.",
+      "historyRu": "Правительство отмечает, что этот знак стал символом Словакии во время революций 1848–1849 годов.",
+      "symbols": [
+        { "nameRu": "Три синих холма", "category": "other", "meaningStatus": "official", "meaningRu": "Татры, Фатра и Матра.", "sourceIds": ["sk-government-coat-of-arms"] },
+        { "nameRu": "Двойной крест", "category": "cross", "meaningStatus": "official", "meaningRu": "Связан с христианством и традицией святых Кирилла и Мефодия.", "sourceIds": ["sk-government-coat-of-arms"] }
+      ],
+      "facts": [{ "labelRu": "Тип", "valueRu": "Государственный герб" }, { "labelRu": "Холмы", "valueRu": "Татры, Фатра, Матра" }],
+      "sourceIds": ["sk-government-coat-of-arms"], "quizHints": { "similarityTags": ["cross", "mountain", "shield"] }, "status": "published", "verifiedAt": "2026-10-22"
+    },
+    {
+      "id": "slovenia-coat-of-arms", "kind": "emblem", "countryId": "slovenia", "nameRu": "Словения", "subtitleRu": "Государственный герб", "symbolType": "coat_of_arms", "mediaId": "emblem-slovenia",
+      "summaryRu": "На синем щите белым изображена гора Триглав. Под ней проходят две волнистые линии; над ней треугольником расположены три золотые шестилучевые звезды. С двух сторон щит обведён красной каймой.",
+      "explanationRu": "Правительство Словении прямо связывает две волнистые линии с морем и реками. Остальные детали приведены в официальном описании без приписывания им значения.",
+      "symbols": [
+        { "nameRu": "Гора Триглав", "category": "mountain", "meaningStatus": "unknown", "sourceIds": ["si-government-national-symbols"] },
+        { "nameRu": "Две волнистые линии", "category": "other", "meaningStatus": "official", "meaningRu": "Символизируют море и реки.", "sourceIds": ["si-government-national-symbols"] },
+        { "nameRu": "Три золотые звезды", "category": "star", "meaningStatus": "unknown", "sourceIds": ["si-government-national-symbols"] }
+      ],
+      "facts": [{ "labelRu": "Тип", "valueRu": "Государственный герб" }, { "labelRu": "Звёзды", "valueRu": "Три шестилучевые" }, { "labelRu": "Гора", "valueRu": "Триглав" }],
+      "sourceIds": ["si-government-national-symbols"], "quizHints": { "similarityTags": ["mountain", "star", "shield"] }, "status": "published", "verifiedAt": "2026-10-22"
+    }
+  ],
+  "media": [
+    { "id": "emblem-lithuania", "kind": "emblem", "localPath": "/media/emblems/lithuania.svg", "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Lithuania.svg", "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Coat_of_arms_of_Lithuania.svg", "publisher": "Wikimedia Commons", "author": "Government of Lithuania", "license": "Public domain", "rightsUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Lithuania.svg", "checkedAt": "2026-10-22" },
+    { "id": "emblem-slovakia", "kind": "emblem", "localPath": "/media/emblems/slovakia.svg", "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Slovakia.svg", "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Coat_of_arms_of_Slovakia.svg", "publisher": "Wikimedia Commons", "author": "Tlusťa", "license": "Public domain", "rightsUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Slovakia.svg", "checkedAt": "2026-10-22" },
+    { "id": "emblem-slovenia", "kind": "emblem", "localPath": "/media/emblems/slovenia.svg", "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Slovenia.svg", "originalAssetUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Coat_of_arms_of_Slovenia.svg", "publisher": "Wikimedia Commons", "author": "Zscout370; based on the design by Marko Pogačnik", "license": "Public domain", "rightsUrl": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Slovenia.svg", "checkedAt": "2026-10-22" }
+  ]
+}
