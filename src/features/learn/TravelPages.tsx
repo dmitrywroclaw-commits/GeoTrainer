@@ -6,7 +6,7 @@ import { MediaFrame } from '../../components/MediaFrame';
 import { CardNavigation } from '../../components/CardNavigation';
 
 const meta = {
-  food: { title: 'Еда мира', description: 'Необычные блюда и традиции разных мест.' },
+  food: { title: 'Экзотические блюда', description: 'Необычные блюда и традиции разных мест.' },
   architecture: { title: 'Архитектура', description: 'Здания и сооружения, которые узнают во всём мире.' },
 };
 

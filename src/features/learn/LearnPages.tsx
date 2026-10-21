@@ -14,6 +14,8 @@ import { capitalRepository } from '../../data/capitals';
 import { TravelImage } from './TravelPages';
 import { urbanPlaces } from '../../data/urbanPlaces';
 import { UrbanPlaceImage } from './UrbanPlacePages';
+import { traditionalDishes } from '../../data/traditionalDishes';
+import { TraditionalDishImage } from './TraditionalDishPages';
 
 const categories = [
   { kind: 'flag' as const, title: 'Флаги', description: 'Узнайте страны по символам на флагах.', teaser: 'Орёл, лист, звёзды и другие детали' },
@@ -63,9 +65,13 @@ export function LearnHome() {
       <div className="category-visual"><UrbanPlaceImage card={urbanPlaces.all()[0]}/></div>
       <div className="category-body"><span className="eyebrow">{objectCount(urbanPlaces.all().length)}</span><h2>Городские места</h2><p>Площади, улицы и районы мира.</p><span className="category-teaser">199 карточек с фотографиями</span></div>
     </Link>
+    <Link className="category-card category-landmark" to="/learn/traditional-food">
+      <div className="category-visual"><TraditionalDishImage dish={traditionalDishes.all()[0]}/></div>
+      <div className="category-body"><span className="eyebrow">{objectCount(traditionalDishes.all().length)}</span><h2>Традиционные блюда мира</h2><p>История, состав и обычаи восьми блюд.</p></div>
+    </Link>
     {(['food', 'architecture'] as const).map(kind => <Link key={kind} className="category-card category-landmark" to={`/learn/${kind}`}>
       <div className="category-visual"><TravelImage card={travelCards.byKind(kind)[0]}/></div>
-      <div className="category-body"><span className="eyebrow">{objectCount(travelCards.byKind(kind).length)}</span><h2>{kind === 'food' ? 'Еда мира' : 'Архитектура'}</h2><p>{kind === 'food' ? 'Необычные блюда и традиции.' : 'Известные здания и сооружения.'}</p></div>
+      <div className="category-body"><span className="eyebrow">{objectCount(travelCards.byKind(kind).length)}</span><h2>{kind === 'food' ? 'Экзотические блюда' : 'Архитектура'}</h2><p>{kind === 'food' ? 'Необычные блюда и традиции.' : 'Известные здания и сооружения.'}</p></div>
     </Link>)}</div>
     {(continueEntry || continueBorder || continueCapital || reviewCount > 0) && <div className="home-secondary">
       {continueEntry && <section><h2>Продолжить изучение</h2><Link className="inline-card" to={`/item/${continueEntry.id}`}>{continueEntry.nameRu}<span>Открыть карточку →</span></Link></section>}

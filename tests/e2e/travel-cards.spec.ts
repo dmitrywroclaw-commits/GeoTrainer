@@ -2,8 +2,8 @@ import { expect, test } from '@playwright/test';
 
 test('food and architecture cards show sourced illustrations and a reason', async ({ page }) => {
   await page.goto('/learn');
-  await page.getByRole('link', { name: /Еда мира/ }).click();
-  await expect(page.getByRole('heading', { name: 'Еда мира' })).toBeVisible();
+  await page.getByRole('link', { name: /Экзотические блюда/ }).click();
+  await expect(page.getByRole('heading', { name: 'Экзотические блюда' })).toBeVisible();
   await expect(page.locator('.entry-card')).toHaveCount(51);
   await page.getByRole('textbox', { name: 'Поиск по каталогу' }).fill('Балут');
   await expect(page.locator('.entry-card')).toHaveCount(1);

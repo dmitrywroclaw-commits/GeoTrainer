@@ -37,6 +37,10 @@ published
 
 Food `nameRu` begins with a readable Russian name. The international name from the editorial list follows in parentheses when it differs, so either form remains searchable. The stable ID continues to derive from the original list name.
 
+## Published traditional dishes
+
+`content/traditional-dishes.json` holds eight stable `traditional-food-*` records from eight countries. Every record has a Russian name, country, summary, `historyRu`, `ingredientsRu`, `traditionsRu`, source IDs, media ID, `status: published`, and verification date. `content/traditional-dish-sources.json` holds authoritative source metadata; `content/traditional-dish-media.json` holds the locally stored photo's Wikimedia Commons file page, author, license, rights URL, attribution, and review date. `src/data/traditionalDishes.ts` validates the record count, unique countries and IDs, and all source and media references at load time. Shared regional traditions are identified as such rather than assigned an exclusive national origin. The catalog is independent of the draft exotic-food list and the quiz.
+
 ## Draft urban-place cards
 
 `content/urban-places.json` stores 199 draft places from `geotrainer_top_199_urban_places.md`. Each card has a stable ID derived from city and place names, editorial rank, the original `name` and Russian `nameRu`, original location labels, a place type, Russian description, and a visual clue. The UI shows `nameRu (name)` and searches both forms. The source document is recorded, and `status: draft` distinguishes these notes from individually sourced published content. `content/urban-media.json` contains one photo record per place with local path, original image page, author, license, license URL, and attribution. The UI displays these photos in 16:9 frames. The cards are not quiz entries until individual factual claims are checked.
