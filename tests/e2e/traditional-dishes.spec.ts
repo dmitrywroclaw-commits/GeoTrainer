@@ -1,11 +1,11 @@
 import { expect, test } from '@playwright/test';
 
-test('traditional dishes show eight countries, search, history, ingredients, customs and credits', async ({ page }) => {
+test('traditional dishes show 200 cards, search, stories and media credits', async ({ page }) => {
   await page.goto('/learn');
   await page.getByRole('link', { name: /Традиционные блюда мира/ }).click();
   await expect(page.getByRole('heading', { name: 'Традиционные блюда мира' })).toBeVisible();
-  await expect(page.locator('.entry-card')).toHaveCount(8);
-  await page.getByRole('textbox', { name: 'Поиск по каталогу' }).fill('Узбекистан');
+  await expect(page.locator('.entry-card')).toHaveCount(200);
+  await page.getByRole('textbox', { name: 'Поиск по каталогу' }).fill('Палов');
   await expect(page.locator('.entry-card')).toHaveCount(1);
   await page.getByRole('link', { name: /Палов/ }).click();
   await expect(page.getByRole('heading', { name: 'Палов (плов)' })).toBeVisible();
@@ -17,7 +17,18 @@ test('traditional dishes show eight countries, search, history, ingredients, cus
   const photo = page.locator('.detail-media .media-frame img');
   await expect.poll(() => photo.evaluate((image: HTMLImageElement) => image.naturalWidth)).toBeGreaterThan(0);
   await page.getByRole('button', { name: 'Дальше' }).click();
-  await expect(page.getByRole('heading', { name: 'Неаполитанская пицца' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: 'Пибимпап' })).toBeVisible();
+});
+
+test('new text-only dish has story and source without an unlicensed image', async ({ page }) => {
+  await page.goto('/traditional-food/traditional-food-bibimbap');
+  await expect(page.getByRole('heading', { name: 'Пибимпап' })).toBeVisible();
+  for (const heading of ['История', 'Из чего готовят', 'Традиции', 'Источники и права']) {
+    await expect(page.getByRole('heading', { name: heading })).toBeVisible();
+  }
+  await expect(page.locator('.dish-text-visual')).toBeVisible();
+  await expect(page.locator('.detail-media img')).toHaveCount(0);
+  await expect(page.locator('.source-block a')).not.toHaveCount(0);
 });
 
 test('traditional dish catalog and detail fit required viewport widths', async ({ page, isMobile }) => {

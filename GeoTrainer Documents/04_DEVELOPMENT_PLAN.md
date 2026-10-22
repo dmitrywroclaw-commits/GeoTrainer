@@ -8,7 +8,7 @@ Build a static-hosted PWA prototype that proves the product concept before addin
 
 The local food and architecture catalogs are exploratory draft content imported from the two editorial Markdown lists. Their local photos, attribution, and “Почему интересно” fields can be reviewed in Learn; image-based quiz questions wait for authoritative individual factual sources.
 
-The draft food catalog is labeled “Экзотические блюда”. A separate eight-card “Традиционные блюда мира” catalog is published in Learn with checked factual sources, locally licensed photographs, and history, ingredient, and custom fields. It does not add a quiz topic in this phase.
+The draft food catalog is labeled “Экзотические блюда”. A separate 200-card “Традиционные блюда мира” catalog is published in Learn with factual source links and history, ingredient, and custom fields. Eight cards have locally licensed photographs; others use text visuals pending suitable licensed images. It does not add a quiz topic in this phase.
 
 The 199 urban-place cards are another local draft catalog. They appear in Learn with 16:9 photos and per-image rights metadata. Each place still needs individual factual verification before inclusion in visual quiz modes.
 

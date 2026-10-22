@@ -67,7 +67,7 @@ export function LearnHome() {
     </Link>
     <Link className="category-card category-landmark" to="/learn/traditional-food">
       <div className="category-visual"><TraditionalDishImage dish={traditionalDishes.all()[0]}/></div>
-      <div className="category-body"><span className="eyebrow">{objectCount(traditionalDishes.all().length)}</span><h2>Традиционные блюда мира</h2><p>История, состав и обычаи восьми блюд.</p></div>
+      <div className="category-body"><span className="eyebrow">{objectCount(traditionalDishes.all().length)}</span><h2>Традиционные блюда мира</h2><p>История, состав и обычаи блюд разных стран.</p></div>
     </Link>
     {(['food', 'architecture'] as const).map(kind => <Link key={kind} className="category-card category-landmark" to={`/learn/${kind}`}>
       <div className="category-visual"><TravelImage card={travelCards.byKind(kind)[0]}/></div>

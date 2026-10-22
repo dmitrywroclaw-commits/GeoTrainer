@@ -14,7 +14,7 @@ The product focuses on three content domains:
 
 Exploratory local catalogs contain architecture, foods, and urban places from editorial lists. These drafts have locally stored images with per-image source, author, and rights metadata. Urban-place photos are displayed in a 16:9 frame. The urban-place drafts remain outside the image-recognition quiz while individual factual sources are pending.
 
-Learn also contains a separate published catalog of eight traditional dishes from eight countries. Each card records history, ingredients, associated customs, authoritative factual sources, and a locally stored photo with author and license metadata. The earlier draft food catalog is titled “Экзотические блюда”.
+Learn also contains a separate published catalog of 200 traditional dishes. Each card records history, ingredients, associated customs, and authoritative factual sources. The first eight cards have locally stored photos with author and license metadata; the remaining cards use text visuals while suitable licensed images are not available. The earlier draft food catalog is titled “Экзотические блюда”.
 
 The core principle is **learn once, reuse everywhere**: every fact is stored as structured content and reused in encyclopedia pages, quiz questions, answer explanations, review sessions, and progress tracking.
 
