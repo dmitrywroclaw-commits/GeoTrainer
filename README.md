@@ -43,3 +43,5 @@ Local answer history is stored in IndexedDB through `src/storage/progress.ts`. Q
 ## Project documents
 
 Product, content, technical, and UI guidance is in `GeoTrainer Documents/`. The current PWA uses a small generated service worker instead of a Vite PWA plugin so the offline shell can include its own JS and CSS. This is an implementation choice for v0.1; the external behavior follows the offline requirements in the documents.
+
+The exotic-food catalog is disabled in the published app, including its former catalog URL and individual cards. The separate traditional-dishes catalog remains available.

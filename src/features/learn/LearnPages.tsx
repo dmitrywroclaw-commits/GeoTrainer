@@ -77,10 +77,10 @@ export function LearnHome() {
       <div className="category-visual"><TraditionalDishImage dish={traditionalDishes.all()[0]}/></div>
       <div className="category-body"><span className="eyebrow">{objectCount(traditionalDishes.all().length)}</span><h2>Традиционные блюда мира</h2><p>История, состав и обычаи блюд разных стран.</p></div>
     </Link>
-    {(['food', 'architecture'] as const).map(kind => <Link key={kind} className="category-card category-landmark" to={`/learn/${kind}`}>
-      <div className="category-visual"><TravelImage card={travelCards.byKind(kind)[0]}/></div>
-      <div className="category-body"><span className="eyebrow">{objectCount(travelCards.byKind(kind).length)}</span><h2>{kind === 'food' ? 'Экзотические блюда' : 'Архитектура'}</h2><p>{kind === 'food' ? 'Необычные блюда и традиции.' : 'Известные здания и сооружения.'}</p></div>
-    </Link>)}</div>
+    <Link className="category-card category-landmark" to="/learn/architecture">
+      <div className="category-visual"><TravelImage card={travelCards.byKind('architecture')[0]}/></div>
+      <div className="category-body"><span className="eyebrow">{objectCount(travelCards.byKind('architecture').length)}</span><h2>Архитектура</h2><p>Известные здания и сооружения.</p></div>
+    </Link></div>
     {(continueEntry || continueBorder || continueCapital || continueGeography || reviewCount > 0) && <div className="home-secondary">
       {continueGeography && <section><h2>Продолжить изучение</h2><Link className="inline-card" to={`/geography/${continueGeography.id}`}>{continueGeography.nameRu}<span>Открыть карточку →</span></Link></section>}
       {continueEntry && <section><h2>Продолжить изучение</h2><Link className="inline-card" to={`/item/${continueEntry.id}`}>{continueEntry.nameRu}<span>Открыть карточку →</span></Link></section>}

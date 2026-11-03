@@ -15,9 +15,6 @@ test('next and random keep the reader in the same urban catalog', async ({ page 
 });
 
 test('travel cards stay within their kind', async ({ page }) => {
-  await page.goto('/travel/food-balut');
-  await page.getByRole('button', { name: 'Дальше' }).click();
-  await expect(page).toHaveURL(/\/travel\/food-hakarl$/);
   await page.goto('/travel/architecture-eifeleva-bashnya');
   await page.getByRole('button', { name: 'Дальше' }).click();
   await expect(page).toHaveURL(/\/travel\/architecture-tadzh-mahal$/);

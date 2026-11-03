@@ -4,6 +4,7 @@ import { join } from 'node:path';
 import cards from '../../content/travel-cards.json';
 import media from '../../content/travel-media.json';
 import { existsSync } from 'node:fs';
+import { travelCards } from '../../src/data/travelCards';
 
 const documentRows = (file: string) => readFileSync(join(process.cwd(), 'GeoTrainer Documents', file), 'utf8')
   .split('\n').filter(line => /^\|\s*\d+\s*\|/.test(line))
@@ -40,5 +41,15 @@ describe('travel card import', () => {
       expect(asset?.attributionText.trim()).toBeTruthy();
       expect(existsSync(join(process.cwd(), 'public', card.image.slice(1))), card.id).toBe(true);
     }
+  });
+
+  it('keeps exotic-food records unpublished and architecture available', () => {
+    expect(travelCards.byKind('food')).toEqual([]);
+    for (const card of cards.filter(card => card.kind === 'food')) {
+      expect(travelCards.byId(card.id)).toBeUndefined();
+      expect(travelCards.media(card.id)).toBeUndefined();
+    }
+    expect(travelCards.byKind('architecture')).toHaveLength(83);
+    expect(travelCards.byId('architecture-eifeleva-bashnya')).toBeDefined();
   });
 });

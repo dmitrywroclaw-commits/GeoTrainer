@@ -38,8 +38,12 @@ for (const card of cards) {
   if (!image || image.localPath !== card.image) throw new Error(`Не найдено изображение для ${card.id}`);
 }
 
+// Publication switch: keep the exotic-food research records, but expose only enabled catalogs.
+const enabledKinds: readonly TravelCard['kind'][] = ['architecture'];
+const enabledCards = cards.filter(card => enabledKinds.includes(card.kind));
+
 export const travelCards = {
-  byKind: (kind: TravelCard['kind']) => cards.filter(card => card.kind === kind),
-  byId: (id: string) => cards.find(card => card.id === id),
-  media: (cardId: string) => media.find(item => item.cardId === cardId),
+  byKind: (kind: TravelCard['kind']) => enabledCards.filter(card => card.kind === kind),
+  byId: (id: string) => enabledCards.find(card => card.id === id),
+  media: (cardId: string) => enabledCards.some(card => card.id === cardId) ? media.find(item => item.cardId === cardId) : undefined,
 };

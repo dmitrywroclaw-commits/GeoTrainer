@@ -1,5 +1,7 @@
 # GeoTrainer — Prototype Design Document
 
+> Publication update (2026-11-04): the exotic-food catalog is disabled. It has no Learn entry, catalog route, or accessible detail/media records. Its research data is retained; the separate traditional-dishes catalog remains available.
+
 > Full outlines (2026-11-04): `11_ALL_COUNTRY_OUTLINES.md` specifies all 195 country cards, dateline handling, geographic insets, regional filters and incremental catalog loading. Existing study and quiz routes remain unchanged.
 
 
@@ -11,7 +13,7 @@ This document defines the functional and technical design for GeoTrainer v0.1.
 
 The prototype is a client-side PWA with structured local content and local progress persistence. No backend is required.
 
-The Learn screen also links to local draft catalogs for foods and architecture. These use structured records in `content/travel-cards.json`, local photos with the same aspect ratio as nature photos, media credits in `content/travel-media.json`, and a required “Почему интересно” field. Some ingredient or regional photos are explicitly labeled as illustrative. The catalogs remain outside quiz topics pending individual factual source review.
+The Learn screen links to a local draft architecture catalog. The exotic-food catalog is disabled for publication. These use structured records in `content/travel-cards.json`, local photos with the same aspect ratio as nature photos, media credits in `content/travel-media.json`, and a required “Почему интересно” field. Some ingredient or regional photos are explicitly labeled as illustrative. The catalogs remain outside quiz topics pending individual factual source review.
 
 The draft food catalog appears as “Экзотические блюда” at its existing `/learn/food` route. “Традиционные блюда мира” is a separate Learn catalog at `/learn/traditional-food`, with detail route `/traditional-food/:id`. Its 200 published cards present history, ingredients, and customs, with links to factual sources. Eight cards include licensed local photos and credits; other cards use text visuals. These study cards remain outside quiz topics until suitable questions and explanations are designed.
 

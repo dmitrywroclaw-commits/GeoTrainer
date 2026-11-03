@@ -1,5 +1,7 @@
 # GeoTrainer — Content Model and Editorial Schema
 
+> Publication update (2026-11-04): the exotic-food catalog is disabled. It has no Learn entry, catalog route, or accessible detail/media records. Its research data is retained; the separate traditional-dishes catalog remains available.
+
 > Full outlines (2026-11-04): see `11_ALL_COUNTRY_OUTLINES.md`. Outline records add `continentRu`, `similarityTags`, optional `borderNoteRu`, source feature codes, a central meridian and optional inset panels. Marine-label provenance and all 195 sample records, validation, generated maps and tests are updated together.
 
 

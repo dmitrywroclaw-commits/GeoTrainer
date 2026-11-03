@@ -1,5 +1,7 @@
 # GeoTrainer — Concept
 
+> Publication update (2026-11-04): the exotic-food catalog is disabled. It has no Learn entry, catalog route, or accessible detail/media records. Its research data is retained; the separate traditional-dishes catalog remains available.
+
 > Full outlines (2026-11-04): `11_ALL_COUNTRY_OUTLINES.md` expands the accepted outline pilot to all 195 base-registry countries and 390 generated questions, retaining the client-only architecture.
 
 
@@ -15,7 +17,7 @@ The product focuses on three content domains:
 2. National coats of arms, state emblems, and seals.
 3. Major natural and geographical landmarks.
 
-Exploratory local catalogs contain architecture, foods, and urban places from editorial lists. These drafts have locally stored images with per-image source, author, and rights metadata. Urban-place photos are displayed in a 16:9 frame. The urban-place drafts remain outside the image-recognition quiz while individual factual sources are pending.
+Exploratory local catalogs contain architecture and urban places from editorial lists. The earlier exotic-food research catalog is retained in the repository but disabled in the application. These drafts have locally stored images with per-image source, author, and rights metadata. Urban-place photos are displayed in a 16:9 frame. The urban-place drafts remain outside the image-recognition quiz while individual factual sources are pending.
 
 Learn also contains a separate published catalog of 200 traditional dishes. Each card records history, ingredients, associated customs, and authoritative factual sources. The first eight cards have locally stored photos with author and license metadata; the remaining cards use text visuals while suitable licensed images are not available. The earlier draft food catalog is titled “Экзотические блюда”.
 

@@ -42,7 +42,6 @@ function AppShell() {
     <div className="main-area"><div className="main-inner"><Routes>
       <Route path="/" element={<Navigate to="/learn" replace/>}/>
       <Route path="/learn" element={<LearnHome/>}/>
-      <Route path="/learn/food" element={<TravelCatalogPage kind="food"/>}/>
       <Route path="/learn/traditional-food" element={<TraditionalDishCatalogPage/>}/>
       <Route path="/learn/architecture" element={<TravelCatalogPage kind="architecture"/>}/>
       <Route path="/learn/borders" element={<BorderCatalogPage/>}/>
