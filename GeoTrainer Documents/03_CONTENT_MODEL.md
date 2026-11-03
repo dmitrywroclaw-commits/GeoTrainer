@@ -1,5 +1,8 @@
 # GeoTrainer — Content Model and Editorial Schema
 
+> Full outlines (2026-11-04): see `11_ALL_COUNTRY_OUTLINES.md`. Outline records add `continentRu`, `similarityTags`, optional `borderNoteRu`, source feature codes, a central meridian and optional inset panels. Marine-label provenance and all 195 sample records, validation, generated maps and tests are updated together.
+
+
 > Topic extension (2026-09-25): published land-border facts and question specifications live in `content/borders.json`, with source and map provenance; see `08_BORDERS.md`. The adjacency record is the source of truth for quiz answers and learning text. Disputed land-border cases are excluded.
 
 ## 1. Purpose

@@ -1,5 +1,8 @@
 # GeoTrainer — Development Plan
 
+> Accepted-pilot expansion (2026-11-04): the user approved the outline pilot and requested all countries. `11_ALL_COUNTRY_OUTLINES.md` documents coverage of 195/195 base countries, reproducible cartography and required validation.
+
+
 > Topic extension (2026-09-25): `08_BORDERS.md` describes the reviewed Borders topic, map generation, source review and dispute exclusion. Further questions from the 95-question pool remain a separate editorial batch; no bulk import is authorized by their presence in the Markdown list.
 
 ## 1. Goal

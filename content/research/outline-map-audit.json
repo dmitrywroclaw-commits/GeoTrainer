@@ -1,0 +1,4564 @@
+[
+  {
+    "id": "outline-australia",
+    "state": "question",
+    "bytes": 21449,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 114243.46
+      }
+    ]
+  },
+  {
+    "id": "outline-australia",
+    "state": "answer",
+    "bytes": 43354,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 72862.16
+      }
+    ]
+  },
+  {
+    "id": "outline-austria",
+    "state": "question",
+    "bytes": 6590,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 105064.09
+      }
+    ]
+  },
+  {
+    "id": "outline-austria",
+    "state": "answer",
+    "bytes": 23281,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 67007.76
+      }
+    ]
+  },
+  {
+    "id": "outline-azerbaijan",
+    "state": "question",
+    "bytes": 7034,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 118511.09
+      }
+    ]
+  },
+  {
+    "id": "outline-azerbaijan",
+    "state": "answer",
+    "bytes": 17327,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 75584.01
+      }
+    ]
+  },
+  {
+    "id": "outline-albania",
+    "state": "question",
+    "bytes": 4077,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 52178.17
+      }
+    ]
+  },
+  {
+    "id": "outline-albania",
+    "state": "answer",
+    "bytes": 12145,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 33278.18
+      }
+    ]
+  },
+  {
+    "id": "outline-algeria",
+    "state": "question",
+    "bytes": 3255,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 118733.16
+      }
+    ]
+  },
+  {
+    "id": "outline-algeria",
+    "state": "answer",
+    "bytes": 20328,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 75725.6
+      }
+    ]
+  },
+  {
+    "id": "outline-angola",
+    "state": "question",
+    "bytes": 4852,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 113385.2
+      }
+    ]
+  },
+  {
+    "id": "outline-angola",
+    "state": "answer",
+    "bytes": 15060,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 72314.78
+      }
+    ]
+  },
+  {
+    "id": "outline-andorra",
+    "state": "question",
+    "bytes": 1253,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 155675.79
+      }
+    ]
+  },
+  {
+    "id": "outline-andorra",
+    "state": "answer",
+    "bytes": 3223,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 71421.21
+      }
+    ]
+  },
+  {
+    "id": "outline-antigua-and-barbuda",
+    "state": "question",
+    "bytes": 1950,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 12019.88
+      }
+    ]
+  },
+  {
+    "id": "outline-antigua-and-barbuda",
+    "state": "answer",
+    "bytes": 2495,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 7666.04
+      }
+    ]
+  },
+  {
+    "id": "outline-argentina",
+    "state": "question",
+    "bytes": 6879,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 40940.56
+      }
+    ]
+  },
+  {
+    "id": "outline-argentina",
+    "state": "answer",
+    "bytes": 40706,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 26111.06
+      }
+    ]
+  },
+  {
+    "id": "outline-armenia",
+    "state": "question",
+    "bytes": 4190,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 84537.22
+      }
+    ]
+  },
+  {
+    "id": "outline-armenia",
+    "state": "answer",
+    "bytes": 14244,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 53916.11
+      }
+    ]
+  },
+  {
+    "id": "outline-afghanistan",
+    "state": "question",
+    "bytes": 6048,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 130577.03
+      }
+    ]
+  },
+  {
+    "id": "outline-afghanistan",
+    "state": "answer",
+    "bytes": 25559,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 83279.37
+      }
+    ]
+  },
+  {
+    "id": "outline-bahamas",
+    "state": "question",
+    "bytes": 9643,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 5877.06
+      }
+    ]
+  },
+  {
+    "id": "outline-bahamas",
+    "state": "answer",
+    "bytes": 24517,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 3748.27
+      }
+    ]
+  },
+  {
+    "id": "outline-bangladesh",
+    "state": "question",
+    "bytes": 12348,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 66631.85
+      }
+    ]
+  },
+  {
+    "id": "outline-bangladesh",
+    "state": "answer",
+    "bytes": 25945,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 42496.45
+      }
+    ]
+  },
+  {
+    "id": "outline-barbados",
+    "state": "question",
+    "bytes": 994,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 86988.56
+      }
+    ]
+  },
+  {
+    "id": "outline-barbados",
+    "state": "answer",
+    "bytes": 1403,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 49472.13
+      }
+    ]
+  },
+  {
+    "id": "outline-bahrain",
+    "state": "question",
+    "bytes": 2214,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 23144.53
+      }
+    ]
+  },
+  {
+    "id": "outline-bahrain",
+    "state": "answer",
+    "bytes": 4086,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 14761.08
+      }
+    ]
+  },
+  {
+    "id": "outline-belarus",
+    "state": "question",
+    "bytes": 6588,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 142715.96
+      }
+    ]
+  },
+  {
+    "id": "outline-belarus",
+    "state": "answer",
+    "bytes": 19007,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 91021.37
+      }
+    ]
+  },
+  {
+    "id": "outline-belize",
+    "state": "question",
+    "bytes": 4160,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 55113.39
+      }
+    ]
+  },
+  {
+    "id": "outline-belize",
+    "state": "answer",
+    "bytes": 7659,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 35150.18
+      }
+    ]
+  },
+  {
+    "id": "outline-belgium",
+    "state": "question",
+    "bytes": 5475,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 128553.99
+      }
+    ]
+  },
+  {
+    "id": "outline-belgium",
+    "state": "answer",
+    "bytes": 16614,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 81989.14
+      }
+    ]
+  },
+  {
+    "id": "outline-benin",
+    "state": "question",
+    "bytes": 3419,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 51240.12
+      }
+    ]
+  },
+  {
+    "id": "outline-benin",
+    "state": "answer",
+    "bytes": 12360,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 32679.91
+      }
+    ]
+  },
+  {
+    "id": "outline-bulgaria",
+    "state": "question",
+    "bytes": 5844,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 176577.94
+      }
+    ]
+  },
+  {
+    "id": "outline-bulgaria",
+    "state": "answer",
+    "bytes": 20762,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 112617.83
+      }
+    ]
+  },
+  {
+    "id": "outline-bolivia",
+    "state": "question",
+    "bytes": 4641,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 105178.92
+      }
+    ]
+  },
+  {
+    "id": "outline-bolivia",
+    "state": "answer",
+    "bytes": 14811,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 67080.99
+      }
+    ]
+  },
+  {
+    "id": "outline-bosnia-and-herzegovina",
+    "state": "question",
+    "bytes": 4613,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 117433.61
+      }
+    ]
+  },
+  {
+    "id": "outline-bosnia-and-herzegovina",
+    "state": "answer",
+    "bytes": 22005,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 74896.71
+      }
+    ]
+  },
+  {
+    "id": "outline-botswana",
+    "state": "question",
+    "bytes": 3840,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 117409.17
+      }
+    ]
+  },
+  {
+    "id": "outline-botswana",
+    "state": "answer",
+    "bytes": 12694,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 74881.19
+      }
+    ]
+  },
+  {
+    "id": "outline-brazil",
+    "state": "question",
+    "bytes": 15073,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 93510.4
+      }
+    ]
+  },
+  {
+    "id": "outline-brazil",
+    "state": "answer",
+    "bytes": 43857,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 59639.04
+      }
+    ]
+  },
+  {
+    "id": "outline-brunei",
+    "state": "question",
+    "bytes": 2449,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 89051.27
+      }
+    ]
+  },
+  {
+    "id": "outline-brunei",
+    "state": "answer",
+    "bytes": 5965,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 56795.21
+      }
+    ]
+  },
+  {
+    "id": "outline-burkina-faso",
+    "state": "question",
+    "bytes": 6099,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 142166.6
+      }
+    ]
+  },
+  {
+    "id": "outline-burkina-faso",
+    "state": "answer",
+    "bytes": 20503,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 90670.98
+      }
+    ]
+  },
+  {
+    "id": "outline-burundi",
+    "state": "question",
+    "bytes": 3005,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 97730.99
+      }
+    ]
+  },
+  {
+    "id": "outline-burundi",
+    "state": "answer",
+    "bytes": 7598,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 62330.83
+      }
+    ]
+  },
+  {
+    "id": "outline-bhutan",
+    "state": "question",
+    "bytes": 3631,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 151048.73
+      }
+    ]
+  },
+  {
+    "id": "outline-bhutan",
+    "state": "answer",
+    "bytes": 11224,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 96335.8
+      }
+    ]
+  },
+  {
+    "id": "outline-vanuatu",
+    "state": "question",
+    "bytes": 5415,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 4001.73
+      }
+    ]
+  },
+  {
+    "id": "outline-vanuatu",
+    "state": "answer",
+    "bytes": 7461,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 2552.22
+      }
+    ]
+  },
+  {
+    "id": "outline-hungary",
+    "state": "question",
+    "bytes": 5549,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 144731.75
+      }
+    ]
+  },
+  {
+    "id": "outline-hungary",
+    "state": "answer",
+    "bytes": 22286,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 92306.93
+      }
+    ]
+  },
+  {
+    "id": "outline-venezuela",
+    "state": "question",
+    "bytes": 9915,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 67814.96
+      }
+    ]
+  },
+  {
+    "id": "outline-venezuela",
+    "state": "answer",
+    "bytes": 29741,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 43251.0
+      }
+    ]
+  },
+  {
+    "id": "outline-vietnam",
+    "state": "question",
+    "bytes": 12152,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 25463.81
+      }
+    ]
+  },
+  {
+    "id": "outline-vietnam",
+    "state": "answer",
+    "bytes": 28723,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 16240.3
+      }
+    ]
+  },
+  {
+    "id": "outline-gabon",
+    "state": "question",
+    "bytes": 7911,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 111944.46
+      }
+    ]
+  },
+  {
+    "id": "outline-gabon",
+    "state": "answer",
+    "bytes": 16907,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 71395.9
+      }
+    ]
+  },
+  {
+    "id": "outline-haiti",
+    "state": "question",
+    "bytes": 6192,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 106267.19
+      }
+    ]
+  },
+  {
+    "id": "outline-haiti",
+    "state": "answer",
+    "bytes": 9973,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 67775.07
+      }
+    ]
+  },
+  {
+    "id": "outline-guyana",
+    "state": "question",
+    "bytes": 5197,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 65568.92
+      }
+    ]
+  },
+  {
+    "id": "outline-guyana",
+    "state": "answer",
+    "bytes": 13477,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 41818.52
+      }
+    ]
+  },
+  {
+    "id": "outline-gambia",
+    "state": "question",
+    "bytes": 3917,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 40717.27
+      }
+    ]
+  },
+  {
+    "id": "outline-gambia",
+    "state": "answer",
+    "bytes": 6525,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 25968.66
+      }
+    ]
+  },
+  {
+    "id": "outline-ghana",
+    "state": "question",
+    "bytes": 4607,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 97511.33
+      }
+    ]
+  },
+  {
+    "id": "outline-ghana",
+    "state": "answer",
+    "bytes": 12745,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 62190.75
+      }
+    ]
+  },
+  {
+    "id": "outline-guatemala",
+    "state": "question",
+    "bytes": 3333,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 109873.29
+      }
+    ]
+  },
+  {
+    "id": "outline-guatemala",
+    "state": "answer",
+    "bytes": 15424,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 70074.92
+      }
+    ]
+  },
+  {
+    "id": "outline-guinea",
+    "state": "question",
+    "bytes": 9134,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 137242.23
+      }
+    ]
+  },
+  {
+    "id": "outline-guinea",
+    "state": "answer",
+    "bytes": 31451,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 87530.26
+      }
+    ]
+  },
+  {
+    "id": "outline-guinea-bissau",
+    "state": "question",
+    "bytes": 11207,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 121182.27
+      }
+    ]
+  },
+  {
+    "id": "outline-guinea-bissau",
+    "state": "answer",
+    "bytes": 16667,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 77287.56
+      }
+    ]
+  },
+  {
+    "id": "outline-germany",
+    "state": "question",
+    "bytes": 12098,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 98426.36
+      }
+    ]
+  },
+  {
+    "id": "outline-germany",
+    "state": "answer",
+    "bytes": 42399,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 62774.33
+      }
+    ]
+  },
+  {
+    "id": "outline-honduras",
+    "state": "question",
+    "bytes": 7384,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 95831.5
+      }
+    ]
+  },
+  {
+    "id": "outline-honduras",
+    "state": "answer",
+    "bytes": 19837,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 61119.39
+      }
+    ]
+  },
+  {
+    "id": "outline-palestine",
+    "state": "question",
+    "bytes": 2963,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 57628.09
+      }
+    ]
+  },
+  {
+    "id": "outline-palestine",
+    "state": "answer",
+    "bytes": 8419,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 36753.99
+      }
+    ]
+  },
+  {
+    "id": "outline-grenada",
+    "state": "question",
+    "bytes": 1347,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 21076.75
+      }
+    ]
+  },
+  {
+    "id": "outline-grenada",
+    "state": "answer",
+    "bytes": 1981,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 13442.32
+      }
+    ]
+  },
+  {
+    "id": "outline-greece",
+    "state": "question",
+    "bytes": 25872,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 46330.46
+      }
+    ]
+  },
+  {
+    "id": "outline-greece",
+    "state": "answer",
+    "bytes": 41748,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 29548.62
+      }
+    ]
+  },
+  {
+    "id": "outline-georgia",
+    "state": "question",
+    "bytes": 4254,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 93283.0
+      }
+    ]
+  },
+  {
+    "id": "outline-georgia",
+    "state": "answer",
+    "bytes": 12776,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 59494.0
+      }
+    ]
+  },
+  {
+    "id": "outline-denmark",
+    "state": "question",
+    "bytes": 15249,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 70099.24
+      }
+    ]
+  },
+  {
+    "id": "outline-denmark",
+    "state": "answer",
+    "bytes": 30860,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 44707.85
+      }
+    ]
+  },
+  {
+    "id": "outline-democratic-republic-of-the-congo",
+    "state": "question",
+    "bytes": 6439,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 110748.16
+      }
+    ]
+  },
+  {
+    "id": "outline-democratic-republic-of-the-congo",
+    "state": "answer",
+    "bytes": 35448,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 70632.92
+      }
+    ]
+  },
+  {
+    "id": "outline-djibouti",
+    "state": "question",
+    "bytes": 2643,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 116467.93
+      }
+    ]
+  },
+  {
+    "id": "outline-djibouti",
+    "state": "answer",
+    "bytes": 7105,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 74280.98
+      }
+    ]
+  },
+  {
+    "id": "outline-dominica",
+    "state": "question",
+    "bytes": 1500,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 65934.34
+      }
+    ]
+  },
+  {
+    "id": "outline-dominica",
+    "state": "answer",
+    "bytes": 1916,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 42051.6
+      }
+    ]
+  },
+  {
+    "id": "outline-dominican-republic",
+    "state": "question",
+    "bytes": 5258,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 132579.28
+      }
+    ]
+  },
+  {
+    "id": "outline-dominican-republic",
+    "state": "answer",
+    "bytes": 8493,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 84556.38
+      }
+    ]
+  },
+  {
+    "id": "outline-egypt",
+    "state": "question",
+    "bytes": 6329,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 180064.17
+      }
+    ]
+  },
+  {
+    "id": "outline-egypt",
+    "state": "answer",
+    "bytes": 15237,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 114841.27
+      }
+    ]
+  },
+  {
+    "id": "outline-zambia",
+    "state": "question",
+    "bytes": 5899,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 130239.59
+      }
+    ]
+  },
+  {
+    "id": "outline-zambia",
+    "state": "answer",
+    "bytes": 21067,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 83064.16
+      }
+    ]
+  },
+  {
+    "id": "outline-zimbabwe",
+    "state": "question",
+    "bytes": 4012,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 142601.93
+      }
+    ]
+  },
+  {
+    "id": "outline-zimbabwe",
+    "state": "answer",
+    "bytes": 12913,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 90948.62
+      }
+    ]
+  },
+  {
+    "id": "outline-israel",
+    "state": "question",
+    "bytes": 3089,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 24211.53
+      }
+    ]
+  },
+  {
+    "id": "outline-israel",
+    "state": "answer",
+    "bytes": 9641,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 15441.62
+      }
+    ]
+  },
+  {
+    "id": "outline-india",
+    "state": "question",
+    "bytes": 14465,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 65273.5
+      }
+    ]
+  },
+  {
+    "id": "outline-india",
+    "state": "answer",
+    "bytes": 63496,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 41630.11
+      }
+    ]
+  },
+  {
+    "id": "outline-indonesia",
+    "state": "question",
+    "bytes": 36885,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 29705.51
+      }
+    ]
+  },
+  {
+    "id": "outline-indonesia",
+    "state": "answer",
+    "bytes": 56616,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 18945.57
+      }
+    ]
+  },
+  {
+    "id": "outline-jordan",
+    "state": "question",
+    "bytes": 2192,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 85386.96
+      }
+    ]
+  },
+  {
+    "id": "outline-jordan",
+    "state": "answer",
+    "bytes": 10958,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 54458.08
+      }
+    ]
+  },
+  {
+    "id": "outline-iraq",
+    "state": "question",
+    "bytes": 3368,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 106191.63
+      }
+    ]
+  },
+  {
+    "id": "outline-iraq",
+    "state": "answer",
+    "bytes": 13651,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 67726.87
+      }
+    ]
+  },
+  {
+    "id": "outline-iran",
+    "state": "question",
+    "bytes": 7477,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 126392.88
+      }
+    ]
+  },
+  {
+    "id": "outline-iran",
+    "state": "answer",
+    "bytes": 34425,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 80610.82
+      }
+    ]
+  },
+  {
+    "id": "outline-ireland",
+    "state": "question",
+    "bytes": 14382,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 74377.59
+      }
+    ]
+  },
+  {
+    "id": "outline-ireland",
+    "state": "answer",
+    "bytes": 19926,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 47436.55
+      }
+    ]
+  },
+  {
+    "id": "outline-iceland",
+    "state": "question",
+    "bytes": 20355,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 154773.61
+      }
+    ]
+  },
+  {
+    "id": "outline-iceland",
+    "state": "answer",
+    "bytes": 18651,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 98711.47
+      }
+    ]
+  },
+  {
+    "id": "outline-spain",
+    "state": "question",
+    "bytes": 12497,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 63702.61
+      },
+      {
+        "panel": 1,
+        "landAreaPixels": 1200.85
+      },
+      {
+        "panel": 2,
+        "landAreaPixels": 2245.91
+      }
+    ]
+  },
+  {
+    "id": "outline-spain",
+    "state": "answer",
+    "bytes": 21975,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 63702.61
+      },
+      {
+        "panel": 1,
+        "landAreaPixels": 1200.85
+      },
+      {
+        "panel": 2,
+        "landAreaPixels": 2245.91
+      }
+    ]
+  },
+  {
+    "id": "outline-italy",
+    "state": "question",
+    "bytes": 10898,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 38486.13
+      }
+    ]
+  },
+  {
+    "id": "outline-italy",
+    "state": "answer",
+    "bytes": 45180,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 24545.67
+      }
+    ]
+  },
+  {
+    "id": "outline-yemen",
+    "state": "question",
+    "bytes": 4641,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 29605.98
+      },
+      {
+        "panel": 1,
+        "landAreaPixels": 8402.56
+      }
+    ]
+  },
+  {
+    "id": "outline-yemen",
+    "state": "answer",
+    "bytes": 9386,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 29605.98
+      },
+      {
+        "panel": 1,
+        "landAreaPixels": 8402.56
+      }
+    ]
+  },
+  {
+    "id": "outline-cabo-verde",
+    "state": "question",
+    "bytes": 3994,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 11555.73
+      }
+    ]
+  },
+  {
+    "id": "outline-cabo-verde",
+    "state": "answer",
+    "bytes": 4210,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 7370.02
+      }
+    ]
+  },
+  {
+    "id": "outline-kazakhstan",
+    "state": "question",
+    "bytes": 10256,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 120593.95
+      }
+    ]
+  },
+  {
+    "id": "outline-kazakhstan",
+    "state": "answer",
+    "bytes": 40303,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 76912.37
+      }
+    ]
+  },
+  {
+    "id": "outline-cambodia",
+    "state": "question",
+    "bytes": 7367,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 166048.81
+      }
+    ]
+  },
+  {
+    "id": "outline-cambodia",
+    "state": "answer",
+    "bytes": 19292,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 105902.58
+      }
+    ]
+  },
+  {
+    "id": "outline-cameroon",
+    "state": "question",
+    "bytes": 5389,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 59827.72
+      }
+    ]
+  },
+  {
+    "id": "outline-cameroon",
+    "state": "answer",
+    "bytes": 17170,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 38156.9
+      }
+    ]
+  },
+  {
+    "id": "outline-canada",
+    "state": "question",
+    "bytes": 87063,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 94755.44
+      }
+    ]
+  },
+  {
+    "id": "outline-canada",
+    "state": "answer",
+    "bytes": 123863,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 67990.93
+      }
+    ]
+  },
+  {
+    "id": "outline-qatar",
+    "state": "question",
+    "bytes": 3029,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 73237.83
+      }
+    ]
+  },
+  {
+    "id": "outline-qatar",
+    "state": "answer",
+    "bytes": 5945,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 46709.55
+      }
+    ]
+  },
+  {
+    "id": "outline-kenya",
+    "state": "question",
+    "bytes": 3997,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 104906.41
+      }
+    ]
+  },
+  {
+    "id": "outline-kenya",
+    "state": "answer",
+    "bytes": 10300,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 66907.17
+      }
+    ]
+  },
+  {
+    "id": "outline-cyprus",
+    "state": "question",
+    "bytes": 3150,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 85269.29
+      }
+    ]
+  },
+  {
+    "id": "outline-cyprus",
+    "state": "answer",
+    "bytes": 3396,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 54383.03
+      }
+    ]
+  },
+  {
+    "id": "outline-kiribati",
+    "state": "question",
+    "bytes": 8717,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 2.68
+      },
+      {
+        "panel": 1,
+        "landAreaPixels": 6113.81
+      },
+      {
+        "panel": 2,
+        "landAreaPixels": 6214.85
+      },
+      {
+        "panel": 3,
+        "landAreaPixels": 11560.07
+      }
+    ]
+  },
+  {
+    "id": "outline-kiribati",
+    "state": "answer",
+    "bytes": 17213,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 2.68
+      },
+      {
+        "panel": 1,
+        "landAreaPixels": 6113.81
+      },
+      {
+        "panel": 2,
+        "landAreaPixels": 6214.85
+      },
+      {
+        "panel": 3,
+        "landAreaPixels": 11560.07
+      }
+    ]
+  },
+  {
+    "id": "outline-china",
+    "state": "question",
+    "bytes": 20543,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 113703.57
+      }
+    ]
+  },
+  {
+    "id": "outline-china",
+    "state": "answer",
+    "bytes": 103193,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 72517.83
+      }
+    ]
+  },
+  {
+    "id": "outline-colombia",
+    "state": "question",
+    "bytes": 8172,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 60361.37
+      }
+    ]
+  },
+  {
+    "id": "outline-colombia",
+    "state": "answer",
+    "bytes": 28346,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 38497.25
+      }
+    ]
+  },
+  {
+    "id": "outline-comoros",
+    "state": "question",
+    "bytes": 1930,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 27147.71
+      }
+    ]
+  },
+  {
+    "id": "outline-comoros",
+    "state": "answer",
+    "bytes": 2617,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 17314.27
+      }
+    ]
+  },
+  {
+    "id": "outline-congo",
+    "state": "question",
+    "bytes": 5603,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 76430.49
+      }
+    ]
+  },
+  {
+    "id": "outline-congo",
+    "state": "answer",
+    "bytes": 17726,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 48745.81
+      }
+    ]
+  },
+  {
+    "id": "outline-north-korea",
+    "state": "question",
+    "bytes": 9725,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 71941.71
+      }
+    ]
+  },
+  {
+    "id": "outline-north-korea",
+    "state": "answer",
+    "bytes": 18998,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 45882.97
+      }
+    ]
+  },
+  {
+    "id": "outline-costa-rica",
+    "state": "question",
+    "bytes": 4931,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 26714.98
+      }
+    ]
+  },
+  {
+    "id": "outline-costa-rica",
+    "state": "answer",
+    "bytes": 10060,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 17038.27
+      }
+    ]
+  },
+  {
+    "id": "outline-cote-divoire",
+    "state": "question",
+    "bytes": 8481,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 132822.91
+      }
+    ]
+  },
+  {
+    "id": "outline-cote-divoire",
+    "state": "answer",
+    "bytes": 19380,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 84711.73
+      }
+    ]
+  },
+  {
+    "id": "outline-cuba",
+    "state": "question",
+    "bytes": 13569,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 36097.93
+      }
+    ]
+  },
+  {
+    "id": "outline-cuba",
+    "state": "answer",
+    "bytes": 19814,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 23022.53
+      }
+    ]
+  },
+  {
+    "id": "outline-kuwait",
+    "state": "question",
+    "bytes": 2906,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 120025.94
+      }
+    ]
+  },
+  {
+    "id": "outline-kuwait",
+    "state": "answer",
+    "bytes": 5809,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 76550.11
+      }
+    ]
+  },
+  {
+    "id": "outline-kyrgyzstan",
+    "state": "question",
+    "bytes": 7240,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 95989.68
+      }
+    ]
+  },
+  {
+    "id": "outline-kyrgyzstan",
+    "state": "answer",
+    "bytes": 19944,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 61220.27
+      }
+    ]
+  },
+  {
+    "id": "outline-laos",
+    "state": "question",
+    "bytes": 6983,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 52312.17
+      }
+    ]
+  },
+  {
+    "id": "outline-laos",
+    "state": "answer",
+    "bytes": 32615,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 33363.64
+      }
+    ]
+  },
+  {
+    "id": "outline-latvia",
+    "state": "question",
+    "bytes": 4388,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 135574.61
+      }
+    ]
+  },
+  {
+    "id": "outline-latvia",
+    "state": "answer",
+    "bytes": 13462,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 86466.74
+      }
+    ]
+  },
+  {
+    "id": "outline-lesotho",
+    "state": "question",
+    "bytes": 3237,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 116056.43
+      }
+    ]
+  },
+  {
+    "id": "outline-lesotho",
+    "state": "answer",
+    "bytes": 5687,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 74018.49
+      }
+    ]
+  },
+  {
+    "id": "outline-liberia",
+    "state": "question",
+    "bytes": 4798,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 90335.98
+      }
+    ]
+  },
+  {
+    "id": "outline-liberia",
+    "state": "answer",
+    "bytes": 11725,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 57614.46
+      }
+    ]
+  },
+  {
+    "id": "outline-lebanon",
+    "state": "question",
+    "bytes": 3318,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 63130.71
+      }
+    ]
+  },
+  {
+    "id": "outline-lebanon",
+    "state": "answer",
+    "bytes": 7072,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 40263.52
+      }
+    ]
+  },
+  {
+    "id": "outline-libya",
+    "state": "question",
+    "bytes": 2529,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 146933.59
+      }
+    ]
+  },
+  {
+    "id": "outline-libya",
+    "state": "answer",
+    "bytes": 9214,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 93711.27
+      }
+    ]
+  },
+  {
+    "id": "outline-lithuania",
+    "state": "question",
+    "bytes": 4721,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 166864.3
+      }
+    ]
+  },
+  {
+    "id": "outline-lithuania",
+    "state": "answer",
+    "bytes": 11483,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 106422.7
+      }
+    ]
+  },
+  {
+    "id": "outline-liechtenstein",
+    "state": "question",
+    "bytes": 981,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 51900.83
+      }
+    ]
+  },
+  {
+    "id": "outline-liechtenstein",
+    "state": "answer",
+    "bytes": 2495,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 22882.63
+      }
+    ]
+  },
+  {
+    "id": "outline-luxembourg",
+    "state": "question",
+    "bytes": 2646,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 81037.32
+      }
+    ]
+  },
+  {
+    "id": "outline-luxembourg",
+    "state": "answer",
+    "bytes": 7258,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 51684.04
+      }
+    ]
+  },
+  {
+    "id": "outline-mauritius",
+    "state": "question",
+    "bytes": 1651,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 110664.09
+      }
+    ]
+  },
+  {
+    "id": "outline-mauritius",
+    "state": "answer",
+    "bytes": 2081,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 70579.23
+      }
+    ]
+  },
+  {
+    "id": "outline-mauritania",
+    "state": "question",
+    "bytes": 3005,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 110390.18
+      }
+    ]
+  },
+  {
+    "id": "outline-mauritania",
+    "state": "answer",
+    "bytes": 16786,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 70404.61
+      }
+    ]
+  },
+  {
+    "id": "outline-madagascar",
+    "state": "question",
+    "bytes": 5585,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 53841.06
+      }
+    ]
+  },
+  {
+    "id": "outline-madagascar",
+    "state": "answer",
+    "bytes": 17323,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 46013.42
+      }
+    ]
+  },
+  {
+    "id": "outline-malawi",
+    "state": "question",
+    "bytes": 4163,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 33483.6
+      }
+    ]
+  },
+  {
+    "id": "outline-malawi",
+    "state": "answer",
+    "bytes": 10216,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 21355.16
+      }
+    ]
+  },
+  {
+    "id": "outline-malaysia",
+    "state": "question",
+    "bytes": 8341,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 28449.23
+      }
+    ]
+  },
+  {
+    "id": "outline-malaysia",
+    "state": "answer",
+    "bytes": 29699,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 25159.78
+      }
+    ]
+  },
+  {
+    "id": "outline-mali",
+    "state": "question",
+    "bytes": 4479,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 95691.08
+      }
+    ]
+  },
+  {
+    "id": "outline-mali",
+    "state": "answer",
+    "bytes": 30421,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 61029.84
+      }
+    ]
+  },
+  {
+    "id": "outline-maldives",
+    "state": "question",
+    "bytes": 14514,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 3.28
+      },
+      {
+        "panel": 1,
+        "landAreaPixels": 7891.44
+      },
+      {
+        "panel": 2,
+        "landAreaPixels": 2664.73
+      },
+      {
+        "panel": 3,
+        "landAreaPixels": 2483.87
+      }
+    ]
+  },
+  {
+    "id": "outline-maldives",
+    "state": "answer",
+    "bytes": 19973,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 3.28
+      },
+      {
+        "panel": 1,
+        "landAreaPixels": 7891.44
+      },
+      {
+        "panel": 2,
+        "landAreaPixels": 2664.73
+      },
+      {
+        "panel": 3,
+        "landAreaPixels": 2483.87
+      }
+    ]
+  },
+  {
+    "id": "outline-malta",
+    "state": "question",
+    "bytes": 1320,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 72620.04
+      }
+    ]
+  },
+  {
+    "id": "outline-malta",
+    "state": "answer",
+    "bytes": 1743,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 39399.52
+      }
+    ]
+  },
+  {
+    "id": "outline-morocco",
+    "state": "question",
+    "bytes": 3588,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 47916.21
+      }
+    ]
+  },
+  {
+    "id": "outline-morocco",
+    "state": "answer",
+    "bytes": 12890,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 30559.98
+      }
+    ]
+  },
+  {
+    "id": "outline-marshall-islands",
+    "state": "question",
+    "bytes": 5912,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 2.97
+      },
+      {
+        "panel": 1,
+        "landAreaPixels": 1098.93
+      },
+      {
+        "panel": 2,
+        "landAreaPixels": 1032.09
+      },
+      {
+        "panel": 3,
+        "landAreaPixels": 2860.76
+      }
+    ]
+  },
+  {
+    "id": "outline-marshall-islands",
+    "state": "answer",
+    "bytes": 9617,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 2.97
+      },
+      {
+        "panel": 1,
+        "landAreaPixels": 1098.93
+      },
+      {
+        "panel": 2,
+        "landAreaPixels": 1032.09
+      },
+      {
+        "panel": 3,
+        "landAreaPixels": 2860.76
+      }
+    ]
+  },
+  {
+    "id": "outline-mexico",
+    "state": "question",
+    "bytes": 14638,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 77659.86
+      }
+    ]
+  },
+  {
+    "id": "outline-mexico",
+    "state": "answer",
+    "bytes": 36720,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 49529.88
+      }
+    ]
+  },
+  {
+    "id": "outline-mozambique",
+    "state": "question",
+    "bytes": 7042,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 49168.62
+      }
+    ]
+  },
+  {
+    "id": "outline-mozambique",
+    "state": "answer",
+    "bytes": 18936,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 31358.75
+      }
+    ]
+  },
+  {
+    "id": "outline-monaco",
+    "state": "question",
+    "bytes": 762,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 152267.36
+      }
+    ]
+  },
+  {
+    "id": "outline-monaco",
+    "state": "answer",
+    "bytes": 2241,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 10487.58
+      }
+    ]
+  },
+  {
+    "id": "outline-mongolia",
+    "state": "question",
+    "bytes": 4878,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 106837.85
+      }
+    ]
+  },
+  {
+    "id": "outline-mongolia",
+    "state": "answer",
+    "bytes": 16975,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 68139.02
+      }
+    ]
+  },
+  {
+    "id": "outline-myanmar",
+    "state": "question",
+    "bytes": 11685,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 32241.76
+      }
+    ]
+  },
+  {
+    "id": "outline-myanmar",
+    "state": "answer",
+    "bytes": 32540,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 20563.14
+      }
+    ]
+  },
+  {
+    "id": "outline-namibia",
+    "state": "question",
+    "bytes": 3350,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 95627.75
+      }
+    ]
+  },
+  {
+    "id": "outline-namibia",
+    "state": "answer",
+    "bytes": 12210,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 60989.44
+      }
+    ]
+  },
+  {
+    "id": "outline-naoero",
+    "state": "question",
+    "bytes": 723,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 128531.11
+      }
+    ]
+  },
+  {
+    "id": "outline-naoero",
+    "state": "answer",
+    "bytes": 1131,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 13825.16
+      }
+    ]
+  },
+  {
+    "id": "outline-nepal",
+    "state": "question",
+    "bytes": 6056,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 95078.08
+      }
+    ]
+  },
+  {
+    "id": "outline-nepal",
+    "state": "answer",
+    "bytes": 16888,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 60638.87
+      }
+    ]
+  },
+  {
+    "id": "outline-niger",
+    "state": "question",
+    "bytes": 3047,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 142417.31
+      }
+    ]
+  },
+  {
+    "id": "outline-niger",
+    "state": "answer",
+    "bytes": 14947,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 90830.86
+      }
+    ]
+  },
+  {
+    "id": "outline-nigeria",
+    "state": "question",
+    "bytes": 7380,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 166125.62
+      }
+    ]
+  },
+  {
+    "id": "outline-nigeria",
+    "state": "answer",
+    "bytes": 24433,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 105951.57
+      }
+    ]
+  },
+  {
+    "id": "outline-netherlands-kingdom-of-the",
+    "state": "question",
+    "bytes": 6593,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 78770.85
+      }
+    ]
+  },
+  {
+    "id": "outline-netherlands-kingdom-of-the",
+    "state": "answer",
+    "bytes": 14047,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 50238.48
+      }
+    ]
+  },
+  {
+    "id": "outline-nicaragua",
+    "state": "question",
+    "bytes": 6279,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 116368.65
+      }
+    ]
+  },
+  {
+    "id": "outline-nicaragua",
+    "state": "answer",
+    "bytes": 16711,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 74217.61
+      }
+    ]
+  },
+  {
+    "id": "outline-new-zealand",
+    "state": "question",
+    "bytes": 12623,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 23605.47
+      }
+    ]
+  },
+  {
+    "id": "outline-new-zealand",
+    "state": "answer",
+    "bytes": 11145,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 15055.09
+      }
+    ]
+  },
+  {
+    "id": "outline-norway",
+    "state": "question",
+    "bytes": 37794,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 30660.73
+      }
+    ]
+  },
+  {
+    "id": "outline-norway",
+    "state": "answer",
+    "bytes": 69271,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 19554.79
+      }
+    ]
+  },
+  {
+    "id": "outline-united-arab-emirates",
+    "state": "question",
+    "bytes": 5835,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 99952.48
+      }
+    ]
+  },
+  {
+    "id": "outline-united-arab-emirates",
+    "state": "answer",
+    "bytes": 14238,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 63747.64
+      }
+    ]
+  },
+  {
+    "id": "outline-oman",
+    "state": "question",
+    "bytes": 4412,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 54897.97
+      }
+    ]
+  },
+  {
+    "id": "outline-oman",
+    "state": "answer",
+    "bytes": 13637,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 35012.81
+      }
+    ]
+  },
+  {
+    "id": "outline-pakistan",
+    "state": "question",
+    "bytes": 6999,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 81999.93
+      }
+    ]
+  },
+  {
+    "id": "outline-pakistan",
+    "state": "answer",
+    "bytes": 27523,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 52297.89
+      }
+    ]
+  },
+  {
+    "id": "outline-palau",
+    "state": "question",
+    "bytes": 5471,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 34.04
+      },
+      {
+        "panel": 1,
+        "landAreaPixels": 4011.24
+      },
+      {
+        "panel": 2,
+        "landAreaPixels": 6215.19
+      },
+      {
+        "panel": 3,
+        "landAreaPixels": 4045.94
+      }
+    ]
+  },
+  {
+    "id": "outline-palau",
+    "state": "answer",
+    "bytes": 9340,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 34.04
+      },
+      {
+        "panel": 1,
+        "landAreaPixels": 4011.24
+      },
+      {
+        "panel": 2,
+        "landAreaPixels": 6215.19
+      },
+      {
+        "panel": 3,
+        "landAreaPixels": 4045.94
+      }
+    ]
+  },
+  {
+    "id": "outline-panama",
+    "state": "question",
+    "bytes": 12322,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 73055.0
+      }
+    ]
+  },
+  {
+    "id": "outline-panama",
+    "state": "answer",
+    "bytes": 16216,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 46592.99
+      }
+    ]
+  },
+  {
+    "id": "outline-papua-new-guinea",
+    "state": "question",
+    "bytes": 16818,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 68616.4
+      }
+    ]
+  },
+  {
+    "id": "outline-papua-new-guinea",
+    "state": "answer",
+    "bytes": 23331,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 43762.16
+      }
+    ]
+  },
+  {
+    "id": "outline-paraguay",
+    "state": "question",
+    "bytes": 4608,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 97616.05
+      }
+    ]
+  },
+  {
+    "id": "outline-paraguay",
+    "state": "answer",
+    "bytes": 12343,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 62257.52
+      }
+    ]
+  },
+  {
+    "id": "outline-peru",
+    "state": "question",
+    "bytes": 6249,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 65067.32
+      }
+    ]
+  },
+  {
+    "id": "outline-peru",
+    "state": "answer",
+    "bytes": 17052,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 41498.61
+      }
+    ]
+  },
+  {
+    "id": "outline-poland",
+    "state": "question",
+    "bytes": 6590,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 154254.35
+      }
+    ]
+  },
+  {
+    "id": "outline-poland",
+    "state": "answer",
+    "bytes": 33657,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 80142.42
+      }
+    ]
+  },
+  {
+    "id": "outline-portugal",
+    "state": "question",
+    "bytes": 8219,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 52722.7
+      },
+      {
+        "panel": 1,
+        "landAreaPixels": 249.56
+      },
+      {
+        "panel": 2,
+        "landAreaPixels": 1357.02
+      }
+    ]
+  },
+  {
+    "id": "outline-portugal",
+    "state": "answer",
+    "bytes": 14560,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 52722.7
+      },
+      {
+        "panel": 1,
+        "landAreaPixels": 249.56
+      },
+      {
+        "panel": 2,
+        "landAreaPixels": 1357.02
+      }
+    ]
+  },
+  {
+    "id": "outline-south-korea",
+    "state": "question",
+    "bytes": 15941,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 56517.47
+      }
+    ]
+  },
+  {
+    "id": "outline-south-korea",
+    "state": "answer",
+    "bytes": 31913,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 36045.69
+      }
+    ]
+  },
+  {
+    "id": "outline-moldova",
+    "state": "question",
+    "bytes": 5387,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 61056.22
+      }
+    ]
+  },
+  {
+    "id": "outline-moldova",
+    "state": "answer",
+    "bytes": 13160,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 38940.4
+      }
+    ]
+  },
+  {
+    "id": "outline-russia",
+    "state": "question",
+    "bytes": 40978,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 85659.38
+      }
+    ]
+  },
+  {
+    "id": "outline-russia",
+    "state": "answer",
+    "bytes": 158208,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 53849.19
+      }
+    ]
+  },
+  {
+    "id": "outline-rwanda",
+    "state": "question",
+    "bytes": 3507,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 136527.74
+      }
+    ]
+  },
+  {
+    "id": "outline-rwanda",
+    "state": "answer",
+    "bytes": 9485,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 87074.67
+      }
+    ]
+  },
+  {
+    "id": "outline-romania",
+    "state": "question",
+    "bytes": 6844,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 180451.07
+      }
+    ]
+  },
+  {
+    "id": "outline-romania",
+    "state": "answer",
+    "bytes": 30168,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 115088.06
+      }
+    ]
+  },
+  {
+    "id": "outline-united-states",
+    "state": "question",
+    "bytes": 43248,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 56270.55
+      },
+      {
+        "panel": 1,
+        "landAreaPixels": 7221.91
+      },
+      {
+        "panel": 2,
+        "landAreaPixels": 1480.39
+      }
+    ]
+  },
+  {
+    "id": "outline-united-states",
+    "state": "answer",
+    "bytes": 66424,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 56270.55
+      },
+      {
+        "panel": 1,
+        "landAreaPixels": 7221.91
+      },
+      {
+        "panel": 2,
+        "landAreaPixels": 1480.39
+      }
+    ]
+  },
+  {
+    "id": "outline-el-salvador",
+    "state": "question",
+    "bytes": 4035,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 123460.08
+      }
+    ]
+  },
+  {
+    "id": "outline-el-salvador",
+    "state": "answer",
+    "bytes": 8707,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 78740.32
+      }
+    ]
+  },
+  {
+    "id": "outline-samoa",
+    "state": "question",
+    "bytes": 2137,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 54178.08
+      }
+    ]
+  },
+  {
+    "id": "outline-samoa",
+    "state": "answer",
+    "bytes": 2381,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 34553.68
+      }
+    ]
+  },
+  {
+    "id": "outline-san-marino",
+    "state": "question",
+    "bytes": 826,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 123388.55
+      }
+    ]
+  },
+  {
+    "id": "outline-san-marino",
+    "state": "answer",
+    "bytes": 1605,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 22359.96
+      }
+    ]
+  },
+  {
+    "id": "outline-sao-tome-and-principe",
+    "state": "question",
+    "bytes": 1451,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 6230.09
+      }
+    ]
+  },
+  {
+    "id": "outline-sao-tome-and-principe",
+    "state": "answer",
+    "bytes": 2430,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 3973.42
+      }
+    ]
+  },
+  {
+    "id": "outline-saudi-arabia",
+    "state": "question",
+    "bytes": 5784,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 130501.37
+      }
+    ]
+  },
+  {
+    "id": "outline-saudi-arabia",
+    "state": "answer",
+    "bytes": 31275,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 83231.12
+      }
+    ]
+  },
+  {
+    "id": "outline-holy-see",
+    "state": "question",
+    "bytes": 698,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 23234.46
+      }
+    ]
+  },
+  {
+    "id": "outline-holy-see",
+    "state": "answer",
+    "bytes": 1385,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 11.24
+      }
+    ]
+  },
+  {
+    "id": "outline-north-macedonia",
+    "state": "question",
+    "bytes": 3503,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 183966.82
+      }
+    ]
+  },
+  {
+    "id": "outline-north-macedonia",
+    "state": "answer",
+    "bytes": 10778,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 117330.42
+      }
+    ]
+  },
+  {
+    "id": "outline-seychelles",
+    "state": "question",
+    "bytes": 7152,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 18.33
+      },
+      {
+        "panel": 1,
+        "landAreaPixels": 4241.2
+      },
+      {
+        "panel": 2,
+        "landAreaPixels": 5424.09
+      },
+      {
+        "panel": 3,
+        "landAreaPixels": 13030.97
+      }
+    ]
+  },
+  {
+    "id": "outline-seychelles",
+    "state": "answer",
+    "bytes": 11656,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 18.33
+      },
+      {
+        "panel": 1,
+        "landAreaPixels": 4241.2
+      },
+      {
+        "panel": 2,
+        "landAreaPixels": 5424.09
+      },
+      {
+        "panel": 3,
+        "landAreaPixels": 13030.97
+      }
+    ]
+  },
+  {
+    "id": "outline-senegal",
+    "state": "question",
+    "bytes": 8100,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 171858.02
+      }
+    ]
+  },
+  {
+    "id": "outline-senegal",
+    "state": "answer",
+    "bytes": 21930,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 109607.54
+      }
+    ]
+  },
+  {
+    "id": "outline-saint-vincent-and-the-grenadines",
+    "state": "question",
+    "bytes": 1608,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 9801.03
+      }
+    ]
+  },
+  {
+    "id": "outline-saint-vincent-and-the-grenadines",
+    "state": "answer",
+    "bytes": 2439,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 6250.9
+      }
+    ]
+  },
+  {
+    "id": "outline-saint-kitts-and-nevis",
+    "state": "question",
+    "bytes": 1138,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 44760.57
+      }
+    ]
+  },
+  {
+    "id": "outline-saint-kitts-and-nevis",
+    "state": "answer",
+    "bytes": 1563,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 26720.52
+      }
+    ]
+  },
+  {
+    "id": "outline-saint-lucia",
+    "state": "question",
+    "bytes": 1228,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 64637.25
+      }
+    ]
+  },
+  {
+    "id": "outline-saint-lucia",
+    "state": "answer",
+    "bytes": 1698,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 41224.15
+      }
+    ]
+  },
+  {
+    "id": "outline-serbia",
+    "state": "question",
+    "bytes": 5561,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 83880.84
+      }
+    ]
+  },
+  {
+    "id": "outline-serbia",
+    "state": "answer",
+    "bytes": 20462,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 53497.49
+      }
+    ]
+  },
+  {
+    "id": "outline-singapore",
+    "state": "question",
+    "bytes": 1124,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 128963.87
+      }
+    ]
+  },
+  {
+    "id": "outline-singapore",
+    "state": "answer",
+    "bytes": 2585,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 82250.88
+      }
+    ]
+  },
+  {
+    "id": "outline-syria",
+    "state": "question",
+    "bytes": 3465,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 124642.6
+      }
+    ]
+  },
+  {
+    "id": "outline-syria",
+    "state": "answer",
+    "bytes": 12673,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 79494.54
+      }
+    ]
+  },
+  {
+    "id": "outline-slovakia",
+    "state": "question",
+    "bytes": 4451,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 113228.35
+      }
+    ]
+  },
+  {
+    "id": "outline-slovakia",
+    "state": "answer",
+    "bytes": 14901,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 72214.74
+      }
+    ]
+  },
+  {
+    "id": "outline-slovenia",
+    "state": "question",
+    "bytes": 4450,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 140948.27
+      }
+    ]
+  },
+  {
+    "id": "outline-slovenia",
+    "state": "answer",
+    "bytes": 14278,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 89893.94
+      }
+    ]
+  },
+  {
+    "id": "outline-united-kingdom",
+    "state": "question",
+    "bytes": 21447,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 33072.65
+      }
+    ]
+  },
+  {
+    "id": "outline-united-kingdom",
+    "state": "answer",
+    "bytes": 32032,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 21093.06
+      }
+    ]
+  },
+  {
+    "id": "outline-solomon-islands",
+    "state": "question",
+    "bytes": 8866,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 5235.62
+      }
+    ]
+  },
+  {
+    "id": "outline-solomon-islands",
+    "state": "answer",
+    "bytes": 10767,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 3339.17
+      }
+    ]
+  },
+  {
+    "id": "outline-somalia",
+    "state": "question",
+    "bytes": 3089,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 57755.84
+      }
+    ]
+  },
+  {
+    "id": "outline-somalia",
+    "state": "answer",
+    "bytes": 10011,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 36835.51
+      }
+    ]
+  },
+  {
+    "id": "outline-sudan",
+    "state": "question",
+    "bytes": 4235,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 171153.77
+      }
+    ]
+  },
+  {
+    "id": "outline-sudan",
+    "state": "answer",
+    "bytes": 17012,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 109158.4
+      }
+    ]
+  },
+  {
+    "id": "outline-suriname",
+    "state": "question",
+    "bytes": 4904,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 140273.97
+      }
+    ]
+  },
+  {
+    "id": "outline-suriname",
+    "state": "answer",
+    "bytes": 12212,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 89463.87
+      }
+    ]
+  },
+  {
+    "id": "outline-sierra-leone",
+    "state": "question",
+    "bytes": 5494,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 127617.69
+      }
+    ]
+  },
+  {
+    "id": "outline-sierra-leone",
+    "state": "answer",
+    "bytes": 10016,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 81391.97
+      }
+    ]
+  },
+  {
+    "id": "outline-tajikistan",
+    "state": "question",
+    "bytes": 7933,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 124913.95
+      }
+    ]
+  },
+  {
+    "id": "outline-tajikistan",
+    "state": "answer",
+    "bytes": 28244,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 79667.56
+      }
+    ]
+  },
+  {
+    "id": "outline-thailand",
+    "state": "question",
+    "bytes": 9512,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 39924.79
+      }
+    ]
+  },
+  {
+    "id": "outline-thailand",
+    "state": "answer",
+    "bytes": 36097,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 25463.22
+      }
+    ]
+  },
+  {
+    "id": "outline-tanzania",
+    "state": "question",
+    "bytes": 6585,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 137636.73
+      }
+    ]
+  },
+  {
+    "id": "outline-tanzania",
+    "state": "answer",
+    "bytes": 20585,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 87781.92
+      }
+    ]
+  },
+  {
+    "id": "outline-timor-leste",
+    "state": "question",
+    "bytes": 2934,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 47665.64
+      }
+    ]
+  },
+  {
+    "id": "outline-timor-leste",
+    "state": "answer",
+    "bytes": 7835,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 30400.16
+      }
+    ]
+  },
+  {
+    "id": "outline-togo",
+    "state": "question",
+    "bytes": 3254,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 37830.99
+      }
+    ]
+  },
+  {
+    "id": "outline-togo",
+    "state": "answer",
+    "bytes": 8586,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 24127.84
+      }
+    ]
+  },
+  {
+    "id": "outline-tonga",
+    "state": "question",
+    "bytes": 5338,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 24.13
+      },
+      {
+        "panel": 1,
+        "landAreaPixels": 9015.47
+      },
+      {
+        "panel": 2,
+        "landAreaPixels": 9139.94
+      },
+      {
+        "panel": 3,
+        "landAreaPixels": 4038.12
+      }
+    ]
+  },
+  {
+    "id": "outline-tonga",
+    "state": "answer",
+    "bytes": 8134,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 24.13
+      },
+      {
+        "panel": 1,
+        "landAreaPixels": 9015.47
+      },
+      {
+        "panel": 2,
+        "landAreaPixels": 9139.94
+      },
+      {
+        "panel": 3,
+        "landAreaPixels": 4038.12
+      }
+    ]
+  },
+  {
+    "id": "outline-trinidad-and-tobago",
+    "state": "question",
+    "bytes": 2407,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 50369.86
+      }
+    ]
+  },
+  {
+    "id": "outline-trinidad-and-tobago",
+    "state": "answer",
+    "bytes": 5040,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 32124.88
+      }
+    ]
+  },
+  {
+    "id": "outline-tuvalu",
+    "state": "question",
+    "bytes": 3942,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 3.0
+      },
+      {
+        "panel": 1,
+        "landAreaPixels": 1917.41
+      },
+      {
+        "panel": 2,
+        "landAreaPixels": 4107.17
+      },
+      {
+        "panel": 3,
+        "landAreaPixels": 2315.01
+      }
+    ]
+  },
+  {
+    "id": "outline-tuvalu",
+    "state": "answer",
+    "bytes": 6746,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 3.0
+      },
+      {
+        "panel": 1,
+        "landAreaPixels": 1917.41
+      },
+      {
+        "panel": 2,
+        "landAreaPixels": 4107.17
+      },
+      {
+        "panel": 3,
+        "landAreaPixels": 2315.01
+      }
+    ]
+  },
+  {
+    "id": "outline-tunisia",
+    "state": "question",
+    "bytes": 4206,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 52169.18
+      }
+    ]
+  },
+  {
+    "id": "outline-tunisia",
+    "state": "answer",
+    "bytes": 6878,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 33272.44
+      }
+    ]
+  },
+  {
+    "id": "outline-turkmenistan",
+    "state": "question",
+    "bytes": 7602,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 128025.63
+      }
+    ]
+  },
+  {
+    "id": "outline-turkmenistan",
+    "state": "answer",
+    "bytes": 20023,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 81652.15
+      }
+    ]
+  },
+  {
+    "id": "outline-turkiye",
+    "state": "question",
+    "bytes": 11848,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 116724.19
+      }
+    ]
+  },
+  {
+    "id": "outline-turkiye",
+    "state": "answer",
+    "bytes": 41514,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 74444.32
+      }
+    ]
+  },
+  {
+    "id": "outline-uganda",
+    "state": "question",
+    "bytes": 3486,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 125813.44
+      }
+    ]
+  },
+  {
+    "id": "outline-uganda",
+    "state": "answer",
+    "bytes": 12203,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 80241.23
+      }
+    ]
+  },
+  {
+    "id": "outline-uzbekistan",
+    "state": "question",
+    "bytes": 6395,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 89777.04
+      }
+    ]
+  },
+  {
+    "id": "outline-uzbekistan",
+    "state": "answer",
+    "bytes": 29918,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 57257.98
+      }
+    ]
+  },
+  {
+    "id": "outline-ukraine",
+    "state": "question",
+    "bytes": 10586,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 134962.77
+      }
+    ]
+  },
+  {
+    "id": "outline-ukraine",
+    "state": "answer",
+    "bytes": 33908,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 86076.52
+      }
+    ]
+  },
+  {
+    "id": "outline-uruguay",
+    "state": "question",
+    "bytes": 4023,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 125686.7
+      }
+    ]
+  },
+  {
+    "id": "outline-uruguay",
+    "state": "answer",
+    "bytes": 8711,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 80160.44
+      }
+    ]
+  },
+  {
+    "id": "outline-micronesia",
+    "state": "question",
+    "bytes": 5533,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 4.33
+      },
+      {
+        "panel": 1,
+        "landAreaPixels": 13870.05
+      },
+      {
+        "panel": 2,
+        "landAreaPixels": 13923.54
+      },
+      {
+        "panel": 3,
+        "landAreaPixels": 4393.07
+      }
+    ]
+  },
+  {
+    "id": "outline-micronesia",
+    "state": "answer",
+    "bytes": 10551,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 4.33
+      },
+      {
+        "panel": 1,
+        "landAreaPixels": 13870.05
+      },
+      {
+        "panel": 2,
+        "landAreaPixels": 13923.54
+      },
+      {
+        "panel": 3,
+        "landAreaPixels": 4393.07
+      }
+    ]
+  },
+  {
+    "id": "outline-fiji",
+    "state": "question",
+    "bytes": 6674,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 3746.17
+      }
+    ]
+  },
+  {
+    "id": "outline-fiji",
+    "state": "answer",
+    "bytes": 6540,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 2389.23
+      }
+    ]
+  },
+  {
+    "id": "outline-philippines",
+    "state": "question",
+    "bytes": 19875,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 18193.98
+      }
+    ]
+  },
+  {
+    "id": "outline-philippines",
+    "state": "answer",
+    "bytes": 26592,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 21315.67
+      }
+    ]
+  },
+  {
+    "id": "outline-finland",
+    "state": "question",
+    "bytes": 10812,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 51937.4
+      }
+    ]
+  },
+  {
+    "id": "outline-finland",
+    "state": "answer",
+    "bytes": 37289,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 33124.61
+      }
+    ]
+  },
+  {
+    "id": "outline-france",
+    "state": "question",
+    "bytes": 12205,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 97738.61
+      }
+    ]
+  },
+  {
+    "id": "outline-france",
+    "state": "answer",
+    "bytes": 41017,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 62335.7
+      }
+    ]
+  },
+  {
+    "id": "outline-croatia",
+    "state": "question",
+    "bytes": 13941,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 54586.34
+      }
+    ]
+  },
+  {
+    "id": "outline-croatia",
+    "state": "answer",
+    "bytes": 32882,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 34814.07
+      }
+    ]
+  },
+  {
+    "id": "outline-central-african-republic",
+    "state": "question",
+    "bytes": 6858,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 122313.92
+      }
+    ]
+  },
+  {
+    "id": "outline-central-african-republic",
+    "state": "answer",
+    "bytes": 22536,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 78009.34
+      }
+    ]
+  },
+  {
+    "id": "outline-chad",
+    "state": "question",
+    "bytes": 3101,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 83605.18
+      }
+    ]
+  },
+  {
+    "id": "outline-chad",
+    "state": "answer",
+    "bytes": 13501,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 53321.68
+      }
+    ]
+  },
+  {
+    "id": "outline-montenegro",
+    "state": "question",
+    "bytes": 3723,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 80157.7
+      }
+    ]
+  },
+  {
+    "id": "outline-montenegro",
+    "state": "answer",
+    "bytes": 11153,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 51122.95
+      }
+    ]
+  },
+  {
+    "id": "outline-czechia",
+    "state": "question",
+    "bytes": 6551,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 136349.25
+      }
+    ]
+  },
+  {
+    "id": "outline-czechia",
+    "state": "answer",
+    "bytes": 16019,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 86960.8
+      }
+    ]
+  },
+  {
+    "id": "outline-chile",
+    "state": "question",
+    "bytes": 26842,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 8655.5
+      }
+    ]
+  },
+  {
+    "id": "outline-chile",
+    "state": "answer",
+    "bytes": 30870,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 5520.3
+      }
+    ]
+  },
+  {
+    "id": "outline-switzerland",
+    "state": "question",
+    "bytes": 6261,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 143547.34
+      }
+    ]
+  },
+  {
+    "id": "outline-switzerland",
+    "state": "answer",
+    "bytes": 16315,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 91551.56
+      }
+    ]
+  },
+  {
+    "id": "outline-sweden",
+    "state": "question",
+    "bytes": 12593,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 40581.66
+      }
+    ]
+  },
+  {
+    "id": "outline-sweden",
+    "state": "answer",
+    "bytes": 56430,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 25882.16
+      }
+    ]
+  },
+  {
+    "id": "outline-sri-lanka",
+    "state": "question",
+    "bytes": 5220,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 73240.34
+      }
+    ]
+  },
+  {
+    "id": "outline-sri-lanka",
+    "state": "answer",
+    "bytes": 6513,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 46711.21
+      }
+    ]
+  },
+  {
+    "id": "outline-ecuador",
+    "state": "question",
+    "bytes": 7760,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 44160.56
+      },
+      {
+        "panel": 1,
+        "landAreaPixels": 7476.32
+      }
+    ]
+  },
+  {
+    "id": "outline-ecuador",
+    "state": "answer",
+    "bytes": 12529,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 44160.56
+      },
+      {
+        "panel": 1,
+        "landAreaPixels": 7476.32
+      }
+    ]
+  },
+  {
+    "id": "outline-equatorial-guinea",
+    "state": "question",
+    "bytes": 3833,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 67420.8
+      },
+      {
+        "panel": 1,
+        "landAreaPixels": 11758.98
+      },
+      {
+        "panel": 2,
+        "landAreaPixels": 597.26
+      }
+    ]
+  },
+  {
+    "id": "outline-equatorial-guinea",
+    "state": "answer",
+    "bytes": 8465,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 67420.8
+      },
+      {
+        "panel": 1,
+        "landAreaPixels": 11758.98
+      },
+      {
+        "panel": 2,
+        "landAreaPixels": 597.26
+      }
+    ]
+  },
+  {
+    "id": "outline-eritrea",
+    "state": "question",
+    "bytes": 5727,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 64872.11
+      }
+    ]
+  },
+  {
+    "id": "outline-eritrea",
+    "state": "answer",
+    "bytes": 15258,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 41374.11
+      }
+    ]
+  },
+  {
+    "id": "outline-eswatini",
+    "state": "question",
+    "bytes": 1356,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 115308.58
+      }
+    ]
+  },
+  {
+    "id": "outline-eswatini",
+    "state": "answer",
+    "bytes": 3379,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 73541.53
+      }
+    ]
+  },
+  {
+    "id": "outline-estonia",
+    "state": "question",
+    "bytes": 8632,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 138020.37
+      }
+    ]
+  },
+  {
+    "id": "outline-estonia",
+    "state": "answer",
+    "bytes": 16074,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 88026.58
+      }
+    ]
+  },
+  {
+    "id": "outline-ethiopia",
+    "state": "question",
+    "bytes": 3776,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 144289.83
+      }
+    ]
+  },
+  {
+    "id": "outline-ethiopia",
+    "state": "answer",
+    "bytes": 20476,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 92025.12
+      }
+    ]
+  },
+  {
+    "id": "outline-south-africa",
+    "state": "question",
+    "bytes": 3965,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 31347.96
+      }
+    ]
+  },
+  {
+    "id": "outline-south-africa",
+    "state": "answer",
+    "bytes": 12172,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 19993.09
+      }
+    ]
+  },
+  {
+    "id": "outline-south-sudan",
+    "state": "question",
+    "bytes": 5103,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 138719.31
+      }
+    ]
+  },
+  {
+    "id": "outline-south-sudan",
+    "state": "answer",
+    "bytes": 18359,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 88472.33
+      }
+    ]
+  },
+  {
+    "id": "outline-jamaica",
+    "state": "question",
+    "bytes": 2960,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 84906.83
+      }
+    ]
+  },
+  {
+    "id": "outline-jamaica",
+    "state": "answer",
+    "bytes": 3193,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 54151.81
+      }
+    ]
+  },
+  {
+    "id": "outline-japan",
+    "state": "question",
+    "bytes": 17652,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 14321.2
+      }
+    ]
+  },
+  {
+    "id": "outline-japan",
+    "state": "answer",
+    "bytes": 44845,
+    "panels": [
+      {
+        "panel": 0,
+        "landAreaPixels": 9133.77
+      }
+    ]
+  }
+]

@@ -5,6 +5,7 @@ import { Icon } from '../components/Icon';
 import { LearnHome, CatalogPage, DetailPage } from '../features/learn/LearnPages';
 import { BorderCatalogPage, BorderDetailPage } from '../features/learn/BorderPages';
 import { CapitalCatalogPage, CapitalDetailPage } from '../features/learn/CapitalPages';
+import { GeographyCatalogPage, GeographyDetailPage } from '../features/learn/GeographyPages';
 import { TravelCatalogPage, TravelDetailPage } from '../features/learn/TravelPages';
 import { UrbanPlaceCatalogPage, UrbanPlaceDetailPage } from '../features/learn/UrbanPlacePages';
 import { TraditionalDishCatalogPage, TraditionalDishDetailPage } from '../features/learn/TraditionalDishPages';
@@ -46,10 +47,12 @@ function AppShell() {
       <Route path="/learn/architecture" element={<TravelCatalogPage kind="architecture"/>}/>
       <Route path="/learn/borders" element={<BorderCatalogPage/>}/>
       <Route path="/learn/capitals" element={<CapitalCatalogPage/>}/>
+      <Route path="/learn/outlines" element={<GeographyCatalogPage kind="outline"/>}/>
       <Route path="/learn/urban-places" element={<UrbanPlaceCatalogPage/>}/>
       <Route path="/learn/:category" element={<CatalogPage/>}/>
       <Route path="/border/:countryId" element={<BorderDetailPage/>}/>
       <Route path="/capital/:id" element={<CapitalDetailPage/>}/>
+      <Route path="/geography/:id" element={<GeographyDetailPage/>}/>
       <Route path="/urban-place/:id" element={<UrbanPlaceDetailPage/>}/>
       <Route path="/item/:id" element={<DetailPage/>}/>
       <Route path="/travel/:id" element={<TravelDetailPage/>}/>

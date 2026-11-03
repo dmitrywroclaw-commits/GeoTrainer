@@ -1,5 +1,8 @@
 # GeoTrainer — Concept
 
+> Full outlines (2026-11-04): `11_ALL_COUNTRY_OUTLINES.md` expands the accepted outline pilot to all 195 base-registry countries and 390 generated questions, retaining the client-only architecture.
+
+
 > Scope update (2026-09-25): a reviewed pilot for land-border geography is documented in `08_BORDERS.md`. It adds a Borders study catalog and quiz topic while retaining the client-only architecture and local progress model. The 95-question source list is a candidate pool; only reviewed, non-disputed questions are published.
 
 ## 1. Product summary

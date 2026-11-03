@@ -1,0 +1,2545 @@
+{
+  "countryCount": 195,
+  "records": [
+    {
+      "countryId": "mexico",
+      "iso3": "MEX",
+      "featureCodes": [
+        "MEX"
+      ],
+      "panels": 1,
+      "parts": 51,
+      "geometryArea": 174.20202034,
+      "shapeAspect": 1.5971,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "india",
+      "iso3": "IND",
+      "featureCodes": [
+        "IND"
+      ],
+      "panels": 1,
+      "parts": 35,
+      "geometryArea": 278.57442716,
+      "shapeAspect": 0.948,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "brazil",
+      "iso3": "BRA",
+      "featureCodes": [
+        "BRA"
+      ],
+      "panels": 1,
+      "parts": 43,
+      "geometryArea": 707.10298617,
+      "shapeAspect": 1.1216,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "canada",
+      "iso3": "CAN",
+      "featureCodes": [
+        "CAN"
+      ],
+      "panels": 1,
+      "parts": 412,
+      "geometryArea": 1691.88070662,
+      "shapeAspect": 0.9882,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "south-africa",
+      "iso3": "ZAF",
+      "featureCodes": [
+        "ZAF"
+      ],
+      "panels": 1,
+      "parts": 3,
+      "geometryArea": 113.10134202,
+      "shapeAspect": 0.7132,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "united-states",
+      "iso3": "USA",
+      "featureCodes": [
+        "USA"
+      ],
+      "panels": 3,
+      "parts": 344,
+      "geometryArea": 1116.35013672,
+      "shapeAspect": 1.6189,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "australia",
+      "iso3": "AUS",
+      "featureCodes": [
+        "AUS"
+      ],
+      "panels": 1,
+      "parts": 90,
+      "geometryArea": 695.87862892,
+      "shapeAspect": 1.0814,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "japan",
+      "iso3": "JPN",
+      "featureCodes": [
+        "JPN"
+      ],
+      "panels": 1,
+      "parts": 109,
+      "geometryArea": 38.17138196,
+      "shapeAspect": 1.1955,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "zambia",
+      "iso3": "ZMB",
+      "featureCodes": [
+        "ZMB"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 62.81560235,
+      "shapeAspect": 1.1533,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "zimbabwe",
+      "iso3": "ZWE",
+      "featureCodes": [
+        "ZWE"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 33.41858309,
+      "shapeAspect": 1.0906,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "albania",
+      "iso3": "ALB",
+      "featureCodes": [
+        "ALB"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 3.0393952,
+      "shapeAspect": 0.4403,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "angola",
+      "iso3": "AGO",
+      "featureCodes": [
+        "AGO"
+      ],
+      "panels": 1,
+      "parts": 3,
+      "geometryArea": 103.58546598,
+      "shapeAspect": 0.8912,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "azerbaijan",
+      "iso3": "AZE",
+      "featureCodes": [
+        "AZE"
+      ],
+      "panels": 1,
+      "parts": 6,
+      "geometryArea": 9.13545031,
+      "shapeAspect": 1.2788,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "argentina",
+      "iso3": "ARG",
+      "featureCodes": [
+        "ARG"
+      ],
+      "panels": 1,
+      "parts": 8,
+      "geometryArea": 278.50613562,
+      "shapeAspect": 0.469,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "austria",
+      "iso3": "AUT",
+      "featureCodes": [
+        "AUT"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 10.0437087,
+      "shapeAspect": 1.9512,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "botswana",
+      "iso3": "BWA",
+      "featureCodes": [
+        "BWA"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 50.7393491,
+      "shapeAspect": 0.9515,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "croatia",
+      "iso3": "HRV",
+      "featureCodes": [
+        "HRV"
+      ],
+      "panels": 1,
+      "parts": 25,
+      "geometryArea": 6.28746587,
+      "shapeAspect": 1.0202,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "yemen",
+      "iso3": "YEM",
+      "featureCodes": [
+        "YEM"
+      ],
+      "panels": 2,
+      "parts": 9,
+      "geometryArea": 38.24670171,
+      "shapeAspect": 1.6785,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "bhutan",
+      "iso3": "BTN",
+      "featureCodes": [
+        "BTN"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 3.68912226,
+      "shapeAspect": 1.7918,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "barbados",
+      "iso3": "BRB",
+      "featureCodes": [
+        "BRB"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 0.03703978,
+      "shapeAspect": 0.7543,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "south-korea",
+      "iso3": "KOR",
+      "featureCodes": [
+        "KOR"
+      ],
+      "panels": 1,
+      "parts": 53,
+      "geometryArea": 9.89804807,
+      "shapeAspect": 1.0819,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "antigua-and-barbuda",
+      "iso3": "ATG",
+      "featureCodes": [
+        "ATG"
+      ],
+      "panels": 1,
+      "parts": 3,
+      "geometryArea": 0.03839971,
+      "shapeAspect": 0.8166,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "tanzania",
+      "iso3": "TZA",
+      "featureCodes": [
+        "TZA"
+      ],
+      "panels": 1,
+      "parts": 7,
+      "geometryArea": 77.01865059,
+      "shapeAspect": 1.0293,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "russia",
+      "iso3": "RUS",
+      "featureCodes": [
+        "RUS"
+      ],
+      "panels": 1,
+      "parts": 212,
+      "geometryArea": 2929.00098491,
+      "shapeAspect": 2.0094,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "namibia",
+      "iso3": "NAM",
+      "featureCodes": [
+        "NAM"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 72.12914875,
+      "shapeAspect": 1.0384,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "bosnia-and-herzegovina",
+      "iso3": "BIH",
+      "featureCodes": [
+        "BIH"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 5.83247029,
+      "shapeAspect": 1.0315,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "solomon-islands",
+      "iso3": "SLB",
+      "featureCodes": [
+        "SLB"
+      ],
+      "panels": 1,
+      "parts": 48,
+      "geometryArea": 2.23640259,
+      "shapeAspect": 2.3085,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "brunei",
+      "iso3": "BRN",
+      "featureCodes": [
+        "BRN"
+      ],
+      "panels": 1,
+      "parts": 2,
+      "geometryArea": 0.46583641,
+      "shapeAspect": 1.3048,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "iceland",
+      "iso3": "ISL",
+      "featureCodes": [
+        "ISL"
+      ],
+      "panels": 1,
+      "parts": 5,
+      "geometryArea": 19.46723067,
+      "shapeAspect": 1.4737,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "united-kingdom",
+      "iso3": "GBR",
+      "featureCodes": [
+        "GBR"
+      ],
+      "panels": 1,
+      "parts": 56,
+      "geometryArea": 33.54573171,
+      "shapeAspect": 0.5398,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "spain",
+      "iso3": "ESP",
+      "featureCodes": [
+        "ESP"
+      ],
+      "panels": 3,
+      "parts": 23,
+      "geometryArea": 53.68192798,
+      "shapeAspect": 1.1313,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "myanmar",
+      "iso3": "MMR",
+      "featureCodes": [
+        "MMR"
+      ],
+      "panels": 1,
+      "parts": 39,
+      "geometryArea": 57.78453176,
+      "shapeAspect": 0.4534,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "burundi",
+      "iso3": "BDI",
+      "featureCodes": [
+        "BDI"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 2.20061339,
+      "shapeAspect": 0.8535,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "cambodia",
+      "iso3": "KHM",
+      "featureCodes": [
+        "KHM"
+      ],
+      "panels": 1,
+      "parts": 6,
+      "geometryArea": 15.07169443,
+      "shapeAspect": 1.2055,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "belarus",
+      "iso3": "BLR",
+      "featureCodes": [
+        "BLR"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 28.12239108,
+      "shapeAspect": 1.1493,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "cameroon",
+      "iso3": "CMR",
+      "featureCodes": [
+        "CMR"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 37.93757045,
+      "shapeAspect": 0.6685,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "cabo-verde",
+      "iso3": "CPV",
+      "featureCodes": [
+        "CPV"
+      ],
+      "panels": 1,
+      "parts": 11,
+      "geometryArea": 0.33147566,
+      "shapeAspect": 1.0823,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "central-african-republic",
+      "iso3": "CAF",
+      "featureCodes": [
+        "CAF"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 50.54770201,
+      "shapeAspect": 1.4795,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "sri-lanka",
+      "iso3": "LKA",
+      "featureCodes": [
+        "LKA"
+      ],
+      "panels": 1,
+      "parts": 5,
+      "geometryArea": 5.43287577,
+      "shapeAspect": 0.5667,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "chad",
+      "iso3": "TCD",
+      "featureCodes": [
+        "TCD"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 106.80756284,
+      "shapeAspect": 0.6351,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "chile",
+      "iso3": "CHL",
+      "featureCodes": [
+        "CHL"
+      ],
+      "panels": 1,
+      "parts": 157,
+      "geometryArea": 76.73176097,
+      "shapeAspect": 0.1939,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "bangladesh",
+      "iso3": "BGD",
+      "featureCodes": [
+        "BGD"
+      ],
+      "panels": 1,
+      "parts": 22,
+      "geometryArea": 12.13624688,
+      "shapeAspect": 0.7191,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "poland",
+      "iso3": "POL",
+      "featureCodes": [
+        "POL"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 41.14177238,
+      "shapeAspect": 1.0574,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "belize",
+      "iso3": "BLZ",
+      "featureCodes": [
+        "BLZ"
+      ],
+      "panels": 1,
+      "parts": 10,
+      "geometryArea": 1.89441413,
+      "shapeAspect": 0.5318,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "algeria",
+      "iso3": "DZA",
+      "featureCodes": [
+        "DZA"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 212.69094019,
+      "shapeAspect": 1.0061,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "china",
+      "iso3": "CHN",
+      "featureCodes": [
+        "CHN"
+      ],
+      "panels": 1,
+      "parts": 70,
+      "geometryArea": 951.17808407,
+      "shapeAspect": 1.3311,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "comoros",
+      "iso3": "COM",
+      "featureCodes": [
+        "COM"
+      ],
+      "panels": 1,
+      "parts": 3,
+      "geometryArea": 0.1387521,
+      "shapeAspect": 1.2636,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "colombia",
+      "iso3": "COL",
+      "featureCodes": [
+        "COL"
+      ],
+      "panels": 1,
+      "parts": 11,
+      "geometryArea": 92.57650338,
+      "shapeAspect": 0.8307,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "democratic-republic-of-the-congo",
+      "iso3": "COD",
+      "featureCodes": [
+        "COD"
+      ],
+      "panels": 1,
+      "parts": 2,
+      "geometryArea": 189.6789068,
+      "shapeAspect": 1.01,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "costa-rica",
+      "iso3": "CRI",
+      "featureCodes": [
+        "CRI"
+      ],
+      "panels": 1,
+      "parts": 4,
+      "geometryArea": 4.2178935,
+      "shapeAspect": 0.7913,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "cuba",
+      "iso3": "CUB",
+      "featureCodes": [
+        "CUB"
+      ],
+      "panels": 1,
+      "parts": 41,
+      "geometryArea": 9.59075504,
+      "shapeAspect": 2.9266,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "armenia",
+      "iso3": "ARM",
+      "featureCodes": [
+        "ARM"
+      ],
+      "panels": 1,
+      "parts": 2,
+      "geometryArea": 3.133778,
+      "shapeAspect": 0.9984,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "belgium",
+      "iso3": "BEL",
+      "featureCodes": [
+        "BEL"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 3.89735065,
+      "shapeAspect": 1.2248,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "bulgaria",
+      "iso3": "BGR",
+      "featureCodes": [
+        "BGR"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 12.40285127,
+      "shapeAspect": 1.5373,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "bahamas",
+      "iso3": "BHS",
+      "featureCodes": [
+        "BHS"
+      ],
+      "panels": 1,
+      "parts": 44,
+      "geometryArea": 1.12075934,
+      "shapeAspect": 1.0406,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "congo",
+      "iso3": "COG",
+      "featureCodes": [
+        "COG"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 28.04454461,
+      "shapeAspect": 0.8625,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "bolivia",
+      "iso3": "BOL",
+      "featureCodes": [
+        "BOL"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 92.20358734,
+      "shapeAspect": 0.886,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "bahrain",
+      "iso3": "BHR",
+      "featureCodes": [
+        "BHR"
+      ],
+      "panels": 1,
+      "parts": 7,
+      "geometryArea": 0.0620566,
+      "shapeAspect": 0.5584,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "cyprus",
+      "iso3": "CYP",
+      "featureCodes": [
+        "CYP",
+        "CYN",
+        "CNM",
+        "ESB",
+        "WSB"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 0.91702249,
+      "shapeAspect": 1.6895,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "czechia",
+      "iso3": "CZE",
+      "featureCodes": [
+        "CZE"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 9.82266632,
+      "shapeAspect": 1.7583,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "benin",
+      "iso3": "BEN",
+      "featureCodes": [
+        "BEN"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 9.56811241,
+      "shapeAspect": 0.491,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "estonia",
+      "iso3": "EST",
+      "featureCodes": [
+        "EST"
+      ],
+      "panels": 1,
+      "parts": 8,
+      "geometryArea": 7.08958319,
+      "shapeAspect": 1.5365,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "finland",
+      "iso3": "FIN",
+      "featureCodes": [
+        "FIN"
+      ],
+      "panels": 1,
+      "parts": 42,
+      "geometryArea": 62.22780458,
+      "shapeAspect": 0.4517,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "france",
+      "iso3": "FRA",
+      "featureCodes": [
+        "FRA"
+      ],
+      "panels": 1,
+      "parts": 10,
+      "geometryArea": 64.31210536,
+      "shapeAspect": 1.0455,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "greece",
+      "iso3": "GRC",
+      "featureCodes": [
+        "GRC"
+      ],
+      "panels": 1,
+      "parts": 74,
+      "geometryArea": 13.67420075,
+      "shapeAspect": 0.9749,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "ireland",
+      "iso3": "IRL",
+      "featureCodes": [
+        "IRL"
+      ],
+      "panels": 1,
+      "parts": 7,
+      "geometryArea": 9.33404942,
+      "shapeAspect": 0.6783,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "italy",
+      "iso3": "ITA",
+      "featureCodes": [
+        "ITA"
+      ],
+      "panels": 1,
+      "parts": 29,
+      "geometryArea": 33.17217137,
+      "shapeAspect": 0.7721,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "latvia",
+      "iso3": "LVA",
+      "featureCodes": [
+        "LVA"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 9.50486491,
+      "shapeAspect": 1.6451,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "gabon",
+      "iso3": "GAB",
+      "featureCodes": [
+        "GAB"
+      ],
+      "panels": 1,
+      "parts": 3,
+      "geometryArea": 21.12697698,
+      "shapeAspect": 0.9271,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "georgia",
+      "iso3": "GEO",
+      "featureCodes": [
+        "GEO"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 7.58022419,
+      "shapeAspect": 1.9596,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "gambia",
+      "iso3": "GMB",
+      "featureCodes": [
+        "GMB"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 0.87654185,
+      "shapeAspect": 3.8789,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "ghana",
+      "iso3": "GHA",
+      "featureCodes": [
+        "GHA"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 19.58114259,
+      "shapeAspect": 0.6859,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "grenada",
+      "iso3": "GRD",
+      "featureCodes": [
+        "GRD"
+      ],
+      "panels": 1,
+      "parts": 2,
+      "geometryArea": 0.02884143,
+      "shapeAspect": 0.6841,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "guinea",
+      "iso3": "GIN",
+      "featureCodes": [
+        "GIN"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 20.17638845,
+      "shapeAspect": 1.3327,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "dominican-republic",
+      "iso3": "DOM",
+      "featureCodes": [
+        "DOM"
+      ],
+      "panels": 1,
+      "parts": 3,
+      "geometryArea": 4.15376975,
+      "shapeAspect": 1.4573,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "ecuador",
+      "iso3": "ECU",
+      "featureCodes": [
+        "ECU"
+      ],
+      "panels": 2,
+      "parts": 16,
+      "geometryArea": 20.72962149,
+      "shapeAspect": 2.5132,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "el-salvador",
+      "iso3": "SLV",
+      "featureCodes": [
+        "SLV"
+      ],
+      "panels": 1,
+      "parts": 3,
+      "geometryArea": 1.71649156,
+      "shapeAspect": 1.8276,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "equatorial-guinea",
+      "iso3": "GNQ",
+      "featureCodes": [
+        "GNQ"
+      ],
+      "panels": 3,
+      "parts": 3,
+      "geometryArea": 2.16788263,
+      "shapeAspect": 1.0905,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "ethiopia",
+      "iso3": "ETH",
+      "featureCodes": [
+        "ETH"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 92.70778299,
+      "shapeAspect": 1.2895,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "eritrea",
+      "iso3": "ERI",
+      "featureCodes": [
+        "ERI"
+      ],
+      "panels": 1,
+      "parts": 3,
+      "geometryArea": 10.31616207,
+      "shapeAspect": 1.1455,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "madagascar",
+      "iso3": "MDG",
+      "featureCodes": [
+        "MDG"
+      ],
+      "panels": 1,
+      "parts": 3,
+      "geometryArea": 51.06968317,
+      "shapeAspect": 0.5049,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "malaysia",
+      "iso3": "MYS",
+      "featureCodes": [
+        "MYS"
+      ],
+      "panels": 1,
+      "parts": 17,
+      "geometryArea": 26.7031722,
+      "shapeAspect": 3.0107,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "maldives",
+      "iso3": "MDV",
+      "featureCodes": [
+        "MDV"
+      ],
+      "panels": 4,
+      "parts": 176,
+      "geometryArea": 0.00886029,
+      "shapeAspect": 0.1368,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "mauritius",
+      "iso3": "MUS",
+      "featureCodes": [
+        "MUS"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 0.16439307,
+      "shapeAspect": 0.8586,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "moldova",
+      "iso3": "MDA",
+      "featureCodes": [
+        "MDA"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 3.94190068,
+      "shapeAspect": 0.7928,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "montenegro",
+      "iso3": "MNE",
+      "featureCodes": [
+        "MNE"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 1.51025391,
+      "shapeAspect": 0.8329,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "morocco",
+      "iso3": "MAR",
+      "featureCodes": [
+        "MAR"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 55.35550166,
+      "shapeAspect": 0.9666,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "mozambique",
+      "iso3": "MOZ",
+      "featureCodes": [
+        "MOZ"
+      ],
+      "panels": 1,
+      "parts": 4,
+      "geometryArea": 67.15973706,
+      "shapeAspect": 0.6146,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "lebanon",
+      "iso3": "LBN",
+      "featureCodes": [
+        "LBN"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 0.9753672,
+      "shapeAspect": 0.7654,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "liberia",
+      "iso3": "LBR",
+      "featureCodes": [
+        "LBR"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 7.79118017,
+      "shapeAspect": 0.964,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "liechtenstein",
+      "iso3": "LIE",
+      "featureCodes": [
+        "LIE"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 0.01627435,
+      "shapeAspect": 0.4519,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "luxembourg",
+      "iso3": "LUX",
+      "featureCodes": [
+        "LUX"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 0.32553888,
+      "shapeAspect": 0.6929,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "nigeria",
+      "iso3": "NGA",
+      "featureCodes": [
+        "NGA"
+      ],
+      "panels": 1,
+      "parts": 3,
+      "geometryArea": 74.80306638,
+      "shapeAspect": 1.2332,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "nepal",
+      "iso3": "NPL",
+      "featureCodes": [
+        "NPL"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 13.52784621,
+      "shapeAspect": 1.758,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "new-zealand",
+      "iso3": "NZL",
+      "featureCodes": [
+        "NZL"
+      ],
+      "panels": 1,
+      "parts": 17,
+      "geometryArea": 28.95354711,
+      "shapeAspect": 0.6583,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "niger",
+      "iso3": "NER",
+      "featureCodes": [
+        "NER"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 100.57330719,
+      "shapeAspect": 1.2753,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "pakistan",
+      "iso3": "PAK",
+      "featureCodes": [
+        "PAK"
+      ],
+      "panels": 1,
+      "parts": 2,
+      "geometryArea": 81.71043681,
+      "shapeAspect": 1.0464,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "papua-new-guinea",
+      "iso3": "PNG",
+      "featureCodes": [
+        "PNG"
+      ],
+      "panels": 1,
+      "parts": 58,
+      "geometryArea": 38.0436664,
+      "shapeAspect": 1.4598,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "portugal",
+      "iso3": "PRT",
+      "featureCodes": [
+        "PRT"
+      ],
+      "panels": 3,
+      "parts": 17,
+      "geometryArea": 9.58526339,
+      "shapeAspect": 1.6715,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "qatar",
+      "iso3": "QAT",
+      "featureCodes": [
+        "QAT"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 0.99963236,
+      "shapeAspect": 0.4888,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "romania",
+      "iso3": "ROU",
+      "featureCodes": [
+        "ROU"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 27.38718144,
+      "shapeAspect": 1.4214,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "rwanda",
+      "iso3": "RWA",
+      "featureCodes": [
+        "RWA"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 2.05706148,
+      "shapeAspect": 1.1477,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "samoa",
+      "iso3": "WSM",
+      "featureCodes": [
+        "WSM"
+      ],
+      "panels": 1,
+      "parts": 2,
+      "geometryArea": 0.23237779,
+      "shapeAspect": 2.214,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "san-marino",
+      "iso3": "SMR",
+      "featureCodes": [
+        "SMR"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 0.00676103,
+      "shapeAspect": 0.8494,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "switzerland",
+      "iso3": "CHE",
+      "featureCodes": [
+        "CHE"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 4.88262353,
+      "shapeAspect": 1.5592,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "senegal",
+      "iso3": "SEN",
+      "featureCodes": [
+        "SEN"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 16.44566838,
+      "shapeAspect": 1.3594,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "seychelles",
+      "iso3": "SYC",
+      "featureCodes": [
+        "SYC"
+      ],
+      "panels": 4,
+      "parts": 26,
+      "geometryArea": 0.03564468,
+      "shapeAspect": 1.6782,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "singapore",
+      "iso3": "SGP",
+      "featureCodes": [
+        "SGP"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 0.04148501,
+      "shapeAspect": 1.969,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "sierra-leone",
+      "iso3": "SLE",
+      "featureCodes": [
+        "SLE"
+      ],
+      "panels": 1,
+      "parts": 2,
+      "geometryArea": 5.88208233,
+      "shapeAspect": 0.9706,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "slovakia",
+      "iso3": "SVK",
+      "featureCodes": [
+        "SVK"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 5.92051708,
+      "shapeAspect": 2.0308,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "slovenia",
+      "iso3": "SVN",
+      "featureCodes": [
+        "SVN"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 2.36576664,
+      "shapeAspect": 1.5153,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "serbia",
+      "iso3": "SRB",
+      "featureCodes": [
+        "SRB"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 8.74419813,
+      "shapeAspect": 0.7534,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "somalia",
+      "iso3": "SOM",
+      "featureCodes": [
+        "SOM",
+        "SOL"
+      ],
+      "panels": 1,
+      "parts": 2,
+      "geometryArea": 52.31180918,
+      "shapeAspect": 0.7606,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "sudan",
+      "iso3": "SDN",
+      "featureCodes": [
+        "SDN"
+      ],
+      "panels": 1,
+      "parts": 2,
+      "geometryArea": 156.92490122,
+      "shapeAspect": 1.195,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "suriname",
+      "iso3": "SUR",
+      "featureCodes": [
+        "SUR"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 11.82168919,
+      "shapeAspect": 0.9746,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "sweden",
+      "iso3": "SWE",
+      "featureCodes": [
+        "SWE"
+      ],
+      "panels": 1,
+      "parts": 41,
+      "geometryArea": 78.5608804,
+      "shapeAspect": 0.4448,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "thailand",
+      "iso3": "THA",
+      "featureCodes": [
+        "THA"
+      ],
+      "panels": 1,
+      "parts": 20,
+      "geometryArea": 43.32390061,
+      "shapeAspect": 0.5458,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "timor-leste",
+      "iso3": "TLS",
+      "featureCodes": [
+        "TLS"
+      ],
+      "panels": 1,
+      "parts": 3,
+      "geometryArea": 1.23958672,
+      "shapeAspect": 2.3748,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "togo",
+      "iso3": "TGO",
+      "featureCodes": [
+        "TGO"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 4.67113889,
+      "shapeAspect": 0.3827,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "trinidad-and-tobago",
+      "iso3": "TTO",
+      "featureCodes": [
+        "TTO"
+      ],
+      "panels": 1,
+      "parts": 2,
+      "geometryArea": 0.42305402,
+      "shapeAspect": 1.0559,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "tunisia",
+      "iso3": "TUN",
+      "featureCodes": [
+        "TUN"
+      ],
+      "panels": 1,
+      "parts": 4,
+      "geometryArea": 15.31074999,
+      "shapeAspect": 0.477,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "turkiye",
+      "iso3": "TUR",
+      "featureCodes": [
+        "TUR"
+      ],
+      "panels": 1,
+      "parts": 6,
+      "geometryArea": 81.20944756,
+      "shapeAspect": 2.3708,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "turkmenistan",
+      "iso3": "TKM",
+      "featureCodes": [
+        "TKM"
+      ],
+      "panels": 1,
+      "parts": 3,
+      "geometryArea": 49.05929373,
+      "shapeAspect": 1.444,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "uganda",
+      "iso3": "UGA",
+      "featureCodes": [
+        "UGA"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 19.65877885,
+      "shapeAspect": 0.9581,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "ukraine",
+      "iso3": "UKR",
+      "featureCodes": [
+        "UKR"
+      ],
+      "panels": 1,
+      "parts": 4,
+      "geometryArea": 70.54123545,
+      "shapeAspect": 1.6597,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "united-arab-emirates",
+      "iso3": "ARE",
+      "featureCodes": [
+        "ARE"
+      ],
+      "panels": 1,
+      "parts": 10,
+      "geometryArea": 6.30355941,
+      "shapeAspect": 1.2699,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "uruguay",
+      "iso3": "URY",
+      "featureCodes": [
+        "URY"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 17.07596891,
+      "shapeAspect": 0.9212,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "uzbekistan",
+      "iso3": "UZB",
+      "featureCodes": [
+        "UZB"
+      ],
+      "panels": 1,
+      "parts": 3,
+      "geometryArea": 48.50658359,
+      "shapeAspect": 1.539,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "vietnam",
+      "iso3": "VNM",
+      "featureCodes": [
+        "VNM"
+      ],
+      "panels": 1,
+      "parts": 25,
+      "geometryArea": 27.94506051,
+      "shapeAspect": 0.4777,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "denmark",
+      "iso3": "DNK",
+      "featureCodes": [
+        "DNK"
+      ],
+      "panels": 1,
+      "parts": 15,
+      "geometryArea": 6.14107388,
+      "shapeAspect": 1.2349,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "germany",
+      "iso3": "DEU",
+      "featureCodes": [
+        "DEU"
+      ],
+      "panels": 1,
+      "parts": 22,
+      "geometryArea": 45.93002642,
+      "shapeAspect": 0.7377,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "hungary",
+      "iso3": "HUN",
+      "featureCodes": [
+        "HUN"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 11.05700518,
+      "shapeAspect": 1.6312,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "indonesia",
+      "iso3": "IDN",
+      "featureCodes": [
+        "IDN"
+      ],
+      "panels": 1,
+      "parts": 264,
+      "geometryArea": 153.07860737,
+      "shapeAspect": 2.7281,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "israel",
+      "iso3": "ISR",
+      "featureCodes": [
+        "ISR"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 2.09731236,
+      "shapeAspect": 0.3571,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "jordan",
+      "iso3": "JOR",
+      "featureCodes": [
+        "JOR"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 8.41507383,
+      "shapeAspect": 0.8875,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "norway",
+      "iso3": "NOR",
+      "featureCodes": [
+        "NOR"
+      ],
+      "panels": 1,
+      "parts": 96,
+      "geometryArea": 59.69026713,
+      "shapeAspect": 0.8614,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "lithuania",
+      "iso3": "LTU",
+      "featureCodes": [
+        "LTU"
+      ],
+      "panels": 1,
+      "parts": 2,
+      "geometryArea": 9.19039734,
+      "shapeAspect": 1.3133,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "netherlands-kingdom-of-the",
+      "iso3": "NLD",
+      "featureCodes": [
+        "NLD"
+      ],
+      "panels": 1,
+      "parts": 9,
+      "geometryArea": 4.88454058,
+      "shapeAspect": 0.8403,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "burkina-faso",
+      "iso3": "BFA",
+      "featureCodes": [
+        "BFA"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 22.66904592,
+      "shapeAspect": 1.3595,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "cote-divoire",
+      "iso3": "CIV",
+      "featureCodes": [
+        "CIV"
+      ],
+      "panels": 1,
+      "parts": 2,
+      "geometryArea": 26.28711798,
+      "shapeAspect": 0.9494,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "jamaica",
+      "iso3": "JAM",
+      "featureCodes": [
+        "JAM"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 0.942062,
+      "shapeAspect": 2.5287,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "malta",
+      "iso3": "MLT",
+      "featureCodes": [
+        "MLT"
+      ],
+      "panels": 1,
+      "parts": 2,
+      "geometryArea": 0.03252191,
+      "shapeAspect": 1.1318,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "mali",
+      "iso3": "MLI",
+      "featureCodes": [
+        "MLI"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 106.68241151,
+      "shapeAspect": 1.0589,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "palau",
+      "iso3": "PLW",
+      "featureCodes": [
+        "PLW"
+      ],
+      "panels": 4,
+      "parts": 9,
+      "geometryArea": 0.04028059,
+      "shapeAspect": 0.6954,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "panama",
+      "iso3": "PAN",
+      "featureCodes": [
+        "PAN"
+      ],
+      "panels": 1,
+      "parts": 15,
+      "geometryArea": 6.12087139,
+      "shapeAspect": 2.4041,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "micronesia",
+      "iso3": "FSM",
+      "featureCodes": [
+        "FSM"
+      ],
+      "panels": 4,
+      "parts": 20,
+      "geometryArea": 0.05188215,
+      "shapeAspect": 2.8083,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "mauritania",
+      "iso3": "MRT",
+      "featureCodes": [
+        "MRT"
+      ],
+      "panels": 1,
+      "parts": 5,
+      "geometryArea": 89.72189548,
+      "shapeAspect": 0.9118,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "sao-tome-and-principe",
+      "iso3": "STP",
+      "featureCodes": [
+        "STP"
+      ],
+      "panels": 1,
+      "parts": 2,
+      "geometryArea": 0.08426509,
+      "shapeAspect": 0.5973,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "lesotho",
+      "iso3": "LSO",
+      "featureCodes": [
+        "LSO"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 2.8033404,
+      "shapeAspect": 1.0133,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "kuwait",
+      "iso3": "KWT",
+      "featureCodes": [
+        "KWT"
+      ],
+      "panels": 1,
+      "parts": 4,
+      "geometryArea": 1.62327717,
+      "shapeAspect": 1.059,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "egypt",
+      "iso3": "EGY",
+      "featureCodes": [
+        "EGY"
+      ],
+      "panels": 1,
+      "parts": 8,
+      "geometryArea": 90.73018881,
+      "shapeAspect": 1.1278,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "kazakhstan",
+      "iso3": "KAZ",
+      "featureCodes": [
+        "KAZ"
+      ],
+      "panels": 1,
+      "parts": 6,
+      "geometryArea": 328.61275597,
+      "shapeAspect": 1.8401,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "kenya",
+      "iso3": "KEN",
+      "featureCodes": [
+        "KEN"
+      ],
+      "panels": 1,
+      "parts": 2,
+      "geometryArea": 47.61962889,
+      "shapeAspect": 0.8235,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "fiji",
+      "iso3": "FJI",
+      "featureCodes": [
+        "FJI"
+      ],
+      "panels": 1,
+      "parts": 41,
+      "geometryArea": 1.61025,
+      "shapeAspect": 0.7446,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "north-macedonia",
+      "iso3": "MKD",
+      "featureCodes": [
+        "MKD"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 2.74144667,
+      "shapeAspect": 1.2611,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "tuvalu",
+      "iso3": "TUV",
+      "featureCodes": [
+        "TUV"
+      ],
+      "panels": 4,
+      "parts": 9,
+      "geometryArea": 0.00188715,
+      "shapeAspect": 1.0015,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "naoero",
+      "iso3": "NRU",
+      "featureCodes": [
+        "NRU"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 0.00233715,
+      "shapeAspect": 0.8344,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "philippines",
+      "iso3": "PHL",
+      "featureCodes": [
+        "PHL"
+      ],
+      "panels": 1,
+      "parts": 97,
+      "geometryArea": 24.37560797,
+      "shapeAspect": 0.572,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "saint-lucia",
+      "iso3": "LCA",
+      "featureCodes": [
+        "LCA"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 0.05060613,
+      "shapeAspect": 0.4779,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "saint-kitts-and-nevis",
+      "iso3": "KNA",
+      "featureCodes": [
+        "KNA"
+      ],
+      "panels": 1,
+      "parts": 2,
+      "geometryArea": 0.02244425,
+      "shapeAspect": 0.9822,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "saint-vincent-and-the-grenadines",
+      "iso3": "VCT",
+      "featureCodes": [
+        "VCT"
+      ],
+      "panels": 1,
+      "parts": 5,
+      "geometryArea": 0.03066591,
+      "shapeAspect": 0.4114,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "marshall-islands",
+      "iso3": "MHL",
+      "featureCodes": [
+        "MHL"
+      ],
+      "panels": 4,
+      "parts": 22,
+      "geometryArea": 0.01349554,
+      "shapeAspect": 0.6629,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "dominica",
+      "iso3": "DMA",
+      "featureCodes": [
+        "DMA"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 0.06149324,
+      "shapeAspect": 0.5348,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "guyana",
+      "iso3": "GUY",
+      "featureCodes": [
+        "GUY"
+      ],
+      "panels": 1,
+      "parts": 2,
+      "geometryArea": 17.22646084,
+      "shapeAspect": 0.6643,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "djibouti",
+      "iso3": "DJI",
+      "featureCodes": [
+        "DJI"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 1.8119756,
+      "shapeAspect": 0.9191,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "laos",
+      "iso3": "LAO",
+      "featureCodes": [
+        "LAO"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 19.52870175,
+      "shapeAspect": 0.8378,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "mongolia",
+      "iso3": "MNG",
+      "featureCodes": [
+        "MNG"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 184.60298715,
+      "shapeAspect": 2.0865,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "tajikistan",
+      "iso3": "TJK",
+      "featureCodes": [
+        "TJK"
+      ],
+      "panels": 1,
+      "parts": 3,
+      "geometryArea": 14.69667402,
+      "shapeAspect": 1.3965,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "kyrgyzstan",
+      "iso3": "KGZ",
+      "featureCodes": [
+        "KGZ"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 21.44882651,
+      "shapeAspect": 2.0373,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "eswatini",
+      "iso3": "SWZ",
+      "featureCodes": [
+        "SWZ"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 1.55010929,
+      "shapeAspect": 0.7556,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "guinea-bissau",
+      "iso3": "GNB",
+      "featureCodes": [
+        "GNB"
+      ],
+      "panels": 1,
+      "parts": 13,
+      "geometryArea": 2.72539877,
+      "shapeAspect": 1.7142,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "south-sudan",
+      "iso3": "SSD",
+      "featureCodes": [
+        "SDS"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 51.35561703,
+      "shapeAspect": 1.3395,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "holy-see",
+      "iso3": "VAT",
+      "featureCodes": [
+        "VAT"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 1.32e-06,
+      "shapeAspect": 0.8454,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "tonga",
+      "iso3": "TON",
+      "featureCodes": [
+        "TON"
+      ],
+      "panels": 4,
+      "parts": 10,
+      "geometryArea": 0.05210177,
+      "shapeAspect": 0.3216,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "iran",
+      "iso3": "IRN",
+      "featureCodes": [
+        "IRN"
+      ],
+      "panels": 1,
+      "parts": 12,
+      "geometryArea": 156.08798124,
+      "shapeAspect": 1.1077,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "iraq",
+      "iso3": "IRQ",
+      "featureCodes": [
+        "IRQ"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 42.24398299,
+      "shapeAspect": 0.9848,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "malawi",
+      "iso3": "MWI",
+      "featureCodes": [
+        "MWI"
+      ],
+      "panels": 1,
+      "parts": 3,
+      "geometryArea": 9.96232726,
+      "shapeAspect": 0.4068,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "vanuatu",
+      "iso3": "VUT",
+      "featureCodes": [
+        "VUT"
+      ],
+      "panels": 1,
+      "parts": 27,
+      "geometryArea": 1.03955395,
+      "shapeAspect": 0.4503,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "andorra",
+      "iso3": "AND",
+      "featureCodes": [
+        "AND"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 0.04956072,
+      "shapeAspect": 1.1974,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "palestine",
+      "iso3": "PSE",
+      "featureCodes": [
+        "PSX"
+      ],
+      "panels": 1,
+      "parts": 2,
+      "geometryArea": 0.57922356,
+      "shapeAspect": 0.8754,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "nicaragua",
+      "iso3": "NIC",
+      "featureCodes": [
+        "NIC"
+      ],
+      "panels": 1,
+      "parts": 5,
+      "geometryArea": 10.71729386,
+      "shapeAspect": 1.12,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "paraguay",
+      "iso3": "PRY",
+      "featureCodes": [
+        "PRY"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 35.30339392,
+      "shapeAspect": 0.9291,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "libya",
+      "iso3": "LBY",
+      "featureCodes": [
+        "LBY"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 147.89433216,
+      "shapeAspect": 1.0392,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "syria",
+      "iso3": "SYR",
+      "featureCodes": [
+        "SYR"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 18.36860376,
+      "shapeAspect": 1.0899,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "peru",
+      "iso3": "PER",
+      "featureCodes": [
+        "PER"
+      ],
+      "panels": 1,
+      "parts": 5,
+      "geometryArea": 106.41708873,
+      "shapeAspect": 0.6823,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "guatemala",
+      "iso3": "GTM",
+      "featureCodes": [
+        "GTM"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 9.17482551,
+      "shapeAspect": 0.9484,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "haiti",
+      "iso3": "HTI",
+      "featureCodes": [
+        "HTI"
+      ],
+      "panels": 1,
+      "parts": 5,
+      "geometryArea": 2.30657008,
+      "shapeAspect": 1.3053,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "monaco",
+      "iso3": "MCO",
+      "featureCodes": [
+        "MCO"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 0.00210492,
+      "shapeAspect": 1.1376,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "saudi-arabia",
+      "iso3": "SAU",
+      "featureCodes": [
+        "SAU"
+      ],
+      "panels": 1,
+      "parts": 11,
+      "geometryArea": 171.01575708,
+      "shapeAspect": 1.2194,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "honduras",
+      "iso3": "HND",
+      "featureCodes": [
+        "HND"
+      ],
+      "panels": 1,
+      "parts": 7,
+      "geometryArea": 9.42431473,
+      "shapeAspect": 1.3551,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "kiribati",
+      "iso3": "KIR",
+      "featureCodes": [
+        "KIR"
+      ],
+      "panels": 4,
+      "parts": 35,
+      "geometryArea": 0.07726765,
+      "shapeAspect": 2.3869,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "venezuela",
+      "iso3": "VEN",
+      "featureCodes": [
+        "VEN"
+      ],
+      "panels": 1,
+      "parts": 29,
+      "geometryArea": 74.77873862,
+      "shapeAspect": 0.8926,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "afghanistan",
+      "iso3": "AFG",
+      "featureCodes": [
+        "AFG"
+      ],
+      "panels": 1,
+      "parts": 1,
+      "geometryArea": 62.59166424,
+      "shapeAspect": 1.3153,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "north-korea",
+      "iso3": "PRK",
+      "featureCodes": [
+        "PRK"
+      ],
+      "panels": 1,
+      "parts": 10,
+      "geometryArea": 12.93804609,
+      "shapeAspect": 0.9271,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    },
+    {
+      "countryId": "oman",
+      "iso3": "OMN",
+      "featureCodes": [
+        "OMN"
+      ],
+      "panels": 1,
+      "parts": 6,
+      "geometryArea": 26.98300017,
+      "shapeAspect": 0.7511,
+      "status": "reviewed",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19"
+    }
+  ]
+}

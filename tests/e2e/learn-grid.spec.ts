@@ -8,8 +8,8 @@ test('Learn categories form one responsive grid', async ({ page }) => {
     const grid = page.locator('.category-grid');
     await expect(grid).toHaveCount(1);
     const cards = grid.locator(':scope > .category-card');
-    await expect(cards).toHaveCount(9);
-    const boxes = await Promise.all(Array.from({ length: 9 }, (_, index) => cards.nth(index).boundingBox()));
+    await expect(cards).toHaveCount(10);
+    const boxes = await Promise.all(Array.from({ length: 10 }, (_, index) => cards.nth(index).boundingBox()));
     expect(boxes.every(Boolean)).toBe(true);
     const positions = boxes.map(box => box!);
 
@@ -19,8 +19,8 @@ test('Learn categories form one responsive grid', async ({ page }) => {
         expect(positions[index].y).toBeGreaterThan(positions[index - 1].y);
       }
     } else {
-      for (let row = 0; row < 3; row++) {
-        for (let column = 0; column < 3; column++) {
+      for (let row = 0; row < Math.ceil(positions.length / 3); row++) {
+        for (let column = 0; column < 3 && row * 3 + column < positions.length; column++) {
           const index = row * 3 + column;
           expect(Math.abs(positions[index].y - positions[row * 3].y)).toBeLessThan(2);
           expect(Math.abs(positions[index].x - positions[column].x)).toBeLessThan(2);

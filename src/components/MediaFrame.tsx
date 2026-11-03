@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from 'react';
 import type { Media } from '../data/schema';
 import { Icon } from './Icon';
 
-export function MediaFrame({ media, alt, className = '', expandable = false }: { media: Media; alt: string; className?: string; expandable?: boolean }) {
+export function MediaFrame({ media, alt, className = '', expandable = false, retryable = true }: { media: Media; alt: string; className?: string; expandable?: boolean; retryable?: boolean }) {
   const [failed, setFailed] = useState(false);
   const [retryKey, setRetryKey] = useState(0);
   const [source, setSource] = useState(media.localPath);
@@ -39,7 +39,7 @@ export function MediaFrame({ media, alt, className = '', expandable = false }: {
   };
   return <>
     <div className={`media-frame ${className} ${media.kind === 'photo' ? 'media-photo' : 'media-symbol'}`}>
-      {failed ? <div className="media-unavailable" role="status"><span>Изображение сейчас недоступно{!navigator.onLine ? ' без сети' : ''}.</span><button type="button" className="text-button" onClick={retry}>Повторить</button></div> : <img key={retryKey} src={source} alt={alt} loading="lazy" onLoad={cacheViewedMedia} onError={() => void recoverImage()} />}
+      {failed ? <div className="media-unavailable" role="status"><span>Изображение сейчас недоступно{!navigator.onLine ? ' без сети' : ''}.</span>{retryable && <button type="button" className="text-button" onClick={retry}>Повторить</button>}</div> : <img key={retryKey} src={source} alt={alt} loading="lazy" onLoad={cacheViewedMedia} onError={() => void recoverImage()} />}
       {expandable && !failed && <button type="button" className="expand-button" onClick={() => setOpen(true)} aria-label="Открыть изображение крупнее"><Icon name="expand" size={19}/></button>}
     </div>
     {expandable && <dialog className="media-dialog" ref={dialog} onClose={() => setOpen(false)} onClick={event => { if (event.target === dialog.current) setOpen(false); }} aria-label="Просмотр изображения">

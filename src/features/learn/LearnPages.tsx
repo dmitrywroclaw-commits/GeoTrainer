@@ -16,6 +16,8 @@ import { urbanPlaces } from '../../data/urbanPlaces';
 import { UrbanPlaceImage } from './UrbanPlacePages';
 import { traditionalDishes } from '../../data/traditionalDishes';
 import { TraditionalDishImage } from './TraditionalDishPages';
+import { geographyRepository } from '../../data/geography';
+import { geographyTopics } from './GeographyPages';
 
 const categories = [
   { kind: 'flag' as const, title: 'Флаги', description: 'Узнайте страны по символам на флагах.', teaser: 'Орёл, лист, звёзды и другие детали' },
@@ -42,6 +44,8 @@ export function LearnHome() {
   const continueEntry = latest && contentRepository.byId(latest.contentId);
   const continueBorder = latest && borderRepository.question(latest.contentId);
   const continueCapital = latest && capitalRepository.question(latest.contentId);
+  const continueGeographySpec = latest && geographyRepository.question(latest.contentId);
+  const continueGeography = continueGeographySpec && geographyRepository.byId(continueGeographySpec.cardId);
   const reviewCount = records.filter(x => x.wrongCount > 0).length;
   return <>
     <PageHeader title="Изучать" description="География, которую легко узнать и запомнить." />
@@ -53,6 +57,10 @@ export function LearnHome() {
         <div className="category-body"><span className="eyebrow">{objectCount(entries.length)}</span><h2>{category.title}</h2><p>{category.description}</p><span className="category-teaser">{category.teaser}</span></div>
       </Link>;
     })}
+    {(['outline'] as const).map(kind => <Link className="category-card category-geography" to={`/learn/${geographyTopics[kind].path}`} key={kind}>
+      <div className="category-visual"><MediaFrame media={geographyRepository.media(geographyRepository.byKind(kind)[0], kind !== 'outline')} alt=""/></div>
+      <div className="category-body"><span className="eyebrow">Новая тема · {objectCount(geographyRepository.byKind(kind).length)}</span><h2>{geographyTopics[kind].title}</h2><p>{geographyTopics[kind].description}</p></div>
+    </Link>)}
     <Link className="category-card category-border" to="/learn/borders">
       <div className="category-visual"><MediaFrame media={borderRepository.map('switzerland', true)} alt="" /></div>
       <div className="category-body"><span className="eyebrow">{objectCount(borderRepository.allFacts().length)}</span><h2>Границы</h2><p>Изучайте соседей стран по картам.</p><span className="category-teaser">{borderRepository.allQuestions().length} вопросов для тренировки</span></div>
@@ -73,7 +81,8 @@ export function LearnHome() {
       <div className="category-visual"><TravelImage card={travelCards.byKind(kind)[0]}/></div>
       <div className="category-body"><span className="eyebrow">{objectCount(travelCards.byKind(kind).length)}</span><h2>{kind === 'food' ? 'Экзотические блюда' : 'Архитектура'}</h2><p>{kind === 'food' ? 'Необычные блюда и традиции.' : 'Известные здания и сооружения.'}</p></div>
     </Link>)}</div>
-    {(continueEntry || continueBorder || continueCapital || reviewCount > 0) && <div className="home-secondary">
+    {(continueEntry || continueBorder || continueCapital || continueGeography || reviewCount > 0) && <div className="home-secondary">
+      {continueGeography && <section><h2>Продолжить изучение</h2><Link className="inline-card" to={`/geography/${continueGeography.id}`}>{continueGeography.nameRu}<span>Открыть карточку →</span></Link></section>}
       {continueEntry && <section><h2>Продолжить изучение</h2><Link className="inline-card" to={`/item/${continueEntry.id}`}>{continueEntry.nameRu}<span>Открыть карточку →</span></Link></section>}
       {continueBorder && <section><h2>Продолжить изучение</h2><Link className="inline-card" to={`/border/${continueBorder.countryId}`}>{borderRepository.countryName(continueBorder.countryId)}<span>Открыть карту →</span></Link></section>}
       {continueCapital && <section><h2>Продолжить изучение</h2><Link className="inline-card" to={`/capital/${continueCapital.cardId}`}>{capitalRepository.byId(continueCapital.cardId)?.cityNameRu}<span>Открыть карточку →</span></Link></section>}

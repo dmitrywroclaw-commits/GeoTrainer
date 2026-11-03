@@ -1,8 +1,12 @@
 import type { Entry } from '../../data/schema';
 import { borderRepository, type BorderQuestionSpec } from '../../data/borders';
 import { capitalRepository, type CapitalQuestionSpec } from '../../data/capitals';
+import { geographyRepository, type GeographyQuestionSpec } from '../../data/geography';
+import type { Media } from '../../data/schema';
+import { buildGeographyQuestion, type GeographyQuizEntry } from './geographyQuestions';
+export { buildGeographyQuestion } from './geographyQuestions';
 
-export type QuizMode = Entry['kind'] | 'border' | 'capital' | 'mixed' | 'mistakes';
+export type QuizMode = Entry['kind'] | 'border' | 'capital' | 'outline' | 'mixed' | 'mistakes';
 export interface BorderQuizEntry {
   id: string;
   kind: 'border';
@@ -23,11 +27,16 @@ export interface CapitalQuizEntry {
   countryId: string;
 }
 export interface Question {
-  entry: Entry | BorderQuizEntry | CapitalQuizEntry;
+  entry: Entry | BorderQuizEntry | CapitalQuizEntry | GeographyQuizEntry;
   options: string[];
   correctOption: string;
   prompt: string;
   showMedia?: boolean;
+  questionMedia?: Media;
+  explanationMedia?: Media;
+  optionMedia?: Record<string, Media>;
+  optionLabels?: Record<string, string>;
+  detailPath?: string;
 }
 
 const shuffle = <T,>(items: T[], random: () => number) => {
@@ -116,60 +125,42 @@ export function buildCapitalQuestion(spec: CapitalQuestionSpec, random: () => nu
 }
 
 export function createSession(all: Entry[], mode: QuizMode, count: number, reviewIds: string[] = [], random: () => number = Math.random): Question[] {
-  if (mode === 'capital') {
-    const eligible = capitalRepository.allQuestions();
-    if (!eligible.length) return [];
-    const questions: Question[] = [];
-    let cycle: CapitalQuestionSpec[] = [];
-    while (questions.length < count) {
-      if (!cycle.length) cycle = shuffle(eligible, random);
-      questions.push(buildCapitalQuestion(cycle.pop()!, random));
-    }
-    return questions;
-  }
-  if (mode === 'border') {
-    const eligible = borderRepository.allQuestions();
-    if (!eligible.length) return [];
-    const questions: Question[] = [];
-    let cycle: BorderQuestionSpec[] = [];
-    while (questions.length < count) {
-      if (!cycle.length) cycle = shuffle(eligible, random);
-      questions.push(buildBorderQuestion(cycle.pop()!, random));
-    }
-    return questions;
-  }
-  if (mode === 'mistakes') {
-    const entries = all.filter(x => reviewIds.includes(x.id) && !x.quizHints?.excludeFromQuiz);
-    const borders = borderRepository.allQuestions().filter(x => reviewIds.includes(x.id));
-    const capitals = capitalRepository.allQuestions().filter(x => reviewIds.includes(x.id));
-    const eligible = shuffle([...entries, ...borders, ...capitals], random);
-    if (!eligible.length) return [];
-    return Array.from({ length: count }, (_, index) => {
-      const item = eligible[index % eligible.length];
-      return 'cardId' in item ? buildCapitalQuestion(item, random) : 'type' in item ? buildBorderQuestion(item, random) : buildQuestion(item, all, random);
-    });
-  }
-  const eligible = all.filter(x => !x.quizHints?.excludeFromQuiz && (mode === 'mixed' || x.kind === mode));
-  if (!eligible.length) return [];
+  type Candidate = Entry | BorderQuestionSpec | CapitalQuestionSpec | GeographyQuestionSpec;
+  type Topic = Exclude<QuizMode, 'mixed' | 'mistakes'>;
+  const pools: Record<Topic, Candidate[]> = {
+    flag: all.filter(x => x.kind === 'flag' && !x.quizHints?.excludeFromQuiz),
+    emblem: all.filter(x => x.kind === 'emblem' && !x.quizHints?.excludeFromQuiz),
+    landmark: all.filter(x => x.kind === 'landmark' && !x.quizHints?.excludeFromQuiz),
+    border: borderRepository.allQuestions(), capital: capitalRepository.allQuestions(),
+    outline: geographyRepository.questions('outline'),
+  };
+  const build = (item: Candidate): Question => {
+    if ('kind' in item) return buildQuestion(item, all, random);
+    if ('countryId' in item) return buildBorderQuestion(item, random);
+    if (item.type === 'country-to-city' || item.type === 'city-to-country') return buildCapitalQuestion(item as CapitalQuestionSpec, random);
+    return buildGeographyQuestion(item as GeographyQuestionSpec, random);
+  };
   const questions: Question[] = [];
   if (mode === 'mixed') {
-    const kinds = (['flag', 'emblem', 'landmark', 'border', 'capital'] as const).filter(kind => kind === 'border' ? borderRepository.allQuestions().length > 0 : kind === 'capital' ? capitalRepository.allQuestions().length > 0 : eligible.some(item => item.kind === kind));
-    const pools = Object.fromEntries(kinds.map(kind => [kind, kind === 'border' ? borderRepository.allQuestions() : kind === 'capital' ? capitalRepository.allQuestions() : eligible.filter(item => item.kind === kind)])) as Record<typeof kinds[number], (Entry | BorderQuestionSpec | CapitalQuestionSpec)[]>;
-    const cycles: Partial<Record<typeof kinds[number], (Entry | BorderQuestionSpec | CapitalQuestionSpec)[]>> = {};
-    let round: (typeof kinds[number])[] = [];
+    const kinds = (Object.keys(pools) as Topic[]).filter(kind => pools[kind].length);
+    if (!kinds.length) return [];
+    const cycles: Partial<Record<Topic, Candidate[]>> = {};
+    let round: Topic[] = [];
     while (questions.length < count) {
       if (!round.length) round = shuffle(kinds, random);
       const kind = round.pop()!;
       if (!cycles[kind]?.length) cycles[kind] = shuffle(pools[kind], random);
       const item = cycles[kind]!.pop()!;
-      questions.push('cardId' in item ? buildCapitalQuestion(item, random) : 'type' in item ? buildBorderQuestion(item, random) : buildQuestion(item, all, random));
+      questions.push(build(item));
     }
     return questions;
   }
-  let cycle: Entry[] = [];
+  const eligible = mode === 'mistakes' ? Object.values(pools).flat().filter(item => reviewIds.includes(item.id)) : pools[mode];
+  if (!eligible.length) return [];
+  let cycle: Candidate[] = [];
   while (questions.length < count) {
     if (!cycle.length) cycle = shuffle(eligible, random);
-    questions.push(buildQuestion(cycle.pop()!, all, random));
+    questions.push(build(cycle.pop()!));
   }
   return questions;
 }

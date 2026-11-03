@@ -50,7 +50,7 @@ describe('border topic', () => {
 
   it('includes border questions in mixed and mistake sessions', () => {
     const mixed = createSession(contentRepository.all(), 'mixed', 20, [], () => 0.31);
-    expect(mixed.filter(question => question.entry.kind === 'border').length).toBeGreaterThanOrEqual(4);
+    expect(mixed.filter(question => question.entry.kind === 'border').length).toBeGreaterThanOrEqual(2);
     const mistakes = createSession(contentRepository.all(), 'mistakes', 5, ['border-064'], () => 0.31);
     expect(mistakes.every(question => question.entry.id === 'border-064')).toBe(true);
   });

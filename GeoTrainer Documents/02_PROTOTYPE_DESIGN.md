@@ -1,5 +1,8 @@
 # GeoTrainer — Prototype Design Document
 
+> Full outlines (2026-11-04): `11_ALL_COUNTRY_OUTLINES.md` specifies all 195 country cards, dateline handling, geographic insets, regional filters and incremental catalog loading. Existing study and quiz routes remain unchanged.
+
+
 > Topic extension (2026-09-25): `08_BORDERS.md` specifies the reviewed Borders pilot. It uses a separate structured adjacency repository, local SVG maps, `/learn/borders`, `/border/:countryId`, and the existing quiz/progress storage. The four primary navigation destinations remain the same.
 
 ## 1. Purpose
