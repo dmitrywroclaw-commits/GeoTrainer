@@ -1,9 +1,16 @@
 # GeoTrainer — Development Plan
 
+> Implemented topic update (2026-11-04): the user-requested records and names expansion, border unpublication, geographic waterway maps, and verification scope are documented in `12_RECORDS_AND_NAMES.md`. This remains a static client-side PWA.
+
+> Names publication (2026-11-04): all 78 newly approved classic-name recommendations are now study cards, bringing the names catalog to 101. The research register records publication IDs; checks cover core completeness, source references, aliases, filters, navigation, offline access and the required viewport widths. No names quiz is introduced in this phase.
+
+> Records consolidation (2026-11-04): publish a single 60-card “Рекорды и уникальность” section and quiz topic, with All / Lakes / Rivers / Mountains filters. Preserve old catalog links through redirects and filtered navigation through query parameters. Verify filtering, return links, cross-kind navigation, quiz, persistence, offline access and viewport widths before pushing the approved work to GitHub main.
+
 > Publication update (2026-11-04): the exotic-food catalog is disabled. It has no Learn entry, catalog route, or accessible detail/media records. Its research data is retained; the separate traditional-dishes catalog remains available.
 
-> Accepted-pilot expansion (2026-11-04): the user approved the outline pilot and requested all countries. `11_ALL_COUNTRY_OUTLINES.md` documents coverage of 195/195 base countries, reproducible cartography and required validation.
+> Accepted-pilot expansion (2026-11-04): the user approved the outline pilot and requested all countries. `11_ALL_COUNTRY_OUTLINES.md` documents coverage of 195/195 base countries, reproducible cartography and required validation. Waterways remain at five records.
 
+> Pilot extension (2026-11-04): `10_GEOGRAPHY_PILOTS.md` documents five reviewed records each for country outlines and waterways. Verify maps, questions, sources, responsive UI, persistence and offline behavior before expansion.
 
 > Topic extension (2026-09-25): `08_BORDERS.md` describes the reviewed Borders topic, map generation, source review and dispute exclusion. Further questions from the 95-question pool remain a separate editorial batch; no bulk import is authorized by their presence in the Markdown list.
 

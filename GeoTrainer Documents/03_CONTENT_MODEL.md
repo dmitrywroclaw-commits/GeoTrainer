@@ -1,9 +1,14 @@
 # GeoTrainer — Content Model and Editorial Schema
 
+> Schema update (2026-11-04): `12_RECORDS_AND_NAMES.md` defines `content/extremes.json` (60 sourced records with mandatory measurement caveats), `content/geography-names.json` (101 names with explicit naming status, including the new `epithet` type for established figurative names), and waterway `distinctionRu`/`map` fields. Existing samples remain valid. The border dataset remains archival and is unpublished. No IndexedDB migration is needed.
+
+> Unified records (2026-11-04): the same 60 records power `/learn/records`, its `kind=lake|river|mountain` filters and the combined `records` quiz mode. Per-kind IDs, sources, questions and stored progress are preserved; the combined mode does not duplicate records in mixed sessions or mistake review.
+
 > Publication update (2026-11-04): the exotic-food catalog is disabled. It has no Learn entry, catalog route, or accessible detail/media records. Its research data is retained; the separate traditional-dishes catalog remains available.
 
 > Full outlines (2026-11-04): see `11_ALL_COUNTRY_OUTLINES.md`. Outline records add `continentRu`, `similarityTags`, optional `borderNoteRu`, source feature codes, a central meridian and optional inset panels. Marine-label provenance and all 195 sample records, validation, generated maps and tests are updated together.
 
+> Topic extension (2026-11-04): `10_GEOGRAPHY_PILOTS.md` specifies the reviewed outline/waterway schema, sources, media rights, geometry scope and stable question IDs. Content lives in `content/geography.json`, validated by `src/data/geography.ts`; sample records, maps and tests ship together.
 
 > Topic extension (2026-09-25): published land-border facts and question specifications live in `content/borders.json`, with source and map provenance; see `08_BORDERS.md`. The adjacency record is the source of truth for quiz answers and learning text. Disputed land-border cases are excluded.
 

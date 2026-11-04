@@ -47,11 +47,13 @@ for (const item of data.questions) {
 
 export type BorderFact = z.infer<typeof fact>;
 export type BorderQuestionSpec = z.infer<typeof question>;
+// Research and existing IndexedDB records are retained, but this topic is unpublished.
+const published = false;
 export const borderRepository = {
-  allFacts: (): BorderFact[] => data.facts,
-  allQuestions: (): BorderQuestionSpec[] => data.questions,
-  fact: (countryId: string) => factByCountry.get(countryId),
-  question: (id: string) => data.questions.find(item => item.id === id),
+  allFacts: (): BorderFact[] => published ? data.facts : [],
+  allQuestions: (): BorderQuestionSpec[] => published ? data.questions : [],
+  fact: (countryId: string) => published ? factByCountry.get(countryId) : undefined,
+  question: (id: string) => published ? data.questions.find(item => item.id === id) : undefined,
   sources: (ids: string[]) => ids.map(id => data.sources.find(item => item.id === id)).filter((item): item is typeof data.sources[number] => Boolean(item)),
   countryName: (id: string) => contentRepository.country(id)?.nameRu ?? id,
   map: (mapId: string, revealed: boolean): Media => ({

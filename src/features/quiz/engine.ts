@@ -4,9 +4,12 @@ import { capitalRepository, type CapitalQuestionSpec } from '../../data/capitals
 import { geographyRepository, type GeographyQuestionSpec } from '../../data/geography';
 import type { Media } from '../../data/schema';
 import { buildGeographyQuestion, type GeographyQuizEntry } from './geographyQuestions';
+import { extremesRepository, type Extreme } from '../../data/extremes';
+import { buildRecordQuestion, type RecordQuizEntry } from './recordQuestions';
+export { buildRecordQuestion } from './recordQuestions';
 export { buildGeographyQuestion } from './geographyQuestions';
 
-export type QuizMode = Entry['kind'] | 'border' | 'capital' | 'outline' | 'mixed' | 'mistakes';
+export type QuizMode = Entry['kind'] | 'border' | 'capital' | 'outline' | 'waterway' | 'records' | 'river' | 'mountain' | 'lake' | 'mixed' | 'mistakes';
 export interface BorderQuizEntry {
   id: string;
   kind: 'border';
@@ -27,7 +30,7 @@ export interface CapitalQuizEntry {
   countryId: string;
 }
 export interface Question {
-  entry: Entry | BorderQuizEntry | CapitalQuizEntry | GeographyQuizEntry;
+  entry: Entry | BorderQuizEntry | CapitalQuizEntry | GeographyQuizEntry | RecordQuizEntry;
   options: string[];
   correctOption: string;
   prompt: string;
@@ -125,16 +128,18 @@ export function buildCapitalQuestion(spec: CapitalQuestionSpec, random: () => nu
 }
 
 export function createSession(all: Entry[], mode: QuizMode, count: number, reviewIds: string[] = [], random: () => number = Math.random): Question[] {
-  type Candidate = Entry | BorderQuestionSpec | CapitalQuestionSpec | GeographyQuestionSpec;
-  type Topic = Exclude<QuizMode, 'mixed' | 'mistakes'>;
+  type Candidate = Entry | BorderQuestionSpec | CapitalQuestionSpec | GeographyQuestionSpec | Extreme;
+  type Topic = Exclude<QuizMode, 'mixed' | 'mistakes' | 'records'>;
   const pools: Record<Topic, Candidate[]> = {
     flag: all.filter(x => x.kind === 'flag' && !x.quizHints?.excludeFromQuiz),
     emblem: all.filter(x => x.kind === 'emblem' && !x.quizHints?.excludeFromQuiz),
     landmark: all.filter(x => x.kind === 'landmark' && !x.quizHints?.excludeFromQuiz),
     border: borderRepository.allQuestions(), capital: capitalRepository.allQuestions(),
-    outline: geographyRepository.questions('outline'),
+    outline: geographyRepository.questions('outline'), waterway: geographyRepository.questions('waterway'),
+    river: extremesRepository.byKind('river'), mountain: extremesRepository.byKind('mountain'), lake: extremesRepository.byKind('lake'),
   };
   const build = (item: Candidate): Question => {
+    if ('distinctionRu' in item) return buildRecordQuestion(item, random);
     if ('kind' in item) return buildQuestion(item, all, random);
     if ('countryId' in item) return buildBorderQuestion(item, random);
     if (item.type === 'country-to-city' || item.type === 'city-to-country') return buildCapitalQuestion(item as CapitalQuestionSpec, random);
@@ -155,7 +160,7 @@ export function createSession(all: Entry[], mode: QuizMode, count: number, revie
     }
     return questions;
   }
-  const eligible = mode === 'mistakes' ? Object.values(pools).flat().filter(item => reviewIds.includes(item.id)) : pools[mode];
+  const eligible = mode === 'records' ? extremesRepository.all() : mode === 'mistakes' ? Object.values(pools).flat().filter(item => reviewIds.includes('distinctionRu' in item ? `record-${item.id}` : item.id)) : pools[mode];
   if (!eligible.length) return [];
   let cycle: Candidate[] = [];
   while (questions.length < count) {

@@ -13,6 +13,7 @@ describe('geography catalog', () => {
     expect(outlines).toHaveLength(195);
     expect(new Set(outlines.map(card => card.kind === 'outline' ? card.countryId : '')).size).toBe(195);
     expect(outlines.map(card => card.kind === 'outline' ? card.countryId : '').sort()).toEqual(library.countries.map(country => country.id).sort());
+    expect(geographyRepository.byKind('waterway')).toHaveLength(22);
     for (const card of geographyRepository.all()) {
       expect(geographyRepository.sources(card.sourceIds)).toHaveLength(card.sourceIds.length);
       for (const revealed of [false, true]) {
@@ -30,17 +31,19 @@ describe('geography catalog', () => {
     const invalid = () => structuredClone(geographySchema.parse(raw));
     const duplicate = invalid(); duplicate.outlines.push(duplicate.outlines[0]);
     expect(() => validateGeography(duplicate)).toThrow(/Повторяющиеся/);
-    const missingSource = invalid(); missingSource.outlines[0].sourceIds = ['missing'];
+    const missingSource = invalid(); missingSource.waterways[0].sourceIds = ['missing'];
     expect(() => validateGeography(missingSource)).toThrow(/источника/);
     const wrongBounds = invalid(); wrongBounds.outlines[0].map.box = [20, 50, 10, 55];
     expect(() => validateGeography(wrongBounds)).toThrow(/область/);
     const wrongLabel = invalid(); wrongLabel.outlines[0].map.labels[0].panelIndex = 99;
     expect(() => validateGeography(wrongLabel)).toThrow(/врезка/);
+    const wrongConnection = invalid(); wrongConnection.waterways[0].connectsRu = ['Море', 'Море'];
+    expect(() => validateGeography(wrongConnection)).toThrow(/связи/);
   });
 
   it('derives unique, unambiguous answers and reveals explanations without leaking map labels', () => {
     expect(geographyRepository.questions('outline')).toHaveLength(390);
-    expect(geographyRepository.questions()).toHaveLength(390);
+    expect(geographyRepository.questions()).toHaveLength(476);
     for (const spec of geographyRepository.questions()) {
       for (const random of [() => 0, () => 0.4, () => 0.999]) {
         const question = buildGeographyQuestion(spec, random);
@@ -49,7 +52,11 @@ describe('geography catalog', () => {
         expect(question.options).toContain(question.correctOption);
         expect(question.entry.explanationRu).toBe(card.explanationRu);
         expect(question.explanationMedia.localPath).not.toContain('-question');
-        if (spec.type === 'select-outline') {
+        if (card.kind === 'waterway') {
+          expect(question.showMedia).toBe(false);
+          if (spec.type === 'connects') expect(question.correctOption).toBe(card.connectsRu.join(' и '));
+          if (spec.type === 'route') expect(question.correctOption).toBe(card.routeRu.join(' → '));
+        } else if (spec.type === 'select-outline') {
           expect(question.showMedia).toBe(false);
           expect(Object.keys(question.optionMedia ?? {})).toHaveLength(4);
           for (const option of question.options) {
@@ -79,9 +86,9 @@ describe('geography catalog', () => {
     expect(() => validateGeography(invalid)).toThrow(/область/);
   });
 
-  it('includes outlines in mixed/review sessions and exhausts each cycle before repeating', () => {
+  it('includes both topics in mixed/review sessions and exhausts each cycle before repeating', () => {
     const mixed = createSession(contentRepository.all(), 'mixed', 20, [], () => 0.31);
-    for (const kind of ['outline'] as const) {
+    for (const kind of ['outline', 'waterway'] as const) {
       expect(mixed.filter(question => question.entry.kind === kind).length).toBeGreaterThanOrEqual(2);
       const specs = geographyRepository.questions(kind);
       const session = createSession([], kind, specs.length, [], () => 0.31);

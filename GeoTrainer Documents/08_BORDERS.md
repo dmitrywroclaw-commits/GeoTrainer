@@ -1,5 +1,7 @@
 # Borders topic: reviewed pilot
 
+> Publication status (2026-11-04): this topic is disabled at the user’s request. Data and old local progress are retained for archival purposes but excluded from the published app, quizzes, mistakes and statistics. See `12_RECORDS_AND_NAMES.md`. The earlier implementation notes below are historical.
+
 The 95-question Markdown list is an editorial candidate pool, not publishable content. `content/research/border-question-review.csv` records the current decision for every candidate. Nineteen questions (2, 6, 8–12, 16–18, 51–52, 62–64, 71–73, 75) are published. The other questions remain deferred or excluded; none should enter the app automatically. Candidates 3 and 13 remain deferred because the available Natural Earth Monaco and Vatican geometry is unsuitable for a readable, accurate close-up. Candidates 4 and 7 are excluded: [Malaysia and Brunei still discuss land-boundary sectors](https://www.kln.gov.my/web/guest/post/joint-statement-on-the-26th-annual-leaders-consultation-between-his-majesty-sultan-haji-hassanal-bolkiah-mu-izzaddin-waddaulah-sultan-and-yang-di-pert), and [Timor-Leste records unresolved sections of its land boundary with Indonesia](https://www.gftm.gov.tl/boundaries/indonesia/land/).
 
 ## Scope and exclusion rule

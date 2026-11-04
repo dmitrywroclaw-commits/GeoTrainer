@@ -1,0 +1,2671 @@
+{
+  "version": 1,
+  "reviewedAt": "2026-11-04",
+  "scopeRu": "Редакционная оценка классического русскоязычного географического квиза; не полный мировой реестр топонимов и не рейтинг узнаваемости.",
+  "countingRuleRu": "Один объект / устойчивое понятие — одна планируемая карточка; несколько его имён объединяются. Одноимённые разные известные объекты требуют регионального уточнения.",
+  "publicationRu": "По запросу пользователя опубликованы все 78 новых рекомендаций ядра. В приложении 101 карточка: 99 из ядра и 2 ранее опубликованные записи из резерва. Резерв и отклонённые кандидаты дополнительно не импортировались.",
+  "summary": {
+    "decisions": {
+      "core": 99,
+      "reserve": 13,
+      "excluded": 14
+    },
+    "coreByGroup": {
+      "coordinates": 9,
+      "region": 16,
+      "water": 19,
+      "landscape": 27,
+      "country": 17,
+      "city": 11
+    },
+    "currentPublished": 101,
+    "currentInCore": 99
+  },
+  "sources": [
+    {
+      "id": "noaa-latitude",
+      "publisher": "NOAA",
+      "title": "What is latitude?",
+      "url": "https://oceanservice.noaa.gov/facts/latitude.html",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "previously_published"
+    },
+    {
+      "id": "noaa-solstice",
+      "publisher": "NOAA NESDIS",
+      "title": "What Is a Solstice?",
+      "url": "https://www.nesdis.noaa.gov/about/k-12-education/optical-phenomena/what-solstice",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "previously_published"
+    },
+    {
+      "id": "noaa-roaring",
+      "publisher": "NOAA",
+      "title": "What are the Roaring Forties?",
+      "url": "https://oceanservice.noaa.gov/facts/roaring-forties.html",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "previously_published"
+    },
+    {
+      "id": "noaa-horse",
+      "publisher": "NOAA",
+      "title": "What are the horse latitudes?",
+      "url": "https://oceanservice.noaa.gov/facts/horse-latitudes.html",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "previously_published"
+    },
+    {
+      "id": "noaa-doldrums",
+      "publisher": "NOAA",
+      "title": "Surface Ocean Currents — trade winds and the ITCZ",
+      "url": "https://oceanservice.noaa.gov/education/tutorial_currents/04currents2.html",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "previously_published"
+    },
+    {
+      "id": "nasa-yellow-name",
+      "publisher": "NASA Earth Observatory",
+      "title": "Building Up the Yellow River Delta",
+      "url": "https://earthobservatory.nasa.gov/images/148145/building-up-the-yellow-river-",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "previously_published"
+    },
+    {
+      "id": "bre-red-river",
+      "publisher": "Большая российская энциклопедия",
+      "title": "Красная река",
+      "url": "https://old.bigenc.ru/geography/text/2106633",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "previously_published"
+    },
+    {
+      "id": "ras-blue-river",
+      "publisher": "Российская академия наук, журнал «Природа»",
+      "title": "Природа, 2002, № 1 — употребление «Янцзы — Голубая река»",
+      "url": "https://priroda.ras.ru/pdf/2002-01.pdf",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "previously_published"
+    },
+    {
+      "id": "nasa-two-niles",
+      "publisher": "NASA JPL",
+      "title": "Nile River Fluctuations Near Khartoum, Sudan",
+      "url": "https://science.nasa.gov/photojournal/nile-river-fluctuations-near-khartoum-sudan/",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "previously_published"
+    },
+    {
+      "id": "esa-red-sea",
+      "publisher": "European Space Agency",
+      "title": "Deep blue Red Sea reefs",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2015/10/Deep_blue_Red_Sea_reefs",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "previously_published"
+    },
+    {
+      "id": "nasa-black-name",
+      "publisher": "NASA MODIS",
+      "title": "Black Sea — uncertainty around the name",
+      "url": "https://modis.gsfc.nasa.gov/gallery/individual.php?db_date=2018-06-14",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "previously_published"
+    },
+    {
+      "id": "southdowns-seven",
+      "publisher": "South Downs National Park Authority",
+      "title": "Discover Seven Sisters",
+      "url": "https://www.sevensisters.org.uk/",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "previously_published"
+    },
+    {
+      "id": "nsw-three",
+      "publisher": "NSW National Parks and Wildlife Service",
+      "title": "Three Sisters walk",
+      "url": "https://www.nationalparks.nsw.gov.au/things-to-do/walking-tracks/three-sisters-walk",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "previously_published"
+    },
+    {
+      "id": "jaxa-k2",
+      "publisher": "JAXA Earth Observation Research Center",
+      "title": "K2, Broad Peak, Gasherbrum I, and Gasherbrum II",
+      "url": "https://www.eorc.jaxa.jp/en/earthview/2006/tp060105.html",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "previously_published"
+    },
+    {
+      "id": "vietnam-huong",
+      "publisher": "Vietnam National Authority of Tourism",
+      "title": "Hue — Perfume River",
+      "url": "https://vietnam.travel/place-to-go/north-central-coast/hue/",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "previously_published"
+    },
+    {
+      "id": "nasa-mosi",
+      "publisher": "NASA Earth Observatory",
+      "title": "The Smoke that Thunders",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-smoke-that-thunders-145541/",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "previously_published"
+    },
+    {
+      "id": "whyte-sulphur",
+      "publisher": "Whyte Museum of the Canadian Rockies",
+      "title": "Mountains in the Archives",
+      "url": "https://www.whyte.org/post/mountains-in-the-archives",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "previously_published"
+    },
+    {
+      "id": "nps-death-name",
+      "publisher": "National Park Service",
+      "title": "Death Valley: Frequently Asked Questions",
+      "url": "https://www.nps.gov/deva/faqs.htm",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "previously_published"
+    },
+    {
+      "id": "smithsonian-mauna",
+      "publisher": "Smithsonian Global Volcanism Program",
+      "title": "Mauna Kea",
+      "url": "https://volcano.si.edu/volcano.cfm?vn=332030",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "previously_published"
+    },
+    {
+      "id": "r-latitude",
+      "publisher": "NOAA",
+      "title": "What is latitude?",
+      "url": "https://oceanservice.noaa.gov/facts/latitude.html",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-circles",
+      "publisher": "National Geographic Education",
+      "title": "MapMaker: Meridians and Parallels",
+      "url": "https://education.nationalgeographic.org/resource/mapmaker-meridians/",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "educational_reference"
+    },
+    {
+      "id": "r-date",
+      "publisher": "NOAA",
+      "title": "What is the international date line?",
+      "url": "https://oceanservice.noaa.gov/facts/international-date-line.html",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-sea-colors",
+      "publisher": "Smithsonian Science Education Center",
+      "title": "Why are The Seas named Black, White, and Yellow?",
+      "url": "https://ssec.si.edu/node/315",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "educational_reference"
+    },
+    {
+      "id": "r-dead",
+      "publisher": "NOAA",
+      "title": "JetStream: The Dead Sea",
+      "url": "https://www.noaa.gov/jetstream/dead-max",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-coral",
+      "publisher": "Parks Australia",
+      "title": "Coral Sea Marine Park",
+      "url": "https://australianmarineparks.gov.au/parks/coral-sea-marine-park/",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-sargasso",
+      "publisher": "NOAA",
+      "title": "What is the Sargasso Sea?",
+      "url": "https://oceanservice.noaa.gov/facts/sargassosea.html",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-negro",
+      "publisher": "NASA Earth Observatory",
+      "title": "Rio Negro, Amazonia, Brazil",
+      "url": "https://science.nasa.gov/earth/earth-observatory/rio-negro-amazonia-brazil-7169/",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-colorado",
+      "publisher": "Grand Canyon River Guides",
+      "title": "Colorado — Spanish & English, Confluence 18",
+      "url": "https://www.riverguides.org/Confluence/Confluence18.pdf",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "specialist_publication"
+    },
+    {
+      "id": "r-belaya",
+      "publisher": "Большая российская энциклопедия",
+      "title": "Белая (река, бассейн Камы)",
+      "url": "https://bigenc.ru/c/belaia-reka-bassein-kamy-0f89b3",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "encyclopedia"
+    },
+    {
+      "id": "r-orange",
+      "publisher": "ORASECOM / Water Research Commission",
+      "title": "A Hydropolitical History of South Africa",
+      "url": "https://wis.orasecom.org/content/study/Media/Orange-Senqu%20RAK%20-%20Revised%202012/OrangeSenquRAK/BETA_ORA/USERFILES/FILE/OTHERV2/HYDROPOLITICAL_HISTORY_OF_SOUTH.PDF",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "research_publication"
+    },
+    {
+      "id": "r-pacific",
+      "publisher": "NOAA",
+      "title": "How did the Pacific Ocean get its name?",
+      "url": "https://oceanservice.noaa.gov/facts/pacific.html",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-mediterranean",
+      "publisher": "EU Strategy for the Adriatic and Ionian Region",
+      "title": "The Legal Basis for the Establishment and Further Development of EUSAIR",
+      "url": "https://www.adriatic-ionian.eu/wp-content/uploads/2023/08/EUSAIR_STUDY-FINAL_15.12.2021v.3.pdf",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "institutional_report"
+    },
+    {
+      "id": "r-blanc",
+      "publisher": "University of York / White Rose eTheses",
+      "title": "Mont Blanc in British Literary Culture 1786–1826",
+      "url": "https://etheses.whiterose.ac.uk/27647/2/Mont%20Blanc%20in%20British%20Literary%20Culture%201786-1826.pdf",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "research_publication"
+    },
+    {
+      "id": "r-blue",
+      "publisher": "Blue Mountains City Council Library",
+      "title": "Why are the Blue Mountains blue?",
+      "url": "https://library.bmcc.nsw.gov.au/custom/web/content/website/documents/WhyBlueMountainsAreBlue.pdf",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-black-forest",
+      "publisher": "UNESCO",
+      "title": "Black Forest Biosphere Reserve",
+      "url": "https://www.unesco.org/en/mab/black-forest",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-drakensberg",
+      "publisher": "Ezemvelo KZN Wildlife",
+      "title": "uKhahlamba Drakensberg Park Management Plan (2022)",
+      "url": "https://www.kznwildlife.com/downloads/03-Management-Plans/Approved/2022%20-%20uKhahlamba%20Drakensberg%20Park%20Integrated%20Management%20Plan%20Revision.pdf",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-tianshan",
+      "publisher": "UNESCO World Heritage Centre / State Party nomination",
+      "title": "Xinjiang Tianshan nomination: name and aesthetic values",
+      "url": "https://whc.unesco.org/uploads/nominations/1414.pdf",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-himalaya",
+      "publisher": "NASA Earth Observatory",
+      "title": "Snow in the Himalayas",
+      "url": "https://science.nasa.gov/earth/earth-observatory/snow-in-the-himalayas-87030/",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-karakum",
+      "publisher": "Большая российская энциклопедия",
+      "title": "Каракумы",
+      "url": "https://old.bigenc.ru/geography/text/4324426",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "encyclopedia"
+    },
+    {
+      "id": "r-kyzyl",
+      "publisher": "Большая российская энциклопедия",
+      "title": "Кызылкум",
+      "url": "https://old.bigenc.ru/geography/text/2126568",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "encyclopedia"
+    },
+    {
+      "id": "r-empty",
+      "publisher": "NASA Earth Observatory",
+      "title": "Ar Rub’ al Khali Sand Sea",
+      "url": "https://science.nasa.gov/earth/earth-observatory/ar-rub-al-khali-sand-sea-arabian-peninsula-50744/",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-tierra",
+      "publisher": "NASA Earth Observatory",
+      "title": "Tierra del Fuego",
+      "url": "https://science.nasa.gov/earth/earth-observatory/tierra-del-fuego-3335/",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-hope",
+      "publisher": "SANParks",
+      "title": "Cape of Good Hope & Cape Point",
+      "url": "https://www.sanparks.org/parks/table-mountain/what-to-do/attractions/cape-of-good-hope-cape-point",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-agulhas",
+      "publisher": "Woods Hole Oceanographic Institution / Deep-Sea Research II",
+      "title": "Agulhas — historical name, note on Cape of the Needles (2003)",
+      "url": "https://www2.whoi.edu/staff/prichardson/wp-content/uploads/sites/75/2018/11/Richardson-et-al-2003-dsr-2.pdf",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "research_publication"
+    },
+    {
+      "id": "r-skeleton",
+      "publisher": "Namibia Tourism Board",
+      "title": "Skeleton Coast Park",
+      "url": "https://visitnamibia.com.na/2022/02/skeleton-coast-park/",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-roof",
+      "publisher": "Российская академия наук",
+      "title": "«Крыша мира» на пересечении англо-советских интересов",
+      "url": "https://new.ras.ru/upload/iblock/c4d/0khg8psmf6u4wnwtdylpv53fy56mqre3.pdf",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "research_publication"
+    },
+    {
+      "id": "r-roof-tibet",
+      "publisher": "NASA",
+      "title": "Earth as Art: Tibetan Plateau — Roof of the World",
+      "url": "https://www.nasa.gov/wp-content/uploads/2021/06/703154main_earth_art-ebook.pdf",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-third",
+      "publisher": "NASA Earth Observatory",
+      "title": "Shrinking Glaciers and Growing Lakes",
+      "url": "https://science.nasa.gov/earth/earth-observatory/shrinking-glaciers-and-growing-lakes-148966/",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-ring",
+      "publisher": "NOAA Ocean Exploration",
+      "title": "What is the Ring of Fire?",
+      "url": "https://oceanexplorer.noaa.gov/ocean-fact/rof/",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-bermuda",
+      "publisher": "NOAA",
+      "title": "What is the Bermuda Triangle?",
+      "url": "https://oceanservice.noaa.gov/facts/bermudatri.html",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-horn",
+      "publisher": "Türkiye Tourism Promotion and Development Agency",
+      "title": "Golden Horn",
+      "url": "https://goturkiye.com/istanbul/golden-horn",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-giants",
+      "publisher": "UK National Commission for UNESCO",
+      "title": "Giant’s Causeway World Heritage factsheet",
+      "url": "https://unesco.org.uk/site/assets/files/5168/ukncfswhs15v1_1_giants_causeway.pdf",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-apostles",
+      "publisher": "Great Ocean Road Coast and Parks Authority",
+      "title": "Twelve Apostles: Plan your visit",
+      "url": "https://www.twelveapostles.org.au/plan-your-visit/",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-sisters-falls",
+      "publisher": "Visit Norway / Fjord Norway",
+      "title": "The Seven Sisters waterfall",
+      "url": "https://www.visitnorway.com/listings/the-seven-sisters/234880/",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-islands",
+      "publisher": "Parks Canada",
+      "title": "Thousand Islands National Park",
+      "url": "https://parks.canada.ca/pn-np/on/1000",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-mesopotamia",
+      "publisher": "Uppsala University",
+      "title": "Configuring Mesopotamia: Regional Signifiers and the Many Locations of the Land Between the Rivers",
+      "url": "https://uu.diva-portal.org/smash/get/diva2%3A1278997/FULLTEXT01.pdf",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "research_publication"
+    },
+    {
+      "id": "r-hungry",
+      "publisher": "Библиотека Русского географического общества",
+      "title": "Голодная степь в её прошлом и настоящем (исследование 1914 года)",
+      "url": "https://elib.rgo.ru/handle/123456789/212246",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "historical_primary"
+    },
+    {
+      "id": "r-hungry-language",
+      "publisher": "АН СССР / Президентская библиотека Азербайджана",
+      "title": "Советская тюркология, 1986, № 4: Мирзачуль и Голодная степь",
+      "url": "https://files.preslib.az/projects/turklib/jurnallar/sovet_turkologiya/sovtur_1986_4.pdf",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "research_publication"
+    },
+    {
+      "id": "r-cold",
+      "publisher": "Сибирское отделение Российской академии наук",
+      "title": "Доклад: полюс холода населённой части планеты",
+      "url": "https://www.sbras.ru/files/news/docs/lebedev.pdf",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "research_publication"
+    },
+    {
+      "id": "r-nemo",
+      "publisher": "NOAA",
+      "title": "Where is Point Nemo?",
+      "url": "https://oceanservice.noaa.gov/facts/nemo.html",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-beshtau",
+      "publisher": "Кабардино-Балкарский институт гуманитарных исследований",
+      "title": "Археология и этнология Северного Кавказа, 2013, № 2: Бештау",
+      "url": "https://www.kbigi.ru/fmedia/izdat/arheetno/2013/arheetno_2013_2.pdf",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "research_publication"
+    },
+    {
+      "id": "r-seven-rivers",
+      "publisher": "Министерство образования и науки Казахстана / e-history.kz",
+      "title": "Историко-географические исследования Жетісу",
+      "url": "https://e-history.kz/media/upload/55/2013/11/14/da28b9ae10323ce3df11d8203758d819.pdf",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "research_publication"
+    },
+    {
+      "id": "r-seven-seas",
+      "publisher": "Library of Congress",
+      "title": "What are the seven seas?",
+      "url": "https://www.loc.gov/everyday-mysteries/browse-all-questions/item/what-are-the-seven-seas/",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-periphrases",
+      "publisher": "Дипломатическая академия МИД России",
+      "title": "Новый язык. Новый мир. Новое мышление: географические перифразы (2019)",
+      "url": "https://www.dipacademy.ru/documents/979/New_Language._New_World._New_Thinking.pdf",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "research_publication"
+    },
+    {
+      "id": "r-japan",
+      "publisher": "Japan Tourism Agency",
+      "title": "Greeting the Rising Sun",
+      "url": "https://www.mlit.go.jp/tagengo-db/en/R3-00339.html",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-korea",
+      "publisher": "Veterans Affairs Canada",
+      "title": "Land of the Morning Calm and the Fragility of Peace",
+      "url": "https://www.veterans.gc.ca/pdf/remembrance/information-for/educators/korea/land-of-the-morning-calm-handout-ENG.pdf",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-finland",
+      "publisher": "Nordic Council / Nordic Council of Ministers",
+      "title": "Facts about Finland",
+      "url": "https://www.norden.org/en/information/facts-about-finland",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-bhutan",
+      "publisher": "Department of Tourism, Bhutan",
+      "title": "About Bhutan: The Land of the Thunder Dragon",
+      "url": "https://bhutan.travel/about",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-nz",
+      "publisher": "Te Ara — Encyclopedia of New Zealand",
+      "title": "Tāwhirimātea: the weather — The long white cloud",
+      "url": "https://teara.govt.nz/en/tawhirimatea-the-weather/print",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "encyclopedia"
+    },
+    {
+      "id": "r-egypt",
+      "publisher": "Egypt State Information Service",
+      "title": "The River Nile",
+      "url": "https://sis.gov.eg/en/egypt/tourism/landmarks/the-river-nile/",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-albion",
+      "publisher": "Культура.РФ",
+      "title": "Записки путешественника: Великобритания",
+      "url": "https://www.culture.ru/s/zapiski-puteshestvennika/velikobritaniya/",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-ghana",
+      "publisher": "Ghana Statistical Service",
+      "title": "History: the Gold Coast",
+      "url": "https://statsghana.gov.gh/about/history",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-coasts",
+      "publisher": "Osher Map Library, University of Southern Maine",
+      "title": "The Spatial Origins of the African Diaspora",
+      "url": "https://oshermaps.org/exhibitions/exodus-and-exile/v-origins-african-american-diaspora/",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "museum_reference"
+    },
+    {
+      "id": "r-greenland",
+      "publisher": "The Mariners’ Museum and Park",
+      "title": "Erik the Red — Ages of Exploration",
+      "url": "https://exploration.marinersmuseum.org/subject/erik-the-red/",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "museum_reference"
+    },
+    {
+      "id": "r-iceland",
+      "publisher": "Консульский департамент МИД России",
+      "title": "Исландия: общие сведения о стране",
+      "url": "https://www.kdmid.ru/docs/iceland/information-about-the-country/",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-icefire",
+      "publisher": "Visit Iceland",
+      "title": "Geography of Iceland — The land of fire and ice",
+      "url": "https://www.visiticeland.com/article/geography-of-iceland_1/",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-rome",
+      "publisher": "Roma Capitale — Turismo Roma",
+      "title": "Rome in a nutshell",
+      "url": "https://www.turismoroma.it/en/page/rome-nutshell",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-ny",
+      "publisher": "The New York Public Library",
+      "title": "New York, New York! The Big Apple from A to Z",
+      "url": "https://shop.nypl.org/collections/25-and-under/products/new-york-new-york-the-big-apple-from-a-to-z",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "institutional_catalog"
+    },
+    {
+      "id": "r-chicago",
+      "publisher": "Chicago Historical Society / Newberry Library",
+      "title": "Encyclopedia of Chicago: Windy City",
+      "url": "https://www.encyclopedia.chicagohistory.org/pages/6.html",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "encyclopedia"
+    },
+    {
+      "id": "r-paris",
+      "publisher": "Eurêkoi — public library reference service",
+      "title": "Pourquoi Paris est appelé Ville Lumière?",
+      "url": "https://www.eurekoi.org/un-de-nos-lecteurs-a-besoin-de-savoir-pourquoi-paris-est-appele-ville-lumiere-et-depuis-quand-merci-davance/",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "library_reference"
+    },
+    {
+      "id": "r-singapore",
+      "publisher": "Singapore Tourism Board",
+      "title": "Facts About Singapore: history and culture",
+      "url": "https://www.visitsingapore.com/travel-tips/about-singapore/",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-cairo",
+      "publisher": "Egypt Ministry of Tourism and Antiquities",
+      "title": "Egypt History: City of a Thousand Minarets",
+      "url": "https://www.experienceegypt.eg/en/home/history",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-hongkong",
+      "publisher": "Hong Kong Herbarium, Government of Hong Kong",
+      "title": "Aquilaria sinensis and origin of the name of Hong Kong",
+      "url": "https://www.herbarium.gov.hk/en/special-topics/botanical-nomenclature/botanical-nomenclature-detail/index-id-1.html",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-reykjavik",
+      "publisher": "City of Reykjavík",
+      "title": "Reykjavík UNESCO City of Literature — History and Language",
+      "url": "https://reykjavik.is/sites/default/files/ymis_skjol/skjol_utgefid_efni/reykjavik_unesco_city_of_literature.pdf",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-jaipur",
+      "publisher": "UNESCO World Heritage Centre / State Party nomination",
+      "title": "Jaipur City — Pink City, description of property",
+      "url": "https://whc.unesco.org/document/166320",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-rio",
+      "publisher": "MultiRio, Prefeitura do Rio de Janeiro",
+      "title": "Rio de Janeiro — História da Cidade",
+      "url": "https://www.multirio.rj.gov.br/index.php/estide/historia-do-brasil/rio-de-janeiro/2389",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-buenos",
+      "publisher": "Gobierno de la Ciudad de Buenos Aires",
+      "title": "Historia de la ciudad — Plan Maestro de Arbolado, tomo I",
+      "url": "https://buenosaires.gob.ar/sites/default/files/2023-08/Plan%20Maestro%20de%20Arbolado%20Tomo%20I.pdf",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-chefchaouen",
+      "publisher": "Moroccan National Tourist Office",
+      "title": "Notes on a Journey: Chefchaouen — The Blue City",
+      "url": "https://www.visitmorocco.com/en/blog/notes-journey-chefchaouen",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-jaisalmer",
+      "publisher": "Посольство Индии в Москве",
+      "title": "Индийский вестник: Джайсалмер — золотой город",
+      "url": "https://indianembassy-moscow.gov.in/pdf-vestnik/Indisky%20Vestnik%20November%20%20Russian%20Final%20Embassy.pdf",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-ortho",
+      "publisher": "Институт русского языка РАН / Грамота.ру",
+      "title": "Русский орфографический словарь — образные названия стран",
+      "url": "https://gramota.ru/storage/public/normdicts/orfograficheskij_slovar.pdf",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "dictionary"
+    },
+    {
+      "id": "r-cuba",
+      "publisher": "Объясняем.РФ",
+      "title": "Летим на Остров свободы: как провести отпуск на Кубе",
+      "url": "https://xn--90aivcdt6dxbc.xn--p1ai/articles/useful/letim-na-ostrov-svobody-kak-otdokhnut-na-kube/",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-sugarloaf",
+      "publisher": "Rio Film Commission / Prefeitura do Rio de Janeiro",
+      "title": "Sugarloaf Mountain and Urca Hill Natural Monument",
+      "url": "https://www.riofilmcommission.com/en/locations/sugarloaf-mountain-and-urca-hill-natural-monument/",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-table-mountain",
+      "publisher": "City of Cape Town",
+      "title": "Explore our mountains, fynbos and forests",
+      "url": "https://www.capetown.gov.za/explore-and-enjoy/nature-and-outdoors/mountains-and-hiking/explore-our-mountains-fynbos-and-forests/",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-easter",
+      "publisher": "NASA Earth Observatory",
+      "title": "Easter Island / Rapa Nui",
+      "url": "https://science.nasa.gov/earth/earth-observatory/easter-island-90027/",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-christmas",
+      "publisher": "Australian Department of Infrastructure",
+      "title": "Christmas Island environment and heritage",
+      "url": "https://www.infrastructure.gov.au/territories-regions/territories/indian-ocean-territories-christmas-island-and-cocos-keeling-islands/christmas-island/christmas-island-environment-and-heritage",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    },
+    {
+      "id": "r-cabo-verde",
+      "publisher": "UK Permanent Committee on Geographical Names",
+      "title": "Cape Verde / Cabo Verde: Toponymic Factfile",
+      "url": "https://assets.publishing.service.gov.uk/media/654cfedf014cc90010677386/Cape_Verde_Toponymic_Factfile.pdf",
+      "accessedAt": "2026-11-04",
+      "evidenceType": "primary"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "equator",
+      "nameRu": "Экватор",
+      "targetRu": "Параллель 0°",
+      "group": "coordinates",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "equator",
+      "sourceIds": [
+        "noaa-latitude"
+      ],
+      "basisRu": "Существующая проверенная карточка; соответствует принятой теме условных, образных, цветовых или числовых имён.",
+      "caveatRu": "Это географический термин, а не прозвище страны или видимая полоса на поверхности.",
+      "evidenceRu": "Условная линия делит Землю на Северное и Южное полушария."
+    },
+    {
+      "id": "cancer",
+      "nameRu": "Тропик Рака",
+      "targetRu": "Северный тропик",
+      "group": "coordinates",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "cancer",
+      "sourceIds": [
+        "noaa-latitude",
+        "noaa-solstice"
+      ],
+      "basisRu": "Существующая проверенная карточка; соответствует принятой теме условных, образных, цветовых или числовых имён.",
+      "caveatRu": "Широта округлена и медленно меняется с наклоном земной оси. «Тропик» без уточнения не задаёт одну линию.",
+      "evidenceRu": "Северная предельная широта, где Солнце может оказаться в зените."
+    },
+    {
+      "id": "capricorn",
+      "nameRu": "Тропик Козерога",
+      "targetRu": "Южный тропик",
+      "group": "coordinates",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "capricorn",
+      "sourceIds": [
+        "noaa-latitude",
+        "noaa-solstice"
+      ],
+      "basisRu": "Существующая проверенная карточка; соответствует принятой теме условных, образных, цветовых или числовых имён.",
+      "caveatRu": "Северный и Южный тропики — две разные линии; название не обозначает границу государства.",
+      "evidenceRu": "Южная предельная широта, где Солнце может оказаться в зените."
+    },
+    {
+      "id": "roaring-forties",
+      "nameRu": "Ревущие сороковые",
+      "targetRu": "Пояс сильных западных ветров",
+      "group": "region",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "roaring-forties",
+      "sourceIds": [
+        "noaa-roaring"
+      ],
+      "basisRu": "Существующая проверенная карточка; соответствует принятой теме условных, образных, цветовых или числовых имён.",
+      "caveatRu": "Это условное название пояса, а не строго очерченная административная область.",
+      "evidenceRu": "Морское название ветреных широт южнее 40° ю. ш.; суша редко прерывает круговой разгон ветра."
+    },
+    {
+      "id": "furious-fifties",
+      "nameRu": "Неистовые пятидесятые",
+      "targetRu": "Пояс западных ветров южнее сороковых",
+      "group": "region",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "furious-fifties",
+      "sourceIds": [
+        "noaa-roaring"
+      ],
+      "basisRu": "Существующая проверенная карточка; соответствует принятой теме условных, образных, цветовых или числовых имён.",
+      "caveatRu": "Русские переводы варьируются: встречаются «яростные» и «неистовые».",
+      "evidenceRu": "Английское Furious Fifties — продолжение традиции морских названий ветреных южных широт."
+    },
+    {
+      "id": "screaming-sixties",
+      "nameRu": "Кричащие шестидесятые",
+      "targetRu": "Южные морские широты",
+      "group": "region",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "screaming-sixties",
+      "sourceIds": [
+        "noaa-roaring"
+      ],
+      "basisRu": "Существующая проверенная карточка; соответствует принятой теме условных, образных, цветовых или числовых имён.",
+      "caveatRu": "Это образное морское название, не обещание постоянного звука или одной силы ветра.",
+      "evidenceRu": "Английское Screaming Sixties продолжает ряд «сороковые — пятидесятые — шестидесятые»."
+    },
+    {
+      "id": "horse-latitudes",
+      "nameRu": "Конские широты",
+      "targetRu": "Субтропические пояса слабых ветров",
+      "group": "region",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "horse-latitudes",
+      "sourceIds": [
+        "noaa-horse"
+      ],
+      "basisRu": "Существующая проверенная карточка; соответствует принятой теме условных, образных, цветовых или числовых имён.",
+      "caveatRu": "Истории про лошадей — объяснения происхождения названия, а не определение климатического пояса.",
+      "evidenceRu": "Пояса известны слабыми ветрами и малым количеством осадков."
+    },
+    {
+      "id": "doldrums",
+      "nameRu": "Долдрумс",
+      "targetRu": "Экваториальная зона сходимости ветров",
+      "group": "region",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "doldrums",
+      "sourceIds": [
+        "noaa-doldrums"
+      ],
+      "basisRu": "Существующая проверенная карточка; соответствует принятой теме условных, образных, цветовых или числовых имён.",
+      "caveatRu": "Положение меняется по сезонам. Штиль не означает отсутствия гроз и сильных ливней.",
+      "evidenceRu": "Морское название области слабых приземных ветров, где встречаются пассаты."
+    },
+    {
+      "id": "yellow-river-name",
+      "nameRu": "Жёлтая река",
+      "targetRu": "Хуанхэ",
+      "group": "water",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "yellow-river-name",
+      "sourceIds": [
+        "nasa-yellow-name"
+      ],
+      "basisRu": "Существующая проверенная карточка; соответствует принятой теме условных, образных, цветовых или числовых имён.",
+      "caveatRu": "Это перевод названия. Цвет воды зависит от наносов и условий наблюдения.",
+      "evidenceRu": "Хуанхэ известна как Жёлтая река: лёссовые наносы придают воде характерный оттенок."
+    },
+    {
+      "id": "red-river-name",
+      "nameRu": "Красная река",
+      "targetRu": "Хонгха",
+      "group": "water",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "red-river-name",
+      "sourceIds": [
+        "bre-red-river"
+      ],
+      "basisRu": "Существующая проверенная карточка; соответствует принятой теме условных, образных, цветовых или числовых имён.",
+      "caveatRu": "В мире есть и другие Red River. Для однозначности обязательно указывайте регион.",
+      "evidenceRu": "В русской энциклопедической традиции «Красная река» — другое название Хонгха."
+    },
+    {
+      "id": "blue-river-name",
+      "nameRu": "Голубая река",
+      "targetRu": "Янцзы",
+      "group": "water",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "blue-river-name",
+      "sourceIds": [
+        "ras-blue-river"
+      ],
+      "basisRu": "Существующая проверенная карточка; соответствует принятой теме условных, образных, цветовых или числовых имён.",
+      "caveatRu": "Историческое европейское наименование нельзя выдавать за буквальный перевод китайского Чанцзян или за постоянный цвет воды.",
+      "evidenceRu": "Такое название Янцзы встречается в русской географической литературе."
+    },
+    {
+      "id": "blue-nile-name",
+      "nameRu": "Голубой Нил",
+      "targetRu": "Восточная составляющая Нила",
+      "group": "water",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "blue-nile-name",
+      "sourceIds": [
+        "nasa-two-niles"
+      ],
+      "basisRu": "Существующая проверенная карточка; соответствует принятой теме условных, образных, цветовых или числовых имён.",
+      "caveatRu": "Голубой Нил и «Голубая река» как историческое имя Янцзы — разные объекты.",
+      "evidenceRu": "Голубой и Белый Нил сливаются у Хартума и далее образуют общий Нил."
+    },
+    {
+      "id": "white-nile-name",
+      "nameRu": "Белый Нил",
+      "targetRu": "Западная составляющая Нила у Хартума",
+      "group": "water",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "white-nile-name",
+      "sourceIds": [
+        "nasa-two-niles"
+      ],
+      "basisRu": "Существующая проверенная карточка; соответствует принятой теме условных, образных, цветовых или числовых имён.",
+      "caveatRu": "Цветовое имя само по себе не гарантирует, что вода всегда выглядит белой.",
+      "evidenceRu": "Название отличает одну из двух главных составляющих Нила перед их слиянием."
+    },
+    {
+      "id": "red-sea-name",
+      "nameRu": "Красное море",
+      "targetRu": "Море между Африкой и Аравийским полуостровом",
+      "group": "water",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "red-sea-name",
+      "sourceIds": [
+        "esa-red-sea"
+      ],
+      "basisRu": "Существующая проверенная карточка; соответствует принятой теме условных, образных, цветовых или числовых имён.",
+      "caveatRu": "Связь названия с цветением — приводимое источником объяснение; единственная доказанная этимология не утверждается.",
+      "evidenceRu": "Обычно вода сине-зелёная. ESA описывает красно-коричневый оттенок при отмирании массовых цветений."
+    },
+    {
+      "id": "black-sea-name",
+      "nameRu": "Чёрное море",
+      "targetRu": "Море к северу от Турции",
+      "group": "water",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "black-sea-name",
+      "sourceIds": [
+        "nasa-black-name"
+      ],
+      "basisRu": "Существующая проверенная карточка; соответствует принятой теме условных, образных, цветовых или числовых имён.",
+      "caveatRu": "Нельзя выбирать одну красивую версию этимологии и объявлять её установленным фактом.",
+      "evidenceRu": "Устойчивое географическое название моря; NASA отдельно отмечает неясность происхождения имени."
+    },
+    {
+      "id": "seven-sisters",
+      "nameRu": "Семь сестёр",
+      "targetRu": "Seven Sisters — меловые утёсы",
+      "group": "landscape",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "seven-sisters",
+      "sourceIds": [
+        "southdowns-seven"
+      ],
+      "basisRu": "Существующая проверенная карточка; соответствует принятой теме условных, образных, цветовых или числовых имён.",
+      "caveatRu": "Так называются разные места в мире; здесь речь именно об английских утёсах, а не о водопаде в Норвегии.",
+      "evidenceRu": "Известная цепь белых меловых утёсов на побережье Ла-Манша."
+    },
+    {
+      "id": "three-sisters",
+      "nameRu": "Три сестры",
+      "targetRu": "Three Sisters — скальное образование",
+      "group": "landscape",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "three-sisters",
+      "sourceIds": [
+        "nsw-three"
+      ],
+      "basisRu": "Существующая проверенная карточка; соответствует принятой теме условных, образных, цветовых или числовых имён.",
+      "caveatRu": "Местные предания требуют отдельного источника; современный туристический пересказ не равен древней зафиксированной легенде.",
+      "evidenceRu": "Знаменитая группа скал у Катумбы в национальном парке Голубые горы."
+    },
+    {
+      "id": "k2-name",
+      "nameRu": "К2",
+      "targetRu": "Чогори",
+      "group": "landscape",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "k2-name",
+      "sourceIds": [
+        "jaxa-k2"
+      ],
+      "basisRu": "Существующая проверенная карточка; соответствует принятой теме условных, образных, цветовых или числовых имён.",
+      "caveatRu": "Совпадение цифры с местом по высоте не означает, что вся нумерация гор — мировой рейтинг.",
+      "evidenceRu": "Короткое буквенно-цифровое имя второй по высоте горы мира."
+    },
+    {
+      "id": "perfume-river",
+      "nameRu": "Ароматная река",
+      "targetRu": "Хыонг · Perfume River",
+      "group": "water",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "perfume-river",
+      "sourceIds": [
+        "vietnam-huong"
+      ],
+      "basisRu": "Существующая проверенная карточка; соответствует принятой теме условных, образных, цветовых или числовых имён.",
+      "caveatRu": "«Парфюмерная», «Ароматная» и «Душистая» — варианты перевода; название не обещает постоянного запаха воды.",
+      "evidenceRu": "Официальный туристический ресурс Вьетнама использует имя Perfume River для реки, протекающей через Хюэ."
+    },
+    {
+      "id": "smoke-thunders",
+      "nameRu": "Дым, который гремит",
+      "targetRu": "Моси-оа-Тунья / водопад Виктория",
+      "group": "landscape",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "smoke-thunders",
+      "sourceIds": [
+        "nasa-mosi"
+      ],
+      "basisRu": "Существующая проверенная карточка; соответствует принятой теме условных, образных, цветовых или числовых имён.",
+      "caveatRu": "Это перевод известного местного имени, а не придуманное рекламное прозвище.",
+      "evidenceRu": "Моси-оа-Тунья — местное название водопада; перевод связывает облако брызг с дымом и шум воды с громом."
+    },
+    {
+      "id": "sulphur-mountain",
+      "nameRu": "Серная гора",
+      "targetRu": "Sulphur Mountain",
+      "group": "landscape",
+      "aliasesRu": [],
+      "decision": "reserve",
+      "publishedCardId": "sulphur-mountain",
+      "sourceIds": [
+        "whyte-sulphur"
+      ],
+      "basisRu": "Корректный локальный/переводной топоним, но само необычное русское имя уступает в общеизвестности объектам строгого ядра.",
+      "caveatRu": "Название относится к источникам. Запах сероводорода не следует приписывать чистой сере.",
+      "evidenceRu": "Имя связано с серными горячими источниками у подножия; происхождение описывает музей Канадских Скалистых гор."
+    },
+    {
+      "id": "death-valley",
+      "nameRu": "Долина Смерти",
+      "targetRu": "Death Valley",
+      "group": "landscape",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "death-valley",
+      "sourceIds": [
+        "nps-death-name"
+      ],
+      "basisRu": "Существующая проверенная карточка; соответствует принятой теме условных, образных, цветовых или числовых имён.",
+      "caveatRu": "Образное название не означает отсутствие жизни в долине.",
+      "evidenceRu": "NPS связывает имя с группой переселенцев, заблудившихся зимой 1849–1850 годов."
+    },
+    {
+      "id": "white-mountain",
+      "nameRu": "Белая гора",
+      "targetRu": "Мауна-Кеа",
+      "group": "landscape",
+      "aliasesRu": [],
+      "decision": "reserve",
+      "publishedCardId": "white-mountain",
+      "sourceIds": [
+        "smithsonian-mauna"
+      ],
+      "basisRu": "Корректный локальный/переводной топоним, но само необычное русское имя уступает в общеизвестности объектам строгого ядра.",
+      "caveatRu": "Перевод описывает имя конкретного вулкана; других «белых гор» в мире много.",
+      "evidenceRu": "Smithsonian приводит значение гавайского названия Mauna Kea — «Белая гора»."
+    },
+    {
+      "id": "arctic-circle",
+      "nameRu": "Северный полярный круг",
+      "targetRu": "Особая параллель Северного полушария",
+      "group": "coordinates",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "arctic-circle",
+      "sourceIds": [
+        "r-circles"
+      ],
+      "basisRu": "Базовая номенклатура школьного глобуса; входит в уже принятую ветку «Экватор и тропики».",
+      "caveatRu": "Это условная географическая линия, не физическая полоса и не прозвище.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "antarctic-circle",
+      "nameRu": "Южный полярный круг",
+      "targetRu": "Особая параллель Южного полушария",
+      "group": "coordinates",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "antarctic-circle",
+      "sourceIds": [
+        "r-circles"
+      ],
+      "basisRu": "Базовая номенклатура школьного глобуса; входит в уже принятую ветку «Экватор и тропики».",
+      "caveatRu": "Это условная географическая линия, не физическая полоса и не прозвище.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "prime-meridian",
+      "nameRu": "Нулевой меридиан",
+      "targetRu": "Гринвичский начальный меридиан",
+      "group": "coordinates",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "prime-meridian",
+      "sourceIds": [
+        "r-date"
+      ],
+      "basisRu": "Базовая номенклатура школьного глобуса; входит в уже принятую ветку «Экватор и тропики».",
+      "caveatRu": "Это условная географическая линия, не физическая полоса и не прозвище.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "date-line",
+      "nameRu": "Линия перемены дат",
+      "targetRu": "Условная линия в Тихом океане",
+      "group": "coordinates",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "date-line",
+      "sourceIds": [
+        "r-date"
+      ],
+      "basisRu": "Базовая номенклатура школьного глобуса; входит в уже принятую ветку «Экватор и тропики».",
+      "caveatRu": "Географические полюсы не смешивать с магнитными; линия перемены дат не совпадает повсюду с меридианом 180°.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "north-pole",
+      "nameRu": "Северный полюс",
+      "targetRu": "Географический Северный полюс",
+      "group": "coordinates",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "north-pole",
+      "sourceIds": [
+        "r-latitude"
+      ],
+      "basisRu": "Базовая номенклатура школьного глобуса; входит в уже принятую ветку «Экватор и тропики».",
+      "caveatRu": "Географические полюсы не смешивать с магнитными; линия перемены дат не совпадает повсюду с меридианом 180°.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "south-pole",
+      "nameRu": "Южный полюс",
+      "targetRu": "Географический Южный полюс",
+      "group": "coordinates",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "south-pole",
+      "sourceIds": [
+        "r-latitude"
+      ],
+      "basisRu": "Базовая номенклатура школьного глобуса; входит в уже принятую ветку «Экватор и тропики».",
+      "caveatRu": "Географические полюсы не смешивать с магнитными; линия перемены дат не совпадает повсюду с меридианом 180°.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "white-sea",
+      "nameRu": "Белое море",
+      "targetRu": "Море у северо-западного побережья России",
+      "group": "water",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "white-sea",
+      "sourceIds": [
+        "r-sea-colors"
+      ],
+      "basisRu": "Один из хрестоматийных примеров цветовых названий морей.",
+      "caveatRu": "Историю имени отделять от современного цвета воды.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "yellow-sea",
+      "nameRu": "Жёлтое море",
+      "targetRu": "Море между Китаем и Корейским полуостровом",
+      "group": "water",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "yellow-sea",
+      "sourceIds": [
+        "r-sea-colors"
+      ],
+      "basisRu": "Классическая пара к Жёлтой реке и другим цветным морям.",
+      "caveatRu": "Море и река — разные объекты; цвет не постоянен.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "dead-sea-name",
+      "nameRu": "Мёртвое море",
+      "targetRu": "Солёное озеро Иорданской впадины",
+      "group": "water",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "dead-sea-name",
+      "sourceIds": [
+        "r-dead"
+      ],
+      "basisRu": "Всемирно известный контраст имени «море» и географического типа озера.",
+      "caveatRu": "Название не означает полного отсутствия микроорганизмов.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "coral-sea",
+      "nameRu": "Коралловое море",
+      "targetRu": "Море к северо-востоку от Австралии",
+      "group": "water",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "coral-sea",
+      "sourceIds": [
+        "r-coral"
+      ],
+      "basisRu": "Крупное море из базовой океанской номенклатуры с предметным названием.",
+      "caveatRu": "Не приравнивать ко всей территории Большого Барьерного рифа.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "sargasso",
+      "nameRu": "Саргассово море",
+      "targetRu": "Область Атлантики, ограниченная течениями",
+      "group": "water",
+      "aliasesRu": [
+        "Море без берегов"
+      ],
+      "decision": "core",
+      "publishedCardId": "sargasso",
+      "sourceIds": [
+        "r-sargasso"
+      ],
+      "basisRu": "Классический вопрос «море без берегов»; название связано с саргассумом.",
+      "caveatRu": "«Без берегов» означает отсутствие сухопутной границы моря.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "rio-negro",
+      "nameRu": "Риу-Негру — Чёрная река",
+      "targetRu": "Крупный приток Амазонки в Южной Америке",
+      "group": "water",
+      "aliasesRu": [
+        "Рио-Негро"
+      ],
+      "decision": "core",
+      "publishedCardId": "rio-negro",
+      "sourceIds": [
+        "r-negro"
+      ],
+      "basisRu": "Известный гидроним и один из классических примеров чёрных вод.",
+      "caveatRu": "Не объединять с другими реками с именем Negro.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "colorado-name",
+      "nameRu": "Колорадо — красная / окрашенная река",
+      "targetRu": "Река бассейна Большого каньона",
+      "group": "water",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "colorado-name",
+      "sourceIds": [
+        "r-colorado"
+      ],
+      "basisRu": "Известная река с прозрачным испанским цветовым именем.",
+      "caveatRu": "Отличать от одноимённой реки Техаса; современная вода не обязана быть красной.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "belaya-name",
+      "nameRu": "Белая — Агидель",
+      "targetRu": "Река бассейна Камы",
+      "group": "water",
+      "aliasesRu": [
+        "Агидель"
+      ],
+      "decision": "core",
+      "publishedCardId": "belaya-name",
+      "sourceIds": [
+        "r-belaya"
+      ],
+      "basisRu": "Классический крупный российский гидроним с устойчивой парой имён.",
+      "caveatRu": "Другие реки Белая в счётчик не размножаются.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "orange-name",
+      "nameRu": "Оранжевая река",
+      "targetRu": "Река Южной Африки",
+      "group": "water",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "orange-name",
+      "sourceIds": [
+        "r-orange"
+      ],
+      "basisRu": "Классический цветовой вопрос с важным исключением в происхождении.",
+      "caveatRu": "Имя связано с Оранской династией, а не с обязательным оранжевым цветом воды.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "pacific-name",
+      "nameRu": "Тихий океан",
+      "targetRu": "Тихий океан",
+      "group": "water",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "pacific-name",
+      "sourceIds": [
+        "r-pacific"
+      ],
+      "basisRu": "Базовое мировое имя с историческим значением «мирный / спокойный».",
+      "caveatRu": "Это история имени, а не утверждение о безветренности океана.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "mediterranean-name",
+      "nameRu": "Средиземное море",
+      "targetRu": "Море между Европой, Африкой и Азией",
+      "group": "water",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "mediterranean-name",
+      "sourceIds": [
+        "r-mediterranean"
+      ],
+      "basisRu": "Классическое название «между землями».",
+      "caveatRu": "Не трактовать буквально как геометрический центр всей Земли.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "mont-blanc-name",
+      "nameRu": "Монблан — Белая гора",
+      "targetRu": "Высшая вершина Альп",
+      "group": "landscape",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "mont-blanc-name",
+      "sourceIds": [
+        "r-blanc"
+      ],
+      "basisRu": "Хрестоматийное имя знаменитой горы; более сильный пример для ядра, чем случайные одноимённые вершины.",
+      "caveatRu": "Не считать все «Белые горы» самостоятельными классическими кандидатами.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "blue-mountains",
+      "nameRu": "Голубые горы",
+      "targetRu": "Blue Mountains в Австралии",
+      "group": "landscape",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "blue-mountains",
+      "sourceIds": [
+        "r-blue"
+      ],
+      "basisRu": "Крупная узнаваемая горная область с классическим цветовым именем.",
+      "caveatRu": "Механизм голубой дымки описывать по источнику; не утверждать, что порода синяя.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "black-forest",
+      "nameRu": "Шварцвальд — Чёрный лес",
+      "targetRu": "Горная область юго-запада Германии",
+      "group": "landscape",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "black-forest",
+      "sourceIds": [
+        "r-black-forest"
+      ],
+      "basisRu": "Известный европейский топоним, устойчивый немецкий и английский варианты.",
+      "caveatRu": "Горная область, а не один отдельно стоящий лес.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "dragon-mountains",
+      "nameRu": "Драконовы горы",
+      "targetRu": "Дракенсберг в Южной Африке",
+      "group": "landscape",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "dragon-mountains",
+      "sourceIds": [
+        "r-drakensberg"
+      ],
+      "basisRu": "Классическая именованная горная система и объект природного наследия.",
+      "caveatRu": "Перевод имени не является доказательством легенды о реальном драконе.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "heavenly-mountains",
+      "nameRu": "Небесные горы",
+      "targetRu": "Тянь-Шань",
+      "group": "landscape",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "heavenly-mountains",
+      "sourceIds": [
+        "r-tianshan"
+      ],
+      "basisRu": "Общеизвестная горная система и устойчивый перевод имени.",
+      "caveatRu": "Перевод не равен доказанной истории первоначального возникновения топонима.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "himalaya-name",
+      "nameRu": "Обитель снегов",
+      "targetRu": "Гималаи",
+      "group": "landscape",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "himalaya-name",
+      "sourceIds": [
+        "r-himalaya"
+      ],
+      "basisRu": "Хрестоматийный санскритский смысл имени мировой горной системы.",
+      "caveatRu": "Не превращать перевод в отдельную горную систему.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "black-sands",
+      "nameRu": "Чёрные пески",
+      "targetRu": "Туркменские Каракумы",
+      "group": "landscape",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "black-sands",
+      "sourceIds": [
+        "r-karakum"
+      ],
+      "basisRu": "Классическая пара цветных пустынь Центральной Азии.",
+      "caveatRu": "Не утверждать, что весь песок визуально чёрный.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "red-sands",
+      "nameRu": "Красные пески",
+      "targetRu": "Кызылкум",
+      "group": "landscape",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "red-sands",
+      "sourceIds": [
+        "r-kyzyl"
+      ],
+      "basisRu": "Классическая пара к Каракумам.",
+      "caveatRu": "Топоним, а не неизменный цвет каждой дюны.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "empty-quarter",
+      "nameRu": "Пустая четверть",
+      "targetRu": "Руб-эль-Хали",
+      "group": "landscape",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "empty-quarter",
+      "sourceIds": [
+        "r-empty"
+      ],
+      "basisRu": "Устойчивое международное имя одной из крупнейших песчаных пустынь.",
+      "caveatRu": "«Четверть» — часть имени, не современная доля площади Аравии.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "land-of-fire",
+      "nameRu": "Огненная Земля",
+      "targetRu": "Архипелаг у южной оконечности Южной Америки",
+      "group": "landscape",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "land-of-fire",
+      "sourceIds": [
+        "r-tierra"
+      ],
+      "basisRu": "Базовая мировая номенклатура; знаменитое образное название.",
+      "caveatRu": "Архипелаг не путать с одним главным островом; не приписывать имя обязательному вулканизму.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "cape-hope",
+      "nameRu": "Мыс Доброй Надежды",
+      "targetRu": "Мыс на Капском полуострове",
+      "group": "landscape",
+      "aliasesRu": [
+        "Мыс Бурь"
+      ],
+      "decision": "core",
+      "publishedCardId": "cape-hope",
+      "sourceIds": [
+        "r-hope"
+      ],
+      "basisRu": "Классическое историческое переименование мыса Бурь.",
+      "caveatRu": "Оба имени относятся к одному мысу; это не крайняя южная точка Африки.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "cape-needles",
+      "nameRu": "Мыс Игольный",
+      "targetRu": "Мыс Агульяс на юге Африки",
+      "group": "landscape",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "cape-needles",
+      "sourceIds": [
+        "r-agulhas"
+      ],
+      "basisRu": "Хрестоматийный мыс, известный по картам крайних точек материков.",
+      "caveatRu": "Не подменять мысом Доброй Надежды; причины имени требуют отдельного изложения.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "skeleton-coast",
+      "nameRu": "Берег Скелетов",
+      "targetRu": "Атлантическое побережье Намибии",
+      "group": "landscape",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "skeleton-coast",
+      "sourceIds": [
+        "r-skeleton"
+      ],
+      "basisRu": "Устойчивое региональное имя и национальный парк.",
+      "caveatRu": "Не распространять автоматически на всё побережье Намибии.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "giants-causeway-name",
+      "nameRu": "Дорога гигантов",
+      "targetRu": "Базальтовое побережье Северной Ирландии",
+      "group": "landscape",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "giants-causeway-name",
+      "sourceIds": [
+        "r-giants"
+      ],
+      "basisRu": "Классическое образное название известного объекта UNESCO.",
+      "caveatRu": "Предание о гигантах и геологическое объяснение хранить раздельно.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "twelve-apostles",
+      "nameRu": "Двенадцать апостолов",
+      "targetRu": "Морские скалы у побережья Виктории, Австралия",
+      "group": "landscape",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "twelve-apostles",
+      "sourceIds": [
+        "r-apostles"
+      ],
+      "basisRu": "Международно узнаваемая группа скал с устойчивым числовым именем.",
+      "caveatRu": "Число в имени не равно обязательному современному количеству стоящих скал.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "seven-sisters-falls",
+      "nameRu": "Семь сестёр — водопад",
+      "targetRu": "Гейрангер-фьорд, Норвегия",
+      "group": "landscape",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "seven-sisters-falls",
+      "sourceIds": [
+        "r-sisters-falls"
+      ],
+      "basisRu": "Классический именованный водопад; другой объект, чем английские утёсы.",
+      "caveatRu": "Уточнять страну и тип объекта. Одни и те же струи не считать семью отдельными карточками.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "thousand-islands",
+      "nameRu": "Тысяча островов",
+      "targetRu": "Архипелаг на реке Святого Лаврентия",
+      "group": "landscape",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "thousand-islands",
+      "sourceIds": [
+        "r-islands"
+      ],
+      "basisRu": "Известное устойчивое числовое название на границе США и Канады.",
+      "caveatRu": "Не выдавать тысячу за точный результат подсчёта; не смешивать с одноимёнными группами островов.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "beshtau-name",
+      "nameRu": "Бештау — Пять гор",
+      "targetRu": "Горный массив в районе Кавказских Минеральных Вод",
+      "group": "landscape",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "beshtau-name",
+      "sourceIds": [
+        "r-beshtau"
+      ],
+      "basisRu": "Классический российский числовой топоним, связанный с именем Пятигорска.",
+      "caveatRu": "Объяснять горный массив; не выдумывать по аналогии «седьмую гору».",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "roof-world",
+      "nameRu": "Крыша мира",
+      "targetRu": "Памир; в других традициях — Тибетское нагорье",
+      "group": "region",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "roof-world",
+      "sourceIds": [
+        "r-roof",
+        "r-roof-tibet"
+      ],
+      "basisRu": "Классическое высокогорное прозвище.",
+      "caveatRu": "Нельзя утверждать единственную универсальную привязку и выдавать прозвище за доказанную этимологию слова «Памир».",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "third-pole",
+      "nameRu": "Третий полюс",
+      "targetRu": "Тибетское нагорье и прилегающая высокогорная Азия",
+      "group": "region",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "third-pole",
+      "sourceIds": [
+        "r-third"
+      ],
+      "basisRu": "Устойчивое название в гляциологических публикациях.",
+      "caveatRu": "Это образное научное обозначение ледникового региона, не третий географический полюс Земли.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "ring-fire",
+      "nameRu": "Тихоокеанское огненное кольцо",
+      "targetRu": "Вулканические и сейсмические области по окраинам Тихого океана",
+      "group": "region",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "ring-fire",
+      "sourceIds": [
+        "r-ring"
+      ],
+      "basisRu": "Классический термин физической географии.",
+      "caveatRu": "Не единая связанная вулканическая система; «кольцо» не обязано быть замкнутым.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "bermuda-triangle",
+      "nameRu": "Бермудский треугольник",
+      "targetRu": "Условная область западной части Северной Атлантики",
+      "group": "region",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "bermuda-triangle",
+      "sourceIds": [
+        "r-bermuda"
+      ],
+      "basisRu": "Давно известное географическое прозвище, пригодное для развенчания путаницы.",
+      "caveatRu": "Неофициальное имя без закреплённых границ. NOAA не находит повышенной частоты загадочных исчезновений.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "golden-horn",
+      "nameRu": "Золотой Рог",
+      "targetRu": "Залив в Стамбуле",
+      "group": "region",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "golden-horn",
+      "sourceIds": [
+        "r-horn"
+      ],
+      "basisRu": "Классический образный гидроним исторической географии.",
+      "caveatRu": "Отличать от одноимённых бухт, в том числе во Владивостоке.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "between-rivers",
+      "nameRu": "Междуречье",
+      "targetRu": "Месопотамия — исторический район Тигра и Евфрата",
+      "group": "region",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "between-rivers",
+      "sourceIds": [
+        "r-mesopotamia"
+      ],
+      "basisRu": "Классический перевод древнего географического имени.",
+      "caveatRu": "Границы понятия исторически менялись; не любой участок между двумя реками — Месопотамия.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "hungry-steppe",
+      "nameRu": "Голодная степь",
+      "targetRu": "Мирзачуль в Центральной Азии",
+      "group": "region",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "hungry-steppe",
+      "sourceIds": [
+        "r-hungry",
+        "r-hungry-language"
+      ],
+      "basisRu": "Имя зафиксировано в географических исследованиях задолго до современного туризма.",
+      "caveatRu": "Не смешивать с Бетпак-Далой; историческое название не описывает современное землепользование.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "cold-pole",
+      "nameRu": "Полюс холода",
+      "targetRu": "Район Верхоянска и Оймякона в населённой части Северного полушария",
+      "group": "region",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "cold-pole",
+      "sourceIds": [
+        "r-cold"
+      ],
+      "basisRu": "Классический климатический термин с известными привязками.",
+      "caveatRu": "Нужно указывать полушарие, населённость и метод: абсолютный минимум, средняя температура, место измерения.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "point-nemo",
+      "nameRu": "Точка Немо",
+      "targetRu": "Океанический полюс недоступности в южной части Тихого океана",
+      "group": "region",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "point-nemo",
+      "sourceIds": [
+        "r-nemo"
+      ],
+      "basisRu": "Устойчивое имя особой географической точки.",
+      "caveatRu": "Условная точка расчёта, не остров и не станция.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "seven-rivers",
+      "nameRu": "Семиречье — Жетысу",
+      "targetRu": "Историко-географическая область Центральной Азии",
+      "group": "region",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "seven-rivers",
+      "sourceIds": [
+        "r-seven-rivers"
+      ],
+      "basisRu": "Хрестоматийное региональное имя с числовым компонентом.",
+      "caveatRu": "Не представлять один выбранный список семи рек как единственно возможный.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "seven-seas",
+      "nameRu": "Семь морей",
+      "targetRu": "Историческое выражение об известных морях и океанских пространствах",
+      "group": "region",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "seven-seas",
+      "sourceIds": [
+        "r-seven-seas"
+      ],
+      "basisRu": "Классическое морское выражение с документированной историей.",
+      "caveatRu": "Library of Congress прямо отмечает отсутствие единственного окончательного списка.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "rising-sun",
+      "nameRu": "Страна восходящего солнца",
+      "targetRu": "Япония",
+      "group": "country",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "rising-sun",
+      "sourceIds": [
+        "r-japan"
+      ],
+      "basisRu": "Классическое страновое имя с ранней письменной историей.",
+      "caveatRu": "Поэтическое имя страны не означает географически первый восход на Земле.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "morning-calm",
+      "nameRu": "Страна утренней свежести",
+      "targetRu": "Корея",
+      "group": "country",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "morning-calm",
+      "sourceIds": [
+        "r-korea"
+      ],
+      "basisRu": "Устойчивое старое поэтическое имя Кореи.",
+      "caveatRu": "Не приписывать исключительно современной Республике Корея и не выдавать за обещание климата.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "thousand-lakes",
+      "nameRu": "Страна тысячи озёр",
+      "targetRu": "Финляндия",
+      "group": "country",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "thousand-lakes",
+      "sourceIds": [
+        "r-finland"
+      ],
+      "basisRu": "Один из стандартных примеров страновых прозвищ.",
+      "caveatRu": "Тысяча — образное число, не перепись озёр.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "thunder-dragon",
+      "nameRu": "Страна Громового Дракона",
+      "targetRu": "Бутан",
+      "group": "country",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "thunder-dragon",
+      "sourceIds": [
+        "r-bhutan"
+      ],
+      "basisRu": "Устойчивое национальное имя Друк-Юл.",
+      "caveatRu": "Мифологический образ, не факт существования драконов.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "long-white-cloud",
+      "nameRu": "Страна длинного белого облака",
+      "targetRu": "Аотеароа / Новая Зеландия",
+      "group": "country",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "long-white-cloud",
+      "sourceIds": [
+        "r-nz"
+      ],
+      "basisRu": "Широко известное маорийское имя и его традиционный перевод.",
+      "caveatRu": "Истории происхождения и раннее географическое употребление не сводить к единственной доказанной легенде.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "green-continent",
+      "nameRu": "Зелёный континент",
+      "targetRu": "Австралия",
+      "group": "country",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "green-continent",
+      "sourceIds": [
+        "r-periphrases"
+      ],
+      "basisRu": "Закреплённая русская географическая перифраза.",
+      "caveatRu": "Не означает, что весь материк покрыт зелёной растительностью.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "gift-nile",
+      "nameRu": "Дар Нила",
+      "targetRu": "Египет",
+      "group": "country",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "gift-nile",
+      "sourceIds": [
+        "r-egypt"
+      ],
+      "basisRu": "Классическое историческое выражение, связанное с Геродотом.",
+      "caveatRu": "Это характеристика роли реки, не официальное название государства.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "maple-leaf",
+      "nameRu": "Страна кленового листа",
+      "targetRu": "Канада",
+      "group": "country",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "maple-leaf",
+      "sourceIds": [
+        "r-periphrases"
+      ],
+      "basisRu": "Устойчивое страновое прозвище в русской справочной и учебной традиции.",
+      "caveatRu": "Не подменять названием одного листа ботанический состав всей страны.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "foggy-albion",
+      "nameRu": "Туманный Альбион",
+      "targetRu": "Великобритания / Англия в русской литературной традиции",
+      "group": "country",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "foggy-albion",
+      "sourceIds": [
+        "r-albion"
+      ],
+      "basisRu": "Классическая литературно-географическая перифраза.",
+      "caveatRu": "Англия, остров Великобритания и государство — не тождественные по объёму понятия.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "gold-coast",
+      "nameRu": "Золотой Берег",
+      "targetRu": "Историческая область и колония, связанная с современной Ганой",
+      "group": "country",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "gold-coast",
+      "sourceIds": [
+        "r-ghana",
+        "r-coasts"
+      ],
+      "basisRu": "Классическое историческое название на карте Западной Африки.",
+      "caveatRu": "Не объявлять старые и современные государственные границы полностью совпадающими.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "ivory-coast",
+      "nameRu": "Берег Слоновой Кости",
+      "targetRu": "Кот-д’Ивуар и историческое название побережья",
+      "group": "country",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "ivory-coast",
+      "sourceIds": [
+        "r-coasts"
+      ],
+      "basisRu": "Классическое название и известный буквальный французский эквивалент.",
+      "caveatRu": "В современной официальной русской форме — Кот-д’Ивуар; исторический берег и государство различать.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "slave-coast",
+      "nameRu": "Невольничий Берег",
+      "targetRu": "Историческое побережье Бенинского залива",
+      "group": "country",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "slave-coast",
+      "sourceIds": [
+        "r-coasts"
+      ],
+      "basisRu": "Устоявшееся историко-географическое имя, показанное на старых картах.",
+      "caveatRu": "Колониальный исторический термин; не современное государство или характеристика жителей.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "greenland-name",
+      "nameRu": "Зелёная земля",
+      "targetRu": "Гренландия",
+      "group": "country",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "greenland-name",
+      "sourceIds": [
+        "r-greenland"
+      ],
+      "basisRu": "Хрестоматийный контраст значения имени и ледникового облика острова.",
+      "caveatRu": "Версии мотива выбора имени не смешивать с буквальным переводом.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "iceland-name",
+      "nameRu": "Ледяная страна",
+      "targetRu": "Исландия",
+      "group": "country",
+      "aliasesRu": [
+        "Страна огня и льда"
+      ],
+      "decision": "core",
+      "publishedCardId": "iceland-name",
+      "sourceIds": [
+        "r-iceland",
+        "r-icefire"
+      ],
+      "basisRu": "Классический перевод имени; второе устойчивое описание — страна огня и льда.",
+      "caveatRu": "Два выражения об одной стране считаются одной карточкой, а не двумя.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "eternal-city",
+      "nameRu": "Вечный город",
+      "targetRu": "Рим",
+      "group": "city",
+      "aliasesRu": [
+        "Город на семи холмах"
+      ],
+      "decision": "core",
+      "publishedCardId": "eternal-city",
+      "sourceIds": [
+        "r-rome"
+      ],
+      "basisRu": "Одно из наиболее устойчивых исторических имён города.",
+      "caveatRu": "«Город на семи холмах» — дополнительное имя той же карточки, не отдельный объект.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "big-apple",
+      "nameRu": "Большое яблоко",
+      "targetRu": "Нью-Йорк",
+      "group": "city",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "big-apple",
+      "sourceIds": [
+        "r-ny",
+        "r-periphrases"
+      ],
+      "basisRu": "Классическое международное городское прозвище.",
+      "caveatRu": "Не ботаническая или сельскохозяйственная характеристика города.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "windy-city",
+      "nameRu": "Город ветров",
+      "targetRu": "Чикаго",
+      "group": "city",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "windy-city",
+      "sourceIds": [
+        "r-chicago"
+      ],
+      "basisRu": "Прозвище зафиксировано исторической энциклопедией города.",
+      "caveatRu": "Не утверждать, что Чикаго — самый ветреный город мира.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "city-light",
+      "nameRu": "Город света",
+      "targetRu": "Париж",
+      "group": "city",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "city-light",
+      "sourceIds": [
+        "r-paris"
+      ],
+      "basisRu": "Классическая французская городская перифраза.",
+      "caveatRu": "Объяснения происхождения имени не подменять одной красивой версией.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "lion-city",
+      "nameRu": "Город льва",
+      "targetRu": "Сингапур",
+      "group": "city",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "lion-city",
+      "sourceIds": [
+        "r-singapore"
+      ],
+      "basisRu": "Известный смысл имени Singapura, используемый официальным туристическим ведомством.",
+      "caveatRu": "Рассказ об увиденном льве — легенда, а не подтверждённое зоологическое наблюдение.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "thousand-minarets",
+      "nameRu": "Город тысячи минаретов",
+      "targetRu": "Каир",
+      "group": "city",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "thousand-minarets",
+      "sourceIds": [
+        "r-cairo"
+      ],
+      "basisRu": "Давно закрепившееся числовое имя города.",
+      "caveatRu": "Тысяча — образное число, а не актуальный подсчёт всех минаретов.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "northern-palmyra",
+      "nameRu": "Северная Пальмира",
+      "targetRu": "Санкт-Петербург",
+      "group": "city",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "northern-palmyra",
+      "sourceIds": [
+        "r-periphrases"
+      ],
+      "basisRu": "Классическое русское литературное имя, а не новый туристический слоган.",
+      "caveatRu": "Не обозначает перенос древней сирийской Пальмиры на другую широту.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "fragrant-harbour",
+      "nameRu": "Благоухающая гавань",
+      "targetRu": "Гонконг",
+      "group": "city",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "fragrant-harbour",
+      "sourceIds": [
+        "r-hongkong"
+      ],
+      "basisRu": "Классический пример географического имени с компонентом запаха.",
+      "caveatRu": "Буквальный смысл и конкретные версии связи с благовониями разделять.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "smoky-bay",
+      "nameRu": "Дымная бухта",
+      "targetRu": "Рейкьявик",
+      "group": "city",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "smoky-bay",
+      "sourceIds": [
+        "r-reykjavik"
+      ],
+      "basisRu": "Известный перевод имени столицы, подтверждённый её муниципалитетом.",
+      "caveatRu": "Речь о паре горячих источников; не об обязательном дыме пожаров.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "pink-city",
+      "nameRu": "Розовый город",
+      "targetRu": "Джайпур",
+      "group": "city",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "pink-city",
+      "sourceIds": [
+        "r-jaipur"
+      ],
+      "basisRu": "Историческое цветовое имя, закреплённое в номинации UNESCO.",
+      "caveatRu": "Не вся современная городская агломерация окрашена одинаково.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "january-river",
+      "nameRu": "Январская река",
+      "targetRu": "Рио-де-Жанейро",
+      "group": "city",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "january-river",
+      "sourceIds": [
+        "r-rio"
+      ],
+      "basisRu": "Классический календарный топоним и известный школьный пример.",
+      "caveatRu": "Исторически имя связано с бухтой; «приняли за реку» источник описывает как предположение.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "fair-winds",
+      "nameRu": "Добрые ветры",
+      "targetRu": "Буэнос-Айрес",
+      "group": "city",
+      "aliasesRu": [],
+      "decision": "reserve",
+      "publishedCardId": null,
+      "sourceIds": [
+        "r-buenos"
+      ],
+      "basisRu": "Классический город, но перед публикацией нужен аккуратный русский вариант перевода и церковный контекст имени.",
+      "caveatRu": "Не объяснять имя просто приятной погодой.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "sugarloaf-name",
+      "nameRu": "Сахарная Голова",
+      "targetRu": "Гора Пан-ди-Асукар в Рио-де-Жанейро",
+      "group": "landscape",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "sugarloaf-name",
+      "sourceIds": [
+        "r-sugarloaf"
+      ],
+      "basisRu": "Один из знаковых мировых примеров образного названия горы.",
+      "caveatRu": "Различать гору, туристический комплекс и её одноимённые аналоги в других странах.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "table-mountain-name",
+      "nameRu": "Столовая гора",
+      "targetRu": "Table Mountain в Кейптауне",
+      "group": "landscape",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "table-mountain-name",
+      "sourceIds": [
+        "r-table-mountain"
+      ],
+      "basisRu": "Классический пример названия горы по её плоской форме.",
+      "caveatRu": "Слово «столовая» бывает термином типа рельефа; здесь конкретная южноафриканская гора.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "easter-island",
+      "nameRu": "Остров Пасхи",
+      "targetRu": "Рапануи в юго-восточной части Тихого океана",
+      "group": "landscape",
+      "aliasesRu": [
+        "Рапануи"
+      ],
+      "decision": "core",
+      "publishedCardId": "easter-island",
+      "sourceIds": [
+        "r-easter"
+      ],
+      "basisRu": "Базовый мировой топоним с известным календарным именем.",
+      "caveatRu": "Пасхальное европейское имя и местное Рапануи — одна карточка, не два острова.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "christmas-island",
+      "nameRu": "Остров Рождества",
+      "targetRu": "Австралийская территория в Индийском океане",
+      "group": "landscape",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "christmas-island",
+      "sourceIds": [
+        "r-christmas"
+      ],
+      "basisRu": "Классическое календарное имя острова.",
+      "caveatRu": "Не путать с Киритимати в Тихом океане; совпадение имени требует уточнения региона.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "tulip-country",
+      "nameRu": "Страна тюльпанов",
+      "targetRu": "Нидерланды",
+      "group": "country",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "tulip-country",
+      "sourceIds": [
+        "r-ortho"
+      ],
+      "basisRu": "Перифраза закреплена в академическом орфографическом словаре.",
+      "caveatRu": "Голландия в традиционной перифразе и современное государство Нидерланды не тождественны по объёму.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "freedom-island",
+      "nameRu": "Остров свободы",
+      "targetRu": "Куба",
+      "group": "country",
+      "aliasesRu": [],
+      "decision": "core",
+      "publishedCardId": "freedom-island",
+      "sourceIds": [
+        "r-cuba"
+      ],
+      "basisRu": "Давно употребляемое русское страновое прозвище.",
+      "caveatRu": "Историко-политический образ, а не официальное название острова или государства.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "green-cape-islands",
+      "nameRu": "Острова Зелёного Мыса",
+      "targetRu": "Кабо-Верде",
+      "group": "country",
+      "aliasesRu": [
+        "Кабо-Верде"
+      ],
+      "decision": "core",
+      "publishedCardId": "green-cape-islands",
+      "sourceIds": [
+        "r-cabo-verde"
+      ],
+      "basisRu": "Классический русский вариант названия архипелага и известное старое имя государства.",
+      "caveatRu": "Зелёный Мыс находится на материке у Дакара; не переносить сам мыс на острова.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "blue-chefchaouen",
+      "nameRu": "Голубой город",
+      "targetRu": "Шефшауэн",
+      "group": "city",
+      "aliasesRu": [],
+      "decision": "reserve",
+      "publishedCardId": null,
+      "sourceIds": [
+        "r-chefchaouen"
+      ],
+      "basisRu": "Устойчивое имя, но известность в основном туристическая; за пределами строгого общего ядра.",
+      "caveatRu": "Голубых городов несколько.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "gold-jaisalmer",
+      "nameRu": "Золотой город",
+      "targetRu": "Джайсалмер",
+      "group": "city",
+      "aliasesRu": [],
+      "decision": "reserve",
+      "publishedCardId": null,
+      "sourceIds": [
+        "r-jaisalmer"
+      ],
+      "basisRu": "Имя подтверждено, но кандидат сильнее для отдельной подборки Индии.",
+      "caveatRu": "Городов с таким прозвищем несколько.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "northern-venice",
+      "nameRu": "Северная Венеция",
+      "targetRu": "Несколько европейских городов",
+      "group": "city",
+      "aliasesRu": [],
+      "decision": "reserve",
+      "publishedCardId": null,
+      "sourceIds": [
+        "r-periphrases"
+      ],
+      "basisRu": "Устойчивое выражение, но нет единственного универсального объекта.",
+      "caveatRu": "Не задавать вопрос с одним правильным городом без регионального уточнения.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "third-rome",
+      "nameRu": "Третий Рим",
+      "targetRu": "Москва в исторической доктрине",
+      "group": "city",
+      "aliasesRu": [],
+      "decision": "reserve",
+      "publishedCardId": null,
+      "sourceIds": [
+        "r-periphrases"
+      ],
+      "basisRu": "Классическое выражение, но главным образом тема истории идей, а не физической географии.",
+      "caveatRu": "Не географический мировой рейтинг городов.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "white-elephant-country",
+      "nameRu": "Страна белого слона",
+      "targetRu": "Сиам / Таиланд",
+      "group": "country",
+      "aliasesRu": [],
+      "decision": "reserve",
+      "publishedCardId": null,
+      "sourceIds": [],
+      "basisRu": "Известное историческое имя; требуется отдельная проверка исторического периода и употребления.",
+      "caveatRu": "Современный туристический слоган и историческое имя — не одно и то же.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "midnight-sun",
+      "nameRu": "Страна полуночного солнца",
+      "targetRu": "Норвегия и другие северные страны",
+      "group": "country",
+      "aliasesRu": [],
+      "decision": "reserve",
+      "publishedCardId": null,
+      "sourceIds": [],
+      "basisRu": "Выражение классическое, но не уникально для Норвегии.",
+      "caveatRu": "Нужна карточка о неоднозначности, а не ответ «только Норвегия».",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "spice-islands",
+      "nameRu": "Острова пряностей",
+      "targetRu": "Молуккские острова; также другие группы в разных контекстах",
+      "group": "region",
+      "aliasesRu": [],
+      "decision": "reserve",
+      "publishedCardId": null,
+      "sourceIds": [],
+      "basisRu": "Классическое историческое имя; требуется отдельный разбор неоднозначности и источник.",
+      "caveatRu": "Не подменять Молуккские острова Занзибаром без контекста.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "pepper-coast",
+      "nameRu": "Перцовый Берег",
+      "targetRu": "Историческое побережье Либерии",
+      "group": "country",
+      "aliasesRu": [],
+      "decision": "reserve",
+      "publishedCardId": null,
+      "sourceIds": [
+        "r-coasts"
+      ],
+      "basisRu": "Реальное историческое имя, но заметно слабее известных Золотого и Невольничьего берегов для общего ядра.",
+      "caveatRu": "Один исторический берег, а не новая страна.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "red-island",
+      "nameRu": "Красный остров",
+      "targetRu": "Мадагаскар в образной литературе",
+      "group": "country",
+      "aliasesRu": [],
+      "decision": "reserve",
+      "publishedCardId": null,
+      "sourceIds": [],
+      "basisRu": "Потенциально уместно, но не достаточно одной ссылки на цвет почв.",
+      "caveatRu": "Нужно подтвердить устойчивое имя, а не только наблюдаемый цвет.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "seven-summits",
+      "nameRu": "Семь вершин",
+      "targetRu": "Альпинистский набор высших вершин континентов",
+      "group": "region",
+      "aliasesRu": [],
+      "decision": "reserve",
+      "publishedCardId": null,
+      "sourceIds": [],
+      "basisRu": "Устойчивый набор, но ближе к теме альпинизма; состав зависит от соглашения.",
+      "caveatRu": "Не семь новых самостоятельных имён; не считать одну подборку семь раз.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "seventh-mountain",
+      "nameRu": "Седьмая гора",
+      "targetRu": "Неуточнённый пример из обсуждения",
+      "group": "region",
+      "aliasesRu": [],
+      "decision": "excluded",
+      "publishedCardId": null,
+      "sourceIds": [],
+      "basisRu": "Не установлен общеизвестный устойчивый объект с таким именем. Это не утверждение, что нигде не существует локального одноимённого места.",
+      "caveatRu": "Отказ относится к формату рубрики, а не к утверждению, что выражение нигде не употребляется.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "russian-maldives",
+      "nameRu": "Русские Мальдивы",
+      "targetRu": "Повторяющийся рекламный шаблон",
+      "group": "region",
+      "aliasesRu": [],
+      "decision": "excluded",
+      "publishedCardId": null,
+      "sourceIds": [],
+      "basisRu": "Неоднозначная современная туристическая аналогия; не классическое имя одного объекта.",
+      "caveatRu": "Отказ относится к формату рубрики, а не к утверждению, что выражение нигде не употребляется.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "siberian-switzerland",
+      "nameRu": "Сибирская Швейцария",
+      "targetRu": "Повторяющаяся региональная аналогия",
+      "group": "region",
+      "aliasesRu": [],
+      "decision": "excluded",
+      "publishedCardId": null,
+      "sourceIds": [],
+      "basisRu": "Применяется к разным местам; исключена из строгого ядра как способ бесконтрольно размножать карточки.",
+      "caveatRu": "Отказ относится к формату рубрики, а не к утверждению, что выражение нигде не употребляется.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "little-venices",
+      "nameRu": "Маленькая Венеция — местные варианты",
+      "targetRu": "Группа повторяющихся туристических прозвищ",
+      "group": "region",
+      "aliasesRu": [],
+      "decision": "excluded",
+      "publishedCardId": null,
+      "sourceIds": [],
+      "basisRu": "Не считать каждую местную копию новым классическим географическим именем.",
+      "caveatRu": "Отказ относится к формату рубрики, а не к утверждению, что выражение нигде не употребляется.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "instagram-blue-lakes",
+      "nameRu": "Голубое озеро — все локальные варианты",
+      "targetRu": "Одноимённые небольшие озёра",
+      "group": "region",
+      "aliasesRu": [],
+      "decision": "excluded",
+      "publishedCardId": null,
+      "sourceIds": [],
+      "basisRu": "Цветовое слово само по себе не доказывает общеизвестность и учебную ценность.",
+      "caveatRu": "Отказ относится к формату рубрики, а не к утверждению, что выражение нигде не употребляется.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "all-white-mountains",
+      "nameRu": "Белая гора — все местные варианты",
+      "targetRu": "Одноимённые горы",
+      "group": "region",
+      "aliasesRu": [],
+      "decision": "excluded",
+      "publishedCardId": null,
+      "sourceIds": [],
+      "basisRu": "Не добавлять сотни вершин только ради совпадения с цветовой категорией.",
+      "caveatRu": "Отказ относится к формату рубрики, а не к утверждению, что выражение нигде не употребляется.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "all-red-rivers",
+      "nameRu": "Красная река — все местные варианты",
+      "targetRu": "Одноимённые реки",
+      "group": "region",
+      "aliasesRu": [],
+      "decision": "excluded",
+      "publishedCardId": null,
+      "sourceIds": [],
+      "basisRu": "Для ядра выбраны конкретные известные реки с региональным уточнением, а не все одноимённые водотоки.",
+      "caveatRu": "Отказ относится к формату рубрики, а не к утверждению, что выражение нигде не употребляется.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "hell-gate",
+      "nameRu": "Врата ада",
+      "targetRu": "Дарваза и одноимённые туристические объекты",
+      "group": "region",
+      "aliasesRu": [],
+      "decision": "excluded",
+      "publishedCardId": null,
+      "sourceIds": [],
+      "basisRu": "Известное современное медийное прозвище, но не входит в выбранное классическое ядро; имя не уникально.",
+      "caveatRu": "Отказ относится к формату рубрики, а не к утверждению, что выражение нигде не употребляется.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "river-five-colors",
+      "nameRu": "Река пяти цветов",
+      "targetRu": "Каньо-Кристалес",
+      "group": "region",
+      "aliasesRu": [],
+      "decision": "excluded",
+      "publishedCardId": null,
+      "sourceIds": [],
+      "basisRu": "Реальный необычный объект, однако текущий отбор не пополняется каждым современным туристическим эпитетом.",
+      "caveatRu": "Отказ относится к формату рубрики, а не к утверждению, что выражение нигде не употребляется.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "petrifying-lake",
+      "nameRu": "Окаменяющее озеро",
+      "targetRu": "Сенсационные описания Натрона",
+      "group": "region",
+      "aliasesRu": [],
+      "decision": "excluded",
+      "publishedCardId": null,
+      "sourceIds": [],
+      "basisRu": "Формулировка вводит в заблуждение; сохранять реальное имя озера и научное описание, не превращать пересказ в топоним.",
+      "caveatRu": "Отказ относится к формату рубрики, а не к утверждению, что выражение нигде не употребляется.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "lungs-planet",
+      "nameRu": "Лёгкие планеты",
+      "targetRu": "Амазония и другие леса",
+      "group": "region",
+      "aliasesRu": [],
+      "decision": "excluded",
+      "publishedCardId": null,
+      "sourceIds": [],
+      "basisRu": "Неоднозначная метафора, которую легко принять за некорректное количественное утверждение об источнике кислорода.",
+      "caveatRu": "Отказ относится к формату рубрики, а не к утверждению, что выражение нигде не употребляется.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "universal-poles",
+      "nameRu": "Мировой полюс холода — без уточнений",
+      "targetRu": "Несопоставимые рекорды",
+      "group": "region",
+      "aliasesRu": [],
+      "decision": "excluded",
+      "publishedCardId": null,
+      "sourceIds": [],
+      "basisRu": "Не самостоятельное имя; требуется методика, полушарие и тип измерения. Разобрано в одной карточке полюса холода.",
+      "caveatRu": "Отказ относится к формату рубрики, а не к утверждению, что выражение нигде не употребляется.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "cape-storms-duplicate",
+      "nameRu": "Мыс Бурь — отдельной карточкой",
+      "targetRu": "Тот же мыс Доброй Надежды",
+      "group": "region",
+      "aliasesRu": [],
+      "decision": "excluded",
+      "publishedCardId": null,
+      "sourceIds": [],
+      "basisRu": "Имя включено как вариант одного объекта. Вторая строка не увеличивает рекомендуемое число карточек.",
+      "caveatRu": "Отказ относится к формату рубрики, а не к утверждению, что выражение нигде не употребляется.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    },
+    {
+      "id": "seven-hills-duplicate",
+      "nameRu": "Город на семи холмах — отдельной карточкой Рима",
+      "targetRu": "Тот же Рим",
+      "group": "region",
+      "aliasesRu": [],
+      "decision": "excluded",
+      "publishedCardId": null,
+      "sourceIds": [],
+      "basisRu": "Вариант включён в карточку Рима. Это не второй объект для счётчика.",
+      "caveatRu": "Отказ относится к формату рубрики, а не к утверждению, что выражение нигде не употребляется.",
+      "evidenceRu": "Источник подтверждает имя и привязку к объекту; решение о включении в ядро — редакционная оценка, не измеренный рейтинг известности."
+    }
+  ]
+}

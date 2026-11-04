@@ -3,32 +3,37 @@ import { Link, useNavigate, useSearchParams } from 'react-router-dom';
 import { useProgress } from '../../app/ProgressContext';
 import { Icon } from '../../components/Icon';
 import { MediaFrame } from '../../components/MediaFrame';
-import { PageHeader } from '../../components/Shared';
+import { EmptyState, PageHeader } from '../../components/Shared';
 import { contentRepository } from '../../data/repository';
 import { borderRepository } from '../../data/borders';
 import { capitalRepository } from '../../data/capitals';
 import { geographyRepository } from '../../data/geography';
-import { buildBorderQuestion, buildCapitalQuestion, buildGeographyQuestion, buildQuestion, createSession, type Question, type QuizMode } from './engine';
+import { extremesRepository, recordsTopic, extremeKindFilters, type ExtremeKind } from '../../data/extremes';
+import { buildRecordQuestion, buildCapitalQuestion, buildGeographyQuestion, buildQuestion, createSession, type Question, type QuizMode } from './engine';
 
 const modes: { value: QuizMode; label: string; description: string }[] = [
   { value: 'flag', label: 'Флаги', description: 'Узнайте страну по флагу' },
   { value: 'emblem', label: 'Гербы', description: 'Определите государственный символ' },
   { value: 'landmark', label: 'Природа', description: 'Узнайте место по фотографии' },
-  { value: 'border', label: 'Границы', description: 'Изучайте соседей стран по карте' },
   { value: 'capital', label: 'Столицы', description: 'Запомните пары страна — столица' },
   { value: 'outline', label: 'Страны на карте', description: 'Узнайте силуэт и выберите контур' },
+  { value: 'waterway', label: 'Проливы и каналы', description: '20 проливов и 2 канала на картах' },
+  { value: 'records', label: recordsTopic.title, description: 'Озёра, реки и горы: рекорды и необычные свойства' },
   { value: 'mixed', label: 'Смешанный', description: 'Все темы вместе' },
 ];
 
 export function QuizSetupPage() {
   const [mode, setMode] = useState<QuizMode>('mixed');
+  const [recordKind, setRecordKind] = useState<ExtremeKind | 'all'>('all');
   const [count, setCount] = useState(5);
+  const sessionMode = mode === 'records' && recordKind !== 'all' ? recordKind : mode;
   return <>
     <PageHeader title="Квиз" description="Выберите тему и проверьте, что уже запомнили." />
     <div className="setup-card">
       <fieldset className="setup-field"><legend>Что тренируем?</legend><div className="mode-grid">{modes.map(item => <button type="button" key={item.value} className={`mode-button ${mode === item.value ? 'selected' : ''}`} aria-pressed={mode === item.value} onClick={() => setMode(item.value)}><strong>{item.label}</strong><span>{item.description}</span></button>)}</div></fieldset>
+      {mode === 'records' && <fieldset className="setup-field"><legend>Тип объекта</legend><div className="chip-row">{[{ value: 'all' as const, label: 'Все' }, ...extremeKindFilters].map(({ value, label }) => <button type="button" className={`chip ${recordKind === value ? 'selected' : ''}`} aria-pressed={recordKind === value} key={value} onClick={() => setRecordKind(value)}>{label}</button>)}</div></fieldset>}
       <fieldset className="setup-field"><legend>Количество вопросов</legend><div className="count-row">{[5, 10, 20].map(value => <button type="button" key={value} className={`count-button ${count === value ? 'selected' : ''}`} aria-pressed={count === value} onClick={() => setCount(value)}>{value}</button>)}</div></fieldset>
-      <Link className="button primary-button setup-start" to={`/quiz/session?mode=${mode}&count=${count}`}>Начать тренировку</Link>
+      <Link className="button primary-button setup-start" to={`/quiz/session?mode=${sessionMode}&count=${count}`}>Начать тренировку</Link>
     </div>
   </>;
 }
@@ -40,8 +45,8 @@ function sessionFromParams(mode: QuizMode, count: number, reviewIds: string[], f
   if (focusEntry && (mode === focusEntry.kind || mode === 'mixed')) {
     selected[0] = buildQuestion(focusEntry, all);
   }
-  const focusBorder = focus && borderRepository.question(focus);
-  if (focusBorder && (mode === 'border' || mode === 'mixed' || mode === 'mistakes')) selected[0] = buildBorderQuestion(focusBorder);
+  const focusRecord = focus && extremesRepository.question(focus);
+  if (focusRecord && (mode === focusRecord.kind || mode === 'records' || mode === 'mixed' || mode === 'mistakes')) selected[0] = buildRecordQuestion(focusRecord);
   const focusCapital = focus && capitalRepository.question(focus);
   if (focusCapital && (mode === 'capital' || mode === 'mixed' || mode === 'mistakes')) selected[0] = buildCapitalQuestion(focusCapital);
   const focusGeography = focus && geographyRepository.question(focus);
@@ -52,9 +57,10 @@ function sessionFromParams(mode: QuizMode, count: number, reviewIds: string[], f
 export function QuizSessionPage() {
   const [params] = useSearchParams();
   const modeValue = params.get('mode') ?? 'mixed';
-  const mode = (['flag', 'emblem', 'landmark', 'border', 'capital', 'outline', 'mixed', 'mistakes'].includes(modeValue) ? modeValue : 'mixed') as QuizMode;
+  const mode = (['flag', 'emblem', 'landmark', 'capital', 'outline', 'waterway', 'records', 'river', 'mountain', 'lake', 'mixed', 'mistakes'].includes(modeValue) ? modeValue : 'mixed') as QuizMode;
   const count = Math.max(1, Math.min(20, Number(params.get('count')) || 5));
   const { records, ready } = useProgress();
+  if (modeValue === 'border') return <EmptyState title="Тема больше недоступна" description="Выберите одну из опубликованных тем." action={{ to: '/quiz', label: 'К темам квиза' }}/>;
   if (mode === 'mistakes' && !ready) return <div className="quiz-loading">Загружаем ошибки…</div>;
   const reviewIds = records.filter(x => x.wrongCount > 0).map(x => x.contentId);
   return <ActiveQuiz key={params.toString()} mode={mode} count={count} reviewIds={reviewIds} focus={params.get('focus')}/>;
@@ -75,8 +81,8 @@ function ActiveQuiz({ mode, count, reviewIds, focus }: { mode: QuizMode; count: 
   };
   if (!questions.length) return <div className="quiz-focus"><header className="quiz-top"><button type="button" className="quiet-button" onClick={exit}><Icon name="arrow" size={18}/> Выйти</button></header><div className="empty-state"><h1>Пока нечего повторять</h1><p>Ошибки появятся здесь после тренировки.</p><Link className="button primary-button" to="/quiz">К квизу</Link></div></div>;
   if (finished) return <div className="quiz-focus"><header className="quiz-top"><button type="button" className="quiet-button" onClick={exit}><Icon name="arrow" size={18}/> Выйти</button></header><div className="quiz-finish"><span className="eyebrow">Тренировка завершена</span><h1>{correctCount} из {questions.length}</h1><p>Ответы сохранены на этом устройстве. К ошибкам можно вернуться в любой момент.</p><div className="finish-actions"><Link className="button primary-button" to="/mistakes">Посмотреть ошибки</Link><Link className="button secondary-button" to="/quiz">Новая тренировка</Link></div></div></div>;
-  const media = question.questionMedia ?? (question.entry.kind === 'border' ? borderRepository.map(question.entry.mediaId, selected !== null) : question.entry.kind === 'capital' ? capitalRepository.media(question.entry.mediaId) : contentRepository.media(question.entry.mediaId));
-  const geographyCard = 'cardId' in question.entry && (question.entry.kind === 'outline') ? geographyRepository.byId(question.entry.cardId) : undefined;
+  const media = question.questionMedia ?? (question.entry.kind === 'border' ? borderRepository.map(question.entry.mediaId, selected !== null) : question.entry.kind === 'capital' ? capitalRepository.media(question.entry.mediaId) : question.entry.mediaId ? contentRepository.media(question.entry.mediaId) : undefined);
+  const geographyCard = 'cardId' in question.entry && (question.entry.kind === 'outline' || question.entry.kind === 'waterway') ? geographyRepository.byId(question.entry.cardId) : undefined;
   const correct = selected === question.correctOption;
   const answer = (value: string) => {
     if (selected !== null) return;

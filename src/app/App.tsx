@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react';
 import { ProgressProvider, useProgress } from './ProgressContext';
 import { Icon } from '../components/Icon';
 import { LearnHome, CatalogPage, DetailPage } from '../features/learn/LearnPages';
-import { BorderCatalogPage, BorderDetailPage } from '../features/learn/BorderPages';
+import { RecordCatalogPage, RecordDetailPage } from '../features/learn/RecordPages';
 import { CapitalCatalogPage, CapitalDetailPage } from '../features/learn/CapitalPages';
 import { GeographyCatalogPage, GeographyDetailPage } from '../features/learn/GeographyPages';
 import { TravelCatalogPage, TravelDetailPage } from '../features/learn/TravelPages';
@@ -44,12 +44,18 @@ function AppShell() {
       <Route path="/learn" element={<LearnHome/>}/>
       <Route path="/learn/traditional-food" element={<TraditionalDishCatalogPage/>}/>
       <Route path="/learn/architecture" element={<TravelCatalogPage kind="architecture"/>}/>
-      <Route path="/learn/borders" element={<BorderCatalogPage/>}/>
+      <Route path="/learn/records" element={<RecordCatalogPage key="records" kind="records"/>}/>
+      <Route path="/learn/rivers" element={<Navigate to="/learn/records?kind=river" replace/>}/>
+      <Route path="/learn/mountains" element={<Navigate to="/learn/records?kind=mountain" replace/>}/>
+      <Route path="/learn/lakes" element={<Navigate to="/learn/records?kind=lake" replace/>}/>
+      <Route path="/learn/names" element={<RecordCatalogPage key="name" kind="name"/>}/>
       <Route path="/learn/capitals" element={<CapitalCatalogPage/>}/>
       <Route path="/learn/outlines" element={<GeographyCatalogPage kind="outline"/>}/>
+      <Route path="/learn/waterways" element={<GeographyCatalogPage kind="waterway"/>}/>
       <Route path="/learn/urban-places" element={<UrbanPlaceCatalogPage/>}/>
       <Route path="/learn/:category" element={<CatalogPage/>}/>
-      <Route path="/border/:countryId" element={<BorderDetailPage/>}/>
+      <Route path="/record/:id" element={<RecordDetailPage/>}/>
+      <Route path="/name/:id" element={<RecordDetailPage names/>}/>
       <Route path="/capital/:id" element={<CapitalDetailPage/>}/>
       <Route path="/geography/:id" element={<GeographyDetailPage/>}/>
       <Route path="/urban-place/:id" element={<UrbanPlaceDetailPage/>}/>

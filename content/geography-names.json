@@ -1,0 +1,2559 @@
+{
+  "sources": [
+    {
+      "id": "noaa-latitude",
+      "publisher": "NOAA",
+      "title": "What is latitude?",
+      "url": "https://oceanservice.noaa.gov/facts/latitude.html",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "noaa-solstice",
+      "publisher": "NOAA NESDIS",
+      "title": "What Is a Solstice?",
+      "url": "https://www.nesdis.noaa.gov/about/k-12-education/optical-phenomena/what-solstice",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "noaa-roaring",
+      "publisher": "NOAA",
+      "title": "What are the Roaring Forties?",
+      "url": "https://oceanservice.noaa.gov/facts/roaring-forties.html",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "noaa-horse",
+      "publisher": "NOAA",
+      "title": "What are the horse latitudes?",
+      "url": "https://oceanservice.noaa.gov/facts/horse-latitudes.html",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "noaa-doldrums",
+      "publisher": "NOAA",
+      "title": "Surface Ocean Currents — trade winds and the ITCZ",
+      "url": "https://oceanservice.noaa.gov/education/tutorial_currents/04currents2.html",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "nasa-yellow-name",
+      "publisher": "NASA Earth Observatory",
+      "title": "Building Up the Yellow River Delta",
+      "url": "https://earthobservatory.nasa.gov/images/148145/building-up-the-yellow-river-",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "bre-red-river",
+      "publisher": "Большая российская энциклопедия",
+      "title": "Красная река",
+      "url": "https://old.bigenc.ru/geography/text/2106633",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "ras-blue-river",
+      "publisher": "Российская академия наук, журнал «Природа»",
+      "title": "Природа, 2002, № 1 — употребление «Янцзы — Голубая река»",
+      "url": "https://priroda.ras.ru/pdf/2002-01.pdf",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "nasa-two-niles",
+      "publisher": "NASA JPL",
+      "title": "Nile River Fluctuations Near Khartoum, Sudan",
+      "url": "https://science.nasa.gov/photojournal/nile-river-fluctuations-near-khartoum-sudan/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "esa-red-sea",
+      "publisher": "European Space Agency",
+      "title": "Deep blue Red Sea reefs",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2015/10/Deep_blue_Red_Sea_reefs",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "nasa-black-name",
+      "publisher": "NASA MODIS",
+      "title": "Black Sea — uncertainty around the name",
+      "url": "https://modis.gsfc.nasa.gov/gallery/individual.php?db_date=2018-06-14",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "southdowns-seven",
+      "publisher": "South Downs National Park Authority",
+      "title": "Discover Seven Sisters",
+      "url": "https://www.sevensisters.org.uk/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "nsw-three",
+      "publisher": "NSW National Parks and Wildlife Service",
+      "title": "Three Sisters walk",
+      "url": "https://www.nationalparks.nsw.gov.au/things-to-do/walking-tracks/three-sisters-walk",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "jaxa-k2",
+      "publisher": "JAXA Earth Observation Research Center",
+      "title": "K2, Broad Peak, Gasherbrum I, and Gasherbrum II",
+      "url": "https://www.eorc.jaxa.jp/en/earthview/2006/tp060105.html",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "vietnam-huong",
+      "publisher": "Vietnam National Authority of Tourism",
+      "title": "Hue — Perfume River",
+      "url": "https://vietnam.travel/place-to-go/north-central-coast/hue/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "nasa-mosi",
+      "publisher": "NASA Earth Observatory",
+      "title": "The Smoke that Thunders",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-smoke-that-thunders-145541/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "whyte-sulphur",
+      "publisher": "Whyte Museum of the Canadian Rockies",
+      "title": "Mountains in the Archives",
+      "url": "https://www.whyte.org/post/mountains-in-the-archives",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "nps-death-name",
+      "publisher": "National Park Service",
+      "title": "Death Valley: Frequently Asked Questions",
+      "url": "https://www.nps.gov/deva/faqs.htm",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "smithsonian-mauna",
+      "publisher": "Smithsonian Global Volcanism Program",
+      "title": "Mauna Kea",
+      "url": "https://volcano.si.edu/volcano.cfm?vn=332030",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-latitude",
+      "publisher": "NOAA",
+      "title": "What is latitude?",
+      "url": "https://oceanservice.noaa.gov/facts/latitude.html",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-circles",
+      "publisher": "National Geographic Education",
+      "title": "MapMaker: Meridians and Parallels",
+      "url": "https://education.nationalgeographic.org/resource/mapmaker-meridians/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-date",
+      "publisher": "NOAA",
+      "title": "What is the international date line?",
+      "url": "https://oceanservice.noaa.gov/facts/international-date-line.html",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-sea-colors",
+      "publisher": "Smithsonian Science Education Center",
+      "title": "Why are The Seas named Black, White, and Yellow?",
+      "url": "https://ssec.si.edu/node/315",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-dead",
+      "publisher": "NOAA",
+      "title": "JetStream: The Dead Sea",
+      "url": "https://www.noaa.gov/jetstream/dead-max",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-coral",
+      "publisher": "Parks Australia",
+      "title": "Coral Sea Marine Park",
+      "url": "https://australianmarineparks.gov.au/parks/coral-sea-marine-park/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-sargasso",
+      "publisher": "NOAA",
+      "title": "What is the Sargasso Sea?",
+      "url": "https://oceanservice.noaa.gov/facts/sargassosea.html",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-negro",
+      "publisher": "NASA Earth Observatory",
+      "title": "Rio Negro, Amazonia, Brazil",
+      "url": "https://science.nasa.gov/earth/earth-observatory/rio-negro-amazonia-brazil-7169/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-colorado",
+      "publisher": "Grand Canyon River Guides",
+      "title": "Colorado — Spanish & English, Confluence 18",
+      "url": "https://www.riverguides.org/Confluence/Confluence18.pdf",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-belaya",
+      "publisher": "Большая российская энциклопедия",
+      "title": "Белая (река, бассейн Камы)",
+      "url": "https://bigenc.ru/c/belaia-reka-bassein-kamy-0f89b3",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-orange",
+      "publisher": "ORASECOM / Water Research Commission",
+      "title": "A Hydropolitical History of South Africa",
+      "url": "https://wis.orasecom.org/content/study/Media/Orange-Senqu%20RAK%20-%20Revised%202012/OrangeSenquRAK/BETA_ORA/USERFILES/FILE/OTHERV2/HYDROPOLITICAL_HISTORY_OF_SOUTH.PDF",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-pacific",
+      "publisher": "NOAA",
+      "title": "How did the Pacific Ocean get its name?",
+      "url": "https://oceanservice.noaa.gov/facts/pacific.html",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-mediterranean",
+      "publisher": "EU Strategy for the Adriatic and Ionian Region",
+      "title": "The Legal Basis for the Establishment and Further Development of EUSAIR",
+      "url": "https://www.adriatic-ionian.eu/wp-content/uploads/2023/08/EUSAIR_STUDY-FINAL_15.12.2021v.3.pdf",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-blanc",
+      "publisher": "University of York / White Rose eTheses",
+      "title": "Mont Blanc in British Literary Culture 1786–1826",
+      "url": "https://etheses.whiterose.ac.uk/27647/2/Mont%20Blanc%20in%20British%20Literary%20Culture%201786-1826.pdf",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-blue",
+      "publisher": "Blue Mountains City Council Library",
+      "title": "Why are the Blue Mountains blue?",
+      "url": "https://library.bmcc.nsw.gov.au/custom/web/content/website/documents/WhyBlueMountainsAreBlue.pdf",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-black-forest",
+      "publisher": "UNESCO",
+      "title": "Black Forest Biosphere Reserve",
+      "url": "https://www.unesco.org/en/mab/black-forest",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-drakensberg",
+      "publisher": "Ezemvelo KZN Wildlife",
+      "title": "uKhahlamba Drakensberg Park Management Plan (2022)",
+      "url": "https://www.kznwildlife.com/downloads/03-Management-Plans/Approved/2022%20-%20uKhahlamba%20Drakensberg%20Park%20Integrated%20Management%20Plan%20Revision.pdf",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-tianshan",
+      "publisher": "UNESCO World Heritage Centre / State Party nomination",
+      "title": "Xinjiang Tianshan nomination: name and aesthetic values",
+      "url": "https://whc.unesco.org/uploads/nominations/1414.pdf",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-himalaya",
+      "publisher": "NASA Earth Observatory",
+      "title": "Snow in the Himalayas",
+      "url": "https://science.nasa.gov/earth/earth-observatory/snow-in-the-himalayas-87030/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-karakum",
+      "publisher": "Большая российская энциклопедия",
+      "title": "Каракумы",
+      "url": "https://old.bigenc.ru/geography/text/4324426",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-kyzyl",
+      "publisher": "Большая российская энциклопедия",
+      "title": "Кызылкум",
+      "url": "https://old.bigenc.ru/geography/text/2126568",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-empty",
+      "publisher": "NASA Earth Observatory",
+      "title": "Ar Rub’ al Khali Sand Sea",
+      "url": "https://science.nasa.gov/earth/earth-observatory/ar-rub-al-khali-sand-sea-arabian-peninsula-50744/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-tierra",
+      "publisher": "NASA Earth Observatory",
+      "title": "Tierra del Fuego",
+      "url": "https://science.nasa.gov/earth/earth-observatory/tierra-del-fuego-3335/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-hope",
+      "publisher": "SANParks",
+      "title": "Cape of Good Hope & Cape Point",
+      "url": "https://www.sanparks.org/parks/table-mountain/what-to-do/attractions/cape-of-good-hope-cape-point",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-agulhas",
+      "publisher": "Woods Hole Oceanographic Institution / Deep-Sea Research II",
+      "title": "Agulhas — historical name, note on Cape of the Needles (2003)",
+      "url": "https://www2.whoi.edu/staff/prichardson/wp-content/uploads/sites/75/2018/11/Richardson-et-al-2003-dsr-2.pdf",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-skeleton",
+      "publisher": "Namibia Tourism Board",
+      "title": "Skeleton Coast Park",
+      "url": "https://visitnamibia.com.na/2022/02/skeleton-coast-park/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-roof",
+      "publisher": "Российская академия наук",
+      "title": "«Крыша мира» на пересечении англо-советских интересов",
+      "url": "https://new.ras.ru/upload/iblock/c4d/0khg8psmf6u4wnwtdylpv53fy56mqre3.pdf",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-roof-tibet",
+      "publisher": "NASA",
+      "title": "Earth as Art: Tibetan Plateau — Roof of the World",
+      "url": "https://www.nasa.gov/wp-content/uploads/2021/06/703154main_earth_art-ebook.pdf",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-third",
+      "publisher": "NASA Earth Observatory",
+      "title": "Shrinking Glaciers and Growing Lakes",
+      "url": "https://science.nasa.gov/earth/earth-observatory/shrinking-glaciers-and-growing-lakes-148966/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-ring",
+      "publisher": "NOAA Ocean Exploration",
+      "title": "What is the Ring of Fire?",
+      "url": "https://oceanexplorer.noaa.gov/ocean-fact/rof/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-bermuda",
+      "publisher": "NOAA",
+      "title": "What is the Bermuda Triangle?",
+      "url": "https://oceanservice.noaa.gov/facts/bermudatri.html",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-horn",
+      "publisher": "Türkiye Tourism Promotion and Development Agency",
+      "title": "Golden Horn",
+      "url": "https://goturkiye.com/istanbul/golden-horn",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-giants",
+      "publisher": "UK National Commission for UNESCO",
+      "title": "Giant’s Causeway World Heritage factsheet",
+      "url": "https://unesco.org.uk/site/assets/files/5168/ukncfswhs15v1_1_giants_causeway.pdf",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-apostles",
+      "publisher": "Great Ocean Road Coast and Parks Authority",
+      "title": "Twelve Apostles: Plan your visit",
+      "url": "https://www.twelveapostles.org.au/plan-your-visit/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-sisters-falls",
+      "publisher": "Visit Norway / Fjord Norway",
+      "title": "The Seven Sisters waterfall",
+      "url": "https://www.visitnorway.com/listings/the-seven-sisters/234880/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-islands",
+      "publisher": "Parks Canada",
+      "title": "Thousand Islands National Park",
+      "url": "https://parks.canada.ca/pn-np/on/1000",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-mesopotamia",
+      "publisher": "Uppsala University",
+      "title": "Configuring Mesopotamia: Regional Signifiers and the Many Locations of the Land Between the Rivers",
+      "url": "https://uu.diva-portal.org/smash/get/diva2%3A1278997/FULLTEXT01.pdf",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-hungry",
+      "publisher": "Библиотека Русского географического общества",
+      "title": "Голодная степь в её прошлом и настоящем (исследование 1914 года)",
+      "url": "https://elib.rgo.ru/handle/123456789/212246",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-hungry-language",
+      "publisher": "АН СССР / Президентская библиотека Азербайджана",
+      "title": "Советская тюркология, 1986, № 4: Мирзачуль и Голодная степь",
+      "url": "https://files.preslib.az/projects/turklib/jurnallar/sovet_turkologiya/sovtur_1986_4.pdf",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-cold",
+      "publisher": "Сибирское отделение Российской академии наук",
+      "title": "Доклад: полюс холода населённой части планеты",
+      "url": "https://www.sbras.ru/files/news/docs/lebedev.pdf",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-nemo",
+      "publisher": "NOAA",
+      "title": "Where is Point Nemo?",
+      "url": "https://oceanservice.noaa.gov/facts/nemo.html",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-beshtau",
+      "publisher": "Кабардино-Балкарский институт гуманитарных исследований",
+      "title": "Археология и этнология Северного Кавказа, 2013, № 2: Бештау",
+      "url": "https://www.kbigi.ru/fmedia/izdat/arheetno/2013/arheetno_2013_2.pdf",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-seven-rivers",
+      "publisher": "Министерство образования и науки Казахстана / e-history.kz",
+      "title": "Историко-географические исследования Жетісу",
+      "url": "https://e-history.kz/media/upload/55/2013/11/14/da28b9ae10323ce3df11d8203758d819.pdf",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-seven-seas",
+      "publisher": "Library of Congress",
+      "title": "What are the seven seas?",
+      "url": "https://www.loc.gov/everyday-mysteries/browse-all-questions/item/what-are-the-seven-seas/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-periphrases",
+      "publisher": "Дипломатическая академия МИД России",
+      "title": "Новый язык. Новый мир. Новое мышление: географические перифразы (2019)",
+      "url": "https://www.dipacademy.ru/documents/979/New_Language._New_World._New_Thinking.pdf",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-japan",
+      "publisher": "Japan Tourism Agency",
+      "title": "Greeting the Rising Sun",
+      "url": "https://www.mlit.go.jp/tagengo-db/en/R3-00339.html",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-korea",
+      "publisher": "Veterans Affairs Canada",
+      "title": "Land of the Morning Calm and the Fragility of Peace",
+      "url": "https://www.veterans.gc.ca/pdf/remembrance/information-for/educators/korea/land-of-the-morning-calm-handout-ENG.pdf",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-finland",
+      "publisher": "Nordic Council / Nordic Council of Ministers",
+      "title": "Facts about Finland",
+      "url": "https://www.norden.org/en/information/facts-about-finland",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-bhutan",
+      "publisher": "Department of Tourism, Bhutan",
+      "title": "About Bhutan: The Land of the Thunder Dragon",
+      "url": "https://bhutan.travel/about",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-nz",
+      "publisher": "Te Ara — Encyclopedia of New Zealand",
+      "title": "Tāwhirimātea: the weather — The long white cloud",
+      "url": "https://teara.govt.nz/en/tawhirimatea-the-weather/print",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-egypt",
+      "publisher": "Egypt State Information Service",
+      "title": "The River Nile",
+      "url": "https://sis.gov.eg/en/egypt/tourism/landmarks/the-river-nile/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-albion",
+      "publisher": "Культура.РФ",
+      "title": "Записки путешественника: Великобритания",
+      "url": "https://www.culture.ru/s/zapiski-puteshestvennika/velikobritaniya/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-ghana",
+      "publisher": "Ghana Statistical Service",
+      "title": "History: the Gold Coast",
+      "url": "https://statsghana.gov.gh/about/history",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-coasts",
+      "publisher": "Osher Map Library, University of Southern Maine",
+      "title": "The Spatial Origins of the African Diaspora",
+      "url": "https://oshermaps.org/exhibitions/exodus-and-exile/v-origins-african-american-diaspora/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-greenland",
+      "publisher": "The Mariners’ Museum and Park",
+      "title": "Erik the Red — Ages of Exploration",
+      "url": "https://exploration.marinersmuseum.org/subject/erik-the-red/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-iceland",
+      "publisher": "Консульский департамент МИД России",
+      "title": "Исландия: общие сведения о стране",
+      "url": "https://www.kdmid.ru/docs/iceland/information-about-the-country/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-icefire",
+      "publisher": "Visit Iceland",
+      "title": "Geography of Iceland — The land of fire and ice",
+      "url": "https://www.visiticeland.com/article/geography-of-iceland_1/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-rome",
+      "publisher": "Roma Capitale — Turismo Roma",
+      "title": "Rome in a nutshell",
+      "url": "https://www.turismoroma.it/en/page/rome-nutshell",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-ny",
+      "publisher": "The New York Public Library",
+      "title": "New York, New York! The Big Apple from A to Z",
+      "url": "https://shop.nypl.org/collections/25-and-under/products/new-york-new-york-the-big-apple-from-a-to-z",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-chicago",
+      "publisher": "Chicago Historical Society / Newberry Library",
+      "title": "Encyclopedia of Chicago: Windy City",
+      "url": "https://www.encyclopedia.chicagohistory.org/pages/6.html",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-paris",
+      "publisher": "Eurêkoi — public library reference service",
+      "title": "Pourquoi Paris est appelé Ville Lumière?",
+      "url": "https://www.eurekoi.org/un-de-nos-lecteurs-a-besoin-de-savoir-pourquoi-paris-est-appele-ville-lumiere-et-depuis-quand-merci-davance/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-singapore",
+      "publisher": "Singapore Tourism Board",
+      "title": "Facts About Singapore: history and culture",
+      "url": "https://www.visitsingapore.com/travel-tips/about-singapore/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-cairo",
+      "publisher": "Egypt Ministry of Tourism and Antiquities",
+      "title": "Egypt History: City of a Thousand Minarets",
+      "url": "https://www.experienceegypt.eg/en/home/history",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-hongkong",
+      "publisher": "Hong Kong Herbarium, Government of Hong Kong",
+      "title": "Aquilaria sinensis and origin of the name of Hong Kong",
+      "url": "https://www.herbarium.gov.hk/en/special-topics/botanical-nomenclature/botanical-nomenclature-detail/index-id-1.html",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-reykjavik",
+      "publisher": "City of Reykjavík",
+      "title": "Reykjavík UNESCO City of Literature — History and Language",
+      "url": "https://reykjavik.is/sites/default/files/ymis_skjol/skjol_utgefid_efni/reykjavik_unesco_city_of_literature.pdf",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-jaipur",
+      "publisher": "UNESCO World Heritage Centre / State Party nomination",
+      "title": "Jaipur City — Pink City, description of property",
+      "url": "https://whc.unesco.org/document/166320",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-rio",
+      "publisher": "MultiRio, Prefeitura do Rio de Janeiro",
+      "title": "Rio de Janeiro — História da Cidade",
+      "url": "https://www.multirio.rj.gov.br/index.php/estide/historia-do-brasil/rio-de-janeiro/2389",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-ortho",
+      "publisher": "Институт русского языка РАН / Грамота.ру",
+      "title": "Русский орфографический словарь — образные названия стран",
+      "url": "https://gramota.ru/storage/public/normdicts/orfograficheskij_slovar.pdf",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-cuba",
+      "publisher": "Объясняем.РФ",
+      "title": "Летим на Остров свободы: как провести отпуск на Кубе",
+      "url": "https://xn--90aivcdt6dxbc.xn--p1ai/articles/useful/letim-na-ostrov-svobody-kak-otdokhnut-na-kube/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-sugarloaf",
+      "publisher": "Rio Film Commission / Prefeitura do Rio de Janeiro",
+      "title": "Sugarloaf Mountain and Urca Hill Natural Monument",
+      "url": "https://www.riofilmcommission.com/en/locations/sugarloaf-mountain-and-urca-hill-natural-monument/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-table-mountain",
+      "publisher": "City of Cape Town",
+      "title": "Explore our mountains, fynbos and forests",
+      "url": "https://www.capetown.gov.za/explore-and-enjoy/nature-and-outdoors/mountains-and-hiking/explore-our-mountains-fynbos-and-forests/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-easter",
+      "publisher": "NASA Earth Observatory",
+      "title": "Easter Island / Rapa Nui",
+      "url": "https://science.nasa.gov/earth/earth-observatory/easter-island-90027/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-christmas",
+      "publisher": "Australian Department of Infrastructure",
+      "title": "Christmas Island environment and heritage",
+      "url": "https://www.infrastructure.gov.au/territories-regions/territories/indian-ocean-territories-christmas-island-and-cocos-keeling-islands/christmas-island/christmas-island-environment-and-heritage",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-cabo-verde",
+      "publisher": "UK Permanent Committee on Geographical Names",
+      "title": "Cape Verde / Cabo Verde: Toponymic Factfile",
+      "url": "https://assets.publishing.service.gov.uk/media/654cfedf014cc90010677386/Cape_Verde_Toponymic_Factfile.pdf",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-dead-life",
+      "publisher": "Nature / B. Elazari-Volcani",
+      "title": "Algæ in the Bed of the Dead Sea (1940)",
+      "url": "https://www.nature.com/articles/145975a0",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-singapore-legend",
+      "publisher": "Government of Singapore / SG101",
+      "title": "The Merlion: the legend of Singapura",
+      "url": "https://www.sg101.gov.sg/resources/archives/identity-the-merlion/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-apostles-geology",
+      "publisher": "Australian Department of Climate Change, Energy, the Environment and Water",
+      "title": "National Heritage Places — Great Ocean Road",
+      "url": "https://www.dcceew.gov.au/parks-heritage/heritage/places/national/great-ocean-road",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-nz-names",
+      "publisher": "Te Ara — Encyclopedia of New Zealand",
+      "title": "Tapa whenua — naming places",
+      "url": "https://teara.govt.nz/en/tapa-whenua-naming-places/print",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-sugarloaf-meaning",
+      "publisher": "Ciberdúvidas da Língua Portuguesa / ISCTE-IUL",
+      "title": "Pão de Açúcar: origem do topónimo",
+      "url": "https://ciberduvidas.iscte-iul.pt/consultorio/perguntas/pao-de-acucar/22804",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "r-skeleton-park",
+      "publisher": "Namibia Ministry of Environment, Forestry and Tourism",
+      "title": "Skeleton Coast Park",
+      "url": "https://meft.gov.na/national-parks/skeleton-coast-park/227",
+      "accessedAt": "2026-11-04"
+    }
+  ],
+  "cards": [
+    {
+      "id": "equator",
+      "nameRu": "Экватор",
+      "targetRu": "Параллель 0°",
+      "regionRu": "Вокруг всей Земли",
+      "tags": [
+        "line",
+        "number"
+      ],
+      "nameType": "term",
+      "markRu": "0°",
+      "explanationRu": "Условная линия делит Землю на Северное и Южное полушария.",
+      "cautionRu": "Это географический термин, а не прозвище страны или видимая полоса на поверхности.",
+      "sourceIds": [
+        "noaa-latitude"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "cancer",
+      "nameRu": "Тропик Рака",
+      "targetRu": "Северный тропик",
+      "regionRu": "Северное полушарие",
+      "tags": [
+        "line"
+      ],
+      "nameType": "term",
+      "markRu": "≈ 23,5° с. ш.",
+      "explanationRu": "Северная предельная широта, где Солнце может оказаться в зените.",
+      "cautionRu": "Широта округлена и медленно меняется с наклоном земной оси. «Тропик» без уточнения не задаёт одну линию.",
+      "sourceIds": [
+        "noaa-latitude",
+        "noaa-solstice"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "capricorn",
+      "nameRu": "Тропик Козерога",
+      "targetRu": "Южный тропик",
+      "regionRu": "Южное полушарие",
+      "tags": [
+        "line"
+      ],
+      "nameType": "term",
+      "markRu": "≈ 23,5° ю. ш.",
+      "explanationRu": "Южная предельная широта, где Солнце может оказаться в зените.",
+      "cautionRu": "Северный и Южный тропики — две разные линии; название не обозначает границу государства.",
+      "sourceIds": [
+        "noaa-latitude",
+        "noaa-solstice"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "roaring-forties",
+      "nameRu": "Ревущие сороковые",
+      "targetRu": "Пояс сильных западных ветров",
+      "regionRu": "Южное полушарие",
+      "tags": [
+        "number",
+        "sound"
+      ],
+      "nameType": "conventional",
+      "markRu": "40-е широты",
+      "explanationRu": "Морское название ветреных широт южнее 40° ю. ш.; суша редко прерывает круговой разгон ветра.",
+      "cautionRu": "Это условное название пояса, а не строго очерченная административная область.",
+      "sourceIds": [
+        "noaa-roaring"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "furious-fifties",
+      "nameRu": "Неистовые пятидесятые",
+      "targetRu": "Пояс западных ветров южнее сороковых",
+      "regionRu": "Южное полушарие",
+      "tags": [
+        "number"
+      ],
+      "nameType": "conventional",
+      "markRu": "50-е широты",
+      "explanationRu": "Английское Furious Fifties — продолжение традиции морских названий ветреных южных широт.",
+      "cautionRu": "Русские переводы варьируются: встречаются «яростные» и «неистовые».",
+      "sourceIds": [
+        "noaa-roaring"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "screaming-sixties",
+      "nameRu": "Кричащие шестидесятые",
+      "targetRu": "Южные морские широты",
+      "regionRu": "Вокруг Антарктиды",
+      "tags": [
+        "number",
+        "sound"
+      ],
+      "nameType": "conventional",
+      "markRu": "60-е широты",
+      "explanationRu": "Английское Screaming Sixties продолжает ряд «сороковые — пятидесятые — шестидесятые».",
+      "cautionRu": "Это образное морское название, не обещание постоянного звука или одной силы ветра.",
+      "sourceIds": [
+        "noaa-roaring"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "horse-latitudes",
+      "nameRu": "Конские широты",
+      "targetRu": "Субтропические пояса слабых ветров",
+      "regionRu": "Около 30° северной и южной широты",
+      "tags": [
+        "metaphor"
+      ],
+      "nameType": "conventional",
+      "markRu": "≈ 30°",
+      "explanationRu": "Пояса известны слабыми ветрами и малым количеством осадков.",
+      "cautionRu": "Истории про лошадей — объяснения происхождения названия, а не определение климатического пояса.",
+      "sourceIds": [
+        "noaa-horse"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "doldrums",
+      "nameRu": "Долдрумс",
+      "targetRu": "Экваториальная зона сходимости ветров",
+      "regionRu": "Вблизи экватора",
+      "tags": [
+        "metaphor"
+      ],
+      "nameType": "term",
+      "markRu": "ITCZ",
+      "explanationRu": "Морское название области слабых приземных ветров, где встречаются пассаты.",
+      "cautionRu": "Положение меняется по сезонам. Штиль не означает отсутствия гроз и сильных ливней.",
+      "sourceIds": [
+        "noaa-doldrums"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "yellow-river-name",
+      "nameRu": "Жёлтая река",
+      "targetRu": "Хуанхэ",
+      "regionRu": "Китай",
+      "tags": [
+        "color"
+      ],
+      "nameType": "translation",
+      "markRu": "Жёлтая",
+      "explanationRu": "Хуанхэ известна как Жёлтая река: лёссовые наносы придают воде характерный оттенок.",
+      "cautionRu": "Это перевод названия. Цвет воды зависит от наносов и условий наблюдения.",
+      "sourceIds": [
+        "nasa-yellow-name"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "red-river-name",
+      "nameRu": "Красная река",
+      "targetRu": "Хонгха",
+      "regionRu": "Китай / Вьетнам",
+      "tags": [
+        "color"
+      ],
+      "nameType": "translation",
+      "markRu": "Красная",
+      "explanationRu": "В русской энциклопедической традиции «Красная река» — другое название Хонгха.",
+      "cautionRu": "В мире есть и другие Red River. Для однозначности обязательно указывайте регион.",
+      "sourceIds": [
+        "bre-red-river"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "blue-river-name",
+      "nameRu": "Голубая река",
+      "targetRu": "Янцзы",
+      "regionRu": "Китай",
+      "tags": [
+        "color"
+      ],
+      "nameType": "historical",
+      "markRu": "Голубая",
+      "explanationRu": "Такое название Янцзы встречается в русской географической литературе.",
+      "cautionRu": "Историческое европейское наименование нельзя выдавать за буквальный перевод китайского Чанцзян или за постоянный цвет воды.",
+      "sourceIds": [
+        "ras-blue-river"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "blue-nile-name",
+      "nameRu": "Голубой Нил",
+      "targetRu": "Восточная составляющая Нила",
+      "regionRu": "Эфиопия / Судан",
+      "tags": [
+        "color"
+      ],
+      "nameType": "toponym",
+      "markRu": "Голубой",
+      "explanationRu": "Голубой и Белый Нил сливаются у Хартума и далее образуют общий Нил.",
+      "cautionRu": "Голубой Нил и «Голубая река» как историческое имя Янцзы — разные объекты.",
+      "sourceIds": [
+        "nasa-two-niles"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "white-nile-name",
+      "nameRu": "Белый Нил",
+      "targetRu": "Западная составляющая Нила у Хартума",
+      "regionRu": "Восточная Африка",
+      "tags": [
+        "color"
+      ],
+      "nameType": "toponym",
+      "markRu": "Белый",
+      "explanationRu": "Название отличает одну из двух главных составляющих Нила перед их слиянием.",
+      "cautionRu": "Цветовое имя само по себе не гарантирует, что вода всегда выглядит белой.",
+      "sourceIds": [
+        "nasa-two-niles"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "red-sea-name",
+      "nameRu": "Красное море",
+      "targetRu": "Море между Африкой и Аравийским полуостровом",
+      "regionRu": "Северо-Запад Индийского океана",
+      "tags": [
+        "color"
+      ],
+      "nameType": "toponym",
+      "markRu": "Красное",
+      "explanationRu": "Обычно вода сине-зелёная. ESA описывает красно-коричневый оттенок при отмирании массовых цветений.",
+      "cautionRu": "Связь названия с цветением — приводимое источником объяснение; единственная доказанная этимология не утверждается.",
+      "sourceIds": [
+        "esa-red-sea"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "black-sea-name",
+      "nameRu": "Чёрное море",
+      "targetRu": "Море к северу от Турции",
+      "regionRu": "Между Юго-Восточной Европой и Западной Азией",
+      "tags": [
+        "color"
+      ],
+      "nameType": "toponym",
+      "markRu": "Чёрное",
+      "explanationRu": "Устойчивое географическое название моря; NASA отдельно отмечает неясность происхождения имени.",
+      "cautionRu": "Нельзя выбирать одну красивую версию этимологии и объявлять её установленным фактом.",
+      "sourceIds": [
+        "nasa-black-name"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "seven-sisters",
+      "nameRu": "Семь сестёр",
+      "targetRu": "Seven Sisters — меловые утёсы",
+      "regionRu": "Саут-Даунс · Англия",
+      "tags": [
+        "number",
+        "metaphor"
+      ],
+      "nameType": "translation",
+      "markRu": "7",
+      "explanationRu": "Известная цепь белых меловых утёсов на побережье Ла-Манша.",
+      "cautionRu": "Так называются разные места в мире; здесь речь именно об английских утёсах, а не о водопаде в Норвегии.",
+      "sourceIds": [
+        "southdowns-seven"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "three-sisters",
+      "nameRu": "Три сестры",
+      "targetRu": "Three Sisters — скальное образование",
+      "regionRu": "Голубые горы · Австралия",
+      "tags": [
+        "number",
+        "metaphor"
+      ],
+      "nameType": "translation",
+      "markRu": "3",
+      "explanationRu": "Знаменитая группа скал у Катумбы в национальном парке Голубые горы.",
+      "cautionRu": "Местные предания требуют отдельного источника; современный туристический пересказ не равен древней зафиксированной легенде.",
+      "sourceIds": [
+        "nsw-three"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "k2-name",
+      "nameRu": "К2",
+      "targetRu": "Чогори",
+      "regionRu": "Каракорум",
+      "tags": [
+        "number"
+      ],
+      "nameType": "toponym",
+      "markRu": "K2",
+      "explanationRu": "Короткое буквенно-цифровое имя второй по высоте горы мира.",
+      "cautionRu": "Совпадение цифры с местом по высоте не означает, что вся нумерация гор — мировой рейтинг.",
+      "sourceIds": [
+        "jaxa-k2"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "perfume-river",
+      "nameRu": "Ароматная река",
+      "targetRu": "Хыонг · Perfume River",
+      "regionRu": "Хюэ · Вьетнам",
+      "tags": [
+        "smell"
+      ],
+      "nameType": "translation",
+      "markRu": "Аромат",
+      "explanationRu": "Официальный туристический ресурс Вьетнама использует имя Perfume River для реки, протекающей через Хюэ.",
+      "cautionRu": "«Парфюмерная», «Ароматная» и «Душистая» — варианты перевода; название не обещает постоянного запаха воды.",
+      "sourceIds": [
+        "vietnam-huong"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "smoke-thunders",
+      "nameRu": "Дым, который гремит",
+      "targetRu": "Моси-оа-Тунья / водопад Виктория",
+      "regionRu": "Замбия / Зимбабве",
+      "tags": [
+        "sound",
+        "metaphor"
+      ],
+      "nameType": "translation",
+      "markRu": "Грохот",
+      "explanationRu": "Моси-оа-Тунья — местное название водопада; перевод связывает облако брызг с дымом и шум воды с громом.",
+      "cautionRu": "Это перевод известного местного имени, а не придуманное рекламное прозвище.",
+      "sourceIds": [
+        "nasa-mosi"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "sulphur-mountain",
+      "nameRu": "Серная гора",
+      "targetRu": "Sulphur Mountain",
+      "regionRu": "Банф · Канада",
+      "tags": [
+        "smell"
+      ],
+      "nameType": "translation",
+      "markRu": "Сера",
+      "explanationRu": "Имя связано с серными горячими источниками у подножия; происхождение описывает музей Канадских Скалистых гор.",
+      "cautionRu": "Название относится к источникам. Запах сероводорода не следует приписывать чистой сере.",
+      "sourceIds": [
+        "whyte-sulphur"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "death-valley",
+      "nameRu": "Долина Смерти",
+      "targetRu": "Death Valley",
+      "regionRu": "Калифорния · США",
+      "tags": [
+        "metaphor"
+      ],
+      "nameType": "translation",
+      "markRu": "Смерть",
+      "explanationRu": "NPS связывает имя с группой переселенцев, заблудившихся зимой 1849–1850 годов.",
+      "cautionRu": "Образное название не означает отсутствие жизни в долине.",
+      "sourceIds": [
+        "nps-death-name"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "white-mountain",
+      "nameRu": "Белая гора",
+      "targetRu": "Мауна-Кеа",
+      "regionRu": "Гавайи · США",
+      "tags": [
+        "color"
+      ],
+      "nameType": "translation",
+      "markRu": "Белая",
+      "explanationRu": "Smithsonian приводит значение гавайского названия Mauna Kea — «Белая гора».",
+      "cautionRu": "Перевод описывает имя конкретного вулкана; других «белых гор» в мире много.",
+      "sourceIds": [
+        "smithsonian-mauna"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "arctic-circle",
+      "nameRu": "Северный полярный круг",
+      "targetRu": "Особая параллель Северного полушария",
+      "nameType": "term",
+      "tags": [
+        "line",
+        "number"
+      ],
+      "regionRu": "Северное полушарие",
+      "markRu": "≈66,5° с. ш.",
+      "explanationRu": "Северный полярный круг — параллель примерно 66,5° северной широты. Она связана с полярным днём и полярной ночью: около июньского солнцестояния Солнце здесь не заходит, около декабрьского — не восходит.",
+      "cautionRu": "Это условная линия на глобусе. Широта округлена и медленно меняется с наклоном земной оси; видимость Солнца также зависит от атмосферной рефракции.",
+      "sourceIds": [
+        "r-circles"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "antarctic-circle",
+      "nameRu": "Южный полярный круг",
+      "targetRu": "Особая параллель Южного полушария",
+      "nameType": "term",
+      "tags": [
+        "line",
+        "number"
+      ],
+      "regionRu": "Южное полушарие",
+      "markRu": "≈66,5° ю. ш.",
+      "explanationRu": "Южный полярный круг проходит примерно по 66,5° южной широты. Около декабрьского солнцестояния здесь наблюдается полярный день, около июньского — полярная ночь: сезоны противоположны северным.",
+      "cautionRu": "Это параллель, а не берег Антарктиды. Широта приблизительная; фактическую видимость Солнца изменяют атмосферная рефракция и условия наблюдения.",
+      "sourceIds": [
+        "r-circles"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "prime-meridian",
+      "nameRu": "Нулевой меридиан",
+      "targetRu": "Гринвичский начальный меридиан",
+      "nameType": "term",
+      "tags": [
+        "line",
+        "number"
+      ],
+      "regionRu": "Гринвич, Великобритания",
+      "markRu": "0° долготы",
+      "explanationRu": "Нулевой, или начальный, меридиан служит началом отсчёта географической долготы. Международная картографическая традиция связывает его с Гринвичем в Лондоне; от него отсчитывают восточную и западную долготу.",
+      "cautionRu": "Нулевой меридиан — условная линия отсчёта. Линия перемены дат проходит на противоположной стороне Земли и решает другую задачу.",
+      "sourceIds": [
+        "r-date"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "date-line",
+      "nameRu": "Линия перемены дат",
+      "targetRu": "Условная линия в Тихом океане",
+      "nameType": "term",
+      "tags": [
+        "line",
+        "number"
+      ],
+      "regionRu": "Тихий океан",
+      "markRu": "±1 день",
+      "explanationRu": "Линия перемены дат разделяет территории с соседними календарными датами. При её пересечении на запад календарь переводят на день вперёд, на восток — на день назад.",
+      "cautionRu": "Она лишь приблизительно следует меридиану 180° и отклоняется вокруг отдельных территорий. Это не прямая линия с единым международным юридическим статусом.",
+      "sourceIds": [
+        "r-date"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "north-pole",
+      "nameRu": "Северный полюс",
+      "targetRu": "Географический Северный полюс",
+      "nameType": "term",
+      "tags": [
+        "line",
+        "number"
+      ],
+      "regionRu": "Северный Ледовитый океан",
+      "markRu": "90° с. ш.",
+      "explanationRu": "Географический Северный полюс — северная точка пересечения оси вращения Земли с её поверхностью. Его широта равна 90° северной широты; все меридианы сходятся в этой точке.",
+      "cautionRu": "Географический полюс и северный магнитный полюс — разные понятия. Направление магнитной стрелки не определяет положение географического полюса.",
+      "sourceIds": [
+        "r-latitude",
+        "r-circles"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "south-pole",
+      "nameRu": "Южный полюс",
+      "targetRu": "Географический Южный полюс",
+      "nameType": "term",
+      "tags": [
+        "line",
+        "number"
+      ],
+      "regionRu": "Антарктида",
+      "markRu": "90° ю. ш.",
+      "explanationRu": "Географический Южный полюс — южная точка пересечения оси вращения Земли с поверхностью. Его широта составляет 90° южной широты; здесь сходятся все меридианы.",
+      "cautionRu": "Не путайте его с южным магнитным полюсом. Океанический полюс недоступности и «полюс холода» тоже обозначают другие объекты.",
+      "sourceIds": [
+        "r-latitude",
+        "r-circles"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "white-sea",
+      "nameRu": "Белое море",
+      "targetRu": "Море у северо-западного побережья России",
+      "nameType": "toponym",
+      "tags": [
+        "color"
+      ],
+      "regionRu": "Северо-запад России, Северный Ледовитый океан",
+      "markRu": "Белое",
+      "explanationRu": "Белое море находится у северного побережья европейской части России. Среди объяснений его имени — длительный ледовый покров и светлый облик воды под северным небом.",
+      "cautionRu": "Это гипотезы происхождения названия. Ни одна из них не означает, что вода моря постоянно белая или что этимология окончательно установлена.",
+      "sourceIds": [
+        "r-sea-colors"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "yellow-sea",
+      "nameRu": "Жёлтое море",
+      "targetRu": "Море между Китаем и Корейским полуостровом",
+      "nameType": "toponym",
+      "tags": [
+        "color"
+      ],
+      "regionRu": "Восточная Азия, Тихий океан",
+      "markRu": "Жёлтое",
+      "explanationRu": "Жёлтое море расположено между Китаем и Корейским полуостровом. Его имя часто связывают с желтовато-бурыми наносами, которые приносят реки, в том числе Хуанхэ.",
+      "cautionRu": "Море и Жёлтая река — разные объекты. Цвет воды меняется, а объяснение имени через речные наносы не следует превращать в утверждение о постоянном цвете всего моря.",
+      "sourceIds": [
+        "r-sea-colors"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "dead-sea-name",
+      "nameRu": "Мёртвое море",
+      "targetRu": "Солёное озеро Иорданской впадины",
+      "nameType": "toponym",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Иорданская впадина, Ближний Восток",
+      "markRu": "Мёртвое?",
+      "explanationRu": "Мёртвое море в географическом смысле является бессточным солёным озером. Его имя отражает крайне неблагоприятные для привычной водной фауны условия высокой солёности.",
+      "cautionRu": "«Мёртвое» не означает полностью стерильное: в озере и связанных с ним средах встречаются микроорганизмы. Не называйте его морем, соединённым с океаном.",
+      "sourceIds": [
+        "r-dead",
+        "r-dead-life"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "coral-sea",
+      "nameRu": "Коралловое море",
+      "targetRu": "Море к северо-востоку от Австралии",
+      "nameType": "toponym",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "К северо-востоку от Австралии",
+      "markRu": "Кораллы",
+      "explanationRu": "Коралловое море лежит к северо-востоку от Австралии. Его характерные природные объекты — коралловые рифы и атоллы; именно этот образ закреплён в названии.",
+      "cautionRu": "Коралловое море не тождественно Большому Барьерному рифу. Название моря не означает, что кораллы сплошь покрывают всё его дно.",
+      "sourceIds": [
+        "r-coral"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "sargasso",
+      "nameRu": "Саргассово море",
+      "targetRu": "Область Атлантики, ограниченная течениями",
+      "nameType": "toponym",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Северная Атлантика",
+      "markRu": "Без берегов",
+      "explanationRu": "Саргассово море названо по плавающим водорослям саргассум. Это известное «море без берегов»: его область в Северной Атлантике очерчивают океанические течения, а не побережья материков.",
+      "cautionRu": "Его границы перемещаются вместе с течениями. Выражение «без берегов» описывает способ выделения моря и не означает отсутствие островов в этой части океана.",
+      "sourceIds": [
+        "r-sargasso"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "rio-negro",
+      "nameRu": "Риу-Негру — Чёрная река",
+      "targetRu": "Крупный приток Амазонки в Южной Америке",
+      "nameType": "translation",
+      "tags": [
+        "color"
+      ],
+      "regionRu": "Амазония, Южная Америка",
+      "markRu": "Чёрная река",
+      "explanationRu": "Риу-Негру, или Рио-Негро, означает «Чёрная река». Тёмные воды этого притока Амазонки богаты растворёнными органическими веществами из лесных почв; вблизи их цвет скорее напоминает чай.",
+      "cautionRu": "В Южной Америке есть и другие реки Negro. Здесь речь именно об амазонской Риу-Негру, а не о любой реке с названием «Чёрная».",
+      "sourceIds": [
+        "r-negro"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "colorado-name",
+      "nameRu": "Колорадо — красная / окрашенная река",
+      "targetRu": "Река бассейна Большого каньона",
+      "nameType": "translation",
+      "tags": [
+        "color"
+      ],
+      "regionRu": "Юго-запад США и северо-запад Мексики",
+      "markRu": "Окрашенная",
+      "explanationRu": "Испанское colorado означает «окрашенный», часто «красный» или «красноватый». Слово закрепилось в имени Колорадо — реки, протекающей через Большой каньон.",
+      "cautionRu": "Не путайте её с одноимённой рекой в Техасе. Перевод имени не гарантирует красный цвет воды сегодня и не превращает все «Красные реки» в один объект.",
+      "sourceIds": [
+        "r-colorado"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "belaya-name",
+      "nameRu": "Белая — Агидель",
+      "targetRu": "Река бассейна Камы",
+      "nameType": "toponym",
+      "tags": [
+        "color"
+      ],
+      "regionRu": "Южный Урал, бассейн Камы",
+      "markRu": "Белая",
+      "explanationRu": "Белая, известная также как Агидель, — река бассейна Камы. В этой карточке цветовое русское имя и местное название относятся к одному конкретному объекту.",
+      "cautionRu": "Рек Белая много, в том числе на Кавказе. Для однозначного ответа нужны ориентиры «Южный Урал», «Агидель» или «бассейн Камы».",
+      "sourceIds": [
+        "r-belaya"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "orange-name",
+      "nameRu": "Оранжевая река",
+      "targetRu": "Река Южной Африки",
+      "nameType": "toponym",
+      "tags": [
+        "color"
+      ],
+      "regionRu": "Южная Африка",
+      "markRu": "Оранжевая",
+      "explanationRu": "Оранжевая река — крупная река юга Африки. Её европейское имя связано с Оранской династией: знакомое цветовое слово здесь скрывает историческое посвящение.",
+      "cautionRu": "Не объясняйте имя обязательным оранжевым цветом воды. В данном случае происхождение названия связано с династией, а не с наблюдением за оттенком реки.",
+      "sourceIds": [
+        "r-orange"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "pacific-name",
+      "nameRu": "Тихий океан",
+      "targetRu": "Тихий океан",
+      "nameType": "toponym",
+      "tags": [
+        "sound",
+        "metaphor"
+      ],
+      "regionRu": "Между Азией, Австралией и Америками",
+      "markRu": "Тихий",
+      "explanationRu": "Имя Тихого океана связано с плаванием Фернана Магеллана, которому после трудного прохода у Южной Америки встретились спокойные воды. Название сохранило впечатление от конкретного путешествия.",
+      "cautionRu": "«Тихий» — исторически закрепившееся имя, а не постоянная характеристика погоды. В этом океане бывают сильные штормы и тропические циклоны.",
+      "sourceIds": [
+        "r-pacific"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "mediterranean-name",
+      "nameRu": "Средиземное море",
+      "targetRu": "Море между Европой, Африкой и Азией",
+      "nameType": "toponym",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Между Европой, Африкой и Азией",
+      "markRu": "Среди земель",
+      "explanationRu": "Смысл имени Средиземного моря — «море среди земель». Оно лежит между Европой, Африкой и Азией; латинское Mediterraneum передаёт тот же пространственный образ.",
+      "cautionRu": "«Средиземное» не означает геометрический центр всей Земли. Это историческое имя конкретного моря, а не обозначение любого внутреннего морского бассейна.",
+      "sourceIds": [
+        "r-mediterranean"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "mont-blanc-name",
+      "nameRu": "Монблан — Белая гора",
+      "targetRu": "Высшая вершина Альп",
+      "nameType": "translation",
+      "tags": [
+        "color"
+      ],
+      "regionRu": "Альпы, Европа",
+      "markRu": "Белая гора",
+      "explanationRu": "Французское Mont Blanc буквально переводится как «Белая гора». Так называется высочайшая вершина Альп, чей снежно-ледовый облик хорошо соответствует переводу.",
+      "cautionRu": "Монблан и Мауна-Кеа — разные горы, хотя их названия переводят сходно. Для вопроса «какая Белая гора?» нужно уточнять регион или исходное имя.",
+      "sourceIds": [
+        "r-blanc"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "blue-mountains",
+      "nameRu": "Голубые горы",
+      "targetRu": "Blue Mountains в Австралии",
+      "nameType": "toponym",
+      "tags": [
+        "color"
+      ],
+      "regionRu": "Новый Южный Уэльс, Австралия",
+      "markRu": "Голубые",
+      "explanationRu": "Голубые горы, или Blue Mountains, находятся в Новом Южном Уэльсе. Имя связано с голубоватой дымкой, заметной над удалёнными склонами и долинами.",
+      "cautionRu": "Голубой вид — оптический эффект атмосферы, а не цвет горных пород. Существуют и другие Голубые горы; здесь речь об австралийском регионе.",
+      "sourceIds": [
+        "r-blue"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "black-forest",
+      "nameRu": "Шварцвальд — Чёрный лес",
+      "targetRu": "Горная область юго-запада Германии",
+      "nameType": "translation",
+      "tags": [
+        "color"
+      ],
+      "regionRu": "Юго-запад Германии",
+      "markRu": "Чёрный лес",
+      "explanationRu": "Немецкое Schwarzwald переводится как «Чёрный лес». Шварцвальд — горная область на юго-западе Германии, поэтому имя обозначает целый регион, а не одно дерево или отдельный лесной участок.",
+      "cautionRu": "Перевод названия не описывает чёрный цвет растительности. Не смешивайте горную область Шварцвальд с меньшим по охвату одноимённым биосферным резерватом.",
+      "sourceIds": [
+        "r-black-forest"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "dragon-mountains",
+      "nameRu": "Драконовы горы",
+      "targetRu": "Дракенсберг в Южной Африке",
+      "nameType": "translation",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Юг Африки, Южная Африка и Лесото",
+      "markRu": "Драконовы",
+      "explanationRu": "Драконовы горы — русское соответствие имени Drakensberg, «Драконьи горы». Оно относится к горной системе юга Африки с протяжёнными скальными уступами.",
+      "cautionRu": "Образ дракона относится к названию и преданиям. Он не доказывает существование драконов; парк uKhahlamba-Drakensberg охватывает лишь часть горного региона.",
+      "sourceIds": [
+        "r-drakensberg"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "heavenly-mountains",
+      "nameRu": "Небесные горы",
+      "targetRu": "Тянь-Шань",
+      "nameType": "translation",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Центральная Азия",
+      "markRu": "Небесные",
+      "explanationRu": "Тянь-Шань обычно переводят с китайского как «Небесные горы». Это имя большой горной системы Центральной Азии; перевод помогает распознать объект за образным названием.",
+      "cautionRu": "Речь о системе гор, а не об одной вершине. Не подменяйте перевод легендой и не переносите имя Тянь-Шаня на любые высокие горы.",
+      "sourceIds": [
+        "r-tianshan"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "himalaya-name",
+      "nameRu": "Обитель снегов",
+      "targetRu": "Гималаи",
+      "nameType": "translation",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Южная Азия",
+      "markRu": "Обитель снегов",
+      "explanationRu": "Имя Гималаев происходит от санскритских слов со значениями «снег» и «обитель». Поэтому «Обитель снегов» — известный перевод названия этой горной системы.",
+      "cautionRu": "Это перевод имени, а не самостоятельная горная страна. Не все участки Гималаев покрыты снегом круглый год.",
+      "sourceIds": [
+        "r-himalaya"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "black-sands",
+      "nameRu": "Чёрные пески",
+      "targetRu": "Туркменские Каракумы",
+      "nameType": "translation",
+      "tags": [
+        "color"
+      ],
+      "regionRu": "Туркменистан, Центральная Азия",
+      "markRu": "Чёрные пески",
+      "explanationRu": "Каракумы — пустыня в Туркменистане. Её название передают с тюркских языков как «чёрные пески»; в паре с Кызылкумом оно даёт два классических цветовых имени пустынь.",
+      "cautionRu": "Перевод не означает, что все пески Каракумов имеют чёрный цвет. Здесь речь о Туркменских Каракумах, а не обо всех одноимённых местностях.",
+      "sourceIds": [
+        "r-karakum"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "red-sands",
+      "nameRu": "Красные пески",
+      "targetRu": "Кызылкум",
+      "nameType": "translation",
+      "tags": [
+        "color"
+      ],
+      "regionRu": "Центральная Азия, между Амударьёй и Сырдарьёй",
+      "markRu": "Красные пески",
+      "explanationRu": "Кызылкум означает «красные пески». Так называется пустыня Центральной Азии между Амударьёй и Сырдарьёй; имя удобно сопоставлять с Каракумами — «чёрными песками».",
+      "cautionRu": "Это две разные пустыни. Цветовой перевод — часть имени, а не обещание одинакового красного оттенка всей поверхности Кызылкума.",
+      "sourceIds": [
+        "r-kyzyl"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "empty-quarter",
+      "nameRu": "Пустая четверть",
+      "targetRu": "Руб-эль-Хали",
+      "nameType": "translation",
+      "tags": [
+        "number",
+        "metaphor"
+      ],
+      "regionRu": "Аравийский полуостров",
+      "markRu": "Пустая четверть",
+      "explanationRu": "Руб-эль-Хали — огромная песчаная пустыня Аравийского полуострова. Её арабское имя принято передавать как «Пустая четверть», по-английски Empty Quarter.",
+      "cautionRu": "«Четверть» здесь — часть традиционного имени. Не используйте её как точное утверждение о доле площади полуострова или как доказательство полного отсутствия жизни.",
+      "sourceIds": [
+        "r-empty"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "land-of-fire",
+      "nameRu": "Огненная Земля",
+      "targetRu": "Архипелаг у южной оконечности Южной Америки",
+      "nameType": "translation",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Южная оконечность Южной Америки",
+      "markRu": "Земля огня",
+      "explanationRu": "Огненная Земля — архипелаг, по-испански Tierra del Fuego, «земля огня». Магеллан связал это имя с огнями, замеченными на южном берегу пролива во время своего путешествия.",
+      "cautionRu": "Название не означает постоянные пожары или сплошную вулканическую поверхность. Огненная Земля — архипелаг; его крупнейший остров носит то же имя.",
+      "sourceIds": [
+        "r-tierra"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "cape-hope",
+      "nameRu": "Мыс Доброй Надежды",
+      "targetRu": "Мыс на Капском полуострове",
+      "nameType": "toponym",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Капский полуостров, Южная Африка",
+      "markRu": "Добрая Надежда",
+      "explanationRu": "Мыс Доброй Надежды известен также своим ранним европейским именем — мыс Бурь. Португальский король Жуан II сменил мрачное название на имя, связанное с надеждой на морской путь в Индию.",
+      "cautionRu": "Это один мыс с историческими вариантами имени. Он не является самой южной точкой Африки: ею считается мыс Игольный, или Агульяс.",
+      "sourceIds": [
+        "r-hope"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "cape-needles",
+      "nameRu": "Мыс Игольный",
+      "targetRu": "Мыс Агульяс на юге Африки",
+      "nameType": "translation",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Южная Африка",
+      "markRu": "Игольный",
+      "explanationRu": "Мыс Игольный, или Агульяс, — южная оконечность Африканского материка. Португальское Agulhas означает «иглы»; русское имя передаёт этот образ.",
+      "cautionRu": "Не путайте его с мысом Доброй Надежды. Сам перевод слова не доказывает единственную версию того, какие именно «иглы» имели в виду давшие название мореплаватели.",
+      "sourceIds": [
+        "r-agulhas"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "skeleton-coast",
+      "nameRu": "Берег Скелетов",
+      "targetRu": "Атлантическое побережье Намибии",
+      "nameType": "toponym",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Атлантическое побережье Намибии",
+      "markRu": "Берег Скелетов",
+      "explanationRu": "Берег Скелетов — известное имя сурового атлантического побережья Намибии. Оно связано с останками животных и кораблекрушениями на берегу пустыни.",
+      "cautionRu": "Это прибрежный район, а не название всей Намибии. Одноимённый национальный парк и более широко понимаемый Берег Скелетов имеют разный охват.",
+      "sourceIds": [
+        "r-skeleton",
+        "r-skeleton-park"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "giants-causeway-name",
+      "nameRu": "Дорога гигантов",
+      "targetRu": "Базальтовое побережье Северной Ирландии",
+      "nameType": "translation",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Северная Ирландия, Великобритания",
+      "markRu": "Дорога гигантов",
+      "explanationRu": "Дорога гигантов — побережье со множеством базальтовых колонн. Имя Giant’s Causeway связано с преданиями о великанах, тогда как сами колонны образовались при остывании лавы.",
+      "cautionRu": "Предание объясняет образ в названии, а не геологическое происхождение камней. Это природный объект в Северной Ирландии, а не построенная великанами дорога.",
+      "sourceIds": [
+        "r-giants"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "twelve-apostles",
+      "nameRu": "Двенадцать апостолов",
+      "targetRu": "Морские скалы у побережья Виктории, Австралия",
+      "nameType": "toponym",
+      "tags": [
+        "number",
+        "metaphor"
+      ],
+      "regionRu": "Виктория, Австралия",
+      "markRu": "12 апостолов",
+      "explanationRu": "«Двенадцать апостолов» — морские известняковые скалы у побережья австралийского штата Виктория. Это закрепившееся имя группы останцов, отделённых эрозией от береговых утёсов.",
+      "cautionRu": "Число в названии не служит надёжной переписью стоящих сегодня скал. Останцы разрушаются; не выводите их современное количество из слова «двенадцать».",
+      "sourceIds": [
+        "r-apostles",
+        "r-apostles-geology"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "seven-sisters-falls",
+      "nameRu": "Семь сестёр — водопад",
+      "targetRu": "Гейрангер-фьорд, Норвегия",
+      "nameType": "toponym",
+      "tags": [
+        "number",
+        "metaphor"
+      ],
+      "regionRu": "Гейрангер-фьорд, Норвегия",
+      "markRu": "7 сестёр",
+      "explanationRu": "«Семь сестёр» — водопад, несколькими потоками спускающийся к Гейрангер-фьорду. В местном предании потоки сравнивают с сёстрами, а соседний водопад — с женихом.",
+      "cautionRu": "Это норвежский водопад, а не английские меловые утёсы с тем же именем. Отдельные струи составляют один объект; их заметность зависит от количества воды.",
+      "sourceIds": [
+        "r-sisters-falls"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "thousand-islands",
+      "nameRu": "Тысяча островов",
+      "targetRu": "Архипелаг на реке Святого Лаврентия",
+      "nameType": "toponym",
+      "tags": [
+        "number"
+      ],
+      "regionRu": "Река Святого Лаврентия, Канада и США",
+      "markRu": "1000 островов",
+      "explanationRu": "«Тысяча островов» — имя архипелага на реке Святого Лаврентия между Канадой и США. Английское Thousand Islands передаёт тот же образ множества небольших островов.",
+      "cautionRu": "Тысяча в названии — округлённый образ, а не точный итог подсчёта. Канадский национальный парк Thousand Islands охватывает лишь часть архипелага.",
+      "sourceIds": [
+        "r-islands"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "beshtau-name",
+      "nameRu": "Бештау — Пять гор",
+      "targetRu": "Горный массив в районе Кавказских Минеральных Вод",
+      "nameType": "translation",
+      "tags": [
+        "number"
+      ],
+      "regionRu": "Кавказские Минеральные Воды, Россия",
+      "markRu": "5 гор",
+      "explanationRu": "Бештау — горный массив в районе Кавказских Минеральных Вод. Его тюркское имя означает «пять гор» и связано с пятью основными вершинами массива.",
+      "cautionRu": "Это один массив с несколькими вершинами. «Пять гор» описывает его строение, а не место в рейтинге: Бештау не означает пятую по высоте гору.",
+      "sourceIds": [
+        "r-beshtau"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "roof-world",
+      "nameRu": "Крыша мира",
+      "targetRu": "Памир; в других традициях — Тибетское нагорье",
+      "nameType": "epithet",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Высокогорная Азия: Памир и Тибет",
+      "markRu": "Крыша мира",
+      "explanationRu": "«Крыша мира» — образное имя высокогорной Азии. В русской географической традиции его особенно связывают с Памиром; в других источниках так называют Тибетское нагорье.",
+      "cautionRu": "Без контекста это имя не даёт единственного ответа. Не выдавайте одну традицию употребления за универсальную и не объявляйте выражение доказанным буквальным переводом слова «Памир».",
+      "sourceIds": [
+        "r-roof",
+        "r-roof-tibet"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "third-pole",
+      "nameRu": "Третий полюс",
+      "targetRu": "Тибетское нагорье и прилегающая высокогорная Азия",
+      "nameType": "conventional",
+      "tags": [
+        "number",
+        "metaphor"
+      ],
+      "regionRu": "Тибетское нагорье и высокогорная Азия",
+      "markRu": "Третий полюс",
+      "explanationRu": "Тибетское нагорье и прилегающие высокогорья называют «Третьим полюсом» из-за крупных запасов льда вне Арктики и Антарктики. Выражение связывает горные ледники Азии с двумя полярными областями.",
+      "cautionRu": "Это образный научно-популярный термин. Третьей точки пересечения земной оси с поверхностью нет; границы региона в исследованиях могут различаться.",
+      "sourceIds": [
+        "r-third"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "ring-fire",
+      "nameRu": "Тихоокеанское огненное кольцо",
+      "targetRu": "Вулканические и сейсмические области по окраинам Тихого океана",
+      "nameType": "conventional",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Окраины Тихого океана",
+      "markRu": "Огненное кольцо",
+      "explanationRu": "Тихоокеанское огненное кольцо — условное имя пояса вулканических и сейсмических областей вокруг Тихого океана. «Огонь» отсылает к вулканам, а «кольцо» — к общему расположению вдоль океанских окраин.",
+      "cautionRu": "Это не непрерывная окружность и не единый вулкан. Землетрясения и вулканы встречаются и за пределами этого пояса.",
+      "sourceIds": [
+        "r-ring"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "bermuda-triangle",
+      "nameRu": "Бермудский треугольник",
+      "targetRu": "Условная область западной части Северной Атлантики",
+      "nameType": "conventional",
+      "tags": [
+        "number",
+        "metaphor"
+      ],
+      "regionRu": "Западная часть Северной Атлантики",
+      "markRu": "Треугольник?",
+      "explanationRu": "Бермудским треугольником называют условную область западной части Северной Атлантики, известную по рассказам об исчезновениях судов и самолётов. У этой области нет общепринятых официальных границ.",
+      "cautionRu": "NOAA указывает, что доказательств повышенной частоты загадочных исчезновений здесь нет. Популярное имя района не подтверждает рассказы о сверхъестественных причинах катастроф.",
+      "sourceIds": [
+        "r-bermuda"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "golden-horn",
+      "nameRu": "Золотой Рог",
+      "targetRu": "Залив в Стамбуле",
+      "nameType": "toponym",
+      "tags": [
+        "color",
+        "metaphor"
+      ],
+      "regionRu": "Стамбул, Турция",
+      "markRu": "Золотой Рог",
+      "explanationRu": "Золотой Рог — залив в Стамбуле, известный по-турецки как Халич. Образ рога передаёт очертания вытянутого залива; это один из классических ориентиров исторического города.",
+      "cautionRu": "Не путайте его с бухтой Золотой Рог во Владивостоке. Само слово «золотой» не доказывает ни наличие золота в воде, ни одну бесспорную версию происхождения имени.",
+      "sourceIds": [
+        "r-horn"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "between-rivers",
+      "nameRu": "Междуречье",
+      "targetRu": "Месопотамия — исторический район Тигра и Евфрата",
+      "nameType": "historical",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Тигр и Евфрат, Западная Азия",
+      "markRu": "Между рек",
+      "explanationRu": "Междуречье — известное русское соответствие имени Месопотамия. Греческое название означает «между реками» и относится к исторической области, связанной с Тигром и Евфратом.",
+      "cautionRu": "Исторический охват Месопотамии менялся. Не любой участок между двумя реками называют Месопотамией, и её границы не совпадают с границами одного современного государства.",
+      "sourceIds": [
+        "r-mesopotamia"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "hungry-steppe",
+      "nameRu": "Голодная степь",
+      "targetRu": "Мирзачуль в Центральной Азии",
+      "nameType": "historical",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Мирзачуль, Центральная Азия",
+      "markRu": "Голодная степь",
+      "explanationRu": "Голодная степь — историческое русское имя Мирзачуля, равнинной области Центральной Азии. Суровый образ закрепился за засушливой местностью и сохранился как географическое название.",
+      "cautionRu": "Не смешивайте Мирзачуль с Бетпак-Далой, которую также связывают с образом «голодной степи». Старое имя не описывает современное сельское хозяйство орошаемых земель.",
+      "sourceIds": [
+        "r-hungry",
+        "r-hungry-language"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "cold-pole",
+      "nameRu": "Полюс холода",
+      "targetRu": "Район Верхоянска и Оймякона в населённой части Северного полушария",
+      "nameType": "conventional",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Верхоянск и Оймякон, Якутия, Россия",
+      "markRu": "Полюс холода",
+      "explanationRu": "«Полюс холода» — обозначение области исключительно низких температур. В населённой части Северного полушария с ним связывают Верхоянск и Оймякон в Якутии.",
+      "cautionRu": "Это не географический полюс и не безусловный мировой рекорд. Сравнение зависит от станции, периода и способа измерения; антарктические минимумы рассматриваются отдельно.",
+      "sourceIds": [
+        "r-cold"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "point-nemo",
+      "nameRu": "Точка Немо",
+      "targetRu": "Океанический полюс недоступности в южной части Тихого океана",
+      "nameType": "conventional",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Южная часть Тихого океана",
+      "markRu": "Дальше от суши",
+      "explanationRu": "Точка Немо — океанический полюс недоступности, то есть точка океана, наиболее удалённая от ближайшей суши. Имя отсылает к капитану Немо, герою Жюля Верна.",
+      "cautionRu": "Это расчётное местоположение в открытом океане, а не остров или постоянная станция. Слово «полюс» здесь описывает удалённость от суши, а не земную ось.",
+      "sourceIds": [
+        "r-nemo"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "seven-rivers",
+      "nameRu": "Семиречье — Жетысу",
+      "targetRu": "Историко-географическая область Центральной Азии",
+      "nameType": "translation",
+      "tags": [
+        "number"
+      ],
+      "regionRu": "Юго-восток Казахстана и прилегающая Центральная Азия",
+      "markRu": "7 рек",
+      "explanationRu": "Жетысу переводится как «семь рек»; Семиречье — русское соответствие этого имени. Оно закрепилось за историко-географической областью Центральной Азии.",
+      "cautionRu": "В разных традициях перечень семи рек и охват области различаются. Историческое Семиречье не следует автоматически приравнивать к современной административной области Жетысу.",
+      "sourceIds": [
+        "r-seven-rivers"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "seven-seas",
+      "nameRu": "Семь морей",
+      "targetRu": "Историческое выражение об известных морях и океанских пространствах",
+      "nameType": "conventional",
+      "tags": [
+        "number"
+      ],
+      "regionRu": "Историческая морская география",
+      "markRu": "7 морей",
+      "explanationRu": "Выражение «семь морей» встречается в разных культурах и эпохах. Им обозначали разные наборы морей, а иногда — весь известный морской мир.",
+      "cautionRu": "Единственного общепринятого списка семи морей нет. Для перечисления всегда нужны эпоха или конкретная традиция; это не официальная классификация всех вод Земли.",
+      "sourceIds": [
+        "r-seven-seas"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "rising-sun",
+      "nameRu": "Страна восходящего солнца",
+      "targetRu": "Япония",
+      "nameType": "epithet",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Япония, Восточная Азия",
+      "markRu": "Восход солнца",
+      "explanationRu": "Япония известна как «Страна восходящего солнца». Образ имеет давнюю историческую традицию и связан с положением страны к востоку от Китая.",
+      "cautionRu": "Это закрепившееся образное имя. Оно не означает, что в Японии раньше всех на Земле наступает рассвет: такая формулировка зависит от даты и принятого отсчёта времени.",
+      "sourceIds": [
+        "r-japan"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "morning-calm",
+      "nameRu": "Страна утренней свежести",
+      "targetRu": "Корея",
+      "nameType": "epithet",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Корея, Восточная Азия",
+      "markRu": "Утренняя свежесть",
+      "explanationRu": "«Страна утренней свежести» — классическое образное имя Кореи. В английской традиции близкое выражение известно как Land of the Morning Calm — «страна утреннего спокойствия».",
+      "cautionRu": "Это историко-культурное имя Кореи, а не характеристика погоды или название только одного из современных государств Корейского полуострова.",
+      "sourceIds": [
+        "r-korea"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "thousand-lakes",
+      "nameRu": "Страна тысячи озёр",
+      "targetRu": "Финляндия",
+      "nameType": "epithet",
+      "tags": [
+        "number"
+      ],
+      "regionRu": "Финляндия, Северная Европа",
+      "markRu": "1000 озёр",
+      "explanationRu": "Финляндию называют «Страной тысячи озёр». Имя подчёркивает озёрный облик страны и относится ко всей Финляндии, а не к отдельной озёрной системе.",
+      "cautionRu": "Тысяча — образ множества, а не точное число водоёмов. Реальный подсчёт озёр зависит, в частности, от принятого минимального размера.",
+      "sourceIds": [
+        "r-finland"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "thunder-dragon",
+      "nameRu": "Страна Громового Дракона",
+      "targetRu": "Бутан",
+      "nameType": "translation",
+      "tags": [
+        "sound",
+        "metaphor"
+      ],
+      "regionRu": "Бутан, Гималаи",
+      "markRu": "Громовой Дракон",
+      "explanationRu": "Друк-Юл, местное имя Бутана, передают как «Страна Громового Дракона». Образ дракона относится к культурной и религиозной традиции страны.",
+      "cautionRu": "Это перевод традиционного имени. Не представляйте мифический образ как описание реального животного или точную метеорологическую характеристику всего Бутана.",
+      "sourceIds": [
+        "r-bhutan"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "long-white-cloud",
+      "nameRu": "Страна длинного белого облака",
+      "targetRu": "Аотеароа / Новая Зеландия",
+      "nameType": "translation",
+      "tags": [
+        "color",
+        "metaphor"
+      ],
+      "regionRu": "Аотеароа / Новая Зеландия, Океания",
+      "markRu": "Белое облако",
+      "explanationRu": "Аотеароа обычно передают с языка маори как «Страна длинного белого облака». Сегодня имя широко связывают с Новой Зеландией; в раннем употреблении оно относилось прежде всего к Северному острову.",
+      "cautionRu": "Рассказы о первом замеченном облаке относятся к преданиям. Привычный перевод и история распространения имени — разные вопросы; единственную легенду не следует объявлять доказанной этимологией.",
+      "sourceIds": [
+        "r-nz",
+        "r-nz-names"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "green-continent",
+      "nameRu": "Зелёный континент",
+      "targetRu": "Австралия",
+      "nameType": "epithet",
+      "tags": [
+        "color",
+        "metaphor"
+      ],
+      "regionRu": "Австралия",
+      "markRu": "Зелёный континент",
+      "explanationRu": "«Зелёный континент» — традиционная русская перифраза Австралии. За цветовым образом скрывается целый материк, а не отдельный заповедник.",
+      "cautionRu": "Имя не означает, что вся Австралия покрыта зелёной растительностью. Перифраза не заменяет описание её разнообразных природных зон.",
+      "sourceIds": [
+        "r-periphrases"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "gift-nile",
+      "nameRu": "Дар Нила",
+      "targetRu": "Египет",
+      "nameType": "epithet",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Египет, Северо-Восточная Африка",
+      "markRu": "Дар Нила",
+      "explanationRu": "Египет называют «Даром Нила» вслед за знаменитым выражением Геродота. Оно подчёркивает роль реки в существовании плодородной долины и развитии древнеегипетской цивилизации.",
+      "cautionRu": "Это историческая образная формула, а не официальное название государства. Она не означает, что всю территорию современного Египта создала одна река.",
+      "sourceIds": [
+        "r-egypt"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "maple-leaf",
+      "nameRu": "Страна кленового листа",
+      "targetRu": "Канада",
+      "nameType": "epithet",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Канада, Северная Америка",
+      "markRu": "Кленовый лист",
+      "explanationRu": "«Страна кленового листа» — устоявшееся русское образное имя Канады. Кленовый лист служит узнаваемым ключом к стране.",
+      "cautionRu": "Это перифраза, а не перевод слова «Канада». Она не означает, что вся страна занята кленовыми лесами.",
+      "sourceIds": [
+        "r-periphrases"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "foggy-albion",
+      "nameRu": "Туманный Альбион",
+      "targetRu": "Великобритания / Англия в русской литературной традиции",
+      "nameType": "epithet",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Великобритания, Северо-Западная Европа",
+      "markRu": "Туманный Альбион",
+      "explanationRu": "«Туманный Альбион» — классическое литературное имя Великобритании. В русской традиции выражение также нередко связывают с Англией.",
+      "cautionRu": "Англия, остров Великобритания и Соединённое Королевство — разные понятия. При работе с конкретным текстом нужно учитывать, какую территорию автор имел в виду.",
+      "sourceIds": [
+        "r-albion"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "gold-coast",
+      "nameRu": "Золотой Берег",
+      "targetRu": "Историческая область и колония, связанная с современной Ганой",
+      "nameType": "historical",
+      "tags": [
+        "color",
+        "metaphor"
+      ],
+      "regionRu": "Побережье Гвинейского залива, современная Гана",
+      "markRu": "Золотой Берег",
+      "explanationRu": "Золотой Берег — историческое европейское имя западноафриканского побережья, известного торговлей золотом. Так называлась и британская колония, связанная с появлением независимой Ганы.",
+      "cautionRu": "Исторический район, колония и современная Гана имеют разный охват. Не переносите это имя на весь Гвинейский залив и не представляйте его современным официальным названием страны.",
+      "sourceIds": [
+        "r-ghana",
+        "r-coasts"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "ivory-coast",
+      "nameRu": "Берег Слоновой Кости",
+      "targetRu": "Кот-д’Ивуар и историческое название побережья",
+      "nameType": "translation",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Кот-д’Ивуар, Западная Африка",
+      "markRu": "Слоновая Кость",
+      "explanationRu": "Французское Côte d’Ivoire означает «Берег Слоновой Кости». Это торгово-географическое имя побережья закрепилось в названии современного государства Кот-д’Ивуар.",
+      "cautionRu": "У исторического побережья и современного государства не обязательно одни границы. В современном русском названии страны употребляется форма «Кот-д’Ивуар».",
+      "sourceIds": [
+        "r-coasts"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "slave-coast",
+      "nameRu": "Невольничий Берег",
+      "targetRu": "Историческое побережье Бенинского залива",
+      "nameType": "historical",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Побережье Бенинского залива, Западная Африка",
+      "markRu": "Невольничий Берег",
+      "explanationRu": "Невольничий Берег — историческое европейское название участка побережья Бенинского залива. Оно связано с торговлей порабощёнными людьми в период атлантической работорговли.",
+      "cautionRu": "Это термин исторической географии, а не современное государство. Он отражает колониальную торговую номенклатуру; не следует так называть сегодняшних жителей или всю Западную Африку.",
+      "sourceIds": [
+        "r-coasts"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "greenland-name",
+      "nameRu": "Зелёная земля",
+      "targetRu": "Гренландия",
+      "nameType": "translation",
+      "tags": [
+        "color"
+      ],
+      "regionRu": "Северная Атлантика и Арктика",
+      "markRu": "Зелёная земля",
+      "explanationRu": "Имя Гренландия передаёт скандинавское «зелёная земля». Европейская история этого названия связана с Эриком Рыжим и освоением острова скандинавами.",
+      "cautionRu": "Большая часть острова покрыта льдом. Привычный перевод не доказывает, что вся Гренландия была зелёной; мотивы выбора имени известны из исторической традиции.",
+      "sourceIds": [
+        "r-greenland"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "iceland-name",
+      "nameRu": "Ледяная страна",
+      "targetRu": "Исландия",
+      "nameType": "translation",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Северная Атлантика",
+      "markRu": "Земля льда",
+      "explanationRu": "Исландия означает «земля льда». Другое известное имя, «страна огня и льда», сопоставляет её вулканизм и ледники; оба выражения относятся к одному острову.",
+      "cautionRu": "Это одна карточка с двумя связанными образами. «Ледяная страна» не означает сплошной ледовый покров, а «огонь» — непрерывные извержения повсюду.",
+      "sourceIds": [
+        "r-iceland",
+        "r-icefire"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "eternal-city",
+      "nameRu": "Вечный город",
+      "targetRu": "Рим",
+      "nameType": "epithet",
+      "tags": [
+        "number",
+        "metaphor"
+      ],
+      "regionRu": "Рим, Италия",
+      "markRu": "Вечный город",
+      "explanationRu": "Вечный город — классическое имя Рима. С тем же городом связано выражение «город на семи холмах», отсылающее к традиционной топографии древнего Рима.",
+      "cautionRu": "Оба имени относятся к одному городу. Семь холмов — историческая традиция, а не точное описание всего рельефа современного Рима; «вечный» — образ, не буквальная датировка.",
+      "sourceIds": [
+        "r-rome"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "big-apple",
+      "nameRu": "Большое яблоко",
+      "targetRu": "Нью-Йорк",
+      "nameType": "epithet",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Нью-Йорк, США",
+      "markRu": "Большое яблоко",
+      "explanationRu": "«Большое яблоко», по-английски The Big Apple, — широко известное прозвище Нью-Йорка. В географическом вопросе этот образ указывает на город.",
+      "cautionRu": "Не путайте город Нью-Йорк с одноимённым штатом. Само прозвище не означает, что город получил официальное имя из-за яблоневых садов.",
+      "sourceIds": [
+        "r-ny",
+        "r-periphrases"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "windy-city",
+      "nameRu": "Город ветров",
+      "targetRu": "Чикаго",
+      "nameType": "epithet",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Чикаго, США",
+      "markRu": "Город ветров",
+      "explanationRu": "«Город ветров», или Windy City, — исторически закрепившееся прозвище Чикаго. Его происхождение обсуждают и в связи с погодой, и в связи с репутацией многословных городских политиков.",
+      "cautionRu": "Прозвище не доказывает, что Чикаго — самый ветреный город мира. Не сводите историю выражения к одному измерению скорости ветра.",
+      "sourceIds": [
+        "r-chicago"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "city-light",
+      "nameRu": "Город света",
+      "targetRu": "Париж",
+      "nameType": "epithet",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Париж, Франция",
+      "markRu": "Город света",
+      "explanationRu": "«Город света», или Ville Lumière, — известное образное имя Парижа. В объяснениях его истории часто обращаются к развитию городского освещения.",
+      "cautionRu": "Историческая библиотека Парижа не называет единственный надёжно установленный источник выражения. Не выдавайте одну версию происхождения прозвища за бесспорный факт.",
+      "sourceIds": [
+        "r-paris"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "lion-city",
+      "nameRu": "Город льва",
+      "targetRu": "Сингапур",
+      "nameType": "translation",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Сингапур, Юго-Восточная Азия",
+      "markRu": "Город льва",
+      "explanationRu": "Название Сингапура восходит к Singapura — «город льва». Известное предание связывает его с правителем Санг Нила Утамой, который якобы увидел на острове льва.",
+      "cautionRu": "Встреча со львом — легенда о происхождении имени. Её нельзя использовать как доказательство того, что на острове обитали дикие львы.",
+      "sourceIds": [
+        "r-singapore",
+        "r-singapore-legend"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "thousand-minarets",
+      "nameRu": "Город тысячи минаретов",
+      "targetRu": "Каир",
+      "nameType": "epithet",
+      "tags": [
+        "number",
+        "metaphor"
+      ],
+      "regionRu": "Каир, Египет",
+      "markRu": "1000 минаретов",
+      "explanationRu": "Каир известен как «город тысячи минаретов». Образ подчёркивает многочисленные мечети и историческую исламскую архитектуру египетской столицы.",
+      "cautionRu": "Тысяча здесь — традиционный образ множества. Это не актуальная инвентаризация всех минаретов города и не официальное название Каира.",
+      "sourceIds": [
+        "r-cairo"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "northern-palmyra",
+      "nameRu": "Северная Пальмира",
+      "targetRu": "Санкт-Петербург",
+      "nameType": "epithet",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Санкт-Петербург, Россия",
+      "markRu": "Северная Пальмира",
+      "explanationRu": "«Северная Пальмира» — классическая русская перифраза Санкт-Петербурга. Она сопоставляет город с античной Пальмирой и её архитектурным величием.",
+      "cautionRu": "Санкт-Петербург и Пальмира в Сирии — разные города. «Северная» выражает культурное сравнение, а не перенос древнего города на новое место.",
+      "sourceIds": [
+        "r-periphrases"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "fragrant-harbour",
+      "nameRu": "Благоухающая гавань",
+      "targetRu": "Гонконг",
+      "nameType": "translation",
+      "tags": [
+        "smell",
+        "metaphor"
+      ],
+      "regionRu": "Гонконг, юг Китая",
+      "markRu": "Благоухающая",
+      "explanationRu": "Имя Гонконга обычно переводят как «благоухающая гавань» или «гавань благовоний». Популярное объяснение связывает его с вывозом ароматической древесины и благовоний через местную гавань.",
+      "cautionRu": "Государственный гербарий Гонконга отмечает несколько объяснений происхождения имени. Торговая версия известна, но её не следует объявлять единственной доказанной; это не обещание постоянного запаха в городе.",
+      "sourceIds": [
+        "r-hongkong"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "smoky-bay",
+      "nameRu": "Дымная бухта",
+      "targetRu": "Рейкьявик",
+      "nameType": "translation",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Рейкьявик, Исландия",
+      "markRu": "Дымная бухта",
+      "explanationRu": "Рейкьявик переводят как «дымная бухта». Название связывают с паром геотермальных источников, который ранние поселенцы видели над местностью.",
+      "cautionRu": "«Дым» в этом объяснении — пар горячих источников. Не выводите из перевода, что бухта постоянно горит или что имя связано с промышленным смогом.",
+      "sourceIds": [
+        "r-reykjavik"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "pink-city",
+      "nameRu": "Розовый город",
+      "targetRu": "Джайпур",
+      "nameType": "epithet",
+      "tags": [
+        "color"
+      ],
+      "regionRu": "Джайпур, Раджастхан, Индия",
+      "markRu": "Розовый город",
+      "explanationRu": "Джайпур известен как «Розовый город». Имя связано с характерным розовым обликом фасадов его исторического центра.",
+      "cautionRu": "Речь прежде всего о старом городе. Не все здания современного Джайпура розовые; историческое прозвище не задаёт цвет каждого городского квартала.",
+      "sourceIds": [
+        "r-jaipur"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "january-river",
+      "nameRu": "Январская река",
+      "targetRu": "Рио-де-Жанейро",
+      "nameType": "translation",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Рио-де-Жанейро, Бразилия",
+      "markRu": "Январская река",
+      "explanationRu": "Португальское Rio de Janeiro буквально означает «январская река». Имя связано с прибытием европейской экспедиции к заливу Гуанабара в январе 1502 года и позднее закрепилось за городом.",
+      "cautionRu": "Первоначально имя относилось к заливу. Рассказ, будто мореплаватели приняли его за устье реки, муниципальный исторический источник приводит как предположение, а не установленный факт.",
+      "sourceIds": [
+        "r-rio"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "sugarloaf-name",
+      "nameRu": "Сахарная Голова",
+      "targetRu": "Гора Пан-ди-Асукар в Рио-де-Жанейро",
+      "nameType": "translation",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Рио-де-Жанейро, Бразилия",
+      "markRu": "Сахарная Голова",
+      "explanationRu": "Сахарная Голова — русское имя горы Пан-ди-Асукар, Pão de Açúcar, в Рио-де-Жанейро. Её очертания сравнивают с сахарной головой — коническим куском сахара старого способа производства.",
+      "cautionRu": "Это метафора формы горы, а не её состава. Здесь имеется в виду бразильский Пан-ди-Асукар, а не любой объект с английским именем Sugarloaf.",
+      "sourceIds": [
+        "r-sugarloaf",
+        "r-sugarloaf-meaning"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "table-mountain-name",
+      "nameRu": "Столовая гора",
+      "targetRu": "Table Mountain в Кейптауне",
+      "nameType": "translation",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Кейптаун, Южная Африка",
+      "markRu": "Столовая",
+      "explanationRu": "Столовая гора, Table Mountain, возвышается над Кейптауном. Её имя передаёт характерный облик плоской верхней части, напоминающей столешницу.",
+      "cautionRu": "В этой карточке речь о конкретной горе у Кейптауна. «Столовая гора» также может быть общим описанием формы рельефа, поэтому регион необходим для однозначного ответа.",
+      "sourceIds": [
+        "r-table-mountain"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "easter-island",
+      "nameRu": "Остров Пасхи",
+      "targetRu": "Рапануи в юго-восточной части Тихого океана",
+      "nameType": "toponym",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Юго-восток Тихого океана, Чили",
+      "markRu": "Пасха",
+      "explanationRu": "Остров Пасхи известен также как Рапануи. Европейское имя связано с прибытием экспедиции Якоба Роггевена в пасхальное воскресенье 1722 года.",
+      "cautionRu": "Рапануи и остров Пасхи — один остров с разными именами. Название фиксирует событие европейской истории, а не начало заселения острова.",
+      "sourceIds": [
+        "r-easter"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "christmas-island",
+      "nameRu": "Остров Рождества",
+      "targetRu": "Австралийская территория в Индийском океане",
+      "nameType": "toponym",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Индийский океан, территория Австралии",
+      "markRu": "Рождество",
+      "explanationRu": "Остров Рождества в Индийском океане получил европейское имя после того, как капитан Уильям Майнорс увидел его на Рождество 1643 года. Сейчас это австралийская внешняя территория.",
+      "cautionRu": "Не путайте его с Киритимати в Тихом океане, который тоже известен как Christmas Island. Для однозначного ответа уточняйте океан и страну.",
+      "sourceIds": [
+        "r-christmas"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "tulip-country",
+      "nameRu": "Страна тюльпанов",
+      "targetRu": "Нидерланды",
+      "nameType": "epithet",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Нидерланды, Западная Европа",
+      "markRu": "Страна тюльпанов",
+      "explanationRu": "«Страна тюльпанов» — закрепившееся русское образное имя Нидерландов. Цветок выступает узнаваемым ключом к стране.",
+      "cautionRu": "Это перифраза, а не перевод имени государства. Голландия — название части Нидерландов; при точном географическом ответе называйте всю страну.",
+      "sourceIds": [
+        "r-ortho"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "freedom-island",
+      "nameRu": "Остров свободы",
+      "targetRu": "Куба",
+      "nameType": "epithet",
+      "tags": [
+        "metaphor"
+      ],
+      "regionRu": "Куба, Карибское море",
+      "markRu": "Остров свободы",
+      "explanationRu": "«Остров свободы» — известное русское образное имя Кубы. Оно закрепилось в историческом и политическом контексте, связанном с Кубинской революцией.",
+      "cautionRu": "Это устойчивое прозвище, а не официальное название государства и не измеримая географическая характеристика свободы.",
+      "sourceIds": [
+        "r-cuba"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "green-cape-islands",
+      "nameRu": "Острова Зелёного Мыса",
+      "targetRu": "Кабо-Верде",
+      "nameType": "historical",
+      "tags": [
+        "color",
+        "metaphor"
+      ],
+      "regionRu": "Кабо-Верде, Атлантический океан",
+      "markRu": "Зелёный Мыс",
+      "explanationRu": "«Острова Зелёного Мыса» — традиционное русское название Кабо-Верде. Имя связано с португальским Cabo Verde, «Зелёный Мыс», и с положением архипелага у западного побережья Африки.",
+      "cautionRu": "Сам мыс Зелёный находится на материке, в современном Сенегале. Не переносите его на один из островов: современное название государства — Кабо-Верде.",
+      "sourceIds": [
+        "r-cabo-verde"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    }
+  ]
+}

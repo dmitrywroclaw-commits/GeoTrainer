@@ -26,7 +26,10 @@ test('the other learning sections offer the next card of the same type', async (
     ['/item/mexico-coat-of-arms', '/item/india-state-emblem'],
     ['/item/grand-canyon', '/item/uluru'],
     ['/capital/capital-algeria-algiers', '/capital/capital-angola-luanda'],
-    ['/border/gambia', '/border/lesotho'],
+    ['/record/nile', '/record/amazon'],
+    ['/record/everest', '/record/k2'],
+    ['/record/caspian', '/record/baikal'],
+    ['/name/equator', '/name/cancer'],
   ];
   for (const [first, second] of routes) {
     await page.goto(first);

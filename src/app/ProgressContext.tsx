@@ -14,7 +14,7 @@ export function ProgressProvider({ children }: { children: ReactNode }) {
   const [ready, setReady] = useState(false);
   const [error, setError] = useState<string | null>(null);
   useEffect(() => {
-    progressRepository.getAll().then(setRecords).catch(() => setError('Не удалось загрузить локальный прогресс.')).finally(() => setReady(true));
+    progressRepository.getAll().then(items => setRecords(items.filter(item => item.contentType !== 'border'))).catch(() => setError('Не удалось загрузить локальный прогресс.')).finally(() => setReady(true));
   }, []);
   const recordAnswer = async (id: string, kind: ContentType, correct: boolean) => {
     try {

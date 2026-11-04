@@ -1,0 +1,1599 @@
+{
+  "sources": [
+    {
+      "id": "canada-rivers",
+      "publisher": "Environment and Climate Change Canada",
+      "title": "Water sources: rivers — tables based on SHI/UNESCO (1999)",
+      "url": "https://www.canada.ca/en/environment-climate-change/services/water-overview/sources/rivers.html",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "usgs-river-length",
+      "publisher": "USGS",
+      "title": "Rivers of the World: World's Longest Rivers",
+      "url": "https://www.usgs.gov/water-science-school/science/rivers-world-worlds-longest-rivers",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "river-sources-study",
+      "publisher": "International Journal of Digital Earth",
+      "title": "Pinpointing the sources and measuring the lengths of the principal rivers of the world (2009)",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/17538940902746082",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "guinness-nile",
+      "publisher": "Guinness World Records",
+      "title": "Longest river — Nile/Amazon measurement caveat",
+      "url": "https://www.guinnessworldrecords.com/world-records/longest-river",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "icpdr-danube",
+      "publisher": "ICPDR",
+      "title": "Danube River Basin",
+      "url": "https://www.icpdr.org/danube-basin/danube-river-basin",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "nps-colorado",
+      "publisher": "National Park Service",
+      "title": "Grand Canyon — Geologic formations",
+      "url": "https://www.nps.gov/grca/learn/nature/geologicformations.htm",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "unesco-victoria",
+      "publisher": "UNESCO World Heritage Centre",
+      "title": "Mosi-oa-Tunya / Victoria Falls",
+      "url": "https://whc.unesco.org/en/list/509/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "nasa-yellow",
+      "publisher": "NASA Earth Observatory",
+      "title": "World of Change: Yellow River Delta",
+      "url": "https://www.earthobservatory.nasa.gov/Features/WorldOfChange/yellow_river.php",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "bre-volga",
+      "publisher": "Большая российская энциклопедия",
+      "title": "Волга",
+      "url": "https://bigenc.ru/c/volga-9bf6d0",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "guinness-congo",
+      "publisher": "Guinness World Records",
+      "title": "Deepest river — Lower Congo measurements (2008)",
+      "url": "https://www.guinnessworldrecords.com/world-records/113299-deepest-river",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "usgs-congo",
+      "publisher": "USGS",
+      "title": "Discharge and other hydraulic measurements for characterizing the hydraulics of Lower Congo River",
+      "url": "https://pubs.usgs.gov/publication/70156715",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "mrc-fisheries",
+      "publisher": "Mekong River Commission",
+      "title": "Fisheries — diversity of the Mekong basin",
+      "url": "https://www.mrcmekong.org/fisheries/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "nasa-eight-thousanders",
+      "publisher": "NASA Earth Observatory",
+      "title": "The Eight-Thousanders",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-eight-thousanders/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "himalayan-database",
+      "publisher": "The Himalayan Database",
+      "title": "Himalayan Database Peak List (November 2024)",
+      "url": "https://w.himalayandatabase.com/downloads/HD%20Peak%20List.pdf",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "jaxa-k2-height",
+      "publisher": "JAXA",
+      "title": "K2, Broad Peak, Gasherbrum I, and Gasherbrum II",
+      "url": "https://www.eorc.jaxa.jp/en/earthview/2006/tp060105.html",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "pakistan-nanga-height",
+      "publisher": "Pakistan Broadcasting Corporation",
+      "title": "Sajid Sadpara successfully climbs Nanga Parbat (2023)",
+      "url": "https://www.radio.gov.pk/26-06-2023/sajid-sadpara-successfully-climbed-nanga-parbat-without-oxygen",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "nepal-everest",
+      "publisher": "Government of Nepal, Ministry of Culture, Tourism and Civil Aviation",
+      "title": "Mountaineering in Nepal: Facts & Figures 2023",
+      "url": "https://giwmscdnone.gov.np/media/pdf_upload/Mountaineering%20Fact%20and%20Figure%202023_aolusdr.pdf",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "argentina-aconcagua",
+      "publisher": "Argentina Ministry of Tourism",
+      "title": "Aconcagua Provincial Park",
+      "url": "https://www.larutanatural.gob.ar/es/imperdible/58/parque-provincial-aconcagua",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "nps-denali",
+      "publisher": "National Park Service",
+      "title": "Denali Summit Survey (2015)",
+      "url": "https://www.nps.gov/articles/denali-crp-summit-survey.htm",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "unesco-kilimanjaro",
+      "publisher": "UNESCO World Heritage Centre",
+      "title": "Kilimanjaro National Park",
+      "url": "https://whc.unesco.org/en/list/403/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "nasa-elbrus",
+      "publisher": "NASA Earth Observatory",
+      "title": "Mt. Elbrus, Caucasus Range",
+      "url": "https://science.nasa.gov/earth/earth-observatory/mt-elbrus-caucasus-range-2941/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "usgs-vinson",
+      "publisher": "USGS",
+      "title": "Craddock Massif and Vinson Massif remeasured",
+      "url": "https://www.usgs.gov/publications/craddock-massif-and-vinson-massif-remeasured",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "chamonix-blanc",
+      "publisher": "Office de Tourisme de Chamonix-Mont-Blanc",
+      "title": "Le mont Blanc",
+      "url": "https://www.chamonix.com/la-vallee/patrimoine-culture/patrimoine-naturel-de-la-vallee-de-chamonix-mont-blanc/le-mont-blanc",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "jnto-fuji",
+      "publisher": "Japan National Tourism Organization",
+      "title": "Mt. Fuji: More Than a Mountain",
+      "url": "https://www.japan.travel/en/fuji-guide/mt-fuji-more-than-a-mountain/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "usgs-mauna",
+      "publisher": "USGS",
+      "title": "How big are the Hawaiian volcanoes?",
+      "url": "https://www.usgs.gov/faqs/how-big-are-hawaiian-volcanoes",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "noaa-chimborazo",
+      "publisher": "NOAA",
+      "title": "What is the highest point on Earth as measured from Earth's center?",
+      "url": "https://oceanservice.noaa.gov/facts/highestpoint.html",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "nasa-jaya",
+      "publisher": "NASA Earth Observatory",
+      "title": "Puncak Jaya, Indonesia",
+      "url": "https://science.nasa.gov/earth/earth-observatory/puncak-jaya-indonesia-4781/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "nasa-caspian",
+      "publisher": "NASA Earth Observatory",
+      "title": "The Caspian Sea’s Shrinking Coastline (2022)",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-caspian-seas-shrinking-coastline/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "guinness-baikal",
+      "publisher": "Guinness World Records",
+      "title": "Deepest lake",
+      "url": "https://www.guinnessworldrecords.com/world-records/deepest-lake",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "fao-tanganyika",
+      "publisher": "FAO",
+      "title": "Lake Tanganyika Research — General features",
+      "url": "https://www.fao.org/fishery/static/LTR/GEN.HTM",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "michigan-lakes",
+      "publisher": "Michigan Department of Environment, Great Lakes, and Energy",
+      "title": "Learn About our Great Lakes",
+      "url": "https://www.michigan.gov/egle/public/learn/great-lakes",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "esa-african-lakes",
+      "publisher": "European Space Agency",
+      "title": "Earth from Space: Lakes of Africa",
+      "url": "https://www.esa.int/Applications/Observing_the_Earth/Earth_from_Space_Lakes_of_Africa",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "unesco-malawi",
+      "publisher": "UNESCO World Heritage Centre",
+      "title": "Lake Malawi National Park",
+      "url": "https://whc.unesco.org/en/list/289/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "nwt-lakes",
+      "publisher": "Government of the Northwest Territories",
+      "title": "State of the Environment: Water",
+      "url": "https://www.gov.nt.ca/ecc/en/services/nwt-state-environment-report/11-state-water",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "nasa-titicaca",
+      "publisher": "NASA Technical Reports Server",
+      "title": "ERTS investigation: Lake Titicaca (1976)",
+      "url": "https://ntrs.nasa.gov/api/citations/19760013509/downloads/19760013509.pdf",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "noaa-dead-sea",
+      "publisher": "NOAA",
+      "title": "JetStream Max: A Funny Bath — The Dead Sea",
+      "url": "https://www.noaa.gov/jetstream/dead-max",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "nasa-aral",
+      "publisher": "NASA Earth Observatory",
+      "title": "World of Change: Shrinking Aral Sea",
+      "url": "https://science.nasa.gov/earth/earth-observatory/world-of-change/aral-sea/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "nasa-chad",
+      "publisher": "NASA Earth Observatory",
+      "title": "The Rise and Fall of Africa’s Great Lake",
+      "url": "https://science.nasa.gov/earth/earth-observatory/lake-chad/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "guinness-vostok",
+      "publisher": "Guinness World Records",
+      "title": "Largest subglacial lake",
+      "url": "https://www.guinnessworldrecords.com/world-records/76159-largest-subglacial-lake",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "usgs-crater",
+      "publisher": "USGS",
+      "title": "Geology of Crater Lake National Park — bathymetric survey (2000)",
+      "url": "https://www.usgs.gov/geology-and-ecology-of-national-parks/geology-crater-lake-national-park",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "unesco-toba",
+      "publisher": "UNESCO",
+      "title": "Toba Caldera UNESCO Global Geopark",
+      "url": "https://www.unesco.org/en/iggp/toba-caldera-unesco-global-geopark",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "ucdavis-tahoe",
+      "publisher": "UC Davis Tahoe Environmental Research Center",
+      "title": "Tahoe Facts and Trivia",
+      "url": "https://tahoe.ucdavis.edu/tahoe-facts-and-trivia",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "nasa-balkhash",
+      "publisher": "NASA Earth Observatory",
+      "title": "Lake Balkhash",
+      "url": "https://science.nasa.gov/earth/earth-observatory/lake-balkhash-91230/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "eu-natron",
+      "publisher": "European Commission, Copernicus",
+      "title": "Lake Natron’s vibrant red water",
+      "url": "https://eu-space.europa.eu/components/earth-observation-copernicus/image-of-the-day/lake-natrons-vibrant-red-water",
+      "accessedAt": "2026-11-04"
+    }
+  ],
+  "cards": [
+    {
+      "id": "nile",
+      "kind": "river",
+      "nameRu": "Нил",
+      "regionRu": "Северо-Восточная Африка",
+      "distinctionRu": "Один из двух главных претендентов на рекорд длины",
+      "metric": {
+        "valueRu": "≈ 6 695 км",
+        "labelRu": "Длина по Guinness"
+      },
+      "explanationRu": "Нил и Амазонка спорят за первенство: результат зависит от того, какой исток и какое устье принять.",
+      "sourceIds": [
+        "guinness-nile",
+        "usgs-river-length"
+      ],
+      "tags": [
+        "length"
+      ],
+      "caveatRu": "Guinness указывает 6 695 км. Спор о длине Амазонки нельзя считать окончательно закрытым.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "amazon",
+      "kind": "river",
+      "nameRu": "Амазонка",
+      "regionRu": "Южная Америка",
+      "distinctionRu": "Самая полноводная речная система",
+      "metric": {
+        "valueRu": "≈ 6 923 км³/год",
+        "labelRu": "Средний годовой сток"
+      },
+      "explanationRu": "Для полноводности сравнивают объём проходящей воды, а не километры русла.",
+      "sourceIds": [
+        "canada-rivers",
+        "usgs-river-length"
+      ],
+      "tags": [
+        "discharge"
+      ],
+      "caveatRu": "Историческая оценка SHI/UNESCO (1999). Сток меняется по годам; рекорд длины зависит от методики.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "yangtze",
+      "kind": "river",
+      "nameRu": "Янцзы",
+      "regionRu": "Китай",
+      "distinctionRu": "Самая длинная река Азии",
+      "metric": {
+        "valueRu": "≈ 6 300 км",
+        "labelRu": "Длина по USGS"
+      },
+      "explanationRu": "Узнавайте азиатского лидера длины: Янцзы, также известная как Чанцзян.",
+      "sourceIds": [
+        "usgs-river-length"
+      ],
+      "tags": [
+        "length"
+      ],
+      "caveatRu": "Округлённая оценка USGS; другие методы определения истока дают отличающиеся значения.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "mississippi-missouri",
+      "kind": "river",
+      "nameRu": "Миссисипи — Миссури",
+      "regionRu": "Северная Америка",
+      "distinctionRu": "Одна из длиннейших речных систем",
+      "metric": {
+        "valueRu": "≈ 6 420 км",
+        "labelRu": "Длина системы"
+      },
+      "explanationRu": "Миссури — часть измеряемой системы; длина одной Миссисипи заметно меньше.",
+      "sourceIds": [
+        "canada-rivers",
+        "usgs-river-length"
+      ],
+      "tags": [
+        "length"
+      ],
+      "caveatRu": "Ориентир из таблицы SHI/UNESCO (1999), опубликованной правительством Канады. Длины зависят от выбранного истока и состава речной системы; это не единый современный рейтинг.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "yenisei",
+      "kind": "river",
+      "nameRu": "Енисей",
+      "regionRu": "Сибирь",
+      "distinctionRu": "Одна из самых полноводных рек Азии",
+      "metric": {
+        "valueRu": "≈ 618 км³/год",
+        "labelRu": "Средний годовой сток"
+      },
+      "explanationRu": "Сравнивайте Енисей по стоку: это другая величина, чем длина русла.",
+      "sourceIds": [
+        "canada-rivers"
+      ],
+      "tags": [
+        "discharge"
+      ],
+      "caveatRu": "Историческая средняя оценка SHI/UNESCO (1999), а не объём воды за текущий год.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "yellow-river",
+      "kind": "river",
+      "nameRu": "Хуанхэ",
+      "regionRu": "Китай",
+      "distinctionRu": "Знаменитая река огромного наносного стока",
+      "metric": {
+        "valueRu": "Жёлтая река",
+        "labelRu": "Известное цветовое название"
+      },
+      "explanationRu": "Лёссовые частицы окрашивают воду; наносы помогают наращивать дельту.",
+      "sourceIds": [
+        "nasa-yellow"
+      ],
+      "tags": [
+        "unusual"
+      ],
+      "caveatRu": "Наносный сток меняется во времени. Не следует считать исторический рекорд постоянным для каждого года.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "ob-irtysh",
+      "kind": "river",
+      "nameRu": "Обь — Иртыш",
+      "regionRu": "Западная Сибирь и Центральная Азия",
+      "distinctionRu": "Одна из длиннейших речных систем Евразии",
+      "metric": {
+        "valueRu": "≈ 5 525 км",
+        "labelRu": "Длина по исследованию 2009 года"
+      },
+      "explanationRu": "Для этого измерения путь отслеживают по системе с Иртышом, а не только по реке с названием Обь.",
+      "sourceIds": [
+        "river-sources-study",
+        "usgs-river-length"
+      ],
+      "tags": [
+        "length"
+      ],
+      "caveatRu": "Результат конкретного спутникового и полевого исследования (2009). В справочниках с другим истоком встречаются иные длины.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "parana",
+      "kind": "river",
+      "nameRu": "Парана",
+      "regionRu": "Южная Америка",
+      "distinctionRu": "Часть одной из крупнейших систем Южной Америки",
+      "metric": {
+        "valueRu": "Бассейн Ла-Платы",
+        "labelRu": "Крупная речная система"
+      },
+      "explanationRu": "В сравнительных таблицах Ла-Плата обозначает систему, связанную с Параной; её показатели нельзя выдавать за длину одной Параны.",
+      "sourceIds": [
+        "canada-rivers"
+      ],
+      "tags": [
+        "unusual"
+      ],
+      "caveatRu": "Ла-Плата и Парана не взаимозаменяемые названия одного русла. Здесь отобрана Парана как главная учебная привязка системы.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "congo",
+      "kind": "river",
+      "nameRu": "Конго",
+      "regionRu": "Центральная Африка",
+      "distinctionRu": "Самая глубокая из измеренных рек мира",
+      "metric": {
+        "valueRu": "Более 220 м",
+        "labelRu": "Глубина участков нижнего течения"
+      },
+      "explanationRu": "Исследователи обнаружили глубокие впадины в нижнем течении; это локальный максимум, а не средняя глубина всей реки.",
+      "sourceIds": [
+        "guinness-congo",
+        "usgs-congo"
+      ],
+      "tags": [
+        "depth",
+        "discharge"
+      ],
+      "caveatRu": "Guinness приводит минимум 220 м по работам 2008 года; публикация USGS сообщает глубины свыше 200 м. Это измеренные участки, а не весь Конго.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "amur",
+      "kind": "river",
+      "nameRu": "Амур",
+      "regionRu": "Восточная Азия",
+      "distinctionRu": "Одна из длиннейших речных систем Азии",
+      "metric": {
+        "valueRu": "≈ 5 498 км",
+        "labelRu": "Длина системы по исследованию 2009 года"
+      },
+      "explanationRu": "Измерение с наиболее удалённым истоком даёт иную длину, чем измерение только русла под именем Амур.",
+      "sourceIds": [
+        "river-sources-study",
+        "usgs-river-length"
+      ],
+      "tags": [
+        "length"
+      ],
+      "caveatRu": "Результат конкретной методики (2009), включая верховья системы; не длина только русла Амура.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "lena",
+      "kind": "river",
+      "nameRu": "Лена",
+      "regionRu": "Восточная Сибирь",
+      "distinctionRu": "Одна из длиннейших рек Сибири",
+      "metric": {
+        "valueRu": "≈ 4 400 км",
+        "labelRu": "Длина"
+      },
+      "explanationRu": "Лена — один из крупнейших сибирских речных ориентиров.",
+      "sourceIds": [
+        "canada-rivers"
+      ],
+      "tags": [
+        "length"
+      ],
+      "caveatRu": "Ориентир из таблицы SHI/UNESCO (1999), опубликованной правительством Канады. Длины зависят от выбранного истока и состава речной системы; это не единый современный рейтинг.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "mekong",
+      "kind": "river",
+      "nameRu": "Меконг",
+      "regionRu": "Юго-Восточная Азия",
+      "distinctionRu": "Третий по разнообразию рыб речной бассейн",
+      "metric": {
+        "valueRu": "Более 1 100 видов",
+        "labelRu": "Рыбы бассейна по данным MRC"
+      },
+      "explanationRu": "Масштаб Меконга измеряют не только длиной: его бассейн знаменит исключительно богатой ихтиофауной.",
+      "sourceIds": [
+        "mrc-fisheries"
+      ],
+      "tags": [
+        "unique"
+      ],
+      "caveatRu": "Рейтинг MRC относится к бассейну и числу известных видов; состав и таксономия меняются с исследованиями.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "mackenzie",
+      "kind": "river",
+      "nameRu": "Маккензи",
+      "regionRu": "Северная Америка",
+      "distinctionRu": "Одна из крупнейших северных речных систем",
+      "metric": {
+        "valueRu": "≈ 4 241 км",
+        "labelRu": "Длина системы"
+      },
+      "explanationRu": "В больших речных системах верховья могут носить другое название: это важно для сравнения Маккензи.",
+      "sourceIds": [
+        "canada-rivers",
+        "usgs-river-length"
+      ],
+      "tags": [
+        "length"
+      ],
+      "caveatRu": "Ориентир из таблицы SHI/UNESCO (1999), опубликованной правительством Канады. Длины зависят от выбранного истока и состава речной системы; это не единый современный рейтинг.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "niger",
+      "kind": "river",
+      "nameRu": "Нигер",
+      "regionRu": "Западная Африка",
+      "distinctionRu": "Одна из длиннейших рек Африки",
+      "metric": {
+        "valueRu": "≈ 4 160 км",
+        "labelRu": "Длина"
+      },
+      "explanationRu": "Нигер — крупный речной ориентир Западной Африки.",
+      "sourceIds": [
+        "canada-rivers"
+      ],
+      "tags": [
+        "length"
+      ],
+      "caveatRu": "Ориентир из таблицы SHI/UNESCO (1999), опубликованной правительством Канады. Длины зависят от выбранного истока и состава речной системы; это не единый современный рейтинг.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "volga",
+      "kind": "river",
+      "nameRu": "Волга",
+      "regionRu": "Европейская часть России",
+      "distinctionRu": "Самая длинная река Европы",
+      "metric": {
+        "valueRu": "3 530 км",
+        "labelRu": "Длина по БРЭ"
+      },
+      "explanationRu": "Волга — европейский лидер по длине. Её воды достигают замкнутого Каспийского моря.",
+      "sourceIds": [
+        "bre-volga"
+      ],
+      "tags": [
+        "length"
+      ],
+      "caveatRu": "Длина русла менялась после создания водохранилищ; здесь принято значение Большой российской энциклопедии.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "indus",
+      "kind": "river",
+      "nameRu": "Инд",
+      "regionRu": "Южная Азия",
+      "distinctionRu": "Одна из длиннейших рек Южной Азии",
+      "metric": {
+        "valueRu": "≈ 3 180 км",
+        "labelRu": "Длина"
+      },
+      "explanationRu": "Инд входит в мировые подборки крупнейших рек по длине.",
+      "sourceIds": [
+        "canada-rivers"
+      ],
+      "tags": [
+        "length"
+      ],
+      "caveatRu": "Ориентир из таблицы SHI/UNESCO (1999), опубликованной правительством Канады. Длины зависят от выбранного истока и состава речной системы; это не единый современный рейтинг.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "ganges",
+      "kind": "river",
+      "nameRu": "Ганг",
+      "regionRu": "Южная Азия",
+      "distinctionRu": "Одна из крупнейших речных систем по стоку",
+      "metric": {
+        "valueRu": "≈ 1 386 км³/год",
+        "labelRu": "Сток в исторической таблице"
+      },
+      "explanationRu": "В международных сводках под Гангом могут учитывать объединённую систему с Брахмапутрой; сравнивайте одинаковые границы бассейна.",
+      "sourceIds": [
+        "canada-rivers"
+      ],
+      "tags": [
+        "discharge"
+      ],
+      "caveatRu": "Значение SHI/UNESCO (1999) под названием Ganges. Это не измерение расхода одного русла Ганга и не текущий годовой сток.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "danube",
+      "kind": "river",
+      "nameRu": "Дунай",
+      "regionRu": "Центральная и Юго-Восточная Европа",
+      "distinctionRu": "Самый международный речной бассейн",
+      "metric": {
+        "valueRu": "19 стран",
+        "labelRu": "Страны в бассейне"
+      },
+      "explanationRu": "Считаются страны, чья территория входит в бассейн, а не только те, по которым проходит главное русло.",
+      "sourceIds": [
+        "icpdr-danube"
+      ],
+      "tags": [
+        "unique"
+      ],
+      "caveatRu": "Бассейн и русло — разные географические понятия; число стран нельзя переносить с одного на другое.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "colorado",
+      "kind": "river",
+      "nameRu": "Колорадо",
+      "regionRu": "Юго-Запад Северной Америки",
+      "distinctionRu": "Река, прорезавшая Большой каньон",
+      "metric": {
+        "valueRu": "Большой каньон",
+        "labelRu": "Уникальный геологический ландшафт"
+      },
+      "explanationRu": "Знаменит не рекорд длины, а результат речной эрозии: глубоко вскрытая толща пород.",
+      "sourceIds": [
+        "nps-colorado"
+      ],
+      "tags": [
+        "unique"
+      ],
+      "caveatRu": "Речной врез — часть долгой геологической истории; не вся история пород равна возрасту каньона.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "zambezi",
+      "kind": "river",
+      "nameRu": "Замбези",
+      "regionRu": "Южная Африка",
+      "distinctionRu": "Река крупнейшей завесы падающей воды",
+      "metric": {
+        "valueRu": "Водопад Виктория",
+        "labelRu": "Уникальность речного ландшафта"
+      },
+      "explanationRu": "На Замбези находится Моси-оа-Тунья / Виктория, выделяемая UNESCO за огромную непрерывную завесу воды.",
+      "sourceIds": [
+        "unesco-victoria"
+      ],
+      "tags": [
+        "unique"
+      ],
+      "caveatRu": "Завеса воды — критерий UNESCO; это не утверждение о самом высоком водопаде.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "everest",
+      "kind": "mountain",
+      "nameRu": "Эверест (Джомолунгма)",
+      "regionRu": "Гималаи · Непал / Китай",
+      "distinctionRu": "Высочайшая вершина над уровнем моря",
+      "metric": {
+        "valueRu": "8 848,86 м",
+        "labelRu": "Высота над уровнем моря"
+      },
+      "explanationRu": "Сравнение высот над уровнем моря.",
+      "sourceIds": [
+        "nepal-everest"
+      ],
+      "tags": [
+        "height"
+      ],
+      "caveatRu": "Высота главной вершины; это не высота от подножия. Округление и повторные съёмки могут менять справочные значения.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "k2",
+      "kind": "mountain",
+      "nameRu": "К2 (Чогори)",
+      "regionRu": "Каракорум",
+      "distinctionRu": "Вторая по высоте вершина мира",
+      "metric": {
+        "valueRu": "8 611 м",
+        "labelRu": "Высота над уровнем моря"
+      },
+      "explanationRu": "Сравнение высот над уровнем моря.",
+      "sourceIds": [
+        "nasa-eight-thousanders",
+        "jaxa-k2-height"
+      ],
+      "tags": [
+        "height"
+      ],
+      "caveatRu": "Высота главной вершины; это не высота от подножия. Округление и повторные съёмки могут менять справочные значения.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "kangchenjunga",
+      "kind": "mountain",
+      "nameRu": "Канченджанга",
+      "regionRu": "Гималаи · Непал / Индия",
+      "distinctionRu": "Третья по высоте вершина мира",
+      "metric": {
+        "valueRu": "8 586 м",
+        "labelRu": "Высота над уровнем моря"
+      },
+      "explanationRu": "Сравнение высот над уровнем моря.",
+      "sourceIds": [
+        "nasa-eight-thousanders",
+        "himalayan-database"
+      ],
+      "tags": [
+        "height"
+      ],
+      "caveatRu": "Высота главной вершины; это не высота от подножия. Округление и повторные съёмки могут менять справочные значения.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "lhotse",
+      "kind": "mountain",
+      "nameRu": "Лхоцзе",
+      "regionRu": "Гималаи · Непал / Китай",
+      "distinctionRu": "Четвёртая по высоте вершина мира",
+      "metric": {
+        "valueRu": "8 516 м",
+        "labelRu": "Высота над уровнем моря"
+      },
+      "explanationRu": "Сравнение высот над уровнем моря.",
+      "sourceIds": [
+        "nasa-eight-thousanders",
+        "himalayan-database"
+      ],
+      "tags": [
+        "height"
+      ],
+      "caveatRu": "Высота главной вершины; это не высота от подножия. Округление и повторные съёмки могут менять справочные значения.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "makalu",
+      "kind": "mountain",
+      "nameRu": "Макалу",
+      "regionRu": "Гималаи · Непал / Китай",
+      "distinctionRu": "Пятая по высоте вершина мира",
+      "metric": {
+        "valueRu": "8 485 м",
+        "labelRu": "Высота над уровнем моря"
+      },
+      "explanationRu": "Сравнение высот над уровнем моря.",
+      "sourceIds": [
+        "nasa-eight-thousanders",
+        "himalayan-database"
+      ],
+      "tags": [
+        "height"
+      ],
+      "caveatRu": "Высота главной вершины; это не высота от подножия. Округление и повторные съёмки могут менять справочные значения.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "cho-oyu",
+      "kind": "mountain",
+      "nameRu": "Чо-Ойю",
+      "regionRu": "Гималаи · Непал / Китай",
+      "distinctionRu": "Шестая по высоте вершина мира",
+      "metric": {
+        "valueRu": "8 188 м",
+        "labelRu": "Высота над уровнем моря"
+      },
+      "explanationRu": "Сравнение высот над уровнем моря.",
+      "sourceIds": [
+        "nasa-eight-thousanders",
+        "himalayan-database"
+      ],
+      "tags": [
+        "height"
+      ],
+      "caveatRu": "Высота главной вершины; это не высота от подножия. Округление и повторные съёмки могут менять справочные значения.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "dhaulagiri",
+      "kind": "mountain",
+      "nameRu": "Дхаулагири I",
+      "regionRu": "Гималаи · Непал",
+      "distinctionRu": "Седьмая по высоте вершина мира",
+      "metric": {
+        "valueRu": "8 167 м",
+        "labelRu": "Высота над уровнем моря"
+      },
+      "explanationRu": "Сравнение высот над уровнем моря.",
+      "sourceIds": [
+        "nasa-eight-thousanders",
+        "himalayan-database"
+      ],
+      "tags": [
+        "height"
+      ],
+      "caveatRu": "Высота главной вершины; это не высота от подножия. Округление и повторные съёмки могут менять справочные значения.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "manaslu",
+      "kind": "mountain",
+      "nameRu": "Манаслу",
+      "regionRu": "Гималаи · Непал",
+      "distinctionRu": "Восьмая по высоте вершина мира",
+      "metric": {
+        "valueRu": "8 163 м",
+        "labelRu": "Высота над уровнем моря"
+      },
+      "explanationRu": "Сравнение высот над уровнем моря.",
+      "sourceIds": [
+        "nasa-eight-thousanders",
+        "himalayan-database"
+      ],
+      "tags": [
+        "height"
+      ],
+      "caveatRu": "Высота главной вершины; это не высота от подножия. Округление и повторные съёмки могут менять справочные значения.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "nanga-parbat",
+      "kind": "mountain",
+      "nameRu": "Нангапарбат",
+      "regionRu": "Гималаи · Пакистан",
+      "distinctionRu": "Девятая по высоте вершина мира",
+      "metric": {
+        "valueRu": "8 126 м",
+        "labelRu": "Высота над уровнем моря"
+      },
+      "explanationRu": "Сравнение высот над уровнем моря.",
+      "sourceIds": [
+        "nasa-eight-thousanders",
+        "pakistan-nanga-height"
+      ],
+      "tags": [
+        "height"
+      ],
+      "caveatRu": "Высота главной вершины; это не высота от подножия. Округление и повторные съёмки могут менять справочные значения.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "annapurna",
+      "kind": "mountain",
+      "nameRu": "Аннапурна I",
+      "regionRu": "Гималаи · Непал",
+      "distinctionRu": "Первый покорённый восьмитысячник",
+      "metric": {
+        "valueRu": "8 091 м",
+        "labelRu": "Высота над уровнем моря"
+      },
+      "explanationRu": "Первое успешное восхождение на восьмитысячник: 1950 год.",
+      "sourceIds": [
+        "nasa-eight-thousanders",
+        "himalayan-database"
+      ],
+      "tags": [
+        "height"
+      ],
+      "caveatRu": "Высота главной вершины; это не высота от подножия. Округление и повторные съёмки могут менять справочные значения.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "aconcagua",
+      "kind": "mountain",
+      "nameRu": "Аконкагуа",
+      "regionRu": "Анды · Аргентина",
+      "distinctionRu": "Высочайшая гора Америки",
+      "metric": {
+        "valueRu": "6 962 м",
+        "labelRu": "Высота над уровнем моря"
+      },
+      "explanationRu": "Вне Азии ни одна гора не достигает высоты Аконкагуа.",
+      "sourceIds": [
+        "argentina-aconcagua"
+      ],
+      "tags": [
+        "height"
+      ],
+      "caveatRu": "Официальный туристический источник Аргентины приводит округлённую высоту.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "denali",
+      "kind": "mountain",
+      "nameRu": "Денали (Мак-Кинли)",
+      "regionRu": "Аляска · США",
+      "distinctionRu": "Высочайшая гора Северной Америки",
+      "metric": {
+        "valueRu": "6 190 м",
+        "labelRu": "Высота по GPS-съёмке 2015 года"
+      },
+      "explanationRu": "Рекорд континента относится к южной вершине; Денали и Мак-Кинли обозначают одну гору.",
+      "sourceIds": [
+        "nps-denali"
+      ],
+      "tags": [
+        "height"
+      ],
+      "caveatRu": "В федеральном употреблении США восстановлено имя Mount McKinley; Денали остаётся широко известным названием. Данные высоты — съёмка 2015 года.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "kilimanjaro",
+      "kind": "mountain",
+      "nameRu": "Килиманджаро",
+      "regionRu": "Танзания",
+      "distinctionRu": "Высочайшая гора Африки",
+      "metric": {
+        "valueRu": "5 895 м",
+        "labelRu": "Высота над уровнем моря"
+      },
+      "explanationRu": "Отдельно стоящий вулканический массив поднимается над окружающими равнинами.",
+      "sourceIds": [
+        "unesco-kilimanjaro"
+      ],
+      "tags": [
+        "height"
+      ],
+      "caveatRu": "Высота над равниной и высота над уровнем моря — разные измерения.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "elbrus",
+      "kind": "mountain",
+      "nameRu": "Эльбрус",
+      "regionRu": "Кавказ · Россия",
+      "distinctionRu": "Высочайшая вершина Европы при кавказской границе",
+      "metric": {
+        "valueRu": "5 642 м",
+        "labelRu": "Высота западной вершины"
+      },
+      "explanationRu": "Отнесение Эльбруса к европейским рекордам зависит от принятой границы Европы и Азии.",
+      "sourceIds": [
+        "nasa-elbrus"
+      ],
+      "tags": [
+        "height"
+      ],
+      "caveatRu": "Граница частей света условна. Высшая точка Альп — Монблан, а не Эльбрус.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "vinson",
+      "kind": "mountain",
+      "nameRu": "Винсон",
+      "regionRu": "Антарктида",
+      "distinctionRu": "Высочайшая вершина Антарктиды",
+      "metric": {
+        "valueRu": "4 892 м",
+        "labelRu": "Высота по измерению 2004 года"
+      },
+      "explanationRu": "Винсон — континентальный рекордсмен среди антарктических вершин.",
+      "sourceIds": [
+        "usgs-vinson"
+      ],
+      "tags": [
+        "height"
+      ],
+      "caveatRu": "Здесь высота вершины, а не размеры всего массива Винсон.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "mont-blanc",
+      "kind": "mountain",
+      "nameRu": "Монблан",
+      "regionRu": "Альпы · Франция / Италия",
+      "distinctionRu": "Высочайшая вершина Альп",
+      "metric": {
+        "valueRu": "≈ 4,8 км",
+        "labelRu": "Высота над уровнем моря"
+      },
+      "explanationRu": "Монблан — альпийский рекорд; название буквально связано с белой горой.",
+      "sourceIds": [
+        "chamonix-blanc"
+      ],
+      "tags": [
+        "height"
+      ],
+      "caveatRu": "Высота снежно-ледовой вершины меняется. Округлённое значение не выдаётся за последнюю геодезическую съёмку.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "fuji",
+      "kind": "mountain",
+      "nameRu": "Фудзи",
+      "regionRu": "Япония",
+      "distinctionRu": "Высочайшая гора Японии",
+      "metric": {
+        "valueRu": "3 776 м",
+        "labelRu": "Высота над уровнем моря"
+      },
+      "explanationRu": "Знаменитая вулканическая гора — национальный высотный ориентир Японии.",
+      "sourceIds": [
+        "jnto-fuji"
+      ],
+      "tags": [
+        "height",
+        "unique"
+      ],
+      "caveatRu": "Это рекорд Японии, а не Азии.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "mauna-kea",
+      "kind": "mountain",
+      "nameRu": "Мауна-Кеа",
+      "regionRu": "Гавайи · США",
+      "distinctionRu": "Выше Эвереста при отсчёте от океанского подножия",
+      "metric": {
+        "valueRu": "≈ 10,2 км",
+        "labelRu": "От дна океана до вершины"
+      },
+      "explanationRu": "Большая часть горы скрыта под водой; над уровнем моря она достигает примерно 4,2 км.",
+      "sourceIds": [
+        "usgs-mauna"
+      ],
+      "tags": [
+        "height",
+        "unusual"
+      ],
+      "caveatRu": "Высота от подножия не равна абсолютной высоте. Рекорд Эвереста над уровнем моря остаётся в силе.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "chimborazo",
+      "kind": "mountain",
+      "nameRu": "Чимборасо",
+      "regionRu": "Эквадор",
+      "distinctionRu": "Вершина, наиболее удалённая от центра Земли",
+      "metric": {
+        "valueRu": "Дальше всех",
+        "labelRu": "Расстояние от центра Земли"
+      },
+      "explanationRu": "Земля выпуклее у экватора: поэтому по этому критерию Чимборасо опережает Эверест.",
+      "sourceIds": [
+        "noaa-chimborazo"
+      ],
+      "tags": [
+        "unique"
+      ],
+      "caveatRu": "Это расстояние от центра, а не высота над уровнем моря и не от подножия.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "puncak-jaya",
+      "kind": "mountain",
+      "nameRu": "Пунчак-Джая",
+      "regionRu": "Новая Гвинея · Индонезия",
+      "distinctionRu": "Высшая точка Новой Гвинеи",
+      "metric": {
+        "valueRu": "4 884 м",
+        "labelRu": "Высота над уровнем моря"
+      },
+      "explanationRu": "Входит в вариант «Семи вершин», в котором учитывают Океанию вместе с Австралией.",
+      "sourceIds": [
+        "nasa-jaya"
+      ],
+      "tags": [
+        "height",
+        "unique"
+      ],
+      "caveatRu": "В составе «Семи вершин» есть разные географические соглашения: для материковой Австралии выбирают Косцюшко.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "caspian",
+      "kind": "lake",
+      "nameRu": "Каспийское море",
+      "regionRu": "Между Европой и Азией",
+      "distinctionRu": "Крупнейший замкнутый водоём Земли",
+      "metric": {
+        "valueRu": "≈ 371 000 км²",
+        "labelRu": "Площадь по обзору NASA (2022)"
+      },
+      "explanationRu": "Несмотря на слово «море», Каспий не имеет естественного выхода в Мировой океан.",
+      "sourceIds": [
+        "nasa-caspian"
+      ],
+      "tags": [
+        "area"
+      ],
+      "caveatRu": "Площадь меняется с уровнем воды; это ориентир 2022 года, не измерение на сегодня.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "baikal",
+      "kind": "lake",
+      "nameRu": "Байкал",
+      "regionRu": "Сибирь · Россия",
+      "distinctionRu": "Самое глубокое озеро мира",
+      "metric": {
+        "valueRu": "1 642 м",
+        "labelRu": "Максимальная глубина"
+      },
+      "explanationRu": "Байкал лидирует по глубине и объёму жидкой пресной воды среди озёр.",
+      "sourceIds": [
+        "guinness-baikal"
+      ],
+      "tags": [
+        "depth"
+      ],
+      "caveatRu": "Речь об озёрной воде; ледники в такой рекорд не включаются.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "tanganyika",
+      "kind": "lake",
+      "nameRu": "Танганьика",
+      "regionRu": "Восточная Африка",
+      "distinctionRu": "Второе по глубине озеро мира",
+      "metric": {
+        "valueRu": "≈ 1 470 м",
+        "labelRu": "Максимальная глубина по FAO"
+      },
+      "explanationRu": "Танганьика — африканский лидер глубины; мировой лидер — Байкал.",
+      "sourceIds": [
+        "fao-tanganyika"
+      ],
+      "tags": [
+        "depth"
+      ],
+      "caveatRu": "Глубины могут различаться в зависимости от съёмки и уровня воды.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "superior",
+      "kind": "lake",
+      "nameRu": "Верхнее",
+      "regionRu": "США / Канада",
+      "distinctionRu": "Крупнейшее пресное озеро по площади при раздельном учёте",
+      "metric": {
+        "valueRu": "≈ 82 100 км²",
+        "labelRu": "Площадь"
+      },
+      "explanationRu": "Крупнейшее из Великих озёр по площади и объёму.",
+      "sourceIds": [
+        "michigan-lakes"
+      ],
+      "tags": [
+        "area"
+      ],
+      "caveatRu": "При гидрологическом объединении Мичигана и Гурона их общая площадь больше. Рекорд зависит от способа учёта.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "victoria",
+      "kind": "lake",
+      "nameRu": "Виктория",
+      "regionRu": "Восточная Африка",
+      "distinctionRu": "Крупнейшее озеро Африки по площади",
+      "metric": {
+        "valueRu": "Африка: № 1",
+        "labelRu": "Площадь"
+      },
+      "explanationRu": "Площадь поверхности и глубина дают разные рекорды: Виктория лидирует по площади, Танганьика — по глубине.",
+      "sourceIds": [
+        "esa-african-lakes"
+      ],
+      "tags": [
+        "area"
+      ],
+      "caveatRu": "Рейтинг относится к площади, а не объёму воды; площадь изменяется с уровнем.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "huron",
+      "kind": "lake",
+      "nameRu": "Гурон",
+      "regionRu": "США / Канада",
+      "distinctionRu": "Часть крупнейшего гидрологически единого пресного озера",
+      "metric": {
+        "valueRu": "Мичиган — Гурон",
+        "labelRu": "Общая водная поверхность"
+      },
+      "explanationRu": "Гурон и Мичиган соединены проливом Макино и имеют общий уровень.",
+      "sourceIds": [
+        "michigan-lakes"
+      ],
+      "tags": [
+        "area",
+        "unusual"
+      ],
+      "caveatRu": "В традиционной географии это два Великих озера; гидрологически их можно учитывать как одно.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "michigan",
+      "kind": "lake",
+      "nameRu": "Мичиган",
+      "regionRu": "США",
+      "distinctionRu": "Единственное Великое озеро целиком в США",
+      "metric": {
+        "valueRu": "Одно из пяти",
+        "labelRu": "Великие озёра"
+      },
+      "explanationRu": "Мичиган выделяется положением целиком внутри США, тогда как другие Великие озёра разделены с Канадой.",
+      "sourceIds": [
+        "michigan-lakes"
+      ],
+      "tags": [
+        "unique"
+      ],
+      "caveatRu": "При объединении с Гуроном общая система уже выходит за границы США.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "malawi",
+      "kind": "lake",
+      "nameRu": "Малави (Ньяса)",
+      "regionRu": "Восточная Африка",
+      "distinctionRu": "Одна из самых богатых озёрных фаун рыб",
+      "metric": {
+        "valueRu": "Сотни видов",
+        "labelRu": "Видовое разнообразие"
+      },
+      "explanationRu": "Особенно известны цихлиды; UNESCO отмечает большое число эндемичных видов.",
+      "sourceIds": [
+        "unesco-malawi"
+      ],
+      "tags": [
+        "unique"
+      ],
+      "caveatRu": "Число видов зависит от таксономии и обследований; точный неизменный рекорд не утверждается.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "great-bear",
+      "kind": "lake",
+      "nameRu": "Большое Медвежье",
+      "regionRu": "Северо-Западные территории · Канада",
+      "distinctionRu": "Крупнейшее озеро целиком в Канаде",
+      "metric": {
+        "valueRu": "≈ 31 153 км²",
+        "labelRu": "Площадь по данным NWT"
+      },
+      "explanationRu": "Верхнее и Гурон больше, но разделены с США. Уточнение «целиком» меняет ответ.",
+      "sourceIds": [
+        "nwt-lakes"
+      ],
+      "tags": [
+        "area"
+      ],
+      "caveatRu": "Площади зависят от уровня и картографической методики.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "great-slave",
+      "kind": "lake",
+      "nameRu": "Большое Невольничье",
+      "regionRu": "Северо-Западные территории · Канада",
+      "distinctionRu": "Самое глубокое озеро Северной Америки",
+      "metric": {
+        "valueRu": "614 м",
+        "labelRu": "Максимальная глубина"
+      },
+      "explanationRu": "Континентальный рекорд глубины принадлежит Большому Невольничьему, а не Верхнему.",
+      "sourceIds": [
+        "nwt-lakes"
+      ],
+      "tags": [
+        "depth"
+      ],
+      "caveatRu": "Рекорд глубины не означает рекорд площади.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "titicaca",
+      "kind": "lake",
+      "nameRu": "Титикака",
+      "regionRu": "Анды · Перу / Боливия",
+      "distinctionRu": "Знаменитое высокогорное судоходное озеро",
+      "metric": {
+        "valueRu": "≈ 3 812 м",
+        "labelRu": "Высота поверхности над уровнем моря"
+      },
+      "explanationRu": "Часто называется самым высокогорным судоходным озером при регулярном крупном судоходстве.",
+      "sourceIds": [
+        "nasa-titicaca"
+      ],
+      "tags": [
+        "height",
+        "unusual"
+      ],
+      "caveatRu": "Без уточнения размера судов «самое высокое судоходное» неоднозначно: небольшие лодки используют и выше.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "dead-sea",
+      "kind": "lake",
+      "nameRu": "Мёртвое море",
+      "regionRu": "Иорданская впадина",
+      "distinctionRu": "Самый низко расположенный открытый водоём",
+      "metric": {
+        "valueRu": "Ниже −400 м",
+        "labelRu": "Высота поверхности"
+      },
+      "explanationRu": "На самом деле это солёное озеро; поверхность лежит значительно ниже уровня Мирового океана.",
+      "sourceIds": [
+        "noaa-dead-sea"
+      ],
+      "tags": [
+        "height",
+        "unusual"
+      ],
+      "caveatRu": "Уровень меняется со временем; точная отметка без даты быстро устаревает.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "aral",
+      "kind": "lake",
+      "nameRu": "Аральское море",
+      "regionRu": "Казахстан / Узбекистан",
+      "distinctionRu": "Один из известнейших примеров усыхания озера",
+      "metric": {
+        "valueRu": "Ранее: № 4",
+        "labelRu": "Историческая площадь среди озёр"
+      },
+      "explanationRu": "Отвод воды питающих рек привёл к распаду некогда огромного водоёма.",
+      "sourceIds": [
+        "nasa-aral"
+      ],
+      "tags": [
+        "unusual"
+      ],
+      "caveatRu": "Четвёртое место относится к прошлому. Современные отдельные части нельзя показывать как прежнее единое озеро.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "chad",
+      "kind": "lake",
+      "nameRu": "Чад",
+      "regionRu": "Сахель · Африка",
+      "distinctionRu": "Озеро с необычайно изменчивой площадью",
+      "metric": {
+        "valueRu": "Пульсирующие берега",
+        "labelRu": "Сезонные и многолетние колебания"
+      },
+      "explanationRu": "Важны и открытая вода, и заболоченные участки: разные способы учёта дают разные оценки площади.",
+      "sourceIds": [
+        "nasa-chad"
+      ],
+      "tags": [
+        "unusual"
+      ],
+      "caveatRu": "Одну пару спутниковых снимков нельзя выдавать за непрерывное сокращение: существенны сезон и метод учёта.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "vostok",
+      "kind": "lake",
+      "nameRu": "Восток",
+      "regionRu": "Восточная Антарктида",
+      "distinctionRu": "Крупнейшее известное подледниковое озеро",
+      "metric": {
+        "valueRu": "≈ 4 км льда",
+        "labelRu": "Толщина ледникового покрова сверху"
+      },
+      "explanationRu": "Вода скрыта под антарктическим ледниковым щитом.",
+      "sourceIds": [
+        "guinness-vostok"
+      ],
+      "tags": [
+        "unique"
+      ],
+      "caveatRu": "Четыре километра — толщина льда над озером, не глубина самого озера.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "crater",
+      "kind": "lake",
+      "nameRu": "Крейтер",
+      "regionRu": "Орегон · США",
+      "distinctionRu": "Самое глубокое озеро США",
+      "metric": {
+        "valueRu": "594 м",
+        "labelRu": "Максимальная глубина по USGS"
+      },
+      "explanationRu": "Озеро заполняет кальдеру вулкана Мазама.",
+      "sourceIds": [
+        "usgs-crater"
+      ],
+      "tags": [
+        "depth"
+      ],
+      "caveatRu": "USGS приводит 594 м; в материалах NPS встречается 592 м. Здесь явно выбрана оценка USGS.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "toba",
+      "kind": "lake",
+      "nameRu": "Тоба",
+      "regionRu": "Суматра · Индонезия",
+      "distinctionRu": "Крупнейшее вулканическое кратерное озеро",
+      "metric": {
+        "valueRu": "≈ 1 100 км²",
+        "labelRu": "Площадь по UNESCO"
+      },
+      "explanationRu": "Огромная кальдера стала вместилищем озера.",
+      "sourceIds": [
+        "unesco-toba"
+      ],
+      "tags": [
+        "area",
+        "unique"
+      ],
+      "caveatRu": "Кальдера — крупная впадина обрушения вулкана; рекорд относится к этой категории озёр.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "tahoe",
+      "kind": "lake",
+      "nameRu": "Тахо",
+      "regionRu": "Калифорния / Невада · США",
+      "distinctionRu": "Второе по глубине озеро США",
+      "metric": {
+        "valueRu": "501 м",
+        "labelRu": "Максимальная глубина"
+      },
+      "explanationRu": "По глубине в США уступает только озеру Крейтер.",
+      "sourceIds": [
+        "ucdavis-tahoe"
+      ],
+      "tags": [
+        "depth"
+      ],
+      "caveatRu": "Это национальный рейтинг глубины, а не всемирный.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "balkhash",
+      "kind": "lake",
+      "nameRu": "Балхаш",
+      "regionRu": "Казахстан",
+      "distinctionRu": "Пресная и солоноватая части одного озера",
+      "metric": {
+        "valueRu": "Две разные части",
+        "labelRu": "Контраст солёности"
+      },
+      "explanationRu": "Западная часть почти пресная; восточная заметно солонее.",
+      "sourceIds": [
+        "nasa-balkhash"
+      ],
+      "tags": [
+        "unusual"
+      ],
+      "caveatRu": "Нет резкой неизменной границы двух вод: солёность зависит от притока и перемешивания.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    },
+    {
+      "id": "natron",
+      "kind": "lake",
+      "nameRu": "Натрон",
+      "regionRu": "Танзания",
+      "distinctionRu": "Красное солёное озеро — важнейшее место гнездования фламинго",
+      "metric": {
+        "valueRu": "Красная вода",
+        "labelRu": "Необычный цвет"
+      },
+      "explanationRu": "Микроорганизмы окрашивают воду; солёная щелочная среда сочетается с массовым гнездованием малых фламинго.",
+      "sourceIds": [
+        "eu-natron"
+      ],
+      "tags": [
+        "unusual",
+        "unique"
+      ],
+      "caveatRu": "Цвет зависит от условий и сезона. Это не «окаменяющее всё живое» озеро из сенсационных пересказов.",
+      "status": "published",
+      "verifiedAt": "2026-11-04"
+    }
+  ]
+}

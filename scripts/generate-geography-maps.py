@@ -110,5 +110,6 @@ for card in data['outlines']:
         output,metrics=map_svg(card,revealed)
         (OUT/f'{card["id"]}-{state}.svg').write_text(output,encoding='utf-8')
         audit.append(dict(id=card['id'],state=state,bytes=len(output.encode()),panels=metrics))
+# Waterway geometry now has its own generator; do not overwrite those maps with diagrams.
 (ROOT/'content/research/outline-map-audit.json').write_text(json.dumps(audit,indent=2)+'\n',encoding='utf-8')
-print(f'Generated {len(data["outlines"])*2} outline maps')
+print(f'Generated {len(data["outlines"])*2} outline maps; run generate-waterway-maps.py for waterways')

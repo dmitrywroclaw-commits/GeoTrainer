@@ -32,6 +32,8 @@ After the first deployment, check a direct visit to `/learn`, a quiz and progres
 
 ## Current content
 
+The Borders topic is disabled. Learn now includes 20 straits (plus two comparison canals), a single “Рекорды и уникальность” section at `/learn/records` with 60 cards and lake/river/mountain filters, and 101 experimental geographical names (23 existing plus 78 newly approved recommendations). The records quiz offers the complete set or a selected kind; legacy catalog URLs redirect to the matching filter. Names include explanations, naming status, usage caveats and individual source links; established figurative names use the `epithet` status. Straits use locally generated coastline maps with a Map/Connections switch. Sourced record criteria, measurement caveats, catalog paths and regeneration are described in `GeoTrainer Documents/12_RECORDS_AND_NAMES.md`.
+
 «Страны на карте» covers all 195 base-registry countries with 390 locally generated SVG views and 390 quiz questions. The catalog includes regional filters, incremental loading, geographic insets, sourced explanations, local progress and offline access to visited maps. Preparation sources and regeneration commands are documented in `GeoTrainer Documents/11_ALL_COUNTRY_OUTLINES.md`.
 
 The current reviewed set includes 195 flags, 24 coats of arms or emblems, and 47 natural landmarks. The 79 eligible natural-landmark candidates are still being published in reviewed batches. Full content production continues until every eligible record in the country, extended entity, and natural-landmark registries has a published card.

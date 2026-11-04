@@ -67,19 +67,43 @@ test('contour choices have neutral labels and support keyboard answers', async (
   await expect(page.getByRole('heading', { name: '1 из 1' })).toBeVisible();
 });
 
+test('waterway sources, canal distinction and route explanation', async ({ page }) => {
+  await page.goto('/learn/waterways');
+  await expect(page.locator('.geography-card')).toHaveCount(20);
+  await page.getByRole('button', { name: 'Каналы · 2' }).click();
+  await page.getByRole('link', { name: /Панамский канал/ }).click();
+  await expect(page.getByRole('heading', { name: 'Проследите путь' })).toBeVisible();
+  await expect(page.getByText('Искусственный канал', { exact: true })).toHaveCount(2);
+  await expect(page.getByRole('link', { name: /Tide Tables/ })).toBeVisible();
+  await page.goto('/quiz/session?mode=waterway&count=1&focus=bosphorus-route');
+  await page.getByRole('button', { name: 'Чёрное море → Босфор → Мраморное море → Дарданеллы → Эгейское море', exact: true }).click();
+  await expect(page.getByText('Верно', { exact: true })).toBeVisible();
+  await expect(page.locator('.geography-answer-map img')).toHaveAttribute('src', /bosphorus-diagram/);
+});
 
-for (const topic of [{mode:'outline',focus:'outline-poland-identify',name:'Польша'}]) {
+test('strait banks and canal connections use the sourced relationships', async ({ page }) => {
+  await page.goto('/quiz/session?mode=waterway&count=1&focus=gibraltar-banks');
+  await expect(page.locator('.answer-button')).toHaveCount(4);
+  await page.getByRole('button', { name: 'Европа и Африка', exact: true }).click();
+  await expect(page.getByText('Верно', { exact: true })).toBeVisible();
+  await page.goto('/quiz/session?mode=waterway&count=1&focus=suez-connects');
+  await page.getByRole('button', { name: 'Средиземное море и Красное море', exact: true }).click();
+  await expect(page.getByText('Верно', { exact: true })).toBeVisible();
+  await expect(page.locator('.geography-answer-map img')).toHaveAttribute('src', /suez-diagram/);
+});
+
+for (const topic of [{mode:'outline',focus:'outline-poland-identify',name:'Польша'}, {mode:'waterway',focus:'gibraltar-connects',name:'Гибралтарский пролив'}]) {
   test(`${topic.mode}: wrong answer persists in mistakes, review and progress`, async ({ page }) => {
     await page.goto(`/quiz/session?mode=${topic.mode}&count=1&focus=${topic.focus}`);
-    await page.locator('.answer-button').filter({ hasNotText: 'Польша' }).first().click();
+    await page.locator('.answer-button').filter({ hasNotText: topic.mode === 'outline' ? 'Польша' : 'Атлантический океан и Средиземное море' }).first().click();
     await expect(page.getByText(/Неверно/)).toBeVisible();
     await page.goto('/mistakes');
     await page.reload();
     await expect(page.locator('.mistake-row').filter({ hasText: topic.name })).toBeVisible();
     await page.getByRole('link', { name: 'Повторить ошибки' }).click();
-    await expect(page.getByRole('heading', { name: 'Какая страна изображена по контуру?' })).toBeVisible();
+    await expect(page.getByRole('heading', { name: topic.mode === 'outline' ? 'Какая страна изображена по контуру?' : /Какие водоёмы соединяет/ })).toBeVisible();
     await page.goto('/progress');
-    await expect(page.locator('.domain-row').filter({ hasText: 'Страны на карте' })).toContainText('0 из 1 верно');
+    await expect(page.locator('.domain-row').filter({ hasText: topic.mode === 'outline' ? 'Страны на карте' : 'Проливы и каналы' })).toContainText('0 из 1 верно');
     await page.reload();
     await expect(page.locator('.progress-overview')).toContainText('1');
   });
@@ -94,7 +118,7 @@ test('new content works offline when visited, with explicit uncached image state
   await page.reload();
   const map = page.locator('.detail-media img').first();
   await expect.poll(() => map.evaluate((element: HTMLImageElement) => element.naturalWidth)).toBeGreaterThan(0);
-  await page.goto('/geography/outline-fiji');
+  await page.goto('/geography/suez');
   await expect(page.getByText(/Изображение сейчас недоступно без сети/)).toBeVisible();
   await expect(page.getByRole('heading', { name: 'Как запомнить' })).toBeVisible();
 });
@@ -104,7 +128,7 @@ test('new views fit all required widths and navigation stays accessible', async 
   test.setTimeout(90_000);
   for (const width of [360,390,430,1280,1440]) {
     await page.setViewportSize({ width, height: 900 });
-    for (const route of ['/learn/outlines','/geography/outline-malaysia','/quiz','/quiz/session?mode=outline&count=1&focus=outline-chile-select-outline']) {
+    for (const route of ['/learn/outlines','/learn/waterways','/geography/outline-malaysia','/geography/panama','/quiz','/quiz/session?mode=outline&count=1&focus=outline-chile-select-outline','/quiz/session?mode=waterway&count=1&focus=bosphorus-route']) {
       await page.goto(route);
       expect(await page.evaluate(() => document.documentElement.scrollWidth - innerWidth), `${route} at ${width}`).toBeLessThanOrEqual(1);
       if (!route.startsWith('/quiz/session')) await expect(page.locator(width < 1024 ? '.mobile-bottom-nav' : '.desktop-sidebar')).toBeVisible();

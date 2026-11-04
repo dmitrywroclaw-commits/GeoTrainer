@@ -1,9 +1,12 @@
 # GeoTrainer — Prototype Design Document
 
+> Current topic update (2026-11-04): `12_RECORDS_AND_NAMES.md` supersedes the published Borders pilot and five-card waterway scope. It specifies coastal maps with a Map/Connections switch, one 60-card records section with lake/river/mountain filters and a combined quiz topic, and a 101-card experimental names catalog. Naming status distinguishes terms, toponyms, translations, historical names, conventional names and established figurative epithets. Learn has 11 categories; primary navigation is unchanged. Legacy record catalog URLs redirect to the corresponding kind filter.
+
 > Publication update (2026-11-04): the exotic-food catalog is disabled. It has no Learn entry, catalog route, or accessible detail/media records. Its research data is retained; the separate traditional-dishes catalog remains available.
 
 > Full outlines (2026-11-04): `11_ALL_COUNTRY_OUTLINES.md` specifies all 195 country cards, dateline handling, geographic insets, regional filters and incremental catalog loading. Existing study and quiz routes remain unchanged.
 
+> Topic extension (2026-11-04): `10_GEOGRAPHY_PILOTS.md` specifies `/learn/outlines`, `/learn/waterways`, `/geography/:id` and quiz modes `outline`/`waterway`. SVG maps reveal geographic context after answering; both topics participate in mixed sessions, mistakes and progress. No interactive map service is introduced.
 
 > Topic extension (2026-09-25): `08_BORDERS.md` specifies the reviewed Borders pilot. It uses a separate structured adjacency repository, local SVG maps, `/learn/borders`, `/border/:countryId`, and the existing quiz/progress storage. The four primary navigation destinations remain the same.
 

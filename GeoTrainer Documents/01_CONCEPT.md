@@ -1,9 +1,12 @@
 # GeoTrainer — Concept
 
+> Publication update (2026-11-04): Borders is disabled. Learn includes 20 straits (plus two comparison canals), one “Рекорды и уникальность” section containing 20 rivers, 20 mountains and 20 lakes with kind filters, and 101 experimental geographical names (23 existing plus 78 newly approved recommendations). Selection criteria, source caveats and the preserved client-only architecture are documented in `12_RECORDS_AND_NAMES.md`.
+
 > Publication update (2026-11-04): the exotic-food catalog is disabled. It has no Learn entry, catalog route, or accessible detail/media records. Its research data is retained; the separate traditional-dishes catalog remains available.
 
-> Full outlines (2026-11-04): `11_ALL_COUNTRY_OUTLINES.md` expands the accepted outline pilot to all 195 base-registry countries and 390 generated questions, retaining the client-only architecture.
+> Full outlines (2026-11-04): `11_ALL_COUNTRY_OUTLINES.md` expands the accepted outline pilot to all 195 base-registry countries and 390 generated questions, retaining the five-card waterway topic and client-only architecture.
 
+> Topic extension (2026-11-04): `10_GEOGRAPHY_PILOTS.md` adds five country-outline cards and five waterway cards, 28 derived questions, explanatory SVG maps/diagrams, and local progress. Static hosting and the four primary navigation destinations are retained.
 
 > Scope update (2026-09-25): a reviewed pilot for land-border geography is documented in `08_BORDERS.md`. It adds a Borders study catalog and quiz topic while retaining the client-only architecture and local progress model. The 95-question source list is a candidate pool; only reviewed, non-disputed questions are published.
 

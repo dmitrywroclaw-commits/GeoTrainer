@@ -43,6 +43,48 @@
       "accessedAt": "2026-11-04"
     },
     {
+      "id": "geo-gibraltar",
+      "title": "The Strait of Gibraltar",
+      "publisher": "NASA Earth Observatory",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-strait-of-gibraltar-151478/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "geo-turkish-seas",
+      "title": "Seas of Türkiye",
+      "publisher": "Türkiye Tourism Promotion and Development Agency",
+      "url": "https://goturkiye.com/seas",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "geo-turkish-straits",
+      "title": "Note on the Turkish Straits",
+      "publisher": "Ministry of Foreign Affairs of Türkiye",
+      "url": "https://www.mfa.gov.tr/the-turkish-straits.en.mfa",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "geo-suez",
+      "title": "The Suez Canal and SUMED Pipeline",
+      "publisher": "U.S. Energy Information Administration",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=40152",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "geo-panama",
+      "title": "Connectivity",
+      "publisher": "Autoridad del Canal de Panamá",
+      "url": "https://pancanal.com/en/connectivity/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "geo-panama-entrances",
+      "title": "Tide Tables: Atlantic and Pacific entrances",
+      "publisher": "Autoridad del Canal de Panamá",
+      "url": "https://pancanal.com/en/tide-tables/",
+      "accessedAt": "2026-11-04"
+    },
+    {
       "id": "geo-un-m49",
       "title": "Standard country or area codes for statistical use (M49)",
       "publisher": "United Nations Statistics Division",
@@ -54,6 +96,132 @@
       "title": "Natural Earth 1:10m Physical Vectors — Marine Areas",
       "publisher": "Natural Earth",
       "url": "https://www.naturalearthdata.com/downloads/10m-physical-vectors/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "geo-chokepoints",
+      "publisher": "U.S. Energy Information Administration",
+      "title": "World Oil Transit Chokepoints",
+      "url": "https://www.eia.gov/international/analysis/special-topics/World_Oil_Transit_Chokepoints",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "geo-bering",
+      "publisher": "NASA Ocean Color",
+      "title": "The Bering Strait",
+      "url": "https://oceandata.sci.gsfc.nasa.gov/gallery/546/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "geo-drake",
+      "publisher": "British Antarctic Survey",
+      "title": "Morphological and geological features of Drake Passage",
+      "url": "https://www.bas.ac.uk/data/our-data/publication/morphological-and-geological-features-of-drake-passage-antarctica-from-a-new-digital-bathymetric-model/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "geo-magellan",
+      "publisher": "JAXA",
+      "title": "The Strait of Magellan",
+      "url": "https://earth.jaxa.jp/en/earthview/2010/10/27/565/index.html",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "geo-singapore",
+      "publisher": "Maritime and Port Authority of Singapore",
+      "title": "Vessel Traffic Information System",
+      "url": "https://www.mpa.gov.sg/port-marine-ops/operations/vessel-traffic-information-system",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "geo-singapore-charts",
+      "publisher": "Maritime and Port Authority of Singapore",
+      "title": "Singaporean Nautical Charts — eastern approaches from South China Sea",
+      "url": "https://www.mpa.gov.sg/port-marine-ops/marine-services/charts-tidal-info-atons-and-hydrography/singaporean-nautical-charts",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "geo-dover",
+      "publisher": "NASA Earth Observatory",
+      "title": "The Strait of Dover",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-strait-of-dover-6840/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "geo-torres",
+      "publisher": "Torres Strait Regional Authority",
+      "title": "Annual Report 2019–20: Where we operate",
+      "url": "https://www.transparency.gov.au/publications/prime-minister-and-cabinet/torres-strait-regional-authority/torres-strait-regional-authority-annual-report-2019-20/section-three-operations/where-we-operate",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "geo-cook",
+      "publisher": "New Zealand Ministry for Culture and Heritage",
+      "title": "Cook Strait",
+      "url": "https://nzhistory.govt.nz/keyword/cook-strait",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "geo-bass",
+      "publisher": "Australian Bureau of Meteorology",
+      "title": "Wave Height Forecasts: Bass Strait",
+      "url": "https://www.bom.gov.au/marine/waves.shtml",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "geo-sunda",
+      "publisher": "Advances in Statistical Climatology, Meteorology and Oceanography",
+      "title": "Surface current forecasting in a narrow tropical strait (2026)",
+      "url": "https://ascmo.copernicus.org/articles/12/221/2026/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "geo-lombok",
+      "publisher": "NASA MODIS",
+      "title": "Internal waves from the Lombok Strait",
+      "url": "https://modis.gsfc.nasa.gov/gallery/individual.php?db_date=2016-11-05",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "geo-lombok-location",
+      "publisher": "Indonesia Ministry of Tourism",
+      "title": "Bali: Geography",
+      "url": "https://www.indonesia.travel/gb/en/destination/bali-nusa-tenggara/bali",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "geo-malacca-location",
+      "publisher": "PEMSEA / IMO",
+      "title": "Malacca Straits: Environmental Profile (1997)",
+      "url": "https://www.pemsea.org/sites/default/files/2023-12/mppeas-tr-1997-10.pdf",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "geo-taiwan",
+      "publisher": "Journal of Marine Systems",
+      "title": "Seasonal variation of the circulation in the Taiwan Strait",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924796302001306",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "geo-korea",
+      "publisher": "Korea Institute of Ocean Science and Technology",
+      "title": "A Study on Route Width Based on Maritime Traffic Volume Using AIS Big Data",
+      "url": "https://sciwatch.kiost.ac.kr/handle/2020.kiost/48143?mode=full",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "geo-davis",
+      "publisher": "Fisheries and Oceans Canada",
+      "title": "Davis Strait",
+      "url": "https://www.bio-iob.gc.ca/science/research-recherche/ocean/arctic-arctique/davis-en.php",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "id": "geo-mozambique",
+      "publisher": "NASA MODIS",
+      "title": "Sediments in the Mozambique Channel",
+      "url": "https://modis.gsfc.nasa.gov/gallery/individual.php?db_date=2020-04-11",
       "accessedAt": "2026-11-04"
     }
   ],
@@ -17185,6 +17353,1780 @@
       "summaryRu": "Япония. Регион: Восточная Азия. На карте выделен изучаемый контур.",
       "explanationRu": "Изогнутая цепь островов вытянута с юго-запада на северо-восток. Сравните четыре наиболее заметных крупных острова.",
       "scopeRu": "Показана территория по Natural Earth; очень мелкие острова и детали берегов обобщены."
+    }
+  ],
+  "waterways": [
+    {
+      "id": "gibraltar",
+      "kind": "waterway",
+      "nameRu": "Гибралтарский пролив",
+      "waterwayType": "strait",
+      "regionRu": "Между Европой и Африкой",
+      "connectsRu": [
+        "Атлантический океан",
+        "Средиземное море"
+      ],
+      "banksRu": [
+        "Европа",
+        "Африка"
+      ],
+      "summaryRu": "Гибралтарский пролив соединяет Атлантический океан со Средиземным морем и разделяет Европу и Африку.",
+      "explanationRu": "Запоминайте две разные связи: вода соединяется, а суша разделяется. Это естественный пролив, а не искусственный канал.",
+      "routeRu": [
+        "Атлантический океан",
+        "Гибралтарский пролив",
+        "Средиземное море"
+      ],
+      "sourceIds": [
+        "geo-gibraltar"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04",
+      "distinctionRu": "Знаменитые морские ворота между Европой и Африкой",
+      "map": {
+        "box": [
+          -7,
+          34.8,
+          -3.5,
+          37.2
+        ],
+        "trace": [
+          [
+            -6.2,
+            35.8
+          ],
+          [
+            -5.6,
+            35.96
+          ],
+          [
+            -5,
+            36
+          ]
+        ],
+        "labels": [
+          {
+            "text": "Испания",
+            "lon": -5.3,
+            "lat": 36.8,
+            "water": false
+          },
+          {
+            "text": "Марокко",
+            "lon": -5.3,
+            "lat": 35.15,
+            "water": false
+          },
+          {
+            "text": "Атлантический океан",
+            "lon": -6.5,
+            "lat": 36.25,
+            "water": true
+          },
+          {
+            "text": "Средиземное море",
+            "lon": -4.3,
+            "lat": 36.05,
+            "water": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "bosphorus",
+      "kind": "waterway",
+      "nameRu": "Босфор",
+      "waterwayType": "strait",
+      "regionRu": "Турция · между Европой и Азией",
+      "connectsRu": [
+        "Чёрное море",
+        "Мраморное море"
+      ],
+      "banksRu": [
+        "Европа",
+        "Азия"
+      ],
+      "summaryRu": "Босфор соединяет Чёрное море с Мраморным и разделяет европейскую и азиатскую части Турции.",
+      "explanationRu": "Босфор не выходит прямо в Средиземное море: дальше лежат Мраморное море, Дарданеллы и Эгейское море.",
+      "routeRu": [
+        "Чёрное море",
+        "Босфор",
+        "Мраморное море",
+        "Дарданеллы",
+        "Эгейское море"
+      ],
+      "sourceIds": [
+        "geo-turkish-seas",
+        "geo-turkish-straits"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04",
+      "distinctionRu": "Узкий проход через Стамбул между двумя частями света",
+      "map": {
+        "box": [
+          28.8,
+          40.85,
+          29.35,
+          41.35
+        ],
+        "trace": [
+          [
+            29.1,
+            41.24
+          ],
+          [
+            29.08,
+            41.17
+          ],
+          [
+            29.06,
+            41.14
+          ],
+          [
+            29.065,
+            41.09
+          ],
+          [
+            29.04,
+            41.055
+          ],
+          [
+            29.01,
+            41.025
+          ],
+          [
+            29,
+            41
+          ]
+        ],
+        "labels": [
+          {
+            "text": "Европа",
+            "lon": 28.93,
+            "lat": 41.15,
+            "water": false
+          },
+          {
+            "text": "Азия",
+            "lon": 29.22,
+            "lat": 41.09,
+            "water": false
+          },
+          {
+            "text": "Чёрное море",
+            "lon": 29.2,
+            "lat": 41.29,
+            "water": true
+          },
+          {
+            "text": "Мраморное море",
+            "lon": 29.0,
+            "lat": 40.93,
+            "water": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "dardanelles",
+      "kind": "waterway",
+      "nameRu": "Дарданеллы",
+      "waterwayType": "strait",
+      "regionRu": "Турция · между Европой и Азией",
+      "connectsRu": [
+        "Мраморное море",
+        "Эгейское море"
+      ],
+      "banksRu": [
+        "Европа",
+        "Азия"
+      ],
+      "summaryRu": "Дарданеллы соединяют Мраморное и Эгейское моря и разделяют европейскую и азиатскую части Турции.",
+      "explanationRu": "Не путайте два турецких пролива: Босфор находится со стороны Чёрного моря, Дарданеллы — со стороны Эгейского.",
+      "routeRu": [
+        "Чёрное море",
+        "Босфор",
+        "Мраморное море",
+        "Дарданеллы",
+        "Эгейское море"
+      ],
+      "sourceIds": [
+        "geo-turkish-seas",
+        "geo-turkish-straits"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04",
+      "distinctionRu": "Южное звено уникальной пары Турецких проливов",
+      "map": {
+        "box": [
+          25.9,
+          39.7,
+          27.3,
+          40.75
+        ],
+        "trace": [
+          [
+            26.15,
+            40
+          ],
+          [
+            26.4,
+            40.15
+          ],
+          [
+            26.55,
+            40.23
+          ],
+          [
+            26.72,
+            40.4
+          ]
+        ],
+        "labels": [
+          {
+            "text": "Европа",
+            "lon": 26.22,
+            "lat": 40.38,
+            "water": false
+          },
+          {
+            "text": "Азия",
+            "lon": 26.9,
+            "lat": 40.05,
+            "water": false
+          },
+          {
+            "text": "Мраморное море",
+            "lon": 26.95,
+            "lat": 40.62,
+            "water": true
+          },
+          {
+            "text": "Эгейское море",
+            "lon": 26.15,
+            "lat": 39.8,
+            "water": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "bering",
+      "kind": "waterway",
+      "nameRu": "Берингов пролив",
+      "waterwayType": "strait",
+      "regionRu": "Между Чукоткой и Аляской",
+      "connectsRu": [
+        "Берингово море",
+        "Чукотское море"
+      ],
+      "banksRu": [
+        "Азия",
+        "Северная Америка"
+      ],
+      "distinctionRu": "Единственная прямая связь Тихого и Северного Ледовитого океанов",
+      "summaryRu": "Берингов пролив: единственная прямая связь Тихого и Северного Ледовитого океанов.",
+      "explanationRu": "Непосредственно соединяет два моря: Берингово на юге и Чукотское на севере.",
+      "routeRu": [
+        "Берингово море",
+        "Берингов пролив",
+        "Чукотское море"
+      ],
+      "sourceIds": [
+        "geo-bering"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04",
+      "map": {
+        "box": [
+          185,
+          63,
+          195,
+          69
+        ],
+        "trace": [
+          [
+            190,
+            64.5
+          ],
+          [
+            191,
+            66.0
+          ],
+          [
+            191,
+            67.5
+          ]
+        ],
+        "labels": [
+          {
+            "text": "Чукотка",
+            "lon": 186.9,
+            "lat": 66.5,
+            "water": false
+          },
+          {
+            "text": "Аляска",
+            "lon": 194,
+            "lat": 65.5,
+            "water": false
+          },
+          {
+            "text": "Чукотское море",
+            "lon": 190,
+            "lat": 68.2,
+            "water": true
+          },
+          {
+            "text": "Берингово море",
+            "lon": 190.5,
+            "lat": 63.7,
+            "water": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "drake",
+      "kind": "waterway",
+      "nameRu": "Пролив Дрейка",
+      "waterwayType": "strait",
+      "regionRu": "Между Южной Америкой и Антарктидой",
+      "connectsRu": [
+        "Тихий океан",
+        "Атлантический океан"
+      ],
+      "banksRu": [
+        "Южная Америка",
+        "Антарктида"
+      ],
+      "distinctionRu": "Огромная ширина: около 850 км по исследованию BAS",
+      "summaryRu": "Пролив Дрейка: огромная ширина: около 850 км по исследованию BAS.",
+      "explanationRu": "Широкие океанские ворота лежат южнее Огненной Земли, а не внутри её архипелага.",
+      "routeRu": [
+        "Тихий океан",
+        "Пролив Дрейка",
+        "Атлантический океан"
+      ],
+      "sourceIds": [
+        "geo-drake"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04",
+      "map": {
+        "box": [
+          -78,
+          -65,
+          -50,
+          -51
+        ],
+        "trace": [
+          [
+            -74,
+            -57
+          ],
+          [
+            -64,
+            -58.7
+          ],
+          [
+            -54,
+            -59.5
+          ]
+        ],
+        "labels": [
+          {
+            "text": "Южная Америка",
+            "lon": -68,
+            "lat": -53,
+            "water": false
+          },
+          {
+            "text": "Антарктида",
+            "lon": -63,
+            "lat": -64,
+            "water": false
+          },
+          {
+            "text": "Тихий океан",
+            "lon": -74,
+            "lat": -60,
+            "water": true
+          },
+          {
+            "text": "Атлантический океан",
+            "lon": -55,
+            "lat": -55,
+            "water": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "magellan",
+      "kind": "waterway",
+      "nameRu": "Магелланов пролив",
+      "waterwayType": "strait",
+      "regionRu": "Южная оконечность Южной Америки",
+      "connectsRu": [
+        "Тихий океан",
+        "Атлантический океан"
+      ],
+      "banksRu": [
+        "Материк Южная Америка",
+        "Огненная Земля"
+      ],
+      "distinctionRu": "Знаменитый исторический путь между океанами",
+      "summaryRu": "Магелланов пролив: знаменитый исторический путь между океанами.",
+      "explanationRu": "Проходит между материком и Огненной Землёй. Не путайте с открытым проливом Дрейка южнее архипелага.",
+      "routeRu": [
+        "Тихий океан",
+        "Магелланов пролив",
+        "Атлантический океан"
+      ],
+      "sourceIds": [
+        "geo-magellan"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04",
+      "map": {
+        "box": [
+          -75.5,
+          -55.2,
+          -67,
+          -51.2
+        ],
+        "trace": [
+          [
+            -74,
+            -52.5
+          ],
+          [
+            -73.5,
+            -53
+          ],
+          [
+            -72.6,
+            -53.7
+          ],
+          [
+            -71.7,
+            -53.8
+          ],
+          [
+            -71,
+            -53.4
+          ],
+          [
+            -70.5,
+            -53
+          ],
+          [
+            -70.3,
+            -52.6
+          ],
+          [
+            -69.5,
+            -52.5
+          ],
+          [
+            -68.5,
+            -52.4
+          ]
+        ],
+        "labels": [
+          {
+            "text": "Материк",
+            "lon": -71,
+            "lat": -51.8,
+            "water": false
+          },
+          {
+            "text": "Огненная Земля",
+            "lon": -69.6,
+            "lat": -54.3,
+            "water": false
+          },
+          {
+            "text": "Тихий океан",
+            "lon": -74.4,
+            "lat": -54,
+            "water": true
+          },
+          {
+            "text": "Атлантический океан",
+            "lon": -67.9,
+            "lat": -52,
+            "water": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "malacca",
+      "kind": "waterway",
+      "nameRu": "Малаккский пролив",
+      "waterwayType": "strait",
+      "regionRu": "Юго-Восточная Азия",
+      "connectsRu": [
+        "Андаманское море",
+        "Сингапурский пролив"
+      ],
+      "banksRu": [
+        "Малаккский полуостров",
+        "Суматра"
+      ],
+      "distinctionRu": "Один из важнейших мировых морских узлов",
+      "summaryRu": "Малаккский пролив: один из важнейших мировых морских узлов.",
+      "explanationRu": "Соединяет Индийский и Тихий океаны в составе пути через Сингапурский пролив; непосредственные входы указаны отдельно.",
+      "routeRu": [
+        "Андаманское море",
+        "Малаккский пролив",
+        "Сингапурский пролив"
+      ],
+      "sourceIds": [
+        "geo-chokepoints",
+        "geo-malacca-location"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04",
+      "map": {
+        "box": [
+          96,
+          0,
+          105,
+          7
+        ],
+        "trace": [
+          [
+            97,
+            6
+          ],
+          [
+            99,
+            4.5
+          ],
+          [
+            100.6,
+            2.8
+          ],
+          [
+            102,
+            1.7
+          ],
+          [
+            103.3,
+            1.25
+          ]
+        ],
+        "labels": [
+          {
+            "text": "Малаккский п-ов",
+            "lon": 102,
+            "lat": 4.8,
+            "water": false
+          },
+          {
+            "text": "Суматра",
+            "lon": 99.5,
+            "lat": 1.8,
+            "water": false
+          },
+          {
+            "text": "Андаманское море",
+            "lon": 98,
+            "lat": 6.5,
+            "water": true
+          },
+          {
+            "text": "Сингапурский пролив",
+            "lon": 103.3,
+            "lat": 0.7,
+            "water": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "singapore",
+      "kind": "waterway",
+      "nameRu": "Сингапурский пролив",
+      "waterwayType": "strait",
+      "regionRu": "Сингапур и индонезийские острова",
+      "connectsRu": [
+        "Малаккский пролив",
+        "Южно-Китайское море"
+      ],
+      "banksRu": [
+        "Сингапур",
+        "Острова Риау"
+      ],
+      "distinctionRu": "Один из самых оживлённых судоходных проходов",
+      "summaryRu": "Сингапурский пролив: один из самых оживлённых судоходных проходов.",
+      "explanationRu": "Продолжает Малаккский пролив к Южно-Китайскому морю.",
+      "routeRu": [
+        "Малаккский пролив",
+        "Сингапурский пролив",
+        "Южно-Китайское море"
+      ],
+      "sourceIds": [
+        "geo-singapore",
+        "geo-singapore-charts"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04",
+      "map": {
+        "box": [
+          103.45,
+          0.8,
+          104.65,
+          1.65
+        ],
+        "trace": [
+          [
+            103.5,
+            1.2
+          ],
+          [
+            103.8,
+            1.18
+          ],
+          [
+            104.1,
+            1.2
+          ],
+          [
+            104.45,
+            1.3
+          ]
+        ],
+        "labels": [
+          {
+            "text": "Сингапур",
+            "lon": 103.85,
+            "lat": 1.43,
+            "water": false
+          },
+          {
+            "text": "Острова Риау",
+            "lon": 104.12,
+            "lat": 1.0,
+            "water": false
+          },
+          {
+            "text": "Малаккский пролив",
+            "lon": 103.65,
+            "lat": 1.56,
+            "water": true
+          },
+          {
+            "text": "Южно-Китайское море",
+            "lon": 104.4,
+            "lat": 1.5,
+            "water": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "hormuz",
+      "kind": "waterway",
+      "nameRu": "Ормузский пролив",
+      "waterwayType": "strait",
+      "regionRu": "Между Ираном и Оманом",
+      "connectsRu": [
+        "Персидский залив",
+        "Оманский залив"
+      ],
+      "banksRu": [
+        "Иран",
+        "Мусандам (Оман)"
+      ],
+      "distinctionRu": "Ключевой узел мирового нефтяного судоходства",
+      "summaryRu": "Ормузский пролив: ключевой узел мирового нефтяного судоходства.",
+      "explanationRu": "Это выход из Персидского залива, а не проход из Красного моря.",
+      "routeRu": [
+        "Персидский залив",
+        "Ормузский пролив",
+        "Оманский залив"
+      ],
+      "sourceIds": [
+        "geo-chokepoints"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04",
+      "map": {
+        "box": [
+          55.2,
+          25.3,
+          57.8,
+          27.6
+        ],
+        "trace": [
+          [
+            55.5,
+            26.65
+          ],
+          [
+            56.15,
+            26.7
+          ],
+          [
+            56.55,
+            26.7
+          ],
+          [
+            57.25,
+            25.7
+          ]
+        ],
+        "labels": [
+          {
+            "text": "Иран",
+            "lon": 56.8,
+            "lat": 27.25,
+            "water": false
+          },
+          {
+            "text": "Мусандам",
+            "lon": 56.25,
+            "lat": 25.95,
+            "water": false
+          },
+          {
+            "text": "Персидский залив",
+            "lon": 55.65,
+            "lat": 27,
+            "water": true
+          },
+          {
+            "text": "Оманский залив",
+            "lon": 57,
+            "lat": 25.6,
+            "water": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "bab-el-mandeb",
+      "kind": "waterway",
+      "nameRu": "Баб-эль-Мандебский пролив",
+      "waterwayType": "strait",
+      "regionRu": "Между Африкой и Аравийским полуостровом",
+      "connectsRu": [
+        "Красное море",
+        "Аденский залив"
+      ],
+      "banksRu": [
+        "Африка",
+        "Аравийский полуостров"
+      ],
+      "distinctionRu": "Южные ворота Красного моря",
+      "summaryRu": "Баб-эль-Мандебский пролив: южные ворота Красного моря.",
+      "explanationRu": "На севере Красного моря — Суэцкий канал, на юге — естественный Баб-эль-Мандебский пролив.",
+      "routeRu": [
+        "Красное море",
+        "Баб-эль-Мандебский пролив",
+        "Аденский залив"
+      ],
+      "sourceIds": [
+        "geo-chokepoints"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04",
+      "map": {
+        "box": [
+          41.7,
+          11.6,
+          44.5,
+          13.6
+        ],
+        "trace": [
+          [
+            42.6,
+            13.2
+          ],
+          [
+            43.15,
+            12.65
+          ],
+          [
+            43.7,
+            12.1
+          ]
+        ],
+        "labels": [
+          {
+            "text": "Африка",
+            "lon": 42.1,
+            "lat": 12.25,
+            "water": false
+          },
+          {
+            "text": "Аравийский п-ов",
+            "lon": 43.8,
+            "lat": 13.1,
+            "water": false
+          },
+          {
+            "text": "Красное море",
+            "lon": 42.5,
+            "lat": 13.4,
+            "water": true
+          },
+          {
+            "text": "Аденский залив",
+            "lon": 43.9,
+            "lat": 11.85,
+            "water": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "dover",
+      "kind": "waterway",
+      "nameRu": "Па-де-Кале (Дуврский пролив)",
+      "waterwayType": "strait",
+      "regionRu": "Между Великобританией и Францией",
+      "connectsRu": [
+        "Ла-Манш",
+        "Северное море"
+      ],
+      "banksRu": [
+        "Великобритания",
+        "Франция"
+      ],
+      "distinctionRu": "Самая узкая часть Ла-Манша",
+      "summaryRu": "Па-де-Кале (Дуврский пролив): самая узкая часть Ла-Манша.",
+      "explanationRu": "Не весь Ла-Манш: Па-де-Кале — его узкое северо-восточное окончание.",
+      "routeRu": [
+        "Ла-Манш",
+        "Па-де-Кале (Дуврский пролив)",
+        "Северное море"
+      ],
+      "sourceIds": [
+        "geo-dover"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04",
+      "map": {
+        "box": [
+          -0.5,
+          49.9,
+          3,
+          52
+        ],
+        "trace": [
+          [
+            0.5,
+            50.6
+          ],
+          [
+            1.4,
+            51.02
+          ],
+          [
+            2.4,
+            51.65
+          ]
+        ],
+        "labels": [
+          {
+            "text": "Великобритания",
+            "lon": 0.4,
+            "lat": 51.5,
+            "water": false
+          },
+          {
+            "text": "Франция",
+            "lon": 2.15,
+            "lat": 50.4,
+            "water": false
+          },
+          {
+            "text": "Ла-Манш",
+            "lon": 0.35,
+            "lat": 50.1,
+            "water": true
+          },
+          {
+            "text": "Северное море",
+            "lon": 2.5,
+            "lat": 51.9,
+            "water": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "torres",
+      "kind": "waterway",
+      "nameRu": "Торресов пролив",
+      "waterwayType": "strait",
+      "regionRu": "Между Австралией и Новой Гвинеей",
+      "connectsRu": [
+        "Арафурское море",
+        "Коралловое море"
+      ],
+      "banksRu": [
+        "Австралия",
+        "Новая Гвинея"
+      ],
+      "distinctionRu": "Необычный проход среди сотен островов и рифов",
+      "summaryRu": "Торресов пролив: необычный проход среди сотен островов и рифов.",
+      "explanationRu": "Коралловое море лежит к востоку, Арафурское — к западу.",
+      "routeRu": [
+        "Арафурское море",
+        "Торресов пролив",
+        "Коралловое море"
+      ],
+      "sourceIds": [
+        "geo-torres"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04",
+      "map": {
+        "box": [
+          140,
+          -12.5,
+          145,
+          -8
+        ],
+        "trace": [
+          [
+            140.5,
+            -10.5
+          ],
+          [
+            142,
+            -10.5
+          ],
+          [
+            144.5,
+            -10.2
+          ]
+        ],
+        "labels": [
+          {
+            "text": "Австралия",
+            "lon": 142.8,
+            "lat": -12,
+            "water": false
+          },
+          {
+            "text": "Новая Гвинея",
+            "lon": 143,
+            "lat": -8.65,
+            "water": false
+          },
+          {
+            "text": "Арафурское море",
+            "lon": 140.95,
+            "lat": -11.5,
+            "water": true
+          },
+          {
+            "text": "Коралловое море",
+            "lon": 144,
+            "lat": -11.5,
+            "water": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "cook",
+      "kind": "waterway",
+      "nameRu": "Пролив Кука",
+      "waterwayType": "strait",
+      "regionRu": "Новая Зеландия",
+      "connectsRu": [
+        "Тасманово море",
+        "Тихий океан"
+      ],
+      "banksRu": [
+        "Северный остров",
+        "Южный остров"
+      ],
+      "distinctionRu": "Знаменит сильными и непредсказуемыми течениями",
+      "summaryRu": "Пролив Кука: знаменит сильными и непредсказуемыми течениями.",
+      "explanationRu": "Разделяет два главных острова Новой Зеландии, а не Австралию и Тасманию.",
+      "routeRu": [
+        "Тасманово море",
+        "Пролив Кука",
+        "Тихий океан"
+      ],
+      "sourceIds": [
+        "geo-cook"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04",
+      "map": {
+        "box": [
+          172,
+          -42.7,
+          176.5,
+          -39.5
+        ],
+        "trace": [
+          [
+            173.3,
+            -40.65
+          ],
+          [
+            174.3,
+            -41
+          ],
+          [
+            174.6,
+            -41.4
+          ],
+          [
+            175.5,
+            -41.9
+          ]
+        ],
+        "labels": [
+          {
+            "text": "Северный остров",
+            "lon": 175.5,
+            "lat": -40.3,
+            "water": false
+          },
+          {
+            "text": "Южный остров",
+            "lon": 173.1,
+            "lat": -42,
+            "water": false
+          },
+          {
+            "text": "Тасманово море",
+            "lon": 173.2,
+            "lat": -39.95,
+            "water": true
+          },
+          {
+            "text": "Тихий океан",
+            "lon": 175.5,
+            "lat": -42.4,
+            "water": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "bass",
+      "kind": "waterway",
+      "nameRu": "Бассов пролив",
+      "waterwayType": "strait",
+      "regionRu": "Южная Австралия",
+      "connectsRu": [
+        "Большой Австралийский залив",
+        "Тасманово море"
+      ],
+      "banksRu": [
+        "Материковая Австралия",
+        "Тасмания"
+      ],
+      "distinctionRu": "Штормовой проход между Австралией и Тасманией",
+      "summaryRu": "Бассов пролив: штормовой проход между Австралией и Тасманией.",
+      "explanationRu": "Известен сочетанием больших волн и сильных приливных течений.",
+      "routeRu": [
+        "Большой Австралийский залив",
+        "Бассов пролив",
+        "Тасманово море"
+      ],
+      "sourceIds": [
+        "geo-bass"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04",
+      "map": {
+        "box": [
+          142,
+          -42,
+          150,
+          -37
+        ],
+        "trace": [
+          [
+            142.5,
+            -39.4
+          ],
+          [
+            145,
+            -39.5
+          ],
+          [
+            148.9,
+            -39.7
+          ]
+        ],
+        "labels": [
+          {
+            "text": "Австралия",
+            "lon": 145.7,
+            "lat": -37.7,
+            "water": false
+          },
+          {
+            "text": "Тасмания",
+            "lon": 146.4,
+            "lat": -41.3,
+            "water": false
+          },
+          {
+            "text": "Большой Австралийский залив",
+            "lon": 143,
+            "lat": -40.6,
+            "water": true
+          },
+          {
+            "text": "Тасманово море",
+            "lon": 148.6,
+            "lat": -41,
+            "water": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "sunda",
+      "kind": "waterway",
+      "nameRu": "Зондский пролив",
+      "waterwayType": "strait",
+      "regionRu": "Индонезия",
+      "connectsRu": [
+        "Яванское море",
+        "Индийский океан"
+      ],
+      "banksRu": [
+        "Суматра",
+        "Ява"
+      ],
+      "distinctionRu": "Проход между двумя крупнейшими островами Индонезии",
+      "summaryRu": "Зондский пролив: проход между двумя крупнейшими островами Индонезии.",
+      "explanationRu": "Ищите между Суматрой и Явой; Ломбокский пролив лежит гораздо восточнее.",
+      "routeRu": [
+        "Яванское море",
+        "Зондский пролив",
+        "Индийский океан"
+      ],
+      "sourceIds": [
+        "geo-sunda"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04",
+      "map": {
+        "box": [
+          104,
+          -7.6,
+          106.7,
+          -4.8
+        ],
+        "trace": [
+          [
+            104.5,
+            -7.1
+          ],
+          [
+            105.3,
+            -6.4
+          ],
+          [
+            105.8,
+            -5.8
+          ],
+          [
+            106.1,
+            -5.3
+          ]
+        ],
+        "labels": [
+          {
+            "text": "Суматра",
+            "lon": 104.7,
+            "lat": -5.6,
+            "water": false
+          },
+          {
+            "text": "Ява",
+            "lon": 106,
+            "lat": -6.85,
+            "water": false
+          },
+          {
+            "text": "Яванское море",
+            "lon": 106.05,
+            "lat": -5.0,
+            "water": true
+          },
+          {
+            "text": "Индийский океан",
+            "lon": 104.8,
+            "lat": -7.35,
+            "water": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "lombok",
+      "kind": "waterway",
+      "nameRu": "Ломбокский пролив",
+      "waterwayType": "strait",
+      "regionRu": "Индонезия",
+      "connectsRu": [
+        "Балийское море",
+        "Индийский океан"
+      ],
+      "banksRu": [
+        "Бали",
+        "Ломбок"
+      ],
+      "distinctionRu": "Знаменит мощным водообменом и внутренними волнами",
+      "summaryRu": "Ломбокский пролив: знаменит мощным водообменом и внутренними волнами.",
+      "explanationRu": "Вода тихоокеанского происхождения проходит между Бали и Ломбоком к Индийскому океану.",
+      "routeRu": [
+        "Балийское море",
+        "Ломбокский пролив",
+        "Индийский океан"
+      ],
+      "sourceIds": [
+        "geo-lombok",
+        "geo-lombok-location"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04",
+      "map": {
+        "box": [
+          114.8,
+          -9.3,
+          116.8,
+          -7.5
+        ],
+        "trace": [
+          [
+            115.65,
+            -7.8
+          ],
+          [
+            115.75,
+            -8.25
+          ],
+          [
+            115.78,
+            -8.65
+          ],
+          [
+            115.6,
+            -9.0
+          ]
+        ],
+        "labels": [
+          {
+            "text": "Бали",
+            "lon": 115.15,
+            "lat": -8.35,
+            "water": false
+          },
+          {
+            "text": "Ломбок",
+            "lon": 116.35,
+            "lat": -8.5,
+            "water": false
+          },
+          {
+            "text": "Балийское море",
+            "lon": 115.65,
+            "lat": -7.65,
+            "water": true
+          },
+          {
+            "text": "Индийский океан",
+            "lon": 115.65,
+            "lat": -9.15,
+            "water": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "taiwan",
+      "kind": "waterway",
+      "nameRu": "Тайваньский пролив",
+      "waterwayType": "strait",
+      "regionRu": "Восточная Азия",
+      "connectsRu": [
+        "Южно-Китайское море",
+        "Восточно-Китайское море"
+      ],
+      "banksRu": [
+        "Материковое побережье Китая",
+        "Тайвань"
+      ],
+      "distinctionRu": "Крупный проход между морями Восточной Азии",
+      "summaryRu": "Тайваньский пролив: крупный проход между морями Восточной Азии.",
+      "explanationRu": "Отделяет Тайвань от материкового побережья; названия морей у входов различаются.",
+      "routeRu": [
+        "Южно-Китайское море",
+        "Тайваньский пролив",
+        "Восточно-Китайское море"
+      ],
+      "sourceIds": [
+        "geo-taiwan"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04",
+      "map": {
+        "box": [
+          117,
+          21,
+          123,
+          26
+        ],
+        "trace": [
+          [
+            118.5,
+            21.5
+          ],
+          [
+            119.3,
+            23
+          ],
+          [
+            120,
+            24.5
+          ],
+          [
+            121,
+            25.4
+          ]
+        ],
+        "labels": [
+          {
+            "text": "Материковый Китай",
+            "lon": 118.6,
+            "lat": 25,
+            "water": false
+          },
+          {
+            "text": "Тайвань",
+            "lon": 121.2,
+            "lat": 23.7,
+            "water": false
+          },
+          {
+            "text": "Южно-Китайское море",
+            "lon": 118.5,
+            "lat": 21.3,
+            "water": true
+          },
+          {
+            "text": "Восточно-Китайское море",
+            "lon": 121.4,
+            "lat": 25.7,
+            "water": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "korea",
+      "kind": "waterway",
+      "nameRu": "Корейский пролив",
+      "waterwayType": "strait",
+      "regionRu": "Между Корейским полуостровом и Японией",
+      "connectsRu": [
+        "Восточно-Китайское море",
+        "Японское море"
+      ],
+      "banksRu": [
+        "Корейский полуостров",
+        "Японские острова"
+      ],
+      "distinctionRu": "Оживлённые морские ворота Японского моря",
+      "summaryRu": "Корейский пролив: оживлённые морские ворота Японского моря.",
+      "explanationRu": "В международных источниках Японское море также называется East Sea; это один и тот же водоём.",
+      "routeRu": [
+        "Восточно-Китайское море",
+        "Корейский пролив",
+        "Японское море"
+      ],
+      "sourceIds": [
+        "geo-korea"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04",
+      "map": {
+        "box": [
+          127,
+          32,
+          132,
+          36
+        ],
+        "trace": [
+          [
+            127.7,
+            32.6
+          ],
+          [
+            129,
+            33.5
+          ],
+          [
+            130.3,
+            34.6
+          ]
+        ],
+        "labels": [
+          {
+            "text": "Корея",
+            "lon": 128.2,
+            "lat": 35.3,
+            "water": false
+          },
+          {
+            "text": "Япония",
+            "lon": 130.7,
+            "lat": 33.1,
+            "water": false
+          },
+          {
+            "text": "Восточно-Китайское море",
+            "lon": 128.3,
+            "lat": 32.2,
+            "water": true
+          },
+          {
+            "text": "Японское море",
+            "lon": 131,
+            "lat": 35.5,
+            "water": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "davis",
+      "kind": "waterway",
+      "nameRu": "Девисов пролив",
+      "waterwayType": "strait",
+      "regionRu": "Между Баффиновой Землёй и Гренландией",
+      "connectsRu": [
+        "Море Баффина",
+        "Море Лабрадор"
+      ],
+      "banksRu": [
+        "Баффинова Земля",
+        "Гренландия"
+      ],
+      "distinctionRu": "Один из крупных путей обмена арктических и атлантических вод",
+      "summaryRu": "Девисов пролив: один из крупных путей обмена арктических и атлантических вод.",
+      "explanationRu": "Море Баффина находится севернее, море Лабрадор — южнее.",
+      "routeRu": [
+        "Море Баффина",
+        "Девисов пролив",
+        "Море Лабрадор"
+      ],
+      "sourceIds": [
+        "geo-davis"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04",
+      "map": {
+        "box": [
+          -67,
+          60,
+          -47,
+          72
+        ],
+        "trace": [
+          [
+            -59,
+            70.4
+          ],
+          [
+            -58,
+            67
+          ],
+          [
+            -57,
+            63
+          ]
+        ],
+        "labels": [
+          {
+            "text": "Баффинова Земля",
+            "lon": -64,
+            "lat": 67.5,
+            "water": false
+          },
+          {
+            "text": "Гренландия",
+            "lon": -50,
+            "lat": 67.5,
+            "water": false
+          },
+          {
+            "text": "Море Баффина",
+            "lon": -59,
+            "lat": 71.4,
+            "water": true
+          },
+          {
+            "text": "Море Лабрадор",
+            "lon": -57,
+            "lat": 60.8,
+            "water": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "mozambique",
+      "kind": "waterway",
+      "nameRu": "Мозамбикский пролив",
+      "waterwayType": "strait",
+      "regionRu": "Между Африкой и Мадагаскаром",
+      "connectsRu": [
+        "Индийский океан · северный вход",
+        "Индийский океан · южный вход"
+      ],
+      "banksRu": [
+        "Африка",
+        "Мадагаскар"
+      ],
+      "distinctionRu": "Протяжённый океанский проход вдоль Мадагаскара",
+      "summaryRu": "Мозамбикский пролив: протяжённый океанский проход вдоль Мадагаскара.",
+      "explanationRu": "Оба входа ведут в один Индийский океан. Пролив не обязан соединять водоёмы с разными именами.",
+      "routeRu": [
+        "Индийский океан · северный вход",
+        "Мозамбикский пролив",
+        "Индийский океан · южный вход"
+      ],
+      "sourceIds": [
+        "geo-mozambique"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04",
+      "map": {
+        "box": [
+          32,
+          -27,
+          51,
+          -10
+        ],
+        "trace": [
+          [
+            44,
+            -11.5
+          ],
+          [
+            42,
+            -16
+          ],
+          [
+            39.5,
+            -21
+          ],
+          [
+            38,
+            -25.5
+          ]
+        ],
+        "labels": [
+          {
+            "text": "Африка",
+            "lon": 34,
+            "lat": -18.5,
+            "water": false
+          },
+          {
+            "text": "Мадагаскар",
+            "lon": 47,
+            "lat": -20,
+            "water": false
+          },
+          {
+            "text": "Северный вход",
+            "lon": 46,
+            "lat": -11,
+            "water": true
+          },
+          {
+            "text": "Южный вход",
+            "lon": 39,
+            "lat": -26,
+            "water": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "suez",
+      "kind": "waterway",
+      "nameRu": "Суэцкий канал",
+      "waterwayType": "canal",
+      "regionRu": "Египет",
+      "connectsRu": [
+        "Средиземное море",
+        "Красное море"
+      ],
+      "banksRu": [],
+      "summaryRu": "Суэцкий канал — искусственный водный путь в Египте, соединяющий Средиземное и Красное моря.",
+      "explanationRu": "Канал позволяет переходить между этими морями. В отличие от пролива, канал проложен человеком; схема показывает связь водоёмов, а не форму берегов.",
+      "routeRu": [
+        "Средиземное море",
+        "Суэцкий канал",
+        "Красное море"
+      ],
+      "sourceIds": [
+        "geo-suez"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04",
+      "distinctionRu": "Искусственный путь между Средиземным и Красным морями",
+      "map": {
+        "box": [
+          31.7,
+          29.6,
+          33.2,
+          31.7
+        ],
+        "trace": [
+          [
+            32.3,
+            31.27
+          ],
+          [
+            32.31,
+            30.85
+          ],
+          [
+            32.35,
+            30.6
+          ],
+          [
+            32.5,
+            30.35
+          ],
+          [
+            32.58,
+            29.95
+          ]
+        ],
+        "labels": [
+          {
+            "text": "Египет",
+            "lon": 31.98,
+            "lat": 30.5,
+            "water": false
+          },
+          {
+            "text": "Синай",
+            "lon": 32.95,
+            "lat": 30.55,
+            "water": false
+          },
+          {
+            "text": "Средиземное море",
+            "lon": 32.35,
+            "lat": 31.5,
+            "water": true
+          },
+          {
+            "text": "Красное море",
+            "lon": 32.7,
+            "lat": 29.7,
+            "water": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "panama",
+      "kind": "waterway",
+      "nameRu": "Панамский канал",
+      "waterwayType": "canal",
+      "regionRu": "Панама",
+      "connectsRu": [
+        "Карибское море",
+        "Тихий океан"
+      ],
+      "banksRu": [],
+      "summaryRu": "Панамский канал — искусственный водный путь между Карибским морем на атлантической стороне и Тихим океаном.",
+      "explanationRu": "Канал связывает Атлантический и Тихий океаны. Для точного узнавания входов запомните: на атлантической стороне находится Карибское море.",
+      "routeRu": [
+        "Карибское море",
+        "Панамский канал",
+        "Тихий океан"
+      ],
+      "sourceIds": [
+        "geo-panama",
+        "geo-panama-entrances"
+      ],
+      "status": "published",
+      "verifiedAt": "2026-11-04",
+      "distinctionRu": "Искусственный путь через Панамский перешеек",
+      "map": {
+        "box": [
+          -80.4,
+          8.3,
+          -79.1,
+          9.8
+        ],
+        "trace": [
+          [
+            -79.92,
+            9.38
+          ],
+          [
+            -79.92,
+            9.27
+          ],
+          [
+            -79.78,
+            9.16
+          ],
+          [
+            -79.69,
+            9.1
+          ],
+          [
+            -79.56,
+            8.92
+          ]
+        ],
+        "labels": [
+          {
+            "text": "Панама",
+            "lon": -80.05,
+            "lat": 8.85,
+            "water": false
+          },
+          {
+            "text": "Перешеек",
+            "lon": -79.45,
+            "lat": 9.25,
+            "water": false
+          },
+          {
+            "text": "Карибское море",
+            "lon": -79.8,
+            "lat": 9.6,
+            "water": true
+          },
+          {
+            "text": "Тихий океан",
+            "lon": -79.55,
+            "lat": 8.5,
+            "water": true
+          }
+        ]
+      }
     }
   ],
   "marineSource": {

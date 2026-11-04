@@ -9,7 +9,9 @@ import { MediaFrame } from '../../components/MediaFrame';
 import { CardNavigation } from '../../components/CardNavigation';
 import { flagMeaningHistory } from './flagCopy';
 import { travelCards } from '../../data/travelCards';
-import { borderRepository } from '../../data/borders';
+import { extremesRepository, recordsTopic, recordCatalogPath } from '../../data/extremes';
+import { geographyNamesRepository } from '../../data/geographyNames';
+import { RecordMark } from './RecordPages';
 import { capitalRepository } from '../../data/capitals';
 import { TravelImage } from './TravelPages';
 import { urbanPlaces } from '../../data/urbanPlaces';
@@ -42,7 +44,7 @@ export function LearnHome() {
   const { records } = useProgress();
   const latest = [...records].sort((a, b) => b.lastAttemptAt.localeCompare(a.lastAttemptAt))[0];
   const continueEntry = latest && contentRepository.byId(latest.contentId);
-  const continueBorder = latest && borderRepository.question(latest.contentId);
+  const continueRecord = latest && extremesRepository.question(latest.contentId);
   const continueCapital = latest && capitalRepository.question(latest.contentId);
   const continueGeographySpec = latest && geographyRepository.question(latest.contentId);
   const continueGeography = continueGeographySpec && geographyRepository.byId(continueGeographySpec.cardId);
@@ -57,13 +59,17 @@ export function LearnHome() {
         <div className="category-body"><span className="eyebrow">{objectCount(entries.length)}</span><h2>{category.title}</h2><p>{category.description}</p><span className="category-teaser">{category.teaser}</span></div>
       </Link>;
     })}
-    {(['outline'] as const).map(kind => <Link className="category-card category-geography" to={`/learn/${geographyTopics[kind].path}`} key={kind}>
+    {(['outline', 'waterway'] as const).map(kind => <Link className="category-card category-geography" to={`/learn/${geographyTopics[kind].path}`} key={kind}>
       <div className="category-visual"><MediaFrame media={geographyRepository.media(geographyRepository.byKind(kind)[0], kind !== 'outline')} alt=""/></div>
       <div className="category-body"><span className="eyebrow">Новая тема · {objectCount(geographyRepository.byKind(kind).length)}</span><h2>{geographyTopics[kind].title}</h2><p>{geographyTopics[kind].description}</p></div>
     </Link>)}
-    <Link className="category-card category-border" to="/learn/borders">
-      <div className="category-visual"><MediaFrame media={borderRepository.map('switzerland', true)} alt="" /></div>
-      <div className="category-body"><span className="eyebrow">{objectCount(borderRepository.allFacts().length)}</span><h2>Границы</h2><p>Изучайте соседей стран по картам.</p><span className="category-teaser">{borderRepository.allQuestions().length} вопросов для тренировки</span></div>
+    <Link className="category-card category-record" to={recordCatalogPath()}>
+      <div className="category-visual"><RecordMark card={extremesRepository.byKind('lake')[0]}/></div>
+      <div className="category-body"><span className="eyebrow">{objectCount(extremesRepository.all().length)}</span><h2>{recordsTopic.title}</h2><p>{recordsTopic.description}</p></div>
+    </Link>
+    <Link className="category-card category-record" to="/learn/names">
+      <div className="category-visual"><RecordMark card={geographyNamesRepository.all()[3]}/></div>
+      <div className="category-body"><span className="eyebrow">Эксперимент · Карточек: {geographyNamesRepository.all().length}</span><h2>Так называемые</h2><p>Цвета, числа, звуки и запахи в географических названиях.</p></div>
     </Link>
     <Link className="category-card category-landmark" to="/learn/capitals">
       <div className="category-visual"><div className="capital-category-mark" aria-hidden="true"><span>Страна</span><strong>→</strong><span>Столица</span></div></div>
@@ -81,10 +87,10 @@ export function LearnHome() {
       <div className="category-visual"><TravelImage card={travelCards.byKind('architecture')[0]}/></div>
       <div className="category-body"><span className="eyebrow">{objectCount(travelCards.byKind('architecture').length)}</span><h2>Архитектура</h2><p>Известные здания и сооружения.</p></div>
     </Link></div>
-    {(continueEntry || continueBorder || continueCapital || continueGeography || reviewCount > 0) && <div className="home-secondary">
+    {(continueEntry || continueRecord || continueCapital || continueGeography || reviewCount > 0) && <div className="home-secondary">
       {continueGeography && <section><h2>Продолжить изучение</h2><Link className="inline-card" to={`/geography/${continueGeography.id}`}>{continueGeography.nameRu}<span>Открыть карточку →</span></Link></section>}
       {continueEntry && <section><h2>Продолжить изучение</h2><Link className="inline-card" to={`/item/${continueEntry.id}`}>{continueEntry.nameRu}<span>Открыть карточку →</span></Link></section>}
-      {continueBorder && <section><h2>Продолжить изучение</h2><Link className="inline-card" to={`/border/${continueBorder.countryId}`}>{borderRepository.countryName(continueBorder.countryId)}<span>Открыть карту →</span></Link></section>}
+      {continueRecord && <section><h2>Продолжить изучение</h2><Link className="inline-card" to={`/record/${continueRecord.id}`}>{continueRecord.nameRu}<span>Открыть карточку →</span></Link></section>}
       {continueCapital && <section><h2>Продолжить изучение</h2><Link className="inline-card" to={`/capital/${continueCapital.cardId}`}>{capitalRepository.byId(continueCapital.cardId)?.cityNameRu}<span>Открыть карточку →</span></Link></section>}
       {reviewCount > 0 && <section><h2>Повторить ошибки</h2><Link className="inline-card" to="/mistakes">{objectCount(reviewCount)} для повторения<span>Перейти →</span></Link></section>}
     </div>}

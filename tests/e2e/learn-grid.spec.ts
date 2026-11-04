@@ -8,8 +8,8 @@ test('Learn categories form one responsive grid', async ({ page }) => {
     const grid = page.locator('.category-grid');
     await expect(grid).toHaveCount(1);
     const cards = grid.locator(':scope > .category-card');
-    await expect(cards).toHaveCount(9);
-    const boxes = await Promise.all(Array.from({ length: 9 }, (_, index) => cards.nth(index).boundingBox()));
+    await expect(cards).toHaveCount(11);
+    const boxes = await Promise.all(Array.from({ length: 11 }, (_, index) => cards.nth(index).boundingBox()));
     expect(boxes.every(Boolean)).toBe(true);
     const positions = boxes.map(box => box!);
 
